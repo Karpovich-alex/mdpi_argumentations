@@ -34,19 +34,14 @@ def save_annotated_text_html(path_to_ann, path_to_html, legend=None):
     file.write(f"\tTotal classes num: {len(unique_anns)}")
     file.write("</div><hr><div>")
     for ann, text in zip(anns, texts):
-        file.write(colors_text(text+" ", ann))
+        file.write(colors_text(text + " ", ann))
 
     file.write("</div></html>")
     file.close()
 
 
 if __name__ == "__main__":
-    # save_annotated_text_html(
-    #     "./data/admsci5030125_boyarkin.tsv",
-    #     "./admsci5030125_boyarkin.html",
-    #     legend=["Обычный текст", "Аргумент автора", "Аргумент рецензента"])
-
     save_annotated_text_html(
-        r"C:\Users\Karpo\PycharmProjects\diplom\mdpi_argumentations\data\admsci5030125_boyarkin.tsv",
-        "../assets/admsci5030125_boyarkin.html",
+        "./data/admsci5030125_boyarkin.tsv",
+        "./admsci5030125_boyarkin.html",
         legend=["Обычный текст", "Аргумент автора", "Аргумент рецензента"])

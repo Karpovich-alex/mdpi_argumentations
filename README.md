@@ -29,5 +29,7 @@ Stores all sentences from the review. If sentence is not a review, then all colu
 
 You can use save_annotated_text_html func from [./src/utils.py](./src/utils.py)
 
-Example of result represented in [./assets/admsci5030125_boyarkin.html](./assets/admsci5030125_boyarkin.html)
+Example of result represented in [./assets/admsci5030125_boyarkin.html](./assets/admsci5030125_boyarkin.html):
+
+
 ![visualization_example.png](./assets/visualization_example.png)
