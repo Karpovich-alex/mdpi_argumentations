@@ -1,10 +1,10 @@
 side	opponent	round	number	attacks	ann	text
 					0	Author Response
-Author	Reviewer_1	2	2	6	2	We have added all the new references suggested by Referee 2 on page 3 of the new manuscript.
-Author	Reviewer_1	2	2	6	2	These includethe ones mentioned in our reply to Referee 1’s point 4 above, and all also the references: Corney98,Mekhov09,leroux10,Mekhov12,Niedenzu13,Lee14.
-Author	Reviewer_1	2	4	4	2	Concerning the referee’s other point, about the suitability of this system to measure weak forces, we first note that the use of Bloch oscillations without a cavity is proving to be an excellent way to measure gravity (e.g.
-Author	Reviewer_1	2	4	4	2	the experiments by G.M.
-Author	Reviewer_1	2	4	4	2	Tino’s group).
+Author	Reviewer_1	2	2	6	1	We have added all the new references suggested by Referee 2 on page 3 of the new manuscript.
+Author	Reviewer_1	2	2	6	1	These includethe ones mentioned in our reply to Referee 1’s point 4 above, and all also the references: Corney98,Mekhov09,leroux10,Mekhov12,Niedenzu13,Lee14.
+Author	Reviewer_1	2	4	4	1	Concerning the referee’s other point, about the suitability of this system to measure weak forces, we first note that the use of Bloch oscillations without a cavity is proving to be an excellent way to measure gravity (e.g.
+Author	Reviewer_1	2	4	4	1	the experiments by G.M.
+Author	Reviewer_1	2	4	4	1	Tino’s group).
 					0	The sensitivity of their measurements, after many years of development, are only one order of magnitude above our estimated sensitivity, and their measurements take one hour whereas ours should take one second which means it might have applications in rather different situations (e.g.
 					0	local gravity mapping while flying).
 					0	Our work is very much still in progress and this paper will not, we hope, be our final word on this subject.
@@ -35,10 +35,7 @@ Reviewer_2	Author	1	3	0	2	(3) The authors claim there should be no backaction of
 Reviewer_2	Author	1	4	0	2	Also the BEC will lead to an effective change of the cavity length and lattice constant, which should renormalize the wavelength and thus om_recoil.
 Author	Reviewer_2	2	8	3	1	Actually, we do not claim that oscillation frequencies in general will be unaffected by the backaction.
 Author	Reviewer_2	2	8	3	1	Rather, we claim that one particular frequency, the Bloch frequency, will be unaffected.
-					0	The Horak paper shows that Bloch energies (
-Reviewer_1	Author	1	6	0	2	i.
-					0	e.
-					0	eigenmodes for a particle in a periodic potential…not to be confused with the Bloch oscillation frequency) will be changed by the backaction.
+					0	The Horak paper shows that Bloch energies (i. e. eigenmodes for a particle in a periodic potential…not to be confused with the Bloch oscillation frequency) will be changed by the backaction.
 					0	This is because the presence of atoms in the cavity shifts the cavity resonance and hence the depth of the intracavity lattice: the Bloch energies are dependent on the potential depth.
 					0	This change in potential depth due to backaction is fully included in our treatment.
 					0	However, a change in the depth of a periodic potential does not change the Bloch frequency because this depends on the lattice’s spatial period, not the depth.
@@ -51,18 +48,14 @@ Author	Reviewer_2	2	9	4	1	We consider it in section 6, on p17 and show that the 
 Author	Reviewer_2	2	9	4	1	This is to be distinguished from the effective change in the cavity length which, due to the resonance effect, is substantial and is precisely what lies behind the amplitude modulation of the lattice.
 Reviewer_2	Author	1	5	0	2	(4) the cavity is an open quantum system.
 Reviewer_2	Author	1	5	0	2	This has two consequences:
-Reviewer_2	Author	1	6	0	2	(a) any measurement of the output field will generate backaction onto the condensate (Mekhov, J.
-Author	Reviewer_2	2	10	6	1	Phys.
-Reviewer_2	Author	1	6	0	2	B: Atomic, Molecular and Optical Physics, 45(10), 102001).
+Reviewer_2	Author	1	6	0	2	(a) any measurement of the output field will generate backaction onto the condensate (Mekhov, J. Phys. B: Atomic, Molecular and Optical Physics, 45(10), 102001).
 Reviewer_2	Author	1	6	0	2	This will generate extra noise, but might also help as it reduces atom number uncertainty in the cavity.
 Reviewer_2	Author	1	7	0	2	(b) There will be heating limiting the available measurement time.
 					0	Inparticular for the blue detuned case not only the average momentum but also the momentum spread will grow.
 					0	as the time scale can be faster than om_recoil, it could limit the measurement time to a fairly short period.
 					0	Some rough estimate on the time scales should be added.
-Author	Reviewer_2	2	10	6	1	Yes we agree that there will be extra noise due to the open nature of the cavity, and we already refer to this on p3 of the Introduction: “The disadvantage of working in a cavity is that quantum measurement backaction, in the form of random fluctuations in the cavity field due to photons spontaneously leaking out of the cavity, heats up the cold atoms and limits the coherence time of the measurement \cite{Ven13}.” where the cited paper is one of ours [Prasanna Venkatesh, B.; O’Dell, D. H. J.; Bloch oscillations of cold atoms in a cavity: Effects of quantum noise.
-					0	Phys.
-Author	Reviewer_2	2	10	6	9	Rev.
-Author	Reviewer_2	2	10	6	1	A 2013, 88, 013848] where we directlycalculated the heating effect for Bloch oscillating atoms in a cavity within the Bogoliubov approximation.
+Author	Reviewer_2	2	10	6	1	Yes we agree that there will be extra noise due to the open nature of the cavity, and we already refer to this on p3 of the Introduction: “The disadvantage of working in a cavity is that quantum measurement backaction, in the form of random fluctuations in the cavity field due to photons spontaneously leaking out of the cavity, heats up the cold atoms and limits the coherence time of the measurement \cite{Ven13}.” where the cited paper is one of ours [Prasanna Venkatesh, B.; O’Dell, D. H. J.; Bloch oscillations of cold atoms in a cavity: Effects of quantum noise. Phys.
+Author	Reviewer_2	2	10	6	1	Rev. A 2013, 88, 013848] where we directlycalculated the heating effect for Bloch oscillating atoms in a cavity within the Bogoliubov approximation.
 					0	Following the referee’s suggestion we have added the reference to Mekhov’s paper.
 Author	Reviewer_2	2	11	7	1	The coherence time for the many-particle Bloch oscillating state is in fact very hard to calculate (mainly because even the coherent part is time-dependent rather than stationary).
 					0	It can, however, be estimated and so we have added in the following sentences on p3:“\textcolor{red}{The coherence time is particularly hard to calculate in the Bloch oscillating case \cite{Ven13} due to the time dependence introduced by the Bloch oscillations, especially in the presence of many particles, but it can be roughly estimated to be $\tau=\tau_{\mathrm{sp}}/(1+C)$ \cite{Ven09} at cavity resonance, where$\tau_{\mathrm{sp}}^{-1}=2 \gamma \vert \alpha \vert^2 \Omega_{0}^2/\Delta_{a}^2$ is the spontaneous emission rate at an antinode.
@@ -82,21 +75,7 @@ Reviewer_1	Author	1	3	0	2	What is the role of excitations to higher Bloch bands?
 Reviewer_1	Author	1	4	0	2	The role of sensing may in the end be less important and could be downplayed a bit in the manuscript.
 Reviewer_1	Author	1	5	0	2	There are several other theoretical studies of the continuous quantum measurement of many-atom/cavity systems and condensate systems more generally that could be cited.
 Reviewer_1	Author	1	5	0	2	A condenste-cavity optomechanical study with continuous observation http://dx.doi.org/10.1103/PhysRevA.90.023628
-Reviewer_1	Author	1	6	0	2	Other examples of many-atom-cavity continuous observation papers: W. Niedenzu, S. Schütz, H. Habibian, G. Morigi, and H. Ritsch, Phys.
-					0	Rev.
-Reviewer_1	Author	1	6	0	2	A 88, 033830 (2013).
-					0	I.
-Reviewer_1	Author	1	6	0	2	B. Mekhov and H. Ritsch, Phys.
-					0	Rev.
-Reviewer_1	Author	1	6	0	4	Lett.
-Reviewer_1	Author	1	6	0	2	102, 020403 (2009).
-Reviewer_1	Author	1	6	0	2	J. F. Corney and G. J. Milburn, Phys.
-					0	Rev.
-Reviewer_1	Author	1	6	0	2	A 58, 2399 (1998).
-Reviewer_1	Author	1	6	0	2	I. D. Leroux, M. H. Schleier-Smith, and V. Vuletić, Phys.
-					0	Rev.
-					0	Lett.
-Reviewer_1	Author	1	6	0	2	104, 073602 (2010).
+Reviewer_1	Author	1	6	0	2	Other examples of many-atom-cavity continuous observation papers: W. Niedenzu, S. Schütz, H. Habibian, G. Morigi, and H. Ritsch, Phys. Rev.  88, 033830 (2013). I. B. Mekhov and H. Ritsch, Phys. Rev. Lett. 102, 020403 (2009). J. F. Corney and G. J. Milburn, Phys. Rev. A 58, 2399 (1998). I. D. Leroux, M. H. Schleier-Smith, and V. Vuletić, Phys. Rev. Lett. 104, 073602 (2010).
 					0	There are other papers that link BECs, sensing and continuous quantum measurement process (in the absence of a cavity) M. Saba, T. A. Pasquini, C. Sanner, Y. Shin, W. Ketterle, and D. E. Pritchard, Science 307, 1945 (2005).
 					0	M. D. Lee, S. Rist, and J. Ruostekoski, New J. Phys.
 					0	14, 073057 (2012).

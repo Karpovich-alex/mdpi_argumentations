@@ -8,24 +8,24 @@ Author	Reviewer_2	2	2	1	1	The mentioned reference is focused on an analytical me
 Author	Reviewer_2	2	2	1	1	As compared to Ref.
 Author	Reviewer_2	2	2	1	1	[19] which focuses on concepts and demonstrations, this work mainly focuses on analytical modeling of one design concept and provides finite element and experimental validations.
 Author	Reviewer_2	2	2	1	1	The following sentences have been added
-Author	Reviewer_3	2	11	11	5	"at the beginning of the last paragraph of Introduction: ""In this work, based on the design concept of improving the tensile stiffness of LET joints in Ref."
-Author	Reviewer_3	2	11	11	6	[19], this paper proposed a DL-LET joint by fixing a layer of flexible H18 aluminum foil a LET joint.
-Author	Reviewer_3	2	11	11	6	"A theoretical model is derived for the DL-LET joint and verified by FEA and experimental results."""
+Author	Reviewer_3	2	11	11	1	"at the beginning of the last paragraph of Introduction: ""In this work, based on the design concept of improving the tensile stiffness of LET joints in Ref."
+Author	Reviewer_3	2	11	11	1	[19], this paper proposed a DL-LET joint by fixing a layer of flexible H18 aluminum foil a LET joint.
+Author	Reviewer_3	2	11	11	1	"A theoretical model is derived for the DL-LET joint and verified by FEA and experimental results."""
 Author	Reviewer_2	2	3	2	1	As to the second comment, Ref.
 Author	Reviewer_2	2	3	2	1	"[34] has been new added in the reference list and the following sentence has been added at the end of the second paragraph of Introduction: ""Ref."
 Author	Reviewer_2	2	3	2	1	[34] made a robot using double-layer LEMs, which is driven by magnetic force.
 Author	Reviewer_2	2	3	2	1	"This paper further discussed how to adjust the motion by changing different parameters of the mechanism""."
 Author	Reviewer_2	2	3	2	1	"The following sentence has been added at the end of Conclusion: ""For future work we will develop variable stiffness techniques of this joint, and explore its application in a robot arm considering both kinetostatic and transient behaviors."""
 					0	Author Response Thanks a lot for your encouragement and suggestion.
-Author	Reviewer_3	2	6	3	3	We have rewritten the conclusions and abstract, and added additional keywords.
-Author	Reviewer_3	2	11	11	5	"The following sentences have been added in the first paragraph of Introduction to mention the base paper and the related work (more references have been added): ""Finding suitable compliant joints [7] can be a key step in designing LEMs."
-Author	Reviewer_3	2	11	11	5	Jacobsen et al.
-Author	Reviewer_3	2	11	11	5	"[8] first proposed the design concept of utilizing torsional deflection to obtain out-of-plane motions from planar structures, leading to a new group of compliant joints for LEMs called Lamina Emergent Torsional (LET) joints""."
+Author	Reviewer_3	2	6	3	1	We have rewritten the conclusions and abstract, and added additional keywords.
+Author	Reviewer_3	2	11	11	1	"The following sentences have been added in the first paragraph of Introduction to mention the base paper and the related work (more references have been added): ""Finding suitable compliant joints [7] can be a key step in designing LEMs."
+Author	Reviewer_3	2	11	11	1	Jacobsen et al.
+Author	Reviewer_3	2	11	11	1	"[8] first proposed the design concept of utilizing torsional deflection to obtain out-of-plane motions from planar structures, leading to a new group of compliant joints for LEMs called Lamina Emergent Torsional (LET) joints""."
 					0	"At the beginning of the last paragraph of Introduction: ""In this work, based on the design concept of improving the tensile stiffness of LET joints in Ref."
 					0	[19], this paper proposed a DL-LET joint by fixing a layer of flexible H18 aluminum foil a LET joint.
 					0	"A theoretical model is derived for the DL-LET joint and verified by FEA and experimental results."""
-Author	Reviewer_3	2	13	7	2	The references have been reformatted according to standard journal format.
-Author	Reviewer_3	2	18	11	5	We have added more relevant references in this version.
+Author	Reviewer_3	2	13	7	1	The references have been reformatted according to standard journal format.
+Author	Reviewer_3	2	18	11	1	We have added more relevant references in this version.
 					0	Author Response We thanks the reviewer for the encouragement and valuable comments.
 					0	1.
 Author	Reviewer_4	2	19	2	1	The contribution of this work with respect to the relevant work is further described in Introduction (as marked in the manuscript).
@@ -96,5 +96,5 @@ Reviewer_4	Author	1	6	0	2	Please add more details regarding the obtained results
 Reviewer_4	Author	1	7	0	2	Add the both the advantages and the disadvantages of the proposed method.
 Reviewer_4	Author	1	7	0	2	In the proposed manuscript only the advantages are presented.
 Reviewer_1	Author	3	1	1	2	Thank you for your explanation.
-Reviewer_4	Author	3	1	24	12	The authors answered to all my concern in the second version of the paper.
-Reviewer_4	Author	3	1	24	12	In conclusion the paper deserves to be acceped as contribution in Applied Science journal.
+Reviewer_4	Author	3	1	24	2	The authors answered to all my concern in the second version of the paper.
+Reviewer_4	Author	3	1	24	2	In conclusion the paper deserves to be acceped as contribution in Applied Science journal.
