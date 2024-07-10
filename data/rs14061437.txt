@@ -1,0 +1,129 @@
+Author Response We thank you for your constructive and detailed comments.
+It has improved the readability, clarity, and quality of our manuscript.
+The point-by-point response can be found from attachment, please see attachment.
+If you have any information, please don’t hesitate to let us know.
+Thank you very much again.
+Author Response File: Author Response.docx
+Author Response We thank you for your constructive and detailed comments.
+It has improved the readability, clarity, and quality of our manuscript.
+The point-by-point response can be found from attachment.
+If you have any information, please don’t hesitate to let us know.
+Thank you very much again.
+Author Response File: Author Response.docx
+Dear authors, thank you for this interesting and well written study.
+I have a few minor points (marked in the attached PDF) and two general points, which I like you to address.
+The general points are: What is the main difference (except of the terrestrial data over China) to other combined GFMs, such as XGM2016 or XGM2019?
+What is the main methodological difference and advantage of your method?
+Please comment on that question quantitatifely and qualitatively.
+Your method for combining the satellte-only GFM with EGM2008 (sec.
+3.3) seems quite simple for me and probably not optimal.
+Why do you think, that a sharp cut-off SH degree between the satellite-only GFM and EGM2008 is better than a rigorous combination by applying some sophisticated weighting approach?
+Could you please comment on the effects you introduce by applying such a sharp truncation combination approach.
+Kind regards Reviewer Comments for author File: Comments.pdf
+Remote Sens.
+2022, 14, x. https://doi.org/10.3390/xxxxx www.mdpi.com/journal/remotesensing Article 1 The Refined Gravity Field Models for Height System Unifica- 2 tion in China 3 Panpan Zhang1,2, Zhicai Li3,4,*, Lifeng Bao1,2, Peng Zhang4, Yongshang Wang4, Lin Wu1,2 and Yong Wang1,2 4 1 State Key Laboratory of Geodesy and Earth's Dynamics, Innovation Academy for Precision Measurement 5 Science and Technology, Chinese Academy of Sciences, Wuhan 430077, China; 6 zhangpanpan@asch.whigg.ac.cn; baolifeng@asch.whigg.ac.cn; linwu@apm.ac.cn; ywang@whigg.ac.cn 7 2 University of the Chinese Academy of Sciences, Beijing 100049, China.
+8 3 China University of Mining and Technology-Beijing, Beijing 100083, China.
+Email: zcli@cumtb.edu.cn 9 4 National Geomatics Center of China, Beijing 100830, China; zhangpeng@ngcc.cn; ys@ngcc.cn 10 * Correspondence: zcli@cumtb.edu.cn;Tel.
+: +86-0278-6752107 11 Abstract: A unified height datum is essential for global geographic information resource construc- 12 tion, ecological environment protection and scientific research.
+The goal of this paper is to derive 13 the geopotential value for the Chinese height datum (CNHD) in order to realize the height datum 14 unification in China.
+The estimation of height datum geopotential value usually depends on high- 15 precision global gravity field models (GFMs).
+The satellite gravity missions of the Gravity Recovery 16 and Climate Experiment (GRACE) and Gravity field and steady-state Ocean Circulation Exploration 17 (GOCE) provide high-accuracy medium-long wavelength gravity field spectrum, but satellite-only 18 GFMs are limited to medium-long wavelengths which will involve the omission errors.
+To compen- 19 sate for the omission errors in satellite-only GFMs, a spectral expansion approach is used to obtain 20 the refined gravity field models using the EGM2008 (Earth Gravitational Model 2008) and residual 21 terrain model (RTM) technique.
+The refined GFMs are evaluated by using high-quality GNSS/lev- 22 elling data, the results show that the quasi-geoid accuracy of the refined DIR_R6_EGM2008_RTM 23 model in China has the optimal accuracy, and compared with the EGM2008 model and the DIR_R6 24 model, this refined model in China is improved by 9.6 cm and 21.8 cm, and the improvement ranges 25 are 35.7% and 55.8%, respectively.
+Finally, the geopotential value of the Chinese height datum is 26 estimated to be equal to 62636853.29 m2s-2 with respect to the global reference level defined by 27 W0=62636853.4 m2s-2 by utilizing the refined DIR_R6_EGM2008_RTM model and 1908 high-qual- 28 ity GNSS/levelling datapoints.
+29 Keywords: Chinese height datum; GRACE/GOCE; residual terrain model; spectral expansion ap- 30 proach; height datum geopotential 31 32 1.
+Introduction 33 With the emergence of Global Navigation Satellite System (GNSS), users can obtain 34 consistent ellipsoidal height at global scale.
+The ellipsoid height relative to a given geo- 35 centric ellipsoid can be obtained quickly and accurately by using GNSS.
+However, the 36 ellipsoidal height is not related to the Earth's gravity field.
+The height related to the Earth's 37 gravity field usually refers to the orthometric or normal height, which is strictly based on 38 the geopotential number CP ( 0 LVD P P C W W   , where 0 LVD W is the geopotential value for 39 the local vertical datum, and WP indicates the gravity potential for point P).
+The local ver- 40 tical datum refers to the geoid (or quasi-geoid), which is assumed to be coincident with 41 the local mean sea level (MSL).
+Importantly, even though all local height datums are re- 42 lated to the MSL, the vertical offsets between them may be up to 2 m at global scale [1].
+43 This is due to the fact that the MSL presents geographical and time-dependent variations, 44 Citation: Lastname, F.; Lastname, F.; Lastname, F. Title.
+Remote Sens.
+2022, 14, x. https://doi.org/10.3390/xxxxx Academic Editor: Firstname Last- name Received: date Accepted: date Published: date Publisher’s Note: MDPI stays neu- tral with regard to jurisdictional claims in published maps and institu- tional affiliations.
+Copyright:
+Response to Reviewer 1 Comments: We thank you for your constructive and detailed comments.
+It has improved the readability, clarity, and quality of our manuscript.
+If you have any information, please don’t hesitate to let us know.
+Thank you very much again.
+Point 1: Page 2, Line 60.
+Change “,” to “.” Thank you.
+Done.
+Please refer to page 2, Line 60.
+Point 2: Page 2, Line 62.
+Change “to use of high-accuracy” to “to use high-accuracy” Thank you.
+Done.
+Please refer to page 2, Line 63.
+Point 3: Page 11, Line 356.
+Change “not reasonable” to “not a reasonable” Thank you.
+Done.
+Please refer to page 11, Line 359.
+Point 4: Page 16, Line 488.
+Considering the STD you should rather not give the second digit after the comma.
+Thank you for your advice.
+We have rewritten the mean values.
+Please refer to page 16, Line 496.
+Point 5: What is the main difference (except of the terrestrial data over China) to other combined GFMs, such as XGM2016 or XGM2019?
+What is the main methodological difference and advantage of your method?
+Please comment on that question quantitatifely and qualitatively.
+Thank you for your good question and advice.
+The XGM2016 model is parameterized as a spherical harmonic series expansion resolved to degree and order (d/o) 719, which is the maximum resolution supported by the 15′ terrestrial gravity grid and a satellite-only model GOCO05s.
+For XGM2016, a signiﬁcant focus is the optimal combination of the new terrestrial data with the latest satellite gravity information.
+The combination is based on the rigorous solution of a full normal equation system up to the maximum d/o 719.
+The calculation of the XGM2019 spheroidal harmonic model coefficients up to d/o 719 consists of a weighted least squares adjustment of GOCO06s with the primary 15′ NGA ground gravity dataset.
+The XGM2016 and XGM2019 models used the 15′ NGA ground gravity dataset, however, the refined GFMs in this study are obtained by combining the GRACE/GOCE-based GGMs and EGM2008 model, The gravity field information of 5′ terrestrial gravity data in EGM2008 is fully utilized.
+In addition, to consider the influence of higher frequency gravity field signals caused by topography, the RTM is utilized to further compensate for the omission errors in the refined GGMs.
+In this study, the combination of the satellite-only GGM with the EGM2008 is based on a pure complementation of the spherical harmonic coefﬁcients at a speciﬁc degree, the high-quality GNSS/levelling-based height anomalies are used to check the refined GGMs for obtaining the optimal combination degrees.
+Thus, the refined GGMs provide better local quasi-geoid results.
+We added comparisons for XGM2016 or XGM2019 models in Table 4, we can find that the refined GFMs outperform XGM2016 and XGM2019 as well, the major improvement of the refined GFMs can be attributed to the GOCE data and topography signals.
+We have added descriptions and contents in the revised manuscript.
+Please refer to page 14, Line 435-457.
+Table 4.
+Statistics of the height anomaly differences between GNSS/levelling and six higher-degree GFMs.
+Unit: (m).
+Models Max Min Mean STD EIGEN-6C4 1.007 -1.696 0.048 0.187 GECO 1.579 -1.703 0.041 0.223 SGG-UGM-1 1.003 -1.671 0.052 0.194 SGG-UGM-2 1.003 -1.704 0.051 0.191 XGM2016 1.016 -1.757 -0.020 0.214 XGM2019 1.705 -1.737 0.081 0.213 Point 6: Your method for combining the satellite-only GFM with EGM2008 (sec.
+3.3) seems quite simple for me and probably not optimal.
+Why do you think, that a sharp cut-off SH degree between the satellite-only GFM and EGM2008 is better than a rigorous combination by applying some sophisticated weighting approach?
+Could you please comment on the effects you introduce by applying such a sharp truncation combination approach.
+Thank you for your good question and advice.
+The combination of the satellite-only GGM with the EGM2008 in this study is based on a pure complementation of the spherical harmonic coefﬁcients at a speciﬁc degree in this paper, which is different from rigorous combination that is done on the basis of the normal equations and co-variance by a least-squares.
+The purpose of this pure combination can provide better local quasi-geoid results, it is said that it can obtain the characteristics of spatial "localization" for quasi-geoid.
+The high-quality GNSS/levelling-based height anomalies are used to check the refined GGMs for obtaining the optimal combination degrees.
+Thus, the refined GGMs provide better local quasi-geoid results.
+Combining the satellite-only GFM with EGM2008 by applying some sophisticated weighting approach usually combines the maximum degree and order of the satellite-only GFM and the EGM2008.
+Because the degree errors of the satellite-only GFM increase with the increase in degree and order, the noise starts to dominate the signals at high degree and order.
+The noise of satellite-only GFM maybe introduce by sophisticated weighting approach.
+In addition, the rigorous combination based on the sophisticated weighting approach usually needs the full error variance-covariance matrix of the spherical harmonic coefﬁcients, but, the full error variance-covariance matrix of the spherical harmonic coefﬁcients might generally not be available.
+Although the obtained results are already quite promising, it can be expected that the refined GFMs provide a guidance for determining the quasi-geoid or the geopotential value of the vertical datum in China.
+However, the combination of the satellite-only GGM with the EGM2008 in this study is based on a pure complementation of the spherical harmonic coefﬁcients at a speciﬁc degree.
+However, such a procedure might cause a spectral gap between both models.
+In the next step, the rigorous combination or a smooth transition (such as: using hanning window) will be considered to derived the refined GGMs.
+We have added descriptions and contents in the revised manuscript.
+Please refer to page 17, Line 544-545.
+2
+Response to Reviewer 2 Comments: We thank you for your constructive and detailed comments.
+It has improved the readability, clarity, and quality of our manuscript.
+If you have any information, please don’t hesitate to let us know.
+Thank you very much again.
+Point 1: Generally it is a good paper and it was interesting to me.
+However, comparing with the conclusions (I mean, the computed potential value) the paper is a bit too long.
+I can accept it, because it is a good explanatory text, however some partially offtopic or superfluous parts (e.g.
+point 2.1.2 (keeping the Table 1 only), the unified topo data in lines 181-191, the „textbook equations” of the gravity of a prism in page 7 and the textbook adjustment equations in page 8).
+It is rather an editorial question.
+The paper is good and acceptable without them, too.
+Thank you for your comment.
+The unified topo data and Equation are used to compute RTM quasi-geoid height.
+We have added some expressions about the using of unified topo data and equations, which makes us easily misunderstand about the calculation process in the text.
+Please refer to page 12, Line 402.
+Point 2: Line 259 refers to a x as a ’parameter’ in Eq 12, I suggest to use ’vector’ or ’parameter vector’ instead.
+Thank you.
+Done.
+Please refer to page 8, Line 259.
+Point 2: As a structural suggestion, considerable part of the Results are rather belong to Discussion (thus making the better balance between these two chapters, in extent and in content, too): I suggest point 3.3 (or maybe also 3.2) to Discussion – as they are discussing the already shown results.
+Conclusion – it shouldn’t be a summary as should be recompiled.
+The second part of the 3rd paragraph and the 4th paragraph are enough, completed by the estimated error of the main conclusive potantial value.
+Thank you for your constructive suggestion.
+We have moved the discussion part in results to Discussion.
+The conclusions are recompiled and added according to your suggestions.
+Please refer to Line 498-550 and Line 551-589.
+2

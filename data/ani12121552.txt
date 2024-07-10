@@ -1,0 +1,199 @@
+Author Response 1.There are some errors in this manuscript (L99, L103 et .
+).
+The authors apologise for this mistake, we forgot to change the caption's text to plain text.
+Errors are corrected.
+2. why did you test the level of DAO and D-lactate?
+DAO and D-lactate were tested as a biomarker for intestinal integrity.
+The authors have included the two parameters at the end of the introduction.
+Sentence rephased: Furthermore, these studies were not designed to study effects on growth and feed intake.
+In the current dose-response study, the aim was to determine the optimal dietary level of Zn (supplemented as zinc oxide; ZnO) for pigs the first three weeks PW and the endpoints were feed intake, growth performance, serum Zn status, faecal scores, blood biomarkers of intestinal integrity (D-lactate and diamine oxidase activity [DAO]) and faecal microbial composition.
+3.
+16S sequence may be better method for the Faecal microbial analysis The authors agree with the reviewer, we have also used this method, but we determined it would be too much to include it in this paper and would be better to write an article only about the results of the 16S sequence.
+Author Response Line 24: write d in full Rewritten to: The relative risk of diarrhoea increased up to 60% at day 7 and 14 if serum Zn status dropped below the weaning level (767 µg/L) and it required approximately 1,100 mg Zn/kg (166 mg Zn/day) during week 1 to maintain the weaning serum Zn status.
+Line 47: a few linking phrases should be added to the study in pig farming The authors believe it is unnecessary, as it explained in the previous sentences.
+Line 48: write NRC in full Rephrased to: According to National Research Council (NRC), a Zn intake of 26.6-46.8 mg/day for piglets in the weight interval between 5 to 11 kg is recommended [18].
+Line 54: authors wrote June 2022, is the date correct?
+The legislation state that no later than June 26th 2022 will dietary zinc level above 150 mg/kg diet be illegal.
+The authors do not believe it is important to include the precise date.
+Line 85: write a sentence in which explain the scope of the work The scope is, to the authors' belief, explained in the introduction in the sentence about the aim.
+We have rephrased to: In the current dose-response study, the aim was to determine the optimal dietary level of Zn (supplemented as zinc oxide; ZnO) for pigs the first three weeks PW and the endpoints were feed intake, growth performance, serum Zn status, faecal scores, blood biomarkers of intestinal integrity (D-lactate and diamine oxidase activity [DAO]) and faecal microbial composition.
+Line 88: explain why you choose this breed Danish Landrace × Yorkshire × Duroc) This breed is the most common breed in Denmark, which is why it was choosen.
+Line 97: add the statistical account for which sampling was chosen Sentence rephrased to: The experiment was conducted in eight blocks repeated over time with 24 pigs/block (4 pigs/treatment/block) in block 1-7 and 12 pigs/block (2 pigs/treatment/block) in block 8.
+But the authors do not quite understand what the reviewer means.
+Line 99: what does it mean?
+Error!
+Reference source not found.
+The authors apologise for this mistake, we forgot to change the caption's text to plain text.
+Errors are corrected.
+Line 103: add in the text the reference to Table 1 Reference to table 1 in the text is made.
+Line 103: what does it mean?
+Error!
+Reference source not found.
+The authors apologise for this mistake, we forgot to change the caption's text to plain text.
+Errors are corrected.
+Line 104: add the different groups of percentage of ZN It is common practice in this field of research to use mg/kg or ppm as a unit.
+Line 113: write ADFI in full and ADFI into brackets Sentence rephrased to: To calculate average daily gain (ADG) and average daily feed intake (ADFI), pigs and feed residues were weighed daily from day 0 to day 14 and again on day 21.
+Line 116: describe all four categories Sentence rephrased to: The faecal score was assessed daily throughout the experiment based on a four-category scale where faecal score 1 and 2 represented normal faeces (firm and shaped to soft and shaped) and score 3 and 4 represented diarrhoea (loose to watery faeces) [32].
+Line 168: add the catalogue number To the authors' knowledge, it is not common practice to include the catalogue number for this.
+Line 171-173-175-182-187: what does it mean?
+Error!
+Reference source not found.
+The authors apologise for this mistake, we forgot to change the caption's text to plain text.
+Errors are corrected.
+Line 173: add in the main text the reference to the table 2 Reference to table 2 in the text is made.
+Line 223: write what happened to the pigs who did not complete the study Sentence rephrased to: One hundred seventy-nine pigs completed the experiment, as one pig was euthanized as it lost more than 15% of its initial weight.
+Line 228-233- 234-242- 243-244: what does it mean?
+Error!
+Reference source not found.
+The authors apologise for this mistake, we forgot to change the caption's text to plain text.
+Errors are corrected.
+Line 252: add in the main text the reference to Figure 1 Reference to figure 1 in the text is made.
+Line 261: what does it mean?
+Error!
+Reference source not found.
+The authors apologise for this mistake, we forgot to change the caption's text to plain text.
+Errors are corrected.
+Line 268: add in the main text the reference to table3 Reference to table 3 in the text is made.
+Line 279-284-287-290: what does it mean?
+Error!
+Reference source not found.
+The authors apologise for this mistake, we forgot to change the caption's text to plain text.
+Errors are corrected.
+Line 279: add in the main text the reference to table 4 Reference to table 4 in the text is made.
+Line 291: add in the main text the reference to figure 3 The figure caption for this figure is wrong, it is figure 2.
+Reference to figure 2 in the text is made.
+Line 297-303-306-308-311 what does it mean?
+Error!
+Reference source not found.
+The authors apologise for this mistake, we forgot to change the caption's text to plain text.
+Errors are corrected.
+Line 312: add in the main text the reference to figure 4 The figure caption for this figure is wrong, it is figure 3.
+Reference to figure 3 in the text is made.
+Line 321: add in the main text the reference to table 5 Reference to table 5 in the text is made.
+Line 321-327-330-332: what does it mean?
+Error!
+Reference source not found.
+The authors apologise for this mistake, we forgot to change the caption's text to plain text.
+Errors are corrected.
+Line 335: add in the main text the reference to table 6 and figure 5 Reference to table 6 in the text is made.
+The figure caption for this figure is wrong, it is figure 4.
+Reference to figure 4 in the text is made.
+Line 404: authors wrote June 2022, is the date correct?
+The legislation state that no later than June 26th 2022 will dietary zinc level above 150 mg/kg diet be illegal.
+The authors do not believe it is important to include the precise date.
+Line 446: Has this correlation been seen in animals or only in humans?
+To the authors' knowledge, this has only been seen in humans.
+In the main text there is no figure 2, we pass from figure 1 to figure 3 The authors apologise for this error, it is corrected.
+In the supplementary materials there is no figure S2, that is present in the main text The authors apologise for this error, it is corrected.
+Author Response The Authors assessed the effect of varying doses of ZnO on rearing results (ADG, ADFI) of post weaning piglets, Zn serum status, the probability of diarrhea, and the number of Lactobacilli and E. coli bacteria in feces.
+Based on the obtained results, the Authors postulate an increase in the level of Zn in the diet for weaned piglets up to 1400 mg / kg of feed to cover their requirements for this ingredient.
+It expands knowledge about the needs of weaned piglets regarding the need for Zn.
+However, increasing Zn in feed is associated with the risk of excretion of Zn in feces and its negative effects on the environment.
+It is a pity that the Authors did not investigate this.
+The authors agree with the reviewer that it would have been good to have had this parameter, but due to the financial support, this parameter was determined not to be measured.
+The topic is up to date.
+Restrictions on the use of Zn are being introduced, but we must remember to cover the needs of young pigs for this element.
+The conclusions are correct.
+The paper is suitable for publication in the journal Animals after filling in the gaps regarding the reference sources, page 10 does not contain text (?).
+The authors apologies for this error, the blank page have been deleted.
+Author Response Please see attachment, response to each comment made by using the reply function in Adobe Acrobat.
+Author Response File: Author Response.pdf
+The authors studied the optimal level of dietary zinc for newly 2 weaned pigs.
+These data have important meaning for the use of ZnO in the future.
+some questions need to be addressed: 1.There are some errors in this manuscript (L99, L103 et .
+).
+2. why did you test the level of DAO and D-lactate?
+3.
+16S sequence may be better method for the Faecal microbial analysis
+Line 24: write d in full Line 47: a few linking phrases should be added to the study in pig farming Line 48: write NRC in full Line 54: authors wrote June 2022, is the date correct?
+Line 85: write a sentence in which explain the scope of the work Line 88: explain why you choose this breed Danish Landrace × Yorkshire × Duroc) Line 97: add the statistical account for which sampling was chosen Line 99: what does it mean?
+Error!
+Reference source not found.
+Line 103: add in the text the reference to Table 1 Line 103: what does it mean?
+Error!
+Reference source not found.
+Line 104: add the different groups of percentage of ZN Line 113: write ADFI in full and ADFI into brackets Line 116: describe all four categories Line 168: add the catalogue number Line 171-173-175-182-187: what does it mean?
+Error!
+Reference source not found.
+Line 173: add in the main text the reference to the table 2 Line 223: write what happened to the pigs who did not complete the study Line 228-233- 234-242- 243-244: what does it mean?
+Error!
+Reference source not found.
+Line 252: add in the main text the reference to Figure 1 Line 261: what does it mean?
+Error!
+Reference source not found.
+Line 268: add in the main text the reference to table3 Line 279-284-287-290: what does it mean?
+Error!
+Reference source not found.
+Line 279: add in the main text the reference to table 4 Line 291: add in the main text the reference to figure 3 Line 297-303-306-308-311 what does it mean?
+Error!
+Reference source not found.
+Line 312: add in the main text the reference to figure 4 Line 321: add in the main text the reference to table 5 Line 321-327-330-332: what does it mean?
+Error!
+Reference source not found.
+Line 335: add in the main text the reference to table 6 and figure 5 Line 404: authors wrote June 2022, is the date correct?
+Line 446: Has this correlation been seen in animals or only in humans?
+In the main text there is no figure 2, we pass from figure 1 to figure 3 In the supplementary materials there is no figure S2, that is present in the main text
+The Authors assessed the effect of varying doses of ZnO on rearing results (ADG, ADFI) of post weaning piglets, Zn serum status, the probability of diarrhea, and the number of Lactobacilli and E. coli bacteria in feces.
+Based on the obtained results, the Authors postulate an increase in the level of Zn in the diet for weaned piglets up to 1400 mg / kg of feed to cover their requirements for this ingredient.
+It expands knowledge about the needs of weaned piglets regarding the need for Zn.
+However, increasing Zn in feed is associated with the risk of excretion of Zn in feces and its negative effects on the environment.
+It is a pity that the Authors did not investigate this.
+The topic is up to date.
+Restrictions on the use of Zn are being introduced, but we must remember to cover the needs of young pigs for this element.
+The conclusions are correct.
+The paper is suitable for publication in the journal Animals after filling in the gaps regarding the reference sources, page 10 does not contain text (?
+).
+Dear authors, This is an interesting and very relevant study.
+Please, pay particular attention to comments, suggestions, and questions in the discussion section.
+Thank you Comments for author File: Comments.pdf
+Dear authors, Thank you for revising and taking into consideration this reviewer's comments and suggestions.
+There is only one minor issue to be solved.
+The authors indicated that the following sentence at L438 of the lastest version of the manuscript was removed but it was not: "but it could be due to a high hygiene 438 level in the experimental barn".
+Please, remove it was claimed.
+Thank you
+Animals 2022, 12, x. https://doi.org/10.3390/xxxxx www.mdpi.com/journal/animals Article 1 Determination of the optimal level of dietary zinc for newly 2 weaned pigs: A dose-response study 3 Sally V. Hansen 1, Natalja P. Nørskov 1, Jan V. Nørgaard 1, Tofuko A. Woyengo 1, Hanne D. Poulsen 1 and Tina S. 4 Nielsen 1,* 5 1 Department of Animal Science, Aarhus University, Blichers Allé 20, DK-8830 Tjele, Denmark 6 * Correspondence: tinas.nielsen@anis.au.dk 7 Simple Summary: Piglets have a very low feed intake immediately after weaning.
+We hypothesis 8 that the EU legislated maximum dietary zinc concentration (150 mg zinc/kg diet) will increase the 9 risk of zinc deficiency after weaning.
+Zinc deficiency includes symptoms such as impaired growth 10 and increased risk of diarrhoea.
+However, high dietary zinc concentration has an antimicrobial ef- 11 fect on the bacteria and increases the risk of antimicrobial resistance.
+The findings of this study 12 showed the growth followed a quadratic pattern (turning point at approximately 1400 mg zinc per 13 kg diet).
+The risk of diarrhoea increased up to 60% for pigs that had a blood zinc concentration that 14 decreased after weaning.
+It required up to 1,121 mg zinc per kg diet to maintain the blood zinc 15 concentration after weaning.
+There was no evidence for an antimicrobial effect when feeding pigs a 16 diet with up to 1601 mg zinc per kg diet.
+17 Abstract: One hundred and eighty individually housed piglets with initial body weight 7.63 ± 0.98 18 kg (28 days of age) were fed a diet containing either 153, 493, 1,022, 1,601, 2,052 or 2,407 mg Zn/kg 19 (added Zn as ZnO) from day 0-21 post weaning, to determine the optimal level of Zn for weaned 20 piglets.
+Body weight, feed intake and faecal scores were recorded and blood and faecal samples 21 collected.
+Dietary Zn content quadratically affected both feed intake and gain the first two weeks, 22 with approximately 1400 mg Zn/kg diet and a Zn intake of 400 mg/day as the optimal.
+The relative 23 risk of diarrhoea increased up to 60% at d 7 and 14 if serum Zn status dropped below the weaning 24 level (767 µg/L) and it required approximately 1,100 mg Zn/kg (166 mg Zn/day) during week 1 to 25 maintain the weaning serum Zn status.
+Blood markers of intestinal integrity (D-lactate and diamine 26 oxidase) was unaffected by dietary Zn and intermediate dietary Zn levels did not affect the faecal 27 numbers of total bacteria, Lactobacilli and E. Coli bacteria compared to 153 mg Zn/kg.
+These results 28 indicate that the requirement for Zn in newly weaned piglets may be substantially higher than cur- 29 rently assumed.
+30 Keywords: Serum zinc; Growth performance; Diarrhoea; Zinc oxide; Intestinal integrity 31 32 1.
+Introduction 33 Zinc (Zn) is an essential micronutrient necessary for multiple structural and biologi- 34 cal functions, including enzyme function, DNA and RNA metabolism, protein synthesis, 35 gene expression, cell proliferation and differentiation and cell-mediated immunity [1,2].
+36 Thus, Zn is essential for normal growth and development.
+All body tissues contain Zn, 37 but Zn stores are small and only up to approximately 15% of the whole-body Zn can be 38 mobilised during insufficient Zn intake [3-5].
+Skin lesions or parakeratosis are well-known 39 clinical symptoms of long-term Zn deficiency in both pigs and humans [6-9], whereas re- 40 duced feed intake may be a more short-term sign of Zn deficiency [10-12].
+Moreover, hu- 41 man studies link Zn deficiency to diarrhoea [13,14].
+Zinc deficiency impairs function of 42 the immune system and compromises intestinal function [15,16], which may increase the 43 Citation: Lastname, F.; Lastname, F.; Lastname, F. Title.
+Animals 2022, 12, x. https://doi.org/10.3390/xxxxx Academic Editor: Firstname Last- name Received: date Accepted: date Published: date Publisher’s Note: MDPI stays neu- tral with regard to jurisdictional claims in published maps and institu- tional affiliations.
+Copyright:
+Animals 2022, 12, x. https://doi.org/10.3390/xxxxx www.mdpi.com/journal/animals Article 1 Determination of the optimal level of dietary zinc for newly 2 weaned pigs: A dose-response study 3 Sally V. Hansen 1, Natalja P. Nørskov 1, Jan V. Nørgaard 1, Tofuko A. Woyengo 1, Hanne D. Poulsen 1 and Tina S. 4 Nielsen 1,* 5 1 Department of Animal Science, Aarhus University, Blichers Allé 20, DK-8830 Tjele, Denmark 6 * Correspondence: tinas.nielsen@anis.au.dk 7 Simple Summary: Piglets have a very low feed intake immediately after weaning.
+We hypothesis 8 that the EU legislated maximum dietary zinc concentration (150 mg zinc/kg diet) will increase the 9 risk of zinc deficiency after weaning.
+Zinc deficiency includes symptoms such as impaired growth 10 and increased risk of diarrhoea.
+However, high dietary zinc concentration has an antimicrobial ef- 11 fect on the bacteria and increases the risk of antimicrobial resistance.
+The findings of this study 12 showed the growth followed a quadratic pattern (turning point at approximately 1400 mg zinc per 13 kg diet).
+The risk of diarrhoea increased up to 60% for pigs that had a blood zinc concentration that 14 decreased after weaning.
+It required up to 1,121 mg zinc per kg diet to maintain the blood zinc 15 concentration after weaning.
+There was no evidence for an antimicrobial effect when feeding pigs a 16 diet with up to 1601 mg zinc per kg diet.
+17 Abstract: One hundred and eighty individually housed piglets with initial body weight 7.63 ± 0.98 18 kg (28 days of age) were fed a diet containing either 153, 493, 1,022, 1,601, 2,052 or 2,407 mg Zn/kg 19 (added Zn as ZnO) from day 0-21 post weaning, to determine the optimal level of Zn for weaned 20 piglets.
+Body weight, feed intake and faecal scores were recorded and blood and faecal samples 21 collected.
+Dietary Zn content quadratically affected both feed intake and gain the first two weeks, 22 with approximately 1400 mg Zn/kg diet and a Zn intake of 400 mg/day as the optimal.
+The relative 23 risk of diarrhoea increased up to 60% at d 7 and 14 if serum Zn status dropped below the weaning 24 level (767 µg/L) and it required approximately 1,100 mg Zn/kg (166 mg Zn/day) during week 1 to 25 maintain the weaning serum Zn status.
+Blood markers of intestinal integrity (D-lactate and diamine 26 oxidase) was unaffected by dietary Zn and intermediate dietary Zn levels did not affect the faecal 27 numbers of total bacteria, Lactobacilli and E. Coli bacteria compared to 153 mg Zn/kg.
+These results 28 indicate that the requirement for Zn in newly weaned piglets may be substantially higher than cur- 29 rently assumed.
+30 Keywords: Serum zinc; Growth performance; Diarrhoea; Zinc oxide; Intestinal integrity 31 32 1.
+Introduction 33 Zinc (Zn) is an essential micronutrient necessary for multiple structural and biologi- 34 cal functions, including enzyme function, DNA and RNA metabolism, protein synthesis, 35 gene expression, cell proliferation and differentiation and cell-mediated immunity [1,2].
+36 Thus, Zn is essential for normal growth and development.
+All body tissues contain Zn, 37 but Zn stores are small and only up to approximately 15% of the whole-body Zn can be 38 mobilised during insufficient Zn intake [3-5].
+Skin lesions or parakeratosis are well-known 39 clinical symptoms of long-term Zn deficiency in both pigs and humans [6-9], whereas re- 40 duced feed intake may be a more short-term sign of Zn deficiency [10-12].
+Moreover, hu- 41 man studies link Zn deficiency to diarrhoea [13,14].
+Zinc deficiency impairs function of 42 the immune system and compromises intestinal function [15,16], which may increase the 43 Citation: Lastname, F.; Lastname, F.; Lastname, F. Title.
+Animals 2022, 12, x. https://doi.org/10.3390/xxxxx Academic Editor: Firstname Last- name Received: date Accepted: date Published: date Publisher’s Note: MDPI stays neu- tral with regard to jurisdictional claims in published maps and institu- tional affiliations.
+Copyright:

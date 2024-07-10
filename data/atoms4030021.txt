@@ -1,0 +1,83 @@
+Author Response Author Response File: Author Response.pdf
+Author Response Author Response File: Author Response.pdf
+Gregoire and colleagues present an in depth comparison of polarizability measurements on alkali atoms, mostly based on their own matter-wave deflectometry studies but also including other prior data and their own here updated electric field calibrations.While the idea of such experiments is well established and has already been published and here properly referenced by the authors themselves, the new data set is more comprehensive, has well clearly improved error bars and thus represents a very valuable set of reference data for a large community in cold atom physics and matter-wave metrology.The paper is well written in a tutorial style but with emphasis on accurate discussion of the uncertainties.
+Even though it may not break entirely new grounds, it puts the state of the art in a new consistent context and improves on an entire series of atomic constants.The introduction presents the goal of the paper in clear way, referring to uses of polarizability values in atomic physics.
+Also the set of references is rather comprehensive, giving a fair account of the state of the art.As the authors point out, based on the present reevaluation it appears that atom interferometry provides the most accurate data for static electric dipole polarizabilities in five different atomic species, which is a remarkable fact.
+It is very likely that this paper will be cited rather often as a very valuable reference work.The paper should be published as it is, with only minor commentsMinor comments Line 33: “with” in front of high-energy missing.
+Figure 1: It would be more self-consistent to define all letters (physical quantities) in the figure caption… Line 46-50: Somehow the logic seems reversed…the paper should be self-contained, so even though they refer to earlier work they should spend 5 lines on explaining the principle of the experiment.
+Only then it is clear where the improvement comes from (which they then explain well).
+Line 92 and following:It may be worthwhile to comment on the line splittings in the ground and excited state.
+The equations assume the atom as a 2-level system (but with a multiplicity g).
+A short comment on how the hyperfine splitting, and (admittedly very small) Zeeman splitting (in particular for static polarizabilities) are relevant may add to the tutorial value of this work.
+Which hyperfine state is taken for omega1 and omega2… or mention that on the accuracy level of 0.1% this does not make a difference, Eq.
+22: It may be useful to optimize the type setting to avoid stapled double fractions with tiny letters.
+Line 178 an article in front of “error”?
+Figure 7: Subscripts too small… hard to read.
+Figure 8: as in 7 … at least in the review manuscript Figures generally: better no “light green” as it does not provide a high contrast.
+Since red-green blindness is wide-spread… it is better to use dashed/dotted/solid lines and pairs of colors other than red and green.
+The paper "Analysis of polarizability measurements made with atom interferometry" describes slightly revised values of the electric dipole polarizability of alkali atoms and presents a long analysis of these results.
+This paper is a complement to the PRA paper published in 2015 by this team (quoted in the abstract and as ref 3).
+The revision of the values published in 2015 only reduces their uncertainties.
+The analysis of these results is made by separating the polarizability alpha in two parts: the contribution of the first resonance state (more than 95% of the polarizability) and the residual part alpha_r (<5% of alpha).
+Such an analysis was already presented more briefly in their PRA paper.
+The discussion is somewhat complex because the problem is analysed in several ways: a) the main part (alpha-alpha_r), which is due to the first resonance levels, can be precisely evaluated thanks to alpha_r which has been calculated by theory by various authors.
+This first analysis gives dipole moments, lifetimes, oscillator strengths and line strengths for the D1 and D2 lines of the alkalis.
+The uncertainty on lifetimes is slightly better for Cesium than the data collected in table 3.
+However, even if the stated uncertainty on alpha_r and the sensitivity of the result to this uncertainty are both small, this evaluation of lifetimes has a mixed theory-experiment character and this should be made more clear.
+b) then, the C_6 coefficient of the VdW potential is deduced from the knowledge on the polarizability.
+This is interesting because many efforts were done before producing precise C_6 theoretical values.
+However, the paper is not very clear on the treatment of alpha_r(i omega).
+If I understand clearly, the authors use a scaling of the main part (alpha-alpha_r) and keep alpha_r(i omega) as calculated theoretically.
+This technique modifies somewhat the C_6 value and reduces slightly the error bars.
+(Note: probable misprint in table 4 for delta alpha_r(0) of Rb) c) the logic is now inverted with respect to analysis a: the goal is to get alpha_r from the polarizability and resonance level lifetime values.
+d) the logic is now inverted with respect to analysis b: the goal is to get alpha_r from the polarizability and C_6.
+I am not fully convinced that these last two parts of the analysis are really useful but they cannot be suppressed if one wants to keep the final discussion which gives a comparison of the various alph_r(0) including their own values.
+This paper carries new material with respect to the PRA paper published in 2015 by this team and I think it can be published but I am not enthusiastic because it is interesting only for a small community strongly interested in lifetimes, polarizability, and C_6 and also because the parts c and d of the long analysis are essentially a reversal of parts a and b!
+Minor remarks: bottom of page 5: the summation includes not only excitation to discrete states labeled by n' but also the continuum.
+misprints in lines 107 and 109, in line 144 page 9: the statement that the VdW coefficients C_8 and C_10 can be predicted based on alpha(0) measurements is strongly puzzling !
+eq 22: imega_D3 appears several times.
+If the D line has 3 components, this is a great news!!!
+line 160: alpha_r(0) and alpha_r(I omega): 2nd r is missing
+Thank you very much for taking the time to review our article.
+We have addressed each of your concerns as follows: • “Line 33: “with” in front of high-energy missing.” Fixed, although we chose “from” instead of “with” • “Figure 1: It would be more self-consistent to define all letters (physical quantities) in the figure caption…” Added those definitions to the caption.
+• “Line 46-50: Somehow the logic seems reversed…the paper should be self-contained, so even though they refer to earlier work they should spend 5 lines on explaining the principle of the experiment.
+Only then it is clear where the improvement comes from (which they then explain well).” Thank you for this comment.
+We added a paragraph going over how the experiment works, and why it is important to accurately measure the voltage on the electrodes and the distance between those electrodes.
+When the atoms in the interferometer pass through the electric field, they get a phase shift that depends on their polarizability as well as the geometry of the electric field.
+If we can 1) measure the phase shift very precisely and 2) measure the electric field geometry very accurately, we can “solve” for the atoms' polarizability.
+• “Line 92 and following: It may be worthwhile to comment on the line splittings in the ground and excited state.
+The equations assume the atom as a 2-level system (but with a multiplicity g).
+A short comment on how the hyperfine splitting, and (admittedly very small) Zeeman splitting (in particular for static polarizabilities) are relevant may add to the tutorial value of this work.
+Which hyperfine state is taken for omega1 and omega2… or mention that on the accuracy level of 0.1% this does not make a difference,” We added a statement about this at the end of the paragraph following Eqn 10.
+The transition frequencies we use are defined with respect to the center of gravity of the hyperfine states associated with each of the ns_{1/2}, np_{1/2}, and np_{3/2} levels.
+The energy shifts due to hyperfine splitting change the transition frequencies by no more than 1 part in 10^5, which is insignificant on the accuracy level of 0.1%.
+• Eq.
+22: It may be useful to optimize the type setting to avoid stapled double fractions with tiny letters.
+We reformatted the equation so as only to contain 1 level of nested fractions rather than 2.
+Now it is easier to tell the difference between subscripts and normal scripts.
+• Line 178 an article in front of “error”?
+We added “an” to reduce confusion.
+• Figure 7: Subscripts too small… hard to read.
+• Figure 8: as in 7 … at least in the review manuscript Enlarged subscripts in Figs 7, 8, and 9.
+• Figures generally: better no “light green” as it does not provide a high contrast.
+Since red-green blindness is wide-spread… it is better to use dashed/dotted/solid lines and pairs of colors other than red and green.
+Removed all instances of light green.
+Added different dash patterns to the differently-colored lines in Fig 5, and changed the green line to blue.
+Green points in Figs 7 and 9 are now nearly black (actually very dark purple), and the marker styles also differentiate between data types so that colors are actually unnecessary.
+We were not able to easily change the line styles in Fig 8, however we hope that black, dark green, and light purple will be at least somewhat easily differentiated if the graph is printed in grayscale.
+Thank you very much for taking the time to review our article.
+We have addressed each of your concerns as follows: • a) ...However, even if the stated uncertainty on alpha_r and the sensitivity of the result to this uncertainty are both small, this evaluation of lifetimes has a mixed theory-experiment character and this should be made more clear.
+To make this fact more clear, we specifically mentioned that our calculated f, τ, D, and S values were calculated using measured polarizabilities and theoretical residual polarizabilities in 3 more places: 1) the caption of Table 2 2) the beginning of the paragraph in which Table 2 is first referenced 3) the paragraph after that • probable misprint in table 4 for delta alpha_r(0) of Rb It was a misprint.
+Changed “130” to “30” • bottom of page 5: the summation includes not only excitation to discrete states labeled by n' but also the continuum.
+This is true—thank you for pointing this out.
+We also realized that our statement was also incorrect in that it implied that only n-p transitions were taken into account in alpha_v'.
+We corrected this statement.
+• misprints in lines 107 and 109, in line 144 • line 160: alpha_r(0) and alpha_r(I omega): 2nd r is missing Fixed.
+Thank you for spotting these typographical errors.
+• page 9: the statement that the VdW coefficients C_8 and C_10 can be predicted based on alpha(0) measurements is strongly puzzling !
+You're right, we did not demonstrate at all in this paper how to infer C_8 and C_10 coefficients from alpha(0) measurements and theory.
+We removed this confusing statement.
+• eq 22: omega_D3 appears several times.
+If the D line has 3 components, this is a great news!!!
+Haha yes, the little-known alkali D3 line.
+Thanks for noticing that.

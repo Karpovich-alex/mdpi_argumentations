@@ -1,0 +1,52 @@
+Author Response Please see the attachment.
+Author Response File: Author Response.pdf
+Author Response Response 1: I described the paper's aim.
+Response 2: I redraw Figures1-2 and described them as an adaptation of the original publication.
+Response 3:I described baseline load of the participants.
+Response 4:I revised Fig3.
+Response 5:I deleted Fig5,8,11.
+Author Response File: Author Response.pdf
+Very interesting and well-written study.
+I have some comments: Please add a table with patients' baseline characteristics, including BMI and smoking status.
+Did authors estimate sample size?
+Please add in data analysis section Please add ethics protocol approval number I found some minor English errors throughout the paper.
+Please have a re-check.
+Dear Authors: I appreciate the possibility to review the paper entitled "Exploration of an inflection point of ventilation parameters with anaerobic threshold using strucchange" by the authors Aida et al.
+In this paper, using a maximal exercise test on a cycle ergometer, it is proposed to determine the anaerobic threshold using the strucchange analysis of the time series and compare it with the V slope method and the respiratory and metabolic indexes proposed by Wasserman.
+In this respect, I find the work interesting, well-structured, and with promising results.
+However, I would like to make a few comments.
+-The paper's aim should be the same in the abstract and the introduction.
+- I suggest presenting the paper's aim as the last idea in the introduction to make the manuscript easier to read.
+- Given the poor quality of the images (Fig 1 and 2), it might be better to redraw them and describe them as an adaptation of the original publication.
+- The methods do not specify how the baseline load of the participants was determined.
+- In figure 3, the indication of the test time appears in the reverse direction.
+Time "0" should be at the start.
+- I recommend deleting graphs 5, 8, and 11 because graphs 7, 10, and 13 show the same information together with lines obtained by analyzing the structural change of the time series.
+1 Response to Reviewer 1 Comments Comments 1 Please add a table with patients' baseline characteristics, including BMI and smoking status.
+Response 1 I added a table listing the baseline characteristics, including BMI and smoking status, of subjects.
+Table 1.
+BMI and smoking history of the subjects.
+Subject BMI Smoking history A 23.2 Non-smoker B 19.8 Non-smoker C 19.5 Non-smoker D 19.7 Non-smoker E 21.5 Non-smoker F 22.8 Non-smoker G 20 Non-smoker H 24.9 Non-smoker I 18.2 Non-smoker J 21.8 Non-smoker K 18.7 Non-smoker L 21.4 Non-smoker M 21.4 Non-smoker N 18.2 Non-smoker O 18.5 Non-smoker P 19.8 Non-smoker Q 20.5 Non-smoker mean 21 - SD 1.9 - Comments 2 Did authors estimate sample size?
+Please add in data analysis section.
+Response 2 Since this study focuses on AT search, detailed estimation of sample size is not performed.
+I added in data analysis section.
+Comments 3 Please add ethics protocol approval number.
+Response 3 Project identification code is H29-4.
+I added in 2.1.subjects and 6.patents.
+Comments 4 I found some minor English errors throughout the paper.
+Please have a re-check.
+Response 4 My manuscript is checked by an English proofreader.
+I will attach an English proofreading certificate.
+1 Response to Reviewer 2 Comments Comments 1 -The paper's aim should be the same in the abstract and the introduction.
+- I suggest presenting the paper's aim as the last idea in the introduction to make the manuscript easier to read.
+Response 1 I described the paper's aim.
+Comments 2 - Given the poor quality of the images (Fig 1 and 2), it might be better to redraw them and describe them as an adaptation of the original publication.
+Response 2 I redrew Figures 1 and 2 and described them as an adaptation of the original publication.
+Comments 3 - The methods do not specify how the baseline load of the participants was determined.
+Response 3 I described baseline load of the participants in 2.2.
+Experimental Protocol and Setup.
+Comments 4 - In figure 3, the indication of the test time appears in the reverse direction.
+Time "0" should be at the start.
+Response 4 I revised Figure 3.
+Comments 5 - I recommend deleting graphs 5, 8, and 11 because graphs 7, 10, and 13 show the same information together with lines obtained by analyzing the structural change of the time series.
+Response 5 I deleted graphs 5, 8, and 11.

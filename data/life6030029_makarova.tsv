@@ -1,0 +1,202 @@
+side	opponent	round	number	attacks	ann	text
+					0	Author Response Author Response File: Author Response.pdf
+					0	Author Response Author Response File: Author Response.pdf
+Reviewer_1	Author	1	1	0	2	line 38 - The linking of 'other molecules' to 'phenotype' here is a little odd.
+Reviewer_1	Author	1	1	0	2	There may be a link from one gene to one protein, but one protein is not really a phenotype.
+Reviewer_1	Author	1	1	0	2	There are many quantitative traits affected by many genes.
+Reviewer_1	Author	1	2	0	2	line 73 - the point is made that current RNA World theories do not seem compatible with a hydrothermal origin of life.
+Reviewer_1	Author	1	2	0	2	But it is not clear where this leads us.
+Reviewer_1	Author	1	2	0	2	Maybe life did not begin with RNA.
+Reviewer_1	Author	1	2	0	2	Maybe life did not begin with hydrothermal vents.
+Reviewer_1	Author	1	2	0	2	Maybe there is some slightly different environment that we would still call hydrothermal in which RNA is sufficiently stable.
+Reviewer_1	Author	1	2	0	2	Maybe there is some slightly different nucleic acid-like polymer that is stable in hydrothermal conditions.
+Reviewer_1	Author	1	2	0	2	Too many unknowns here to be a useful point.
+Reviewer_1	Author	1	3	0	2	lines 93-106 - I mostly agree with this paragraph but it is not said very clearly.
+Reviewer_1	Author	1	3	0	2	Certainly we need to distinguish between long peptides formed spontaneously and those that are translated.
+Reviewer_1	Author	1	3	0	2	But several questions still remain - were there long peptides before long RNA strands?
+Reviewer_1	Author	1	3	0	2	Was there a way of reproducibly making the same amino acid sequence without translating it from RNA?
+Reviewer_1	Author	1	3	0	2	If not, then is there any way that random non-encoded peptides could be useful to RNAs?
+Reviewer_1	Author	1	4	0	2	The idea in caption to Fig 4 that building blocks do not interact directly with the environment seems interesting and plausible, but not very well defined.
+Reviewer_1	Author	1	4	0	2	Are you saying a cell interacts with the environment but a single gene does not?
+Reviewer_1	Author	1	4	0	2	Or a multicellular organism interacts but one cell does not?
+Reviewer_1	Author	1	4	0	2	The citations 52 and 53 are in fields that are not related to biology and origin of life.
+Reviewer_1	Author	1	4	0	2	So I think this idea needs to be explained and justified in a biological context.
+Reviewer_1	Author	1	5	0	2	Fig 5 - drawing parallels between systems of different levels of complexity (from prokaryotes up to civilizations) is interesting, but it is a bit distracting at this point.
+Reviewer_1	Author	1	5	0	2	The abstract promised to talk about RNA World and the origin of life.
+Reviewer_1	Author	1	5	0	2	At this point the article seems to have strayed a long way from this intention.
+Reviewer_1	Author	1	5	0	2	From the origin of life viewpoint, even the simplest of these (the prokaryote) is still very complex.
+Reviewer_1	Author	1	5	0	2	The issue for the origin of life is how to get to a prokaryote.
+Reviewer_1	Author	1	5	0	2	I don't really think that looking at social insects and human societies will help much in understanding the origin of life.
+Reviewer_1	Author	1	5	0	2	The ideas of CCSI and CMIO seem interesting, but they are discussed with the high-level examples (pages 10-11), not with molecular and cellular examples.
+Reviewer_1	Author	1	5	0	2	Probably a lot of this could be simplified.
+Reviewer_1	Author	1	5	0	2	It is only when we get to paragraph 3.1 that we get to the point of the article.
+Reviewer_1	Author	1	6	0	2	Fig 7 - Viewing a metabolism as a cycle seems to be only half the story.
+Reviewer_1	Author	1	6	0	2	Nutrients go in and waste comes out.
+Reviewer_1	Author	1	6	0	2	This is a throughput, not a cycle.
+Reviewer_1	Author	1	6	0	2	Also the diagram does not indicate whether the ribozymes are made by the cycle.
+Reviewer_1	Author	1	6	0	2	I think there is some room for improvement in this diagram.
+Reviewer_1	Author	1	7	0	2	Fig 8 is very reminiscent of Fig 1 of Wu and Higgs (2009) J Mol Evol 69:541-554 and Fig 1 of Wu and Higgs (2011) Astrobiology 11:895-906.
+Reviewer_1	Author	1	8	0	2	Once again in Fig 8 I think that the cycle is over-emphasized and the throughput is not included.
+Reviewer_1	Author	1	8	0	2	For example there must be ways of making nucleotides from scratch.
+Reviewer_1	Author	1	8	0	2	It cannot be true that the only source of nucleotides is by degrading oligomers.
+Reviewer_1	Author	1	9	0	2	Section 3.4 - 'There is a debate whether CMIO could have formed by a CCSI consisting entirely or mainly of RNA'.
+Reviewer_1	Author	1	9	0	2	This section seems to mix up two important questions.
+Reviewer_1	Author	1	9	0	2	(i) Are RNA catalysts sufficient?
+Reviewer_1	Author	1	9	0	2	Do we need other kinds of biomolecules like protein catalysts?
+Reviewer_1	Author	1	9	0	2	(ii) Do we need the RNA system to be enclosed in a cell membrane or other kind of compartment?
+Reviewer_1	Author	1	9	0	2	If so, can RNA control the growth and division of the membrane?
+Reviewer_1	Author	1	9	0	2	These issues need to be considered separately.
+Reviewer_1	Author	1	10	0	2	line 554 - The case that two genes were essential initially is not made.
+Reviewer_1	Author	1	10	0	2	Can we not have an RNA polymerase that uses other copies of itself as a template?
+Reviewer_1	Author	1	10	0	2	If chemistry supplies monomers, then only one gene is necessary.
+Reviewer_1	Author	1	10	0	2	The input and output would not necessarily need to be controlled by another gene.
+Reviewer_1	Author	1	10	0	2	It would seem difficult to evolve two separate ribozyme functions at the same time.
+Reviewer_1	Author	1	11	0	2	If there were two genes, what were the functions of the two genes?
+Reviewer_1	Author	1	11	0	2	The connection between the reactions catalyzed by the ribozymes and the concepts of CCSI and CMIO is not very clear at this point.
+Reviewer_1	Author	1	12	0	2	The conclusion comes back to the point about primitive Earth environment.
+Reviewer_1	Author	1	12	0	2	This links to the introductory section about hydrothermal conditions etc.
+Reviewer_1	Author	1	12	0	2	I agree that the question of the relationship between RNA World and the environment is important, but there is nothing in the main part of this article that addresses this question.
+Reviewer_1	Author	1	12	0	2	It is only mentioned in the introduction and conclusions.
+					0	In summary, I think there are a lot of interesting points here, but the article could use some streamlining to emphasize the key new ideas.
+					0	According to the abstract, this manuscript covers a number of different areas relating to the RNA world hypothesis, including its compatibility with (likely) primitive Earth conditions; the likely characteristics of an RNA world; and, finally, the relationship between an early life-like RNA world system(s) and other life-like systems.
+					0	From the above, the manuscript then proposes that the first RNA world system may have consisted of two RNA genes of 100 base pairs each (this would probably be better described as genes of 100 nucleotides, unless the author is really proposing the presence of double–stranded RNA?).
+					0	The author appears to have an (applied?)
+					0	chemistry background (and has published a number of physical chemistry studies investigating the compatibility of the RNA world hypothesis with a hydrothermal vent origin of life), but has also published extensively in the social sciences area, for example applying evolutionary concepts to other 'life-like' systems, such as social insect colonies and human civilizations.
+					0	There are a number of interesting points raised along the way, such as the generally one-to-one correspondence between DNA gene -> mRNA transcript -> protein enzyme -> single reaction (although many enzymes are often involved in a single pathway which transforms/produces a single substrate/product).
+					0	Another interesting idea that is also raised is the possible importance of RNA solubility at high temperatures, though it does seem that the author is battling nobly (if possibly in vain) to reconcile the RNA world hypothesis with a hydrothermal vent origin of life scenario.
+					0	However, I find the manuscript contains a number of weaknesses:
+Reviewer_2	Author	1	1	0	2	One of the main issues is that paper suffers from trying to cover too many ideas, and because of this is quite long and unfocused.
+					0	It is also fairly rambling: for example, lines 95-106 could be removed,
+Reviewer_2	Author	1	2	0	2	The second point is that the paper contains too many errors.
+Reviewer_2	Author	1	2	0	2	One example obvious to me is the reference to one of my papers [ref.
+Reviewer_2	Author	1	2	0	2	"11] which states that ""chemical reactions catalyzed by protein-like molecules could form ambiguous information by...coevolution with RNA"", which is not at all what is written in the paper."
+Reviewer_2	Author	1	3	0	2	"The English is a problem too: ""soft molecules"" is not a typical way of describing organic molecules, and ""formation and deformation"" of molecules would be better expressed as formation and degradation."
+Reviewer_2	Author	1	3	0	2	"Statements such as in line 232: ""the first step is to limit the characteristics of life-like systems into life on Earth"" leave one scratching ones head."
+Reviewer_2	Author	1	4	0	2	More fundamentally perhaps, the distinction that is made between CCSI and CMIO is, as the author himself notes, remarkably similar to that between genotype and phenotype, and information and function, and even replication and metabolism.
+Reviewer_2	Author	1	4	0	2	The finding that two RNA molecules would have been sufficient to start life, seems a little like the idea that has been proposed of an RNA template and its complementary copy originally functioning as an informational/functional(= ribozymic) pair (see for example: Shay JA, Huynh C, Higgs PG (2015) J Theor Biol.
+Reviewer_2	Author	1	4	0	2	364:249-59).
+Reviewer_2	Author	1	4	0	2	Also, as far as this reviewer is aware, there are no known general (= nonspecific) RNA replicase ribozymes consisting of only 100 nucleotides.
+					0	Dear academic editors I response to all the comments by reviewer 1.
+					0	Reviewer 1 line 38 - The linking of 'other molecules' to 'phenotype' here is a little odd.
+					0	There may be a link from one gene to one protein, but one protein is not really a phenotype.
+					0	There are many quantitative traits affected by many genes.
+					0	Answer:
+Author	Reviewer_1	2	1	1	1	I added a description at line 38 – 39.
+					0	 line 73 - the point is made that current RNA World theories do not seem compatible with a hydrothermal origin of life.
+					0	But it is not clear where this leads us.
+					0	Maybe life did not begin with RNA.
+					0	Maybe life did not begin with hydrothermal vents.
+					0	Maybe there is some slightly different environment that we would still call hydrothermal in which RNA is sufficiently stable.
+					0	Maybe there is some slightly different nucleic acid-like polymer that is stable in hydrothermal conditions.
+					0	Too many unknowns here to be a useful point.
+					0	Answer:
+Author	Reviewer_1	2	2	2	1	I added a description at line 73 – 74.
+					0	 lines 93-106 - I mostly agree with this paragraph but it is not said very clearly.
+					0	Certainly we need to distinguish between long peptides formed spontaneously and those that are translated.
+					0	But several questions still remain - were there long peptides before long RNA strands?
+					0	Was there a way of reproducibly making the same amino acid sequence without translating it from RNA?
+					0	If not, then is there any way that random non-encoded peptides could be useful to RNAs?
+					0	Answer:
+Author	Reviewer_1	2	3	3	1	This comment is in relation to the first comment by reviewer 2.
+Author	Reviewer_1	2	3	3	1	Thus, I added description in lines 99 – 101 and 111 – 112.
+Author	Reviewer_1	2	3	3	1	And I shorten this part to appreciate the comment by reviewer 2.
+					0	The idea in caption to Fig 4 that building blocks do not interact directly with the environment seems interesting and plausible, but not very well defined.
+					0	Are you saying a cell interacts with the environment but a single gene does not?
+					0	Or a multicellular organism interacts but one cell does not?
+					0	The citations 52 and 53 are in fields that are not related to biology and origin of life.
+					0	So I think this idea needs to be explained and justified in a biological context.
+					0	Answer:
+Author	Reviewer_1	2	4	4	1	Actually, the comparison was made for cell-based life-like systems.
+Author	Reviewer_1	2	4	4	1	So, I removed 2 references regarding civilization from this part, and add words at line 243 and 276 – 277.
+Author	Reviewer_1	2	4	4	1	And, I simplify descriptions as shown in line 272.
+					0	Fig 5 - drawing parallels between systems of different levels of complexity (from prokaryotes up to civilizations) is interesting, but it is a bit distracting at this point.
+					0	The abstract promised to talk about RNA World and the origin of life.
+					0	At this point the article seems to have strayed a long way from this intention.
+					0	From the origin of life viewpoint, even the simplest of these (the prokaryote) is still very complex.
+					0	The issue for the origin of life is how to get to a prokaryote.
+					0	I don't really think that looking at social insects and human societies will help much in understanding the origin of life.
+					0	The ideas of CCSI and CMIO seem interesting, but they are discussed with the high-level examples (pages 10-11), not with molecular and cellular examples.
+					0	Probably a lot of this could be simplified.
+					0	It is only when we get to paragraph 3.1 that we get to the point of the article.
+					0	Answer:
+Author	Reviewer_1	2	5	5	1	This part is important.
+Author	Reviewer_1	2	5	5	1	While it was difficult to simplify, but I tried to simplify section 2.3 as possible and added some descriptions.
+					0	Fig 7 - Viewing a metabolism as a cycle seems to be only half the story.
+					0	Nutrients go in and waste comes out.
+					0	This is a throughput, not a cycle.
+					0	Also the diagram does not indicate whether the ribozymes are made by the cycle.
+					0	I think there is some room for improvement in this diagram.
+					0	Answer:
+Author	Reviewer_1	2	6	6	1	It is not essential that the whole circular network to be incorporated in a life-like system.
+Author	Reviewer_1	2	6	6	1	A part of the network is accelerate by a newly evolved ribozyme is important.
+Author	Reviewer_1	2	6	6	1	I tried to describe this, but it seems not sufficient.
+Author	Reviewer_1	2	6	6	1	So I added carefully descriptions at lines 455 – 457, 466 – 471, 483 – 48
+Author	Reviewer_2	2	16	4	1	8.
+					0	Fig 8 is very reminiscent of Fig 1 of Wu and Higgs (2009) J Mol Evol 69:541-554 and Fig 1 of Wu and Higgs (2011) Astrobiology 11:895-906.
+					0	Answer:
+Author	Reviewer_1	2	7	7	1	I added a description at lines 538 – 540.
+					0	Once again in Fig 8 I think that the cycle is over-emphasized and the throughput is not included.
+					0	For example there must be ways of making nucleotides from scratch.
+					0	It cannot be true that the only source of nucleotides is by degrading oligomers.
+					0	Answer:
+Author	Reviewer_1	2	8	8	1	As I mentioned above, I added carefully descriptions at lines 455 – 457, 466 – 471, 483 – 488.
+					0	Section 3.4 - 'There is a debate whether CMIO could have formed by a CCSI consisting entirely or mainly of RNA'.
+					0	This section seems to mix up two important questions.
+					0	(i) Are RNA catalysts sufficient?
+					0	Do we need other kinds of biomolecules like protein catalysts?
+					0	(ii) Do we need the RNA system to be enclosed in a cell membrane or other kind of compartment?
+					0	If so, can RNA control the growth and division of the membrane?
+					0	These issues need to be considered separately.
+					0	Answer:
+Author	Reviewer_1	2	9	9	1	Formation of membrane is very important as reviewer 1 mentioned.
+Author	Reviewer_1	2	9	9	1	I added a description at lines 542 – 544, 483 – 488, 544 – 548. line 554 - The case that two genes were essential initially is not made.
+					0	Can we not have an RNA polymerase that uses other copies of itself as a template?
+					0	If chemistry supplies monomers, then only one gene is necessary.
+					0	The input and output would not necessarily need to be controlled by another gene.
+					0	It would seem difficult to evolve two separate ribozyme functions at the same time.
+					0	Answer:
+Author	Reviewer_1	2	10	10	1	Polymerase can only amplify the population of RNA molecules.
+Author	Reviewer_1	2	10	10	1	So, the population of RNA molecules would become of a population consisting of most rapid molecules for replication and then further evolution will struggle.
+Author	Reviewer_1	2	10	10	1	Thus, connection of CCSI with CMIO is essential process to escape from such a non-living state.
+					0	If there were two genes, what were the functions of the two genes?
+					0	The connection between the reactions catalyzed by the ribozymes and the concepts of CCSI and CMIO is not very clear at this point.
+					0	Answer:
+Author	Reviewer_1	2	11	11	1	As I agree the reviewer 1, this is important point.
+Author	Reviewer_1	2	11	11	1	And it should be evaluate to identify what process was accelerated at the beginning.
+					0	The conclusion comes back to the point about primitive Earth environment.
+					0	This links to the introductory section about hydrothermal conditions etc.
+					0	I agree that the question of the relationship between RNA World and the environment is important, but there is nothing in the main part of this article that addresses this question.
+					0	It is only mentioned in the introduction and conclusions.
+					0	Answer:
+Author	Reviewer_1	2	12	12	1	I remove some descriptions about hydrothermal environments from Abstract and Conclusions.
+					0	In summary, I think there are a lot of interesting points here, but the article could use some streamlining to emphasize the key new ideas.
+					0	Dear academic editors I response to all the comments by reviewer 2.
+					0	Reviewer 2 According to the abstract, this manuscript covers a number of different areas relating to the RNA world hypothesis, including its compatibility with (likely) primitive Earth conditions; the likely characteristics of an RNA world; and, finally, the relationship between an early life-like RNA world system(s) and other life-like systems.
+					0	From the above, the manuscript then proposes that the first RNA world system may have consisted of two RNA genes of 100 base pairs each (this would probably be better described as genes of 100 nucleotides, unless the author is really proposing the presence of double–stranded RNA?).
+					0	The author appears to have an (applied?)
+					0	chemistry background (and has published a number of physical chemistry studies investigating the compatibility of the RNA world hypothesis with a hydrothermal vent origin of life), but has also published extensively in the social sciences area, for example applying evolutionary concepts to other 'life-like' systems, such as social insect colonies and human civilizations.
+					0	There are a number of interesting points raised along the way, such as the generally one-to-one correspondence between DNA gene -> mRNA transcript -> protein enzyme -> single reaction (although many enzymes are often involved in a single pathway which transforms/produces a single substrate/product).
+					0	Another interesting idea that is also raised is the possible importance of RNA solubility at high temperatures, though it does seem that the author is battling nobly (if possibly in vain) to reconcile the RNA world hypothesis with a hydrothermal vent origin of life scenario.
+					0	However, I find the manuscript contains a number of weaknesses: One of the main issues is that paper suffers from trying to cover too many ideas, and because of this is quite long and unfocused.
+					0	It is also fairly rambling: for example, lines 95-106 could be removed, Answer:
+Author	Reviewer_2	2	13	1	1	This comment is in relation to the thrid comment by reviewer 1.
+Author	Reviewer_2	2	13	1	1	But, reviewer 1 agrees this part.
+Author	Reviewer_2	2	13	1	1	So, I shorten this part.
+					0	The second point is that the paper contains too many errors.
+					0	One example obvious to me is the reference to one of my papers [ref.
+					0	"11] which states that ""chemical reactions catalyzed by protein-like molecules could form ambiguous information by...coevolution with RNA"", which is not at all what is written in the paper."
+					0	"The English is a problem too: ""soft molecules"" is not a typical way of describing organic molecules, and ""formation and deformation"" of molecules would be better expressed as formation and degradation."
+					0	"Statements such as in line 232: ""the first step is to limit the characteristics of life-like systems into life on Earth"" leave one scratching ones head."
+					0	Answer:
+Author	Reviewer_2	2	15	3	2	I remove the reference 11 from this part, and moved to line 108.
+Author	Reviewer_2	2	15	3	2	I changed “soft molecules” to “organic molecules”, and changed to “formation and degradation”.
+Author	Reviewer_2	2	15	3	2	The statement was changed to a sentence “… to focus …” shown in line 227.
+					0	More fundamentally perhaps, the distinction that is made between CCSI and CMIO is, as the author himself notes, remarkably similar to that between genotype and phenotype, and information and function, and even replication and metabolism.
+					0	The finding that two RNA molecules would have been sufficient to start life, seems a little like the idea that has been proposed of an RNA template and its complementary copy originally functioning as an informational/functional(= ribozymic) pair (see for example: Shay JA, Huynh C, Higgs PG (2015) J Theor Biol.
+					0	364:249-59).
+					0	Also, as far as this reviewer is aware, there are no known general (= nonspecific) RNA replicase ribozymes consisting of only 100 nucleotides.
+					0	Answer:
+Author	Reviewer_2	2	16	4	1	This is related to the comments about Fig.
+					0	8.
+Author	Reviewer_2	2	16	4	1	I added ref 74, 75.
+Author	Reviewer_2	2	16	4	1	In addition, for the size of ribozyme, I added description at line 565 – 566 and ref 67 – 69.

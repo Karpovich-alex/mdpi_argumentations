@@ -1,0 +1,52 @@
+side	opponent	round	number	attacks	ann	text
+					0	Author Response Thank you again for taking time to review our manuscript and provide valuable constructive feedback.
+					0	We agree with your comments and have addressed these to the best of our ability in the revised manuscript.
+Author	Reviewer_1	2	1	1	1	In order to address your feedback fully, we felt it necessary to split Figure 7.
+Author	Reviewer_1	2	1	1	1	This has enabled us to accommodate the additional representative flow cytometric histograms displaying CD14 and CD68 expression changes.
+Author	Reviewer_1	2	1	1	1	The data contained in the original Figure 7 is now split between Figure 7 (deals with CD14 and CD68 only) and Figure 8 (deals with CD11b and CD36).
+Author	Reviewer_1	2	1	1	1	Changes highlighted in yellow on the resubmission.
+					0	In response to your comments:
+Author	Reviewer_1	2	2	1	1	Fig 7b.
+Author	Reviewer_1	2	2	1	1	We have removed the Giemsa images and replaced with phase contrast images to better show cell morphology under our light microscope.
+Author	Reviewer_1	2	2	1	1	We also include representative flow cytometric overlayed histograms, which display CD14 and CD68 expression changes between our Vector control and WT / CXXS BCAT1 cells.
+Author	Reviewer_1	2	2	1	1	Included on these histograms is the mean fold MFI change (ratio).
+					0	Author Response Thank you again for taking time to review our manuscript and provide valuable constructive feedback, which has improved the quality of our work submitted.
+					0	In response to your questions:
+Author	Reviewer_2	2	3	1	1	Fig S4B.
+Author	Reviewer_2	2	3	1	1	This is fully compensated.
+Author	Reviewer_2	2	3	1	1	The black population illustrates the isotype control for the FITC and PE conjugated antibodies.
+Author	Reviewer_2	2	3	1	1	These isotype controls were used to set the negative thresholds, as indicated by the quadrants on the plot.
+Author	Reviewer_2	2	3	1	1	The red population shows positive binding of anti-CD36 and anti-CD11b to the U937 cells (gated on the previous plot S4A, FSC/SSC).
+Author	Reviewer_2	2	3	1	1	The curve in the plot is not due to a compensation issue, it is demonstrating the up-regulation of CD36, which is followed by up-regulation of CD11b.
+Author	Reviewer_2	2	4	2	1	Fig 4d.
+Author	Reviewer_2	2	4	2	1	This is going in the correct direction.
+Author	Reviewer_2	2	4	2	1	The DCFDA histogram data presented to the right is based on the viable homogeneous U937 cell gated population, which was determined by forward scatter (FSC) and side scatter profile (SSC) in the left hand plot.
+Author	Reviewer_2	2	4	2	1	Debris in the bottom left of this FSC/SSC plot includes dead cells, which are eliminated and not considered for DCFDA analysis.
+					0	Author Response Thank you for taking time to review are work and for giving us the opportunity to comment on the use of U937 cells as a limitation for the work presented.
+Author	Reviewer_3	2	5	1	1	We have included a section dedicated to addressing this in the discussion section, along with supporting references.
+Author	Reviewer_3	2	5	1	1	This additional narrative is added at line 645-660 and highlighted in yellow on the resubmission.
+Author	Reviewer_3	2	6	1	1	We have included what we have written below for your convenience: “The U937 cell line was originally isolated from the pleural effusion of a patient with histiocytic lymphoma [42].
+Author	Reviewer_3	2	6	1	1	Early characterisation studies showed that U937 cells differed from typical lymphoblastoid cell lines [42].
+Author	Reviewer_3	2	6	1	1	Because of their pro-monocytic phenotype, many regard the U937 cell line to be representative of an AML subtype M5, under the French-American-British (FAB) classification system [43–46].
+Author	Reviewer_3	2	6	1	1	This pro-monocytic phenotype and cytochemistry, has accounted for the wide use of U937 cells as a model to study AML, including ROS mediated monocyte to macrophage transition [32,49,50].
+Author	Reviewer_3	2	6	1	1	We identified U937 cells as having a relatively low basal expression of BCAT1 compared other myeloid cell lines [49], which would allow an effective comparison between BCAT1 overexpressing cells to the vector control.
+Author	Reviewer_3	2	6	1	1	Taken together, the U937 cell line presented as a good cellular model to study the putative antioxidant effect of the BCAT1 CXXC motif in myeloid differentiation, which is a defining feature of AML [50].
+Author	Reviewer_3	2	6	1	1	However, our study is limited to a single FAB subtype model.
+Author	Reviewer_3	2	6	1	1	Future work could extend our analysis and examine the antioxidant capacity of the BCAT1 CXXC motif in other FAB subtype models, for example HL60 (AML, M2) and NB4 (AML M3 aka APL) [45].”
+					0	The Authors showed the role of the BCAT1 CXXC motif in AML and to understand how this may influence cellular redox processes.
+					0	The manuscript is well written, the results support the hypotheses.
+Reviewer_1	Author	1	1	0	2	The figures should be improved in quality so the work would take on another aspect.
+Reviewer_1	Author	1	1	0	2	Figure 7b is not very credible, when U937 become macrogphages adhere to the plate and assume the morphology of a macrophage.
+Reviewer_1	Author	1	1	0	2	the figure is not clear and not well visible.
+Reviewer_1	Author	1	1	0	2	The authors should also show the flow cytometers panels related to cd68 and cd14.
+Reviewer_1	Author	1	1	0	2	This figure does not convince me very much.
+					0	Authors addressed all my requests and suggestions to my fullest satisfaction.
+Reviewer_2	Author	1	1	0	2	Small comment, the supplementary Fig.
+Reviewer_2	Author	1	1	0	2	S4B would need some compensation work....this would be better to correct before final approval for publication ( up to editor).
+Reviewer_2	Author	1	2	0	2	Also the gating strategy on Fig.
+Reviewer_2	Author	1	2	0	2	4d ( is going in right direction), what I am missing here is the exclusion of dead cells?
+					0	).Overall, congratulations on this work.
+					0	The manuscript is clear and well written.
+Reviewer_3	Author	1	1	0	2	The data presented by the authors are robust and interesting but are based on a single AML cell line, which is not a bonafide AML cell line (derived from the pleural effusion of a 37-year-old, White, male patient with histiocytic lymphoma, according to ATCC).
+Reviewer_3	Author	1	1	0	2	Thus, authors should discuss limitations in interpreting their findings.
+Reviewer_1	Author	3	1	2	4	The authors have now addressed all my major initial comments.

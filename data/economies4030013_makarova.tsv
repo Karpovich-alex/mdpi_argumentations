@@ -1,0 +1,203 @@
+side	opponent	round	number	attacks	ann	text
+					0	Author Response We would like to thank the Reviewer for a very careful reading of the paper and a number of interesting, though challenging, suggestions and comments.
+					0	Thanks to his/her remarks, the paper has improved under many important aspects.
+					0	We summarize below our reactions to the points raised by the Reviewers following the same order in the lists of comments.
+					0	In general, we amended the paper in accordance with the replies below.
+Reviewer_1	Author	1	1	0	2	Data issue: The authors indicate their data source as “…an index of panel data on agricultural output and employment in the first sector of 287 prefectures from 2000 to 2010 is collected from the China city Statistical Yearbook (2001-2011)...” It is not clear what kind of index the authors are referring to.
+Reviewer_1	Author	1	1	0	2	Are the annual agricultural output data are measured in their nominal value (at current price) or in real value (at constant price)?
+Reviewer_1	Author	1	1	0	2	If it’s based on the real value then what kind of deflators are used in the estimation, national level or regional level since agricultural prices may vary across regions?
+Reviewer_1	Author	1	1	0	2	Labor productivity needs to be measured using real value of agricultural output.
+Reviewer_1	Author	1	1	0	2	Otherwise, it may reflect the changes in prices instead of productivity.
+Reviewer_1	Author	1	1	0	2	This issue needs to be properly addressed.
+					0	-
+Author	Reviewer_1	2	1	1	1	We better specify the required items on agricultural labor productivity in the text.
+Author	Reviewer_1	2	1	1	1	Sorry for the unclearness.
+Author	Reviewer_1	2	1	1	1	The index is actually the measure of agricultural labor productivity, which is calculated by the agricultural output and labor.
+Author	Reviewer_1	2	1	1	1	We now clarify this part with another way of expression.
+Author	Reviewer_2	2	11	2	2	The agricultural output is deflated with the base year 2000.
+Author	Reviewer_2	2	11	2	2	There is no price index at the prefectural level.
+Author	Reviewer_2	2	11	2	2	For this reason we use the provincial price indices to deflate the nominal series.
+Author	Reviewer_2	2	11	2	2	Hence, all the prefectures within each province are deflated by the same index.
+Author	Reviewer_2	2	11	2	2	Although suboptimal, this helps to preserve the comparability in the two estimations.
+Reviewer_1	Author	1	2	0	2	Literature discussion: Most of the literature cited in the Introduction section and Discussion section are published five years ago.
+Reviewer_1	Author	1	2	0	2	The authors may want to have some brief discussion on more recent literature regarding China’s productivity estimates and policy related issues.
+					0	-
+Author	Reviewer_2	2	15	6	2	The Reviewer raises a very valuable point.
+Author	Reviewer_2	2	20	11	3	We would like to thank the Reviewer to recommend us to develop this part.
+Author	Reviewer_2	2	15	6	2	We now include more recent literature in the introduction, as well as the government movements of the relevant policies in recent years.
+Reviewer_1	Author	1	3	0	2	Measurement issue: The authors rely on the Latent Growth Curve Modeling technique to study the trend growth of China’s agricultural labor productivity.
+Reviewer_1	Author	1	3	0	2	It is not clear, however, why the authors rely on a dataset with only 10-year period to discuss labor productivity trend growth issue instead of using a dataset with longer time period if data is available.
+Reviewer_1	Author	1	3	0	2	In addition, the authors may want to justify their approach by briefly discussing the advantage or shortcomings of their method comparing to other approaches in identifying the growth trend of China’s agricultural labor productivity.
+					0	-
+Author	Reviewer_1	2	3	3	1	The Reviewer raises an interesting point that we overlooked previously.
+Author	Reviewer_1	2	3	3	1	We take the starting year as 2000 is mainly because of the entry of WTO, which influences the pattern of agricultural production in China.
+Author	Reviewer_1	2	3	3	1	We take the reviewer’s advice, to extend the time period until 2013, which is the latest available data on prefectural level.
+					0	Specific Comments Please double check the citations and the references list as some citations are not included in the references.
+Reviewer_1	Author	1	4	0	2	Table 1: The title of column 2 is not clear.
+Reviewer_1	Author	1	4	0	2	The numbers in that column seem to be cumulative proportions of total changes over time.
+Reviewer_1	Author	1	9	0	4	Please be more specific.
+Reviewer_1	Author	1	5	0	2	Table 3: Each column title needs to be more specific.
+Reviewer_1	Author	1	6	0	2	Figure 3: It is not clear what the axis labels represent in figure 3.
+Reviewer_1	Author	1	6	0	2	It needs to be noted.
+Reviewer_1	Author	1	7	0	2	Figure 4: Please be more specific regarding the range of slow, middle, and fast.
+Reviewer_1	Author	1	8	0	2	Appendix Figure A1: What is the definition of “absolute value” in this figure?
+Reviewer_1	Author	1	9	0	2	Appendix Figure A2: The figure presents the chain-linked index of output and input.
+Reviewer_1	Author	1	9	0	2	It is not clear whether the output is measured in real value (at constant price) or nominal value (at current price).
+					0	Please be more specific.
+					0	-
+Author	Reviewer_2	2	10	1	7	We would like to thank the reviewer’s scrutiny.
+Author	Reviewer_1	2	9	9	6	We now correct all the issues in citations and tables and figures in the text.
+Author	Reviewer_1	2	9	9	6	Figure 3 (now is Figure 4), the vertical axis indicates the growth rate of agricultural labor productivity; we now put it in the note.
+Author	Reviewer_1	2	9	9	6	In Appendix A1, the “absolute value” means real value; we now change it to the better expression.
+Author	Reviewer_1	2	9	9	6	In Appendix A2, they are measured in real value at constant price; we now better specify it in the text.
+					0	Author Response We would like to thank the Reviewers for a very careful reading of the paper and a number of interesting, though challenging, suggestions and comments.
+					0	Thanks to their remarks, the paper has improved under many important aspects.
+					0	We summarize below our reactions to the points raised by the Reviewers following the same order in their lists of comments.
+					0	In general, we amended the paper in accordance with the replies below.
+					0	The most important issues to correct urgently:
+Reviewer_2	Author	1	1	0	2	One question that it is necessary to correct is the number of figures in the text.
+					0	- We would like to thank the reviewer’s scrutiny.
+Author	Reviewer_2	2	10	1	1	We now specify this better in the text
+Reviewer_2	Author	1	2	0	2	Besides, the authors must define better the data how the agricultural labor productivity was calculated.
+Reviewer_2	Author	1	2	0	2	The agricultural output is in current or constant prices?
+Reviewer_2	Author	1	2	0	2	This could have strong implications in one case or another, especially in the first case.
+Reviewer_2	Author	1	2	0	2	The context of this paper consists in growing agricultural prices, especially in the second half of this decade in the world panorama.
+Reviewer_2	Author	1	2	0	2	So, if the agricultural output is in current prices, the growing prices will affect deeply the results.
+Reviewer_2	Author	1	2	0	2	It must be clearer.
+					0	-
+Author	Reviewer_2	2	11	2	1	The reviewer rises a very useful point that we initially ignored.
+Author	Reviewer_2	2	11	2	1	We now better specify the required items on agricultural labor productivity in the text.
+					0	The agricultural output is deflated with the base year 2000.
+					0	There is no price index at the prefectural level.
+					0	For this reason we use the provincial price indices to deflate the nominal series.
+					0	Hence, all the prefectures within each province are deflated by the same index.
+					0	Although suboptimal, this helps to preserve the comparability in the two estimations.
+Reviewer_2	Author	1	3	0	2	On the other hand, in the same line of text (pg.
+Reviewer_2	Author	1	3	0	2	4 line 3), the authors define the denominator of the agricultural labor productivity as the employed labors in the first sector.
+Reviewer_2	Author	1	3	0	2	What does this first sector mean?
+Reviewer_2	Author	1	3	0	2	Is it a synonymous of agricultural sector?
+Reviewer_2	Author	1	3	0	2	If this “first sector” includes the fish workers, the agricultural labor productivity measures are not correct in the regions with sea access.
+Reviewer_2	Author	1	3	0	2	In this case, it would be the primary sector labor productivity.
+Reviewer_2	Author	1	3	0	2	The authors should also clarify if this sector included the forest products and labor.
+					0	-
+Author	Reviewer_2	2	12	3	1	The reviewer is right.
+Author	Reviewer_2	2	12	3	1	The first sector is a macro conception of agriculture.
+Author	Reviewer_2	2	12	3	1	It indeed includes fishery.
+Author	Reviewer_2	2	12	3	1	However, the data of output and employment are both collected on this level - the first sector.
+Author	Reviewer_2	2	12	3	1	Hence, we assume the quotient of the two variables is a proxy to agriculture labor productivity.
+Author	Reviewer_2	2	12	3	1	Meanwhile, they are the only available data on the prefectural level to calculate agricultural labor productivity.
+Author	Reviewer_2	2	12	3	1	Therefore, we think this calculation is still helpful.
+Reviewer_2	Author	1	4	0	2	It is necessary to concrete more the definition of the data, output and labor, that the authors used in this measurement, because this has strong implications.
+					0	-
+Author	Reviewer_2	2	18	9	4	Yes, the Reviewer is correct.
+Author	Reviewer_2	2	16	7	3	We now specify this better in the text.
+Reviewer_2	Author	1	5	0	2	In the map of agricultural labor growth in Chinese region, the legend must include which is considered a high growth, medium and low growth of this variable.
+					0	- Yes, the Reviewer is correct.
+					0	We now specify this better in the text.
+					0	Issues to improve the paper:
+Reviewer_2	Author	1	6	0	2	The introduction is welldone, but it could be improved in some points.
+Reviewer_2	Author	1	6	0	2	I have missed a review of the literature.
+Reviewer_2	Author	1	6	0	2	The measurement of the agricultural labor productivity is an important theme in the literature, not only in the agricultural economics, but also in the economics literature.
+Reviewer_2	Author	1	6	0	2	For example, there are two paper published in two important journals in economics recently that the authors omitted.
+Reviewer_2	Author	1	6	0	2	These papers could be reinforcement about the relevance of this measurement of agricultural productivity: Gollin D, Lagakos D, Waugh ME (2014) Agricultural productivity differences across countries.
+Reviewer_2	Author	1	6	0	2	American Economic Review 104(5):165–170; Gollin D, Lagakos D, Waugh ME (2014) The agricultural productivity gap.
+Reviewer_2	Author	1	6	0	2	Quarterly Journal Economics 129(2): 939–993.
+					0	- The Reviewer raises a very valuable point.
+					0	We would like to thank the Reviewer to recommend us to develop this part.
+					0	We now include more recent literature in the introduction, as well as the government movements of the relevant policies in recent years.
+Reviewer_2	Author	1	7	0	2	Other thing to improve the introduction would be writing the main objective of the paper.
+Reviewer_2	Author	1	7	0	2	I think, this clear objective could improve the introduction about the target that the authors follow in this paper.
+Reviewer_2	Author	1	7	0	2	In this version, this is relatively diffuse.
+					0	- Yes, the Reviewer is correct.
+					0	We now specify this better in the text.
+Reviewer_2	Author	1	8	0	2	The authors could enrich the results’ part with reference to the concepts of convergence of Barro and Sala-i-Martin, beta and sigma convergence.
+Reviewer_2	Author	1	8	0	2	The authors wrote about these concepts, for example pg.
+Reviewer_2	Author	1	8	0	2	6 lines 22-23 and pg.
+Reviewer_2	Author	1	8	0	2	9 lines 5-6, but they can point out the non existence in the case of Chinese prefectural level.
+					0	-
+Author	Reviewer_2	2	17	8	1	The Reviewer raises a valuable point which we overlooked previously.
+Author	Reviewer_2	2	17	8	1	In the section 3.3, we improve the understanding of the growth pattern of Chinese agricultural labor productivity by adding the estimations of beta and sigma convergence.
+Author	Reviewer_2	2	17	8	1	The results of convergence estimation also echo our analysis of LGCM.
+Reviewer_2	Author	1	9	0	2	Maybe, the footnote 5 could go to the table 2’s note.
+					0	- Yes, the Reviewer is correct.
+Author	Reviewer_2	2	18	9	1	Since we add three years into the dataset (following the suggestion from the other reviewer), the table context changes.
+Author	Reviewer_2	2	18	9	1	We now improve this issue in the text.
+Reviewer_2	Author	1	10	0	2	One of the most interesting issues of the paper is the political change in 2004.
+Reviewer_2	Author	1	10	0	2	Perhaps, more detailed reasons of the reform would enrich the causes to promote it.
+Reviewer_2	Author	1	10	0	2	Besides, the implications of this political reform are explained in the text, but more detail in these explanations would permit to understand better these changes.
+					0	-
+Author	Reviewer_2	2	19	10	1	We improve this part in the text.
+Author	Reviewer_2	2	19	10	1	The recent movements of the government in this agricultural reform are added.
+Author	Reviewer_2	2	19	10	1	Since we add the data of recent three years, another break is observed in the curve.
+Author	Reviewer_2	2	19	10	1	So we also introduce the macro policy of stimulus package.
+Reviewer_2	Author	1	11	0	2	As a suggestion for this paper or another, having the data of output, labor and land, it is also interesting to analyze the agricultural labor productivity explained by the agricultural land productivity and land-labor ratios.
+Reviewer_2	Author	1	11	0	2	Maybe, some simple correlations between the growths of agricultural labor productivity vs land productivity and land-labor ratio could enrich this or future analysis.
+					0	-
+Author	Reviewer_2	2	20	11	1	The Reviewer raises a very interesting point.
+					0	We would like to thank the Reviewer to recommend us to develop this part.
+Author	Reviewer_2	2	20	11	1	However, the prefectural-level data in terms of farmland are only reported until 2007 in the China City Statistical Yearbook.
+					0	General comments The authors apply Latent Growth Curve Model (LGCM) approach to characterize the growth path of China’s agricultural labor productivity between 2000 and 2010 using a balanced panel data.
+					0	While the topic is interesting there are some major issues that need to be properly addressed first.
+					0	Data issue: The authors indicate their data source as “…an index of panel data on agricultural output and employment in the first sector of 287 prefectures from 2000 to 2010 is collected from the China city Statistical Yearbook (2001-2011)...” It is not clear what kind of index the authors are referring to.
+					0	Are the annual agricultural output data are measured in their nominal value (at current price) or in real value (at constant price)?
+					0	If it’s based on the real value then what kind of deflators are used in the estimation, national level or regional level since agricultural prices may vary across regions?
+					0	Labor productivity needs to be measured using real value of agricultural output.
+					0	Otherwise, it may reflect the changes in prices instead of productivity.
+					0	This issue needs to be properly addressed.
+					0	Literature discussion: Most of the literature cited in the Introduction section and Discussion section are published five years ago.
+					0	The authors may want to have some brief discussion on more recent literature regarding China’s productivity estimates and policy related issues.
+					0	Measurement issue: The authors rely on the Latent Growth Curve Modeling technique to study the trend growth of China’s agricultural labor productivity.
+					0	It is not clear, however, why the authors rely on a dataset with only 10-year period to discuss labor productivity trend growth issue instead of using a dataset with longer time period if data is available.
+					0	In addition, the authors may want to justify their approach by briefly discussing the advantage or shortcomings of their method comparing to other approaches in identifying the growth trend of China’s agricultural labor productivity.
+					0	Specific Comments Please double check the citations and the references list as some citations are not included in the references.
+					0	Table 1: The title of column 2 is not clear.
+					0	The numbers in that column seem to be cumulative proportions of total changes over time.
+					0	Please be more specific.
+					0	Table 3: Each column title needs to be more specific.
+					0	Figure 3: It is not clear what the axis labels represent in figure 3.
+					0	It needs to be noted.
+					0	Figure 4: Please be more specific regarding the range of slow, middle, and fast.
+					0	Appendix Figure A1: What is the definition of “absolute value” in this figure?
+					0	Appendix Figure A2: The figure presents the chain-linked index of output and input.
+					0	It is not clear whether the output is measured in real value (at constant price) or nominal value (at current price).
+					0	Please be more specific.
+					0	First of all, the paper is very interesting.
+					0	Despite that, the authors must improve the paper in order to get a better piece of work.
+					0	The most important issues to correct urgently: One question that it is necessary to correct is the number of figures in the text.
+					0	Besides, the authors must define better the data how the agricultural labor productivity was calculated.
+					0	The agricultural output is in current or constant prices?
+					0	This could have strong implications in one case or another, especially in the first case.
+					0	The context of this paper consists in growing agricultural prices, especially in the second half of this decade in the world panorama.
+					0	So, if the agricultural output is in current prices, the growing prices will affect deeply the results.
+					0	It must be clearer.
+					0	On the other hand, in the same line of text (pg.
+					0	4 line 3), the authors define the denominator of the agricultural labor productivity as the employed labors in the first sector.
+					0	What does this first sector mean?
+					0	Is it a synonymous of agricultural sector?
+					0	If this “first sector” includes the fish workers, the agricultural labor productivity measures are not correct in the regions with sea access.
+					0	In this case, it would be the primary sector labor productivity.
+					0	The authors should also clarify if this sector included the forest products and labor.
+					0	It is necessary to concrete more the definition of the data, output and labor, that the authors used in this measurement, because this has strong implications.
+					0	In the map of agricultural labor growth in Chinese region, the legend must include which is considered a high growth, medium and low growth of this variable.
+					0	Issues to improve the paper: The introduction is welldone, but it could be improved in some points.
+					0	I have missed a review of the literature.
+					0	The measurement of the agricultural labor productivity is an important theme in the literature, not only in the agricultural economics, but also in the economics literature.
+					0	For example, there are two paper published in two important journals in economics recently that the authors omitted.
+					0	These papers could be reinforcement about the relevance of this measurement of agricultural productivity: Gollin D, Lagakos D, Waugh ME (2014) Agricultural productivity differences across countries.
+					0	American Economic Review 104(5):165–170; Gollin D, Lagakos D, Waugh ME (2014) The agricultural productivity gap.
+					0	Quarterly Journal Economics 129(2): 939–993.
+					0	Other thing to improve the introduction would be writing the main objective of the paper.
+					0	I think, this clear objective could improve the introduction about the target that the authors follow in this paper.
+					0	In this version, this is relatively diffuse.
+					0	The authors could enrich the results’ part with reference to the concepts of convergence of Barro and Sala-i-Martin, beta and sigma convergence.
+					0	The authors wrote about these concepts, for example pg.
+					0	6 lines 22-23 and pg.
+					0	9 lines 5-6, but they can point out the non existence in the case of Chinese prefectural level.
+					0	Maybe, the footnote 5 could go to the table 2’s note.
+					0	One of the most interesting issues of the paper is the political change in 2004.
+					0	Perhaps, more detailed reasons of the reform would enrich the causes to promote it.
+					0	Besides, the implications of this political reform are explained in the text, but more detail in these explanations would permit to understand better these changes.
+					0	As a suggestion for this paper or another, having the data of output, labor and land, it is also interesting to analyze the agricultural labor productivity explained by the agricultural land productivity and land-labor ratios.
+					0	Maybe, some simple correlations between the growths of agricultural labor productivity vs land productivity and land-labor ratio could enrich this or future analysis.
+Reviewer_1	Author	3	1	0	2	One specific comment: Please double check the references list as some citations are not included in the references.
+Reviewer_2	Author	3	1	0	2	It is correct to be published and the authors have made a strong effort to consider my comments and suggestions.

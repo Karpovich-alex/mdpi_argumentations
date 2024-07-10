@@ -1,0 +1,376 @@
+ISSN 2076-3387 http://www.mdpi.com/journal/admsci Peer-Review Record: Local Management of National Cluster Policies: Comparative Case Studies of Japanese, German, and French Biotechnology Clusters Hiroyuki Okamuro and Junichi Nishimura Administrative Sciences 2015, 5, 213–239, doi: 10.3390/admsci5040213 Reviewer 1: Anonymous Reviewer 2: Anonymous Editor: Maximilian Benner (Guest Editor of Cluster Policy: Institutional and International Perspectives) Received: 27 April 2015 / Accepted: 27 October 2015 / Published: 3 November 2015 1.
+First Round of Evaluation Round 1: Interesting idea to look at the impact of cluster policy/program design on the cluster (initiative management).
+Also sound profiling of the different cluster programs and initiatives.
+But the analysis of the data is weak, and the paper remains largely descriptive.
+Would suggest to use these case studies as a source of ideas on how policies and cluster initative management migth relate to each other; that would make this a more interesting paper.
+Ultimately there is then also the question of how this interaction affects performance and what policy implications the authors see (should policies be changed; should cluster initiative managers make different choices; can they if policies are given).
+The conceputal framework (figure 1) is very similar to the 'cluster initiative performance model' in the Cluster Initiative Greenbook (Solvell et al., 2003), adding the hypothesis that there might be an interaction between policy context and management and being somewhat more narrow on the elements included.
+There are also existing reviews of cluster policies in Europe that should be considered (Clusters are Individuals, 2012, BMWi; VDI/VDE; Dasti).
+There is also a growing literature on cluster initiative management in Europe (see the EU's "Excellence Initiative' with the benchmarking of cluster initiatives) that should be considered.
+The language the authors use is here a bit imprecise - they seem to be talking about the management of cluster initiatives, not about the management of the policies themselves (which is more a question of how the program oversight is organized within government; also an interesting but different question).
+R2 Round 1: Author Response to Reviewer 1 We are very grateful for your valuable comments and suggestions, which help improve our manuscript significantly.
+We tried to consider the comments and suggestions as far as possible in revising our manuscript.
+In the following, we will reply to each of your comments, using blue letters for our responses.
+But the analysis of the data is weak, and the paper remains largely descriptive.
+Would suggest to use these case studies as a source of ideas on how policies and cluster initiative management might relate to each other; that would make this a more interesting paper.
+* We fundamentally reorganized our manuscript so that its story and structure might be much clearer in the revision.
+In Section 2.2 we explicitly presented three hypotheses that are tested and discussed in later sections using information on six cluster cases.
+Section 5 also was reorganized so that the relationship of local cluster management to basic conditions and to national cluster polity, respectively, could be tested for each country using some cases of clusters and cluster management.
+The conceptual framework (figure 1) is very similar to the 'cluster initiative performance model' in the Cluster Initiative Greenbook (Solvell et al., 2003), adding the hypothesis that there might be an interaction between policy context and management and being somewhat more narrow on the elements included.
+There are also existing reviews of cluster policies in Europe that should be considered (Clusters are Individuals, 2012, BMWi; VDI/VDE; Dasti).
+There is also a growing literature on cluster initiative management in Europe (see the EU's "Excellence Initiative' with the benchmarking of cluster initiatives) that should be considered.
+* We revised and simplified Figure 1 by deleting cluster performance and its relationships with other factors because in fact we do not address them in our manuscript.
+* We read and cited in our manuscript the suggested and other references that correspond to [25], [31], [32], [33], [34], [35] and [36] (especially in Section 2.2) in revising our conceptual framework.
+The language the authors use is here a bit imprecise - they seem to be talking about the management of cluster initiatives, not about the management of the policies themselves (which is more a question of how the program oversight is organized within government; also an interesting but different question).
+* This manuscript addresses the relationship of national cluster policy and its local implementation, and not the policy organization within the government.
+Therefore, we slightly changed the titles of the manuscript and Section 5, and revised related terms throughout the manuscript, using the terms such as “local implementation” or “local management”.
+Round 1: Referee Report for Administrative Sciences Management of cluster policies for innovation: Comparative case studies of Japanese, German, and French biotechnology clusters Manuscript no.
+admsci-85306 R3 Brief Summary The paper tackles a relevant topic and takes up an important research deficit, i.e.
+the interface between national cluster policies and cluster management on the ground, and thus makes an original contribution to our understanding of cluster policies and their implementation.
+It develops a conceptual frame for the comparative analysis of cluster policies and applies it to six case studies in three countries.
+The paper is well-written and organised.
+However, it remains predominantly descriptive in its present state, and does not seek to explain the differences found in both countries.
+When revising the paper, the authors are advice to add a theoretical/conceptual frame that allows them to strengthen the paper’s explanatory value.
+In sum, I recommend that the paper be reconsidered after a major revision.
+The authors might find the following major and minor comments helpful when revising their paper.
+Broad Comments The paper fills an important research deficit by focusing on the interdependence between national cluster policy programmes and their implementation by cluster management on the ground.
+Its main contributions lie in the conceptual framework displayed in figure 1 and its application to six case studies from three countries.
+However, the conceptual framework appears simplistic, technocratic and static, and it is not sufficiently rooted in literature as evident from the scarcity of references in section 2.2.
+It is simplistic and technocratic because it views cluster performance as an outcome of initial conditions (i.e., the state of cluster development), cluster management and national polices.
+The paper thus rests on the untested presumption that cluster management and national policies actually impact the performance of clusters.
+As scholars, the authors should challenge this technocratic faith of policy-makers and practitioners, although evaluation is beyond this paper’s scope.
+The performance of clusters is also affected by many exogenous influences not captured in the simple model.
+Furthermore, ‘initial conditions’ fail to capture the complexity of clusters if they are reduced to a dichotomy of private vs. public sector dominance.
+Even when the industry (biotechnology) is held constant, clusters differ in a number of ways, esp.
+regarding their specialisation within biotechnology, their maturity, size (number of firms and employee) and firm size structure.
+Finally, the paper is static as it does not account for cluster evolution and (policy) learning over time.
+For instance, what does it mean if a regional cluster organisation is pre-dating the national policy programme it is supposed to implement, as evident from some of the cases?
+Such limitations do not necessarily disqualify the paper, but should be discussed reflexively in the paper’s conclusions.
+At present, the final section is merely a summary with the exception of the very last sentence briefly sketching the need for including evaluation in comparative cluster policy research.
+The paper contributes to comparative cluster policy research and thus helps overcoming the prevailing focus on individual case studies.
+However, it remains rather descriptive and does not systematically attempt to explain the differences found between the three countries.
+The authors conclude that they found ‘consistent combinations of the types of national policies, local clusters, and cluster management’.
+This appears hardly surprising given the co-evolution of policies and cluster management within a common institutional environment.
+A conceptual and/or theoretical perspective is needed to shed light at the differences found.
+The authors should include a discussion on how these R4 countries differ e.g.
+in terms of the role of the state versus private initiative, governance traditions and philosophies, centralist vs. federal set-up.
+As Kiese (2009) showed for three European Countries including Germany and France, these differences leave an imprint on the design and implementation of national cluster policies.
+The varieties of capitalism (VoC) concept developed by HALL/SOSKICE (2011) may be a suitable concept here, as it has been applied to cluster policies in the U.S. and Germany by STERNBERG ET AL.
+(2010).
+Since Japan, France and Germany are all classified as co-ordinated market economies in the original VoC concept, more nuanced differentiations of capitalisms – or other institutional frameworks – might be recommended for the paper.
+The authors focus on what they call ‘intellectual clusters’, a term that appears 21 times throughout the paper although I cannot recall having ever seen it in a decade or so of studying clusters and cluster policies.
+According to the definition on the top of page 4, the term denotes a cluster led by a public research organisation, which is rather specific and I doubt it applies to the six case studies outlined in the paper.
+Even so, the term ‘intellectual’ does not look fully appropriate here, which may be due to its translation from a Japanese original.
+‘Public research-led cluster’ might be more to the point, as it appears difficult to judge if these are more or less ‘intellectual’ than other forms of clusters.
+At the least, it would appear sound to qualify these six cases as science-based clusters, but then this would apply to the biotech industry and all its clusters in general.
+Methodology: The choice of clusters is generally well explained on pp.
+2-3.
+When elaborating on the choice of nations, one might wonder why the United States have not been included – possibly because there is no comparable national cluster policy?!
+When explaining the choice of regional cases, the term ‘representative’ appears misleading.
+It seems that the most prominent or successful cases have been selected, at least for Germany and France.
+How can these be ‘representative’ for whatever population of biotech clusters in these countries?
+When outlining their research methodology, the authors should state precisely how many interviews they conducted.
+It looks as if one interview was done with the cluster manager in the six regions, but the authors also claim to have interviewed ‘the presidents of cluster firms’ (p. 8, line 20) without indicating the number.
+Given the conceptual framework outlined in figure 1, one might also wonder why national policymakers, i.e.
+representatives of the respective national cluster programmes, have not been surveyed as well.
+Furthermore, some reflection on the adopted comparative case study research design with references would be desirable.
+Section 4: The presentation of the six case studies is very systematic and clear.
+However, sections 4.3 to 4.5 leave an impression that the assessment of these cases as ‘bottom-up’ is not completely justified.
+The authors seem to assume that cluster policies are either bottom-up or top-down, without any shades of grey in between.
+Compared to the Japanese cases, the French and German cases are clearly more bottom-up, but they still display clear – if not dominant – elements of top-down governance and public agency.
+This dichotomy should be refined and the classification of cases qualified as, e.g., ‘relatively bottom-up’.
+For the German cases, the authors may have underestimated public agency, since they did not investigate the role of state governments (Bavaria, Baden-Württemberg) within the country’s system of multilevel governance, which is key to understand cluster policies in Germany (cf.
+KIESE 2013).
+Furthermore, the state government of R5 Bavaria may be a regional government, but it is certainly not a local authority (like the city of Munich; page 15, line 29) in Germany’s system of multilevel governance.
+Section 5 does not include any reference and is purely descriptive and sometimes even superficial, lacking any comparison, explanation or assessment.
+This is probably the result of a rather weak empirical basis, provided it draws on interviews with a total of six cluster managers.
+Critical issues such as the cluster management organisation’s budget and finance have not been addressed.
+The relevance of the information presented here for the following discussion and conclusion remain far from clear.
+In my humble opinion, this is the weakest part of the paper that might well be omitted and replaced by a suitable conceptual frame for international comparison, as outlined above.
+As also elaborated above, the conclusion should go beyond a mere summary to include methodological reflection, implications for policy (learning), as well as a more extensive discussion of further research perspectives.
+Specific Comments Page 3, line 3: The authors might want to link to the literature on differentiated knowledge bases, which assigns an analytical (science-based) knowledge base to the biotech industry (cf.
+ASHEIM ET AL.
+2011).
+Page 4, line 23: ‘few studies’ – If you mean ‘few’, please state the references.
+If ‘few’ means ‘no’, then please say so straightaway.
+Page 6, line 25: I would suggest softening the statement that matched funding ‘prevents moral hazard and crowding out’.
+It certainly helps preventing, partly prevents, or reduces the risk of these problems occurring.
+Section 2 contains a number of “expectations”, which could be flagged out and numbered as hypotheses.
+Taking these up in the empirical discussion could help the reader’s orientation.
+Page 8, lines 1-2: This is interesting indeed.
+Is there comparable evidence on policy learning between Germany and France?
+Timing and content suggest that French national policies may well have been inspired by the German BioRegio contest.
+Page 10, line 19 – ‘several cluster policies’: I would address this family of related programmes as one policy rather than many.
+Page 10, line 28: The number of 85 applicants contains some clusters who applied more than once in the three rounds of the contest.
+Section 3.3: There is a little bit of literature on French national cluster policy that deserves a brief review or at least reference here (e.g., BRETTE/CHAPPOZ 2007, DURANTON ET AL.
+2010, LONGHI/ROCHHIA 2013).
+Page 12, lines 11-12: Table 2 provides a descriptive summary, but no ‘explanation’ – see major comments.
+Page 14, line 21: How can this be a cluster if there are ‘only a few biotech ventures’?
+If the aim of public policy is to grow a cluster around a research organisation or hospital, this does not seem to produce any meaningful outcomes as yet.
+R6 Page 15, lines 22-23: ‘Large firms are on the whole not active in clusters’ – As a general statement, this is certainly not true.
+Page 15, line 24: Here and elsewhere, universities are attributed with the term ‘famous’.
+This should be backed up with evidence (data) and preferably rephrased, such as ‘recognised research universities’, or ‘elite’ with reference to the German federal government’s programme of university excellence (Exzellenzinitiative).
+Page 15, line 27: Repetition – the IZB incubator was already mentioned on line 9.
+Section 4.5: Unlike the regional cluster initiatives in Alsace and Baden, the trinational BioValley initiative has hardly had any impact in terms of intensifying cross-border interaction, confirming problems that KOSCHATZKY (2000) had identified long before.
+Indeed, many INTERREG projects fail to overcome the differences in national languages, legislations and cultures, even though the regions are neighbours.
+The layout of the tables may be improved, especially the spacing of the text.
+The paper contains funding information in Yen and Euros.
+This should be harmonised, or preferably conversions given in brackets or footnotes for the reader’s convenience.
+The paper is well-written and makes fluent reading, but still requires some minor language editing.
+Recurring mistakes include the use of articles (a/the) and singular versus plural (the singular of consortia is consortium).
+References ASHEIM, B.T.
+; BOSCHMA, R.; COOKE, P., 2011: Constructing regional advantage: Platform policies based on related variety and differentiated knowledge bases.
+In: Regional Studies, 45(7): 893-904.
+BRETTE, O.; CHAPPOZ, Y., 2007: The French competitiveness clusters: Toward a new public policy for innovation and research?
+In: Journal of Economic Issues, 41(2): 391-398.
+DURANTON, G.; MARTIN, P.; MAYER, T.; MAYNERIS, F., 2010: The economics of clusters: Lessons from the French experience.
+(=Studies of Policy Reform).
+Oxford: Oxford Univ.
+Press.
+HALL, P.A.
+; SOSKICE, D., 2001: An introduction to varieties of capitalism.
+In: Hall, P.A.
+; Soskice, D. (eds): Varieties of capitalism: The institutional foundations of comparative advantage.
+Oxford: Oxford Univ.
+Press, 1-68.
+KIESE, M., 2009: National styles of cluster promotion: Cluster policies between variety and convergence.
+In: Hagbarth, L.
+(ed.
+): Innovative city and business regions.
+(=Structural change in Europe, 6).
+Bollschweil: Hagbarth Publications, 57-67.
+KIESE, M., 2013: Regional cluster policies in Germany – A multi-level governance perspective on policy learning.
+In: European Review of Industrial Economics and Policy (5).
+http://revel.unice.fr/eriep/index.html?id=3543, accessed March 13th, 2015.
+KOSCHATZKY, K., 2000: A river is a river – Cross-border networking between Alsace and Baden.
+In: European Planning Studies, 8(4): 429-449.
+R7 LONGHI, C.; ROCHHIA, S., 2013: Cluster policy for innovation and competitiveness: Lessons from the French experience.
+In: European Review of Industrial Economics and Policy (5).
+http://revel.unice.fr/eriep/index.html?id=3495, accessed June 13, 2015.
+STERNBERG, R.; KIESE, M.; STOCKINGER, D., 2010: Cluster policies in the US and Germany: Varieties of capitalism perspective on two high-tech states.
+In: Environment and Planning C, 28(6): 1063-1082.
+Round 1: Author Response to Reviewer 2 We are very grateful for your detailed, insightful comments and suggestions, which help improve our manuscript significantly.
+We tried to consider the comments and suggestions as far as possible in revising our manuscript.
+In the following, we will reply to each of your comments, using blue letters for our responses (underlines in the comments by the authors).
+Broad Comments • However, the conceptual framework appears simplistic, technocratic and static, and it is not sufficiently rooted in literature as evident from the scarcity of references in section 2.2.
+* We revised the concept and its explanation, and added some references in Section 2.2 and in Introduction.
+For more details, please see below.
+• It is simplistic and technocratic because it views cluster performance as an outcome of initial conditions (i.e., the state of cluster development), cluster management and national polices.
+The paper thus rests on the untested presumption that cluster management and national policies actually impact the performance of clusters.
+As scholars, the authors should challenge this technocratic faith of policy-makers and practitioners, although evaluation is beyond this paper’s scope.
+The performance of clusters is also affected by many exogenous influences not captured in the simple model.
+* In this manuscript, we do not intend to demonstrate direct performance effect of cluster conditions, cluster policy, and cluster management.
+This is beyond the scope of our paper.
+It would be an important research topic to challenge the “technocratic faith”, but we cut the discussion about the factors of cluster performance from the text and Figure 1 in order to avoid any misunderstanding.
+Instead, we added a detailed discussion about “initial conditions” (now “basic conditions”) of clusters in Section 2.2 and 3.1 (a new section).
+• Furthermore, ‘initial conditions’ fail to capture the complexity of clusters if they are reduced to a dichotomy of private vs. public sector dominance.
+Even when the industry (biotechnology) is held constant, clusters differ in a number of ways, esp.
+regarding their specialisation within biotechnology, their maturity, size (number of firms and employee) and firm size structure.
+* In page 4 below in Section 2.2, we added a brief explanation of the “initial” (now “basic”) conditions of clusters.
+There we suggested that they comprise various regional characteristics and that also R8 scientific or industrial focus may differ across clusters within life science or biotechnology.
+In the new Section 3.1, we explained the differences of basic conditions in more detail.
+• Finally, the paper is static as it does not account for cluster evolution and (policy) learning over time.
+For instance, what does it mean if a regional cluster organisation is pre-dating the national policy programme it is supposed to implement, as evident from some of the cases?
+Such limitations do not necessarily disqualify the paper, but should be discussed reflexively in the paper’s conclusions.
+At present, the final section is merely a summary with the exception of the very last sentence briefly sketching the need for including evaluation in comparative cluster policy research.
+* It is true that in some cases local cluster organization had been established and had started its activity before the focal cluster policy started.
+Because of limited information, we could not sufficiently consider cluster and policy dynamics over time, but referred to the lack of dynamic approach in our study in the conclusion.
+• The paper contributes to comparative cluster policy research and thus helps overcoming the prevailing focus on individual case studies.
+However, it remains rather descriptive and does not systematically attempt to explain the differences found between the three countries.
+(…) A conceptual and/or theoretical perspective is needed to shed light at the differences found.
+The authors should include a discussion on how these countries differ e.g.
+in terms of the role of the state versus private initiative, governance traditions and philosophies, centralist vs. federal set-up.
+(…) The varieties of capitalism (VoC) concept developed by HALL/SOSKICE (2011) may be a suitable concept here, as it has been applied to cluster policies in the U.S. and Germany by STERNBERG et al.
+(2010).
+Since Japan, France and Germany are all classified as co-ordinated market economies in the original VoC concept, more nuanced differentiations of capitalisms – or other institutional frameworks – might be recommended for the paper.
+* We recognized that we did not concretely explain the initial (we changed the term to “basic” in the revision) conditions of clusters in the previous version.
+Moreover, we recognize that it is important to discuss in detail how these countries differ regarding basic conditions and why the national cluster policies differ across them.
+Therefore, we fundamentally changed the structure of our manuscript and set up a new Section 3.1 to discuss these issues in detail.
+Here, we cited the suggested book chapter and paper, but mainly used statistical evidence from OECD Science, Technology and Industry Scoreboard on (different) innovation systems to characterize basic conditions of clusters and to distinguish between private- and public-driven clusters.
+We summarized the discussion in Table 1 (new).
+• The authors focus on what they call ‘intellectual clusters’, a term that appears 21 times throughout the paper although I cannot recall having ever seen it in a decade or so of studying clusters and cluster policies.
+According to the definition on the top of page 4, the term denotes a R9 cluster led by a public research organisation, which is rather specific and I doubt it applies to the six case studies outlined in the paper.
+Even so, the term ‘intellectual’ does not look fully appropriate here, which may be due to its translation from a Japanese original.
+‘Public research-led cluster’ might be more to the point, as it appears difficult to judge if these are more or less ‘intellectual’ than other forms of clusters.
+At the least, it would appear sound to qualify these six cases as science-based clusters, but then this would apply to the biotech industry and all its clusters in general.
+* Maybe “intellectual cluster” is a specific jargon in the Japanese policy.
+Following your suggestion, and according to the EU reports we cited in our manuscript, we deleted the adjective “intellectual” for clusters and just use “clusters”, because it does neither affect our concept nor findings.
+• Methodology: The choice of clusters is generally well explained on pp.
+2-3.
+When elaborating on the choice of nations, one might wonder why the United States have not been included – possibly because there is no comparable national cluster policy?!
+When explaining the choice of regional cases, the term ‘representative’ appears misleading.
+It seems that the most prominent or successful cases have been selected, at least for Germany and France.
+How can these be ‘representative’ for whatever population of biotech clusters in these countries?
+When outlining their research methodology, the authors should state precisely how many interviews they conducted.
+It looks as if one interview was done with the cluster manager in the six regions, but the authors also claim to have interviewed ‘the presidents of cluster firms’ (p. 8, line 20) without indicating the number.
+Given the conceptual framework outlined in figure 1, one might also wonder why national policymakers, i.e.
+representatives of the respective national cluster programs, have not been surveyed as well.
+Furthermore, some reflection on the adopted comparative case study research design with references would be desirable.
+* We did not include USA in the international comparison because, as you correctly suggested, there is no comparable national cluster policy there.
+However, we use USA in Table 1 on basic conditions as the baseline reference for the three countries.
+* We recognize that the term “representative” is misleading.
+We replaced it with “outstanding” in the revised manuscript.
+* We added detailed information about the number and types of interview partners and interview time on page 9 at the end of Section 2.3 (Research Methodology).
+* We did not interview the officers in charge of cluster policy in the government because information on national cluster policy was sufficiently available from cluster managers and second sources including ministry’s websites and because we are more interested in the relationship of cluster policy with basic conditions and local management than in the cluster policy itself.
+* With 3 references, we discussed in the (newly inserted) third paragraph of Section 2.3 the advantages of comparative case studies across countries focusing on biotechnology.
+R10 · Section 4: The presentation of the six case studies is very systematic and clear.
+However, sections 4.3 to 4.5 leave an impression that the assessment of these cases as ‘bottom-up’ is not completely justified.
+The authors seem to assume that cluster policies are either bottom-up or top-down, without any shades of grey in between.
+Compared to the Japanese cases, the French and German cases are clearly more bottom-up, but they still display clear – if not dominant – elements of top-down governance and public agency.
+This dichotomy should be refined and the classification of cases qualified as, e.g., ‘relatively bottom-up’.
+For the German cases, the authors may have underestimated public agency, since they did not investigate the role of state governments (Bavaria, Baden-Württemberg) within the country’s system of multilevel governance, which is key to understand cluster policies in Germany (cf.
+KIESE 2013).
+Furthermore, the state government of Bavaria may be a regional government, but it is certainly not a local authority (like the city of Munich; page 15, line 29) in Germany’s system of multilevel governance.
+* The classification between top-down and bottom-up clusters is misleading.
+In the conceptual framework we distinguish between public-driven and private-driven clusters, so that in the revised version we focused on this type of distinction and cut all descriptions on top-down and bottom-up clusters.
+* Referring to Kiese (2013) and Sternberg et al.
+(2010), but also other papers such as Crespy et al.
+(2007) for France, we added that, especially for Germany, we should not underestimate the roles of states and local authorities in the cluster policy.
+Finally, in the conclusion, we stressed the lack of multilevel governance approach as a limitation, which should be more explicitly considered in future research.
+• Section 5 does not include any reference and is purely descriptive and sometimes even superficial, lacking any comparison, explanation or assessment.
+This is probably the result of a rather weak empirical basis, provided it draws on interviews with a total of six cluster managers.
+Critical issues such as the cluster management organisation’s budget and finance have not been addressed.
+The relevance of the information presented here for the following discussion and conclusion remain far from clear.
+In my humble opinion, this is the weakest part of the paper that might well be omitted and replaced by a suitable conceptual frame for international comparison, as outlined above.
+* We recognized that this section has several problems, but only this section describes and compares local cluster management based on our own interviews, so that this is the core part of our manuscript.
+Therefore, we fundamentally changed this section in the following way.
+First, we have some reference in the revised version, whereas this section is mainly based on our interviews.
+Second, at the beginning of this section, we explained the relevance of this section in our concept, especially with regard to our (new) hypotheses.
+Third, more importantly, we reorganized this section to a comparison of cluster management across three countries, focusing on the selection procedure of joint R&D R11 projects (and cutting other information such as monitoring process and support programs).
+In this way, we made it clear what we do in this section: to check the consistency of local cluster management (regarding project selection) with the cluster’s basic conditions and the national policy.
+We believe that we could clarify the relevance of the content of this section with the preceding part and the conclusion of this manuscript.
+* Cluster Organization’s governance and financing, which was already described in another section in the previous version, is now explained even earlier, in Section 3.2.
+• As also elaborated above, the conclusion should go beyond a mere summary to include methodological reflection, implications for policy (learning), as well as a more extensive discussion of further research perspectives.
+* We cut the most part of the discussion in the conclusion (which was mostly redundant with the contents of preceding sections), and added policy implication and some limitations (lack of multilevel governance and dynamic perspectives, possible selection bias of target clusters, and the descriptive and qualitative nature of the study) combined with future research perspectives.
+Specific Comments • Page 3, line 3: The authors might want to link to the literature on differentiated knowledge bases, which assigns an analytical (science-based) knowledge base to the biotech industry (cf.
+ASHEIM ET AL.
+2011).
+* We cited this paper in footnote 4 in page 3.
+• Page 4, line 23: ‘few studies’ – If you mean ‘few’, please state the references.
+If ‘few’ means ‘no’, then please say so straightaway.
+* We agree with the suggestion and changed “few” to “no”.
+We also checked all the other terms “few” in the manuscript and treated them in the suggested way.
+• Page 6, line 25: I would suggest softening the statement that matched funding ‘prevents moral hazard and crowding out’.
+It certainly helps preventing, partly prevents, or reduces the risk of these problems occurring.
+* We changed the sentence (now page 6, line 22) in the following way: “may enhance the incentives of member firms to succeed and partially prevent moral hazard and crowding out”.
+• Section 2 contains a number of “expectations”, which could be flagged out and numbered as hypotheses.
+Taking these up in the empirical discussion could help the reader’s orientation.
+* Based on the argument in Section 2.2, we presented three hypotheses in page 7, which are repeatedly addressed in later sections and the conclusion.
+R12 • Page 8, lines 1-2: This is interesting indeed.
+Is there comparable evidence on policy learning between Germany and France?
+Timing and content suggest that French national policies may well have been inspired by the German BioRegio contest.
+* We found no evidence on policy learning between Germany and France.
+• Page 10, line 19 – ‘several cluster policies’: I would address this family of related programmes as one policy rather than many.
+* We changed the phrase to “a series of national cluster policy” (now page 18, line 5) at the beginning of Section 4.2.
+• Page 10, line 28: The number of 85 applicants contains some clusters who applied more than once in the three rounds of the contest.
+* We noticed in footnote 18 in page 18 that some cluster regions may have applied for this program twice or three times after failing in the previous competition.
+• Section 3.3: There is a little bit of literature on French national cluster policy that deserves a brief review or at least reference here (e.g., BRETTE/CHAPPOZ 2007, DURANTON ET AL.
+2010, LONGHI/ROCHHIA 2013).
+* We cited these studies in Introduction and in Section 4.3 (page 18, footnotes 20 and 21).
+• Page 12, lines 11-12: Table 2 provides a descriptive summary, but no ‘explanation’ – see major comments.
+* We cut the previous Table 2 (on each target cluster and cluster management) in the revision and also the related sentence.
+• Page 14, line 21: How can this be a cluster if there are ‘only a few biotech ventures’?
+If the aim of public policy is to grow a cluster around a research organisation or hospital, this does not seem to produce any meaningful outcomes as yet.
+* We agree with you.
+However, according to the MEXT’s definition, clusters need not involve local high-tech ventures.
+R&D collaboration between local public research institute and private firms outside of the cluster area is also an important part of a cluster for MEXT.
+Regarding the aim of local authorities, which includes the development of a cluster around a research organization or hospital, indeed cluster policy has not produced any outcomes yet.
+• Page 15, lines 22-23: ‘Large firms are on the whole not active in clusters’ – As a general statement, this is certainly not true.
+* We cut this sentence.
+• Page 15, line 24: Here and elsewhere, universities are attributed with the term ‘famous’.
+This should be backed up with evidence (data) and preferably rephrased, such as ‘recognised R13 research universities’, or ‘elite’ with reference to the German federal government’s programme of university excellence (Exzellenzinitiative).
+* We used “prominent” and “excellent” instead of “famous”.
+• Page 15, line 27: Repetition – the IZB incubator was already mentioned on line 9.
+* We cut this sentence.
+• Section 4.5: Unlike the regional cluster initiatives in Alsace and Baden, the trinational BioValley initiative has hardly had any impact in terms of intensifying cross-border interaction, confirming problems that KOSCHATZKY (2000) had identified long before.
+Indeed, many INTERREG projects fail to overcome the differences in national languages, legislations and cultures, even though the regions are neighbours.
+* We cited this paper in footnote 14 in Section 3.2.
+(3) to mention that Trinational BioValley has hardly had any impact in terms of intensifying cross-border interaction.
+• The layout of the tables may be improved, especially the spacing of the text.
+* We changed the layout of the tables enlarging the font.
+• The paper contains funding information in Yen and Euros.
+This should be harmonised, or preferably conversions given in brackets or footnotes for the reader’s convenience.
+* In the revision, we write the funding amount for Japan in Yen, but give the converged amount in Euro in parentheses.
+We use the most recent exchange rate for convenience, and explain it where it is first mentioned (note to Table 1 in page 16 and footnote 17 in page 17).
+2.
+Second Round of Evaluation Round 2: The paper now looks but I would encourage you to have a native speaker look at it, mainly to clarify the language in some places.
+Content-wise to me the key observation is the - potentially systematic - connection between the way cluster policies arestructure and the organization of cluster initiatives.
+This is not a big suprise, and it doesn't really answer the question asto which model is better (only that there are internally consistent models that are different).
+But it isstill a usual observation to make.
+Round 2: Author Response to Reviewer 1 Thank you for your comments.
+The revised version went through a professional, native English editing.
+Indeed, it is not a big surprise that the characteristics of national cluster policies and their local implementation are consistent, but still it is our (small but significant) contribution to concretely show the consistency in international comparison with original interviews of cluster managers.
+It is beyond the scope of our manuscript to answer the question as to which model is better for the cluster performance, so we leave it as a future research agenda.
+R14 Round 2: I wish to congratulate the authors for their careful and thoughtful revision.
+All remarks have been considered, most have been fully incorporated and the paper has gained substantially from revision.
+As a consequence, I can now recommend the paper for publication with minor corrections, including some language editing.
+Since this may be managed by the editorial office, I do not see the need for another review.
+Remaining Comments o Although the new section 3.1 helps situating the cases within their respective national contexts, it’s focus is on performance indicators.
+If the underlying institutional differences would have been revealed as suggested, this section would be even more valuable for understanding the differences.
+This section now uses the term ‘innovation system’ at the national scale, but there is no discussion of or reference to the concept of national systems of innovation.
+A substantial body of literature has grown on the back of seminal contributions by Edquist (1997), Freeman (1987, 1988, 1995) with reference to Japan, Lundvall (1992), and Nelson (1993).
+o Although ‘top-down’ and ‘bottom-up’ have been replaced by public-driven and ‘private-driven’, the dichotomist nature remains as the focus of my critique.
+I would still like to see a qualification stating that private and public initiative often interacts in cluster development, and that the degree of private and public sector involvement usually differs from case to case.
+o P. 11: References on Japan and France should be added to the last two sentences of the first paragraph.
+o P. 14: On section 4.5 in the first draft, I commented that “Unlike the regional cluster initiatives in Alsace and Baden, the trinational BioValley initiative has hardly had any impact in terms of intensifying cross-border interaction, confirming problems that Koschatzky (2000) had identified long before.
+Indeed, many INTERREG projects fail to overcome the differences in national languages, legislations and cultures, even though the regions are neighbours.” In response, the authors now cite this paper in footnote 14 in Section 3.2. to support the view that BioValley has hardly had any impact in terms of intensifying cross-border interaction.
+This reformulation is incorrect as the Koschatzky (2000) paper pre-dated the BioValley initiative and does not look at INTERREG either.
+Unfortunately, my claim regarding the limited impact of BioValley on cross-border networking draws on conversations with practitioners and a field trip to the region, but cannot be supported by a reference as far as I know.
+I would therefore suggest to drop this footnote altogether.
+o P. 16: Sources should be stated underneath table 2. o P. 18 (section 4.1, top paragraph): I would rather prefer “a series of national cluster programmes” as part of an evolving policy.
+o P. 22: “differences might be attributed to those in innovation systems as basic conditions of clusters.” This is central, so the discussion should be summarised in the conclusions, preferably R15 taking up the three hypotheses: To what extent and how can differences in cluster policies and cluster management be linked to differences in national systems of innovation?
+References Edquist, C.
+(ed.
+), 1997: Systems of Innovation: Technologies, Institutions and Organizations.
+London, Washington: Pinter.
+Freeman, C., 1987: Technology Policy and Economic Performance: Lessons from Japan.
+London, New York: Pinter.
+Freeman, C., 1988: Japan: A new National System of Innovation?
+In: Dosi, G.; Freeman, C.; Nelson, R.R.
+; Soete, L. (eds): Technical Change and Economic Theory.
+(=IFIAS Research Series, 6).
+London: Pinter, 330-348.
+Freeman, C., 1995: The National System of Innovation in Historical Perspective.
+In: Cambridge Journal of Economics, 19(1): 5-24.
+Lundvall, B.-A.
+(ed.).
+1992: National Systems of Innovation: Towards a Theory of Innovation and Interactive Learning.
+London: Pinter.
+Nelson, R.R.
+(ed.
+), 1993: National Systems of Innovation: A Comparative Study.
+Oxford, New York, Toronto: Oxford Univ.
+Press.
+Round 2: Author Response to Reviewer 2 I wish to congratulate the authors for their careful and thoughtful revision.
+All remarks have been considered, most have been fully incorporated and the paper has gained substantially from revision.
+As a consequence, I can now recommend the paper for publication with minor corrections, including some language editing.
+Since this may be managed by the editorial office, I do not see the need for another review.
+* Thank you for your recommendation.
+We provided minor corrections to our manuscript based on the following comments.
+The revised version went through a professional, native English editing.
+Remaining Comments Although the new section 3.1 helps situating the cases within their respective national contexts, it’s focus is on performance indicators.
+If the underlying institutional differences would have been revealed as suggested, this section would be even more valuable for understanding the differences.
+This section now uses the term ‘innovation system’ at the national scale, but there is no discussion of or reference to the concept of national systems of innovation.
+A substantial body of literature has grown on the back of seminal contributions by Edquist (1997), Freeman (1987, 1988, 1995) with reference to Japan, Lundvall (1992), and Nelson (1993).
+* We added a discussion on the national systems of innovation in the first two paragraphs of Section 3.1 (p. 9) referring to the suggested seminal works.
+Moreover, in the remaining part of this section (pp.
+10-11), we added some sentences with supporting references on the underlying institutional differences.
+Although ‘top-down’ and ‘bottom-up’ have been replaced by public-driven and ‘private-driven’, the dichotomist nature remains as the focus of my critique.
+I would still like to see a qualification stating that R16 private and public initiative often interacts in cluster development, and that the degree of private and public sector involvement usually differs from case to case.
+* At the beginning of Section 3.2, as well as at the end of the description of each cluster, we mitigated the dichotomist nature in the typology of cluster development by some qualification.
+For example, we changed the formulation from “characterized as public-driven clusters” to “characterized as more public-driven than private-driven clusters”.
+P. 11: References on Japan and France should be added to the last two sentences of the first paragraph.
+* We added a new reference on the development in Japan (Okubo and Tomiura 2010) but deleted the sentence about France because we could not show a reference in English.
+P. 14: On section 4.5 in the first draft, I commented that “Unlike the regional cluster initiatives in Alsace and Baden, the trinational BioValley initiative has hardly had any impact in terms of intensifying cross-border interaction, confirming problems that Koschatzky (2000) had identified long before.
+Indeed, many INTERREG projects fail to overcome the differences in national languages, legislations and cultures, even though the regions are neighbours.” In response, the authors now cite this paper in footnote 14 in Section 3.2. to support the view that BioValley has hardly had any impact in terms of intensifying cross-border interaction.
+This reformulation is incorrect as the Koschatzky (2000) paper pre-dated the BioValley initiative and does not look at INTERREG either.
+Unfortunately, my claim regarding the limited impact of BioValley on cross-border networking draws on conversations with practitioners and a field trip to the region, but cannot be supported by a reference as far as I know.
+I would therefore suggest to drop this footnote altogether.
+* According to this suggestion, we dropped footnote 14 with the related reference.
+P. 16: Sources should be stated underneath table 2.
+* We added the information sources under the table.
+P. 18 (section 4.1, top paragraph): I would rather prefer “a series of national cluster programmes” as part of an evolving policy.
+* We replaced “policy” by “programs” in this sentence.
+P. 22: “differences might be attributed to those in innovation systems as basic conditions of clusters.” This is central, so the discussion should be summarised in the conclusions, preferably taking up the three hypotheses: To what extent and how can differences in cluster policies and cluster management be linked to differences in national systems of innovation?
+* In Conclusion, we presented again three hypotheses in a new paragraph in Conclusion after the first paragraph (p. 22).
+Then, in the following paragraph (p. 23) we added a discussion on how differences in cluster policies and cluster management are linked to those in national systems of innovation, with three sentences.

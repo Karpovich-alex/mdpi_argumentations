@@ -1,0 +1,244 @@
+Author Response Please see the attachment to see the responses.
+Author Response File: Author Response.pdf
+Author Response Please see the attachment for the responses.
+Author Response File: Author Response.pdf
+Author Response Please see the attachment.
+Author Response File: Author Response.pdf
+Author Response Thank you so much dear reviewer for your positive comments regarding the revised version of our manuscript.
+See file Comments for author File: Comments.pdf
+The presented manuscript is related to the study of an exopolysaccharide isolated from the extremophilic microorganism Bacillus haynesii CamB6.
+The authors used the RSM based on central composite design technique to maximize the EPS production by B. haynesii, and also conducted a diverse study of the EPS properties.
+The studied EPS showed promising properties to use in the food industry.
+In combination with a high yield of polysaccharide from the bacterial mass, this makes it attractive for practical use.
+Basically, the work was done at a fairly high professional level, the material is presented clearly, well structured, the data obtained are discussed with the previously obtained literature data.
+Methods are described adequately.
+Major remarks To my deep regret the structural characteristic of EPS is the weak point of this publication.
+Fourier transform infrared spectroscopy (FTIR) and NMR spectroscopy data can only be regarded as preliminary.
+According to the 1H NMR spectrum, it can be assumed that EPS has a complex branched structure.
+Probably, to establish its structure, it is necessary to use chemical methods (hydrolysis, methylation, etc.
+), as well as two-dimensional NMR spectroscopy.
+EPC is isolated from a thermal spring of volcanic origin, which contains a set of various elements, including heavy metals.
+It is advisable, in my opinion, to provide information on the content of heavy metals in the EPS, since the authors plan to offer this product for the food industry in the future.
+Minor remarks: Line 42: It is premature to include the term "structure" in keywords at this stage.
+Line 526-527: The proposal should be reformulated.
+According to Figure 7. the activity of the ascorbic acid is higher than the activity of EPS produced by CamB6.
+The English language was improved, but there are still errors.
+The following comments were not addressed correctly: Why was linkage analysis not performed?
+(I was referring to the chemical method by methylation.)
+Bacterial EPSs are normally composed of repeating units.
+Based on the 1H NMR spectrum, the purity and/or heterogeneity of the EPS is questioned.
+(I was referring to peak intensities that are not uniform.
+The new spectra emphasize this even more: for example, I count at least 10 H1/H2 cross peaks of different intensities on the COSY.)
+The authors added a COSY spectrum but did not analyze it.
+They deleted erroneous information about mannose residues, but came up with new conclusions about mannose identity and linkages based solely on chemical shift of anomeric proton/carbon.
+TOCSY and HMBC are mentioned in methods, but no results are presented.
+The information contained in the other 2D spectra was not exploited to provide structural information.
+Chemical shift similarity is not sufficient to identify monosaccharide and linkage in a polysaccharide repeating unit.
+The evidences for the partial structure given are not convincing.
+If the authors do not add methylation analysis and perform full NMR spectral analysis, the claims about structure determination should be removed from the manuscript.
+The authors took into account the comments of the reviewer and significantly improved the article.
+Manuscript biomolecules-1691308 In this manuscript, the exopolysaccharide from Bacillus haynesii CamB6 was exhaustively characterized.
+Unfortunately, its structure was not fully determined.
+The manuscript is very long: it contains a lot of information and many references not always pertinent to EPS characterization.
+Optimization of production constitutes an important part not mentioned in the title.
+Acceptability for food applications was not discussed.
+English language should be revised thoroughly.
+There are inconsistencies in singular-plural concordance between subject and verb as well as noun and pronoun.
+Verb tenses should be checked.
+Articles (mostly definite, but also indefinite) are often missing and sometimes superfluous.
+General comments: EPS vs. EPSs in plural form should be consistent throughout.
+Use a consistent abbreviation (l or L) for liter (including milliliter and microliter) throughout.
+Specific comments and corrections: ll.
+50-51 improvement of rheological l. 57 stabilizing l. 133 in nutrient l. 143 min instead of mins l. 145 volume of chilled acetone was added l. 160 There is no coded value in Table 1. l. 165 Table 2 where Table 1 expected l. 169-170 thirty instead of thirteen ?
+l. 177 i instead of 0 in second term?
+l. 228 GPC defined on l. 231 l. 230 PEG undefined l. 247 Volume of 0.2 mM ethanolic DPPH solution?
+ll.
+255, 286, and 441 et al.
+l. 284 No section 2.6.3 Figure 1 What is the significance of the tick mark labels on the maps?
+Are these maps really necessary?
+l. 340 source Figure 2 No x-axis label Units not specified l. 400 affected ?
+Figure 3 Units are not specified on the axes labels or in the legend.
+l. 414 Delete ( before C. pH .
+ll.
+416 and 432 Add C. before pH= .
+ll.
+417 and 432 30.0 instead of 3.0 ?
+Figure 4 This figure is redundant as it gives the same information as Figure 3.
+Tick label values for glucose and yeast extract are different.
+Units are not specified on the axes labels or in the legend.
+ll.
+433, 434, 454, 458, and 507 First section 3.6 (and its subsections) should be section 3.5. l. 442 C), whereas the l. 471, 600, 678, and 718 Reference format is different; corresponding references could be missing in the list.
+l. 480 Why was linkage analysis not performed?
+ll.
+481-482 spectrum Figure 6 Bacterial EPSs are normally composed of repeating units.
+Based on the 1H NMR spectrum, the purity and/or heterogeneity of the EPS is questioned.
+How can the authors ascertain that mannose does not come from mannans in yeast extract?
+A 2D COSY spectrum would be necessary to confirm the assignments made on the 1D: e.g., H2- Man is not normally found in the range 3.2-3.5 ppm (the statement ll.
+495-496 is wrong).
+The abbreviation for glucose is Glc.
+l. 500 The chemical shift range is more than from 1 to 5. ll.
+528 and 531 radical l. 535 and 536 activity l. 537 No section 3.6.2 l. 581 Table S1A l. 603 Figure S1 l. 636 Glc and Gal l. 683-684 Food-grade oils are not aliphatic and aromatic hydrocarbons.
+l. 711 to be significantly l. 725 possibility of future
+In this manuscript, the exopolysaccharide from Bacillus haynesii CamB6 was exhaustively characterized.
+Comment 1: Unfortunately, its structure was not fully determined.
+Answer 1: To better understand EPS chemical structure, further 2D NMR experiments were performed and results are presented inside the manuscript.
+In short, they allow to clearly identify the D-mannose α-(1→2) and α-(1→4) linkages in EPS.
+These results suggest they are the prevailing units of the EPS backbone making it a branched one.
+Also, β-glucopyranose and β-galactopyranose structures were identified and the acetylation was confirmed.
+Comment 2: The manuscript is very long: it contains a lot of information and many references not always pertinent to EPS characterization.
+Answer 2: As suggested by the reviewer, the non-pertinent references has been checked throughout the manuscript and unnecessary references are removed too.
+Comment 3: Optimization of production constitutes an important part not mentioned in the title.
+Answer 3: As suggested by the reviewer, now the title include the production optimization too and the new title is “Optimization and characterization of a novel exopolysaccharide from Bacillus haynesii CamB6 for food applications”.
+Comment 4: Acceptability for food applications was not discussed.
+Answer 4: As suggested by the reviewer, the acceptability for food application has now been mentioned with appropriate refences (Nicolaus et al., 2010; Kambourova et al., 2018; Gongi et al., 2022) in the revised version of the manuscript.
+Comment 5: English language should be revised thoroughly.
+There are inconsistencies in singular- plural concordance between subject and verb as well as noun and pronoun.
+Verb tenses should be checked.
+Articles (mostly definite, but also indefinite) are often missing and sometimes superfluous.
+Answer 5: According to reviewer´s suggestion, the language of the manuscript is thoroughly revised.
+Comment 6: EPS vs. EPSs in plural form should be consistent throughout.
+Answer 6: As suggested by the reviewer, the consistent of the word had been checked throughout.
+Comment 7: Use a consistent abbreviation (l or L) for liter (including milliliter and microliter) throughout.
+Answer 7: Constant abbreviation had been checked throughout in the revised version of the manuscript.
+Comment 8: ll.
+50-51: “improvement of rheological” Answer 8: Suggestion has been included in the revised version of the manuscript Comment 9: l. 57: “stabilizing” Answer 9: Suggestion has been included in the revised version of the manuscript Comment 10: l. 133: “in nutrient” Answer 10: Suggestion has been included in the revised version of the manuscript Comment 11: l. 143: “min” instead of “mins” Answer 11: Suggestion has been included in the revised version of the manuscript Comment 12: l. 145: “volume of chilled acetone was added” Answer 12: Suggestion has been included in the revised version of the manuscript Comment 13: l. 160: There is no coded value in Table 1.
+(RSM) Answer 13: Accoding to the suggestion of the reviewer, Table 1 is revised and both coded – noncoded values are now included.
+Comment 14: l. 165: Table 2 where Table 1 expected Answer 14: Both the tables (table 1 and table 2) have been placed in the proper place where it expected in the revised manuscript.
+Comment 15: l. 169-170: “thirty” instead of “thirteen”?
+Answer 15: The suggested correction has been done in the revised version of the manuscript Comment 16: l. 177: “βi” instead of “β0” in second term?
+(RSM) Answer 16: The corrected has been made now.
+Comment 17: l. 228: GPC defined on l. 231 (check) Answer 17: The revision has been made as suggested.
+Comment 18: l. 230: PEG undefined Answer 18: as suggested by the reviewer, PEG has been defined in the revised version of the manuscript Comment 19: l. 247: Volume of 0.2 mM ethanolic DPPH solution?
+Answer 19: The volume is now added in the revised version of the manuscript.
+Comment 20: ll.
+255, 286, and 441: “et al.” Answer 20: Suggestion has been included in the revised version of the manuscript throughout.
+Comment 21: l. 284: No section 2.6.3 Answer 21: As per the suggestion given by the reviewer, section numbering has been checked thoroughly in the revised version of the manuscript Comment 22: Figure 1: What is the significance of the tick mark labels on the maps?
+Are these maps really necessary?
+Answer 22: This to kindly mention to the reviewer, the map is the collection site of the EPS producing Bacillus haynesii CamB6.
+This is a first such report from this collection site, the map is necessary to keep in the manuscript.
+Comment 23: l. 340: “source” Answer 23: Suggestion has been included in the revised version of the manuscript Comment 24: Figure 2: No x-axis label, Units not specified Answer 24: Figure 2 has been modified as suggested by the reviewer.
+Comment 25: l. 400: “affected”?
+Answer 25: Suggestion has been included in the revised version of the manuscript Comment 26: Figure 3: Units are not specified on the axes labels or in the legend.
+Answer 26: As suggested by the reviewer, Figure 3 is now modified with specified units of the axes and also in the figure legend.
+Comment 27: l. 414, Delete “(“before “C.
+pH”.
+ll.
+416 and 432 , Add “C.” before “pH=” .
+ll.
+417 and 432 , “30.0” instead of “3.0” ?
+Answer 27: All the Suggestion has been included in the figure legend of revised version of the manuscript Comment 28: Figure 4; This figure is redundant as it gives the same information as Figure 3.
+Tick label values for glucose and yeast extract are different.
+Units are not specified on the axes labels or in the legend.
+Answer 28: To avoid the redundancy of the figures as suggested by the reviewer, figure 4 is removed from the revised version of the manuscript.
+Comment 29: ll.
+433, 434, 454, 458, and 507 : First section 3.6 (and its subsections) should be section 3.5.
+Answer 29: As per the suggestion given by the reviewer, section numbering has been checked thoroughly in the revised version of the manuscript Comment 30: l. 442: “C), whereas the” Answer 30: Suggestion has been included in the revised version of the manuscript Comment 31: l. 471, 600, 678, and 718: Reference format is different; corresponding references could be missing in the list.
+Answer 31: This has been checked now and revised.
+Comment 32: l. 480: Why was linkage analysis not performed?
+Answer 32: We performed 2D-NMR analysis , which allows us to determine exactly the α-Manp linkage, which is the major sugar component, and the β- structure of Galp and Glucp.
+Comment 33: ll.
+481-482: “spectrum” Answer 33: Suggestion has been included in the revised version of the manuscript Comment 34: I.
+Figure 6: Bacterial EPSs are normally composed of repeating units.
+Based on the 1H NMR spectrum, the purity and/or heterogeneity of the EPS is questioned.
+I.
+This EPS was carefully purified according to standard purification protocols for EPS.
+ This is a heteropolysaccharide composed of 3 different sugars as determined for HPLC, which is highly common in this kind of polysaccharides isolated from bacterial strains (10.3390/foods11020156) II.
+How can the authors ascertain that mannose does not come from mannans in yeast extract?
+ There are several earlier report where different concentration of yeast extract is added to the culture media for optimized EPS production, and the resultant EPS also concisted of mannan.
+However, there is no report that the mannan came from yeast extract (DOI: 10.1016/j.ijbiomac.2019.09.139, DOI: 10.1023/B:WIBI.0000033068.45655.2a).
+The same applies for our study too.
+In addition, the yeast mannan have β-(1→4) linkage and the one found in this work have α-linkage type.
+This allows us to conclude they are different polysaccharides.
+III.
+A 2D COSY spectrum would be necessary to confirm the assignments made on the 1D: e.g., H2- Man is not normally found in the range 3.2-3.5 ppm (the statement ll.
+495-496 is wrong).
+ Several 2D-NMR spectra were performed to confirm 1H and 13C chemical shift of EPS structure, and their analysis was added to the manuscript.
+Comment 34: The abbreviation for glucose is Glc.
+Answer 34: It was corrected in manuscript Comment 35: l. 500 : The chemical shift range is more than from 1 to 5.
+Answer 35: A new discussion of 1D and 2D NMR spectra was added and corrected.
+Comment 36: ll.
+528 and 531: “radical” Answer 36: Suggestion has been included in the revised version of the manuscript Comment 37: l. 535 and 536: “activity” Answer 37: Suggestion has been included in the revised version of the manuscript Comment 38: l. 537: No section 3.6.2 Answer 38: According to the suggestion, section numbering has been checked thoroughly in the revised version of the manuscript.
+Comment 39: l. 581: “Table S1A” Answer 39: Suggestion has been included in the revised version of the manuscript Comment 40: l. 603: “Figure S1” Answer 40: Suggestion has been included in the revised version of the manuscript Comment 41: l. 636: “Glc and Gal” Answer 41: As suggested by the reviewer, the necessary revision in done in the manuscript.
+Comment 42: l. 683-684: Food-grade oils are not aliphatic and aromatic hydrocarbons.
+Answer 42: As suggested by the reviewer, the information is corrected and revised now.
+Comment 43: l. 711: “to be significantly” Answer 43: Suggestion has been included in the revised version of the manuscript Comment 44: l. 725: “possibility of future” Answer 44: Suggestion has been included in the revised version of the manuscript
+The presented manuscript is related to the study of an exopolysaccharide isolated from the extremophilic microorganism Bacillus haynesii CamB6.
+The authors used the RSM based on central composite design technique to maximize the EPS production by B. haynesii, and also conducted a diverse study of the EPS properties.
+The studied EPS showed promising properties to use in the food industry.
+In combination with a high yield of polysaccharide from the bacterial mass, this makes it attractive for practical use.
+Basically, the work was done at a fairly high professional level, the material is presented clearly, well structured, the data obtained are discussed with the previously obtained literature data.
+Methods are described adequately.
+Comment 1: To my deep regret the structural characteristic of EPS is the weak point of this publication.
+Fourier transform infrared spectroscopy (FTIR) and NMR spectroscopy data can only be regarded as preliminary.
+According to the 1H NMR spectrum, it can be assumed that EPS has a complex branched structure.
+Probably, to establish its structure, it is necessary to use chemical methods (hydrolysis, methylation, etc.
+), as well as two-dimensional NMR spectroscopy.
+Answer 1: To better understand EPS chemical structure, further 2D NMR experiments were performed and results are presented inside the manuscript.
+In short, they allow to clearly identify the D-mannose α-(1→2) and α-(1→4) linkages in EPS.
+These results suggest they are the prevailing units of the EPS backbone making it a branched one.
+Also, β-glucopyranose and β-galactopyranose structures were identified and the acetylation was confirmed.
+Comment 2: EPC is isolated from a thermal spring of volcanic origin, which contains a set of various elements, including heavy metals.
+It is advisable, in my opinion, to provide information on the content of heavy metals in the EPS, since the authors plan to offer this product for the food industry in the future.
+Answer 2: According to the composition of EPS no metal was found to be attached with the structure of purified EPS.
+Likewise, in this study the monomeric composition was analysed to demonstrate the structure of purified EPS, where no metal was found to be attached with the chemical structure of it.
+This is also mentioned and referred in the revised version of the manuscript.
+Comment 3: Line 42: It is premature to include the term "structure" in keywords at this stage.
+Answer 3: As suggested by the reviewer, this keyword is removed from the revised version of the manuscript.
+Comment 4: Line 526-527: The proposal should be reformulated.
+According to Figure 7. the activity of the ascorbic acid is higher than the activity of EPS produced by CamB6.
+Answer 4: Thank you so much dear reviewer for mentioning this point.
+The correction has been made now in the revised version of the manuscript.
+→ Comment 1: The English language was improved, but there are still errors.
+Response 1: As suggested by the reviewer, minor errors throughout the manuscript has been revised now.
+→ Comment 2: The following comments were not addressed correctly: Why was linkage analysis not performed?
+(I was referring to the chemical method by methylation.).
+Bacterial EPSs are normally composed of repeating units.
+Based on the 1H NMR spectrum, the purity and/or heterogeneity of the EPS is questioned.
+(I was referring to peak intensities that are not uniform.
+The new spectra emphasize this even more: for example, I count at least 10 H1/H2 cross peaks of different intensities on the COSY.)
+The authors added a COSY spectrum but did not analyze it.
+They deleted erroneous information about mannose residues, but came up with new conclusions about mannose identity and linkages based solely on chemical shift of anomeric proton/carbon.The information contained in the other 2D spectra was not exploited to provide structural information.
+Chemical shift similarity is not sufficient to identify monosaccharide and linkage in a polysaccharide repeating unit.
+The evidences for the partial structure given are not convincing.
+If the authors do not add methylation analysis and perform full NMR spectral analysis, the claims about structure determination should be removed from the manuscript.
+Response 2: Dear reviewer, thanks for your valuable comments for improving the quality of this paper.
+We will answer in the following paragraphs because all comments were related to the same topic.
+• We agree with some of the comments that you made.
+However, we would like to remind you that the main purpose of this manuscript is not the complete elucidation of the EPS chemical structure but also the optimization of the EPS production, and characterization of the EPS functional properties.
+At the same time, we provided different chemical properties like: sugar identification and its molar ratio, molecular weight, functional group analysis and thermal stability of the EPS, and this journal has recently published other papers with similar or less chemical information on the EPS, for instance: Kuo, H.-C.; Liu, Y.-W.; Lum, C.-C.; Hsu, K.-D.; Lin, S.-P.; Hsieh, C.-W.; Lin, H.-W.; Lu, T.-Y.
+; Cheng, K.- C. Ganoderma formosanum Exopolysaccharides Inhibit Tumor Growth via Immunomodulation.
+Int.
+J. Mol.
+Sci.
+2021, 22, 11251. https://doi.org/10.3390/ijms222011251 Fetsiukh, A.; Conrad, J.; Bergquist, J.; Timmusk, S. Silica Particles Trigger the Exopolysaccharide Production of Harsh Environment Isolates of Growth-Promoting Rhizobacteria and Increase Their Ability to Enhance Wheat Biomass in Drought-Stressed Soils.
+Int.
+J. Mol.
+Sci.
+2021, 22, 6201. https://doi.org/10.3390/ijms22126201.
+• On the other side, we performed the 1D and 2D - NMR analysis as complementary information to the other techniques in the present work.
+Such analysis was performed to try to replace the traditional acid hydrolysis, methylation/acetylation and GC-MS used in glycoside analysis.
+On the opposite to NMR, we do not have access to this analysis, and we could not find it as a service.
+• The HPLC and NMR results from the present work confirmed the heterogeneity of the EPS (3 different sugar moieties with different molar ratios), which agrees with the other reported mannan polysaccharides.
+The 1H and 13C NMR chemical shifts are comparable with literature reports of other similar EPS or oligosaccharides, where complex structures are identified by NMR too (Casillo et al., 2021; Chatterjee et al; 2018).
+Besides, our 2D-NMR analysis supported EPS heterogeneity, identifying different types of monomer linkages.
+Casillo, A., Fabozzi, A., Russo Krauss, I., Parrilli, E., Biggs, C. I., Gibson, M. I., … Corsaro, M. M. (2021).
+Physicochemical Approach to Understanding the Structure, Conformation, and Activity of Mannan Polysaccharides.
+Biomacromolecules, 22(4), 1445–1457.
+doi:10.1021/acs.biomac.0c01659.
+Chatterjee, S., Mukhopadhyay, S. K., Gauri, S. S., & Dey, S. (2018).
+Sphingobactan, a new α-mannan exopolysaccharide from Arctic Sphingobacterium sp.
+IITKGP-BTPF3 capable of biological response modification.
+International Immunopharmacology, 60, 84–95.
+doi:10.1016/j.intimp.2018.04.039 • Your mention of the non-uniform peak intensity confirming the three different sugar units found.
+This is because the signal intensity of NMR peaks is related to an -H abundance.
+Different monomer ratios are responsible for this variation and support our findings.
+Also, the 10 H1/H2 cross peaks observed in the COSY spectra supported our findings of EPS heterogeneity, given the following facts: 1) We found 3 different types of sugars by HPLC.
+2) We identified by NMR at least 2 types of linkages α 1-2 Man-Man and alfa 1-4 Man-Man monosaccharides.
+3) There are other 2 sugars for which the β- type of linkage was identified but not the exact sugar position.
+4) Anomeric protons shifts from units at the reducing end of polysaccharide differs from the one in another position.
+In conclusion, there are different linkage possibilities (plus already identified) to different monosaccharides in different ring positions.
+This gives rise to a multiplicity of signals (not fully identified in this work), which could produce different H1/H2 correlations.
+• About the COSY spectrum discussion, only a minor and partial discussion is presented that can be found below the Scheme in manuscript: “In the COSY spectrum, it was found its α-configuration by low-field H-1 signal at δ 5.34 and correlated with H-2 (δ 4.0), H-6 (δ 3.98 and 3.85), and H-5 (δ 4.12) (Speciale et al., 2022).” • Regarding the TOCSY and HMBC mentioned in the methods, they are now deleted from the manuscript, as suggested.
+• Finally, we kindly request the reviewer to consider that this is the first approach to studying a Chilean hot spring EPS isolation and its functional characterization.
+We also mention that further work to fully reveal this EPS structure will be necessary using higher resolution NMR spectra combined with chemical techniques.
+This work has given partial structural elucidation, which can be considered a previous background for other research on this topic.

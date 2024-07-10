@@ -1,0 +1,228 @@
+Author Response Please see the attachment Author Response File: Author Response.pdf
+Author Response Please see the attachment Author Response File: Author Response.pdf
+Author Response Please see the attachment Author Response File: Author Response.pdf
+The manuscript presents a systematic and detailed study on gelation of a new design of self-assembling molecule based on isophthalic acid.
+The gels have been thoroughly characterized and their application in dye adsorption is demonstrated.
+The manuscript can be recommended for publication in Gels.
+There are a couple of minor suggestions.
+1) The word ‘Acid’ is missing in the title after ‘....Alkylamido Isophthalic...’.
+Also, the title has the word 'absorption' instead of 'adsorption'.
+2) Typographical error in the first paragraph: LWMG instead of LMWG
+see attached Comments for author File: Comments.pdf
+In this work titled: “Self-Assembly of Alkylamido Isophthalic Acids Toward the Design of a supergelator: Phase Selective Gelation and Dye Absorption”, Makeiff et al.
+report on a series of 5 new supramolecular gelators derived from 5-amido isophthalic acid with linear and branched alkyl chains.
+Even though many other isophthalic acid derived gelators were already reported in the literature the structures of the present work are new and the organogels, their properties and potencial applications and characterization were performed exhaustively so I consider the work will be of interest to the supramolecular gel community of the journal.
+But there are some minor points that need to be revised before this manuscript is accepted to be published.
+In a structure based search I found that the authors have patented the use of these gelators as phase selective gelators and organogel formulations, it would be interesting to cite those patents and refer to them in the text, since they reflect the potential applications of the materials: Phase selective gelation with alkylated aromatic acid compounds Application number: CN201210548127 20121217 Priority number(s): US201113327664 20111215 Organogel Compositions Comprising Alkylated Aromatic Acids Application number: US201113327655 20111215 Priority number(s): US20100820497 20100622 ; US201113327655 20111215 National Center for Biotechnology Information (2022).
+PubChem Patent Summary for US-2011311813-A1, Self-assembled nanostructures.
+Retrieved April 18, 2022 from https://pubchem.ncbi.nlm.nih.gov/patent/US-2011311813-A1.
+At the abstract, line 16 “…gelators for low, polarity solvents” should say “…gelators for low polarity solvents…” Since the chemical structures of the 5-alkylamido ISA compounds in Figure 2 are different (but closely related) than the alkylated ISA gelators previously reported by Hamilton et al [37] or Lv et al [38].
+I consider that Figure 1 should be completed with the identity of R at position 5 present on the isoftalic acid derived gelators previously reported by Hamilton and Lv (as they are related structures it would make it easy to the reader to relate to the gelators of the present work).
+Gelator ISA16 L is similar to CP14IP form reference 38.
+The main difference being the inverted amide group (and one carbon on the alkyl chain).
+Both gelators should be compared and their properties discussed in base of the structural difference, and if possible, a conclusion about the effect of the amide inversion.
+Gel of ISA12 in xilenes has a MCG of <0.5 according to table S1, but in figure 4a, blue line, it can be seen that if can form gels even at concentrations as low as 0.01.
+I wonder if this difference has a reason, if not in table S1 it should say MCG <0.01.
+check the other MCGs.
+The authors used a cryo-SEM microscope to take images of what they call in situ aerogels, (freeze- dried), I do not understand why it is necessary to use the expensive cryo-SEM microscope if the sample is an aerogel, so it is already dried and there is no liquid to freeze, I understand you can use regular SEM to analyze the aerogels or xerogels (formed in situ or ex situ).
+If my analysis is wrong, the text should be revised to clarify this.
+NMR experiments does not give any highly relevant information, but that the gelator forms aggregates in chloroform.
+I think figure 8 can be placed at the supporting information file.
+Also, Figure S31 is not discussed, what is the information that it gives?
+Why there is a THF signal on the spectra, is not pure chloroform?
+If this experiment does not give any info should be removed, or if it does, the discussion should be added.
+In figure 9, XR patterns of aerogels of ISA24 from freeze-dried cyclohexane organogels (2 wt %) are shown.
+What is the difference between a and b?
+I mean, they are the same aerogel?
+They were prepared with different methodology?
+With the info given, they seem to belong to the same sample, but that is not possible.
+Please indicate the diffecence between a and b samples on the text and figure.
+Line 477, it refers to Figure 11a, but there is no figure 11, I think it should refer to figure 9a.
+Although, I disagree in some cases, I recommend to accept the paper as is The fact that R. Weiss is a pioneer does not mean he is systematically right.
+Again, the HSP allows one to find out whether a solvent is not too good nor not too bad for a system to be able to aggregate and form structures.
+Nothing very new under the sun!
+Yet, all depends upon the gel definition, which should not rely only upon a rheological approach that may be deceiving.
+Flory's parameter is to some extent like the HSP parameter, and yet it does not permit to predict whether spherulitic systems will form (not a gel) or fibrillar structures (potentially a gel).
+It is the same here as some systems are straightforwardly considered gels while they are not.
+The gelation phenomenon (LMWG and polymers) cannot be reduced to one parameter.
+April 26, 2022 Dear Reviewer #1: Thank you very much for taking the time to review our manuscript gels-1665237.
+Our responses to your feedback is provided below in red.
+Sincerely, Darren Darren Makeiff, PhD Research Officer National Research Council of Canada Nanotechnology Research Center Edmonton, AB, Canada Comments and Suggestions for Authors The manuscript presents a systematic and detailed study on gelation of a new design of self-assembling molecule based on isophthalic acid.
+The gels have been thoroughly characterized and their application in dye adsorption is demonstrated.
+The manuscript can be recommended for publication in Gels.
+There are a couple of minor suggestions.
+1) The word ‘Acid’ is missing in the title after ‘....Alkylamido Isophthalic...’.
+Also, the title has the word 'absorption' instead of 'adsorption'.
+2) Typographical error in the first paragraph: LWMG instead of LMWG We thank this reviewer for their positive review and pointing out the above typos, which have been corrected.
+April 26, 2022 Dear Reviewer #2: Thank you very much for taking the time to review our manuscript gels-1665237.
+Our responses to your feedback is provided below in red.
+Sincerely, Darren Darren Makeiff, PhD Research Officer National Research Council of Canada Nanotechnology Research Center Edmonton, AB, Canada I am quite prepared to accept this paper provided the authors add some elements throughout the discussion of their results.
+1) There are new books on organogelation that are more physics-oriented on this phenomenon.
+The authors should quote them: Guenet, J.M.
+Organogels: thermodynamics, structure, solvent role and properties, 2016, N.Y., Springer International Publishing Weiss, R.G.
+Ed Molecular Gels, Structure and Dynamics, Monograph in Supramolecular Chemistry, 2018, Royal Society of Chemistry, London We thank reviewer 2 for this suggestion.
+We are familiar with and have seen these books.
+These citations have been added.
+2) The problem of defining a gel.
+As we can see from figures 7, the morphologies of the different systems are not at all the same.
+Guenet in the above book has discussed in details a definition of a gel.
+The conclusion is that a gel is a network, and a network is “a large system of lines, tubes, wires, etc.
+that cross one another or are connected with one another” according to the definition given by any dictionary.
+Again, as further discussed in the above book what is needed is a near-lD crystallization to get eventually fibrillar systems that do obey the definition.
+As a result, system in figures 7a, 7b, 7h, 7i do not comply to this definition they simply are 3D crystallization.
+As clearly mentioned into the caption of Fig.
+7, Figures 7a and 7b are POM images of gel phases for which they cannot display any of the morphologic typical features of dried gel networks, they show instead birefringence indicating some degree of anisotropy, furthermore, Fig.
+7b clearly shows highlighted strands that are SEM images on solid sample confirmed as fibers.
+The resolution in the SEM image in Fig 7h for a dense sample of the xerogel is not sufficient to visualize individual structures.
+Please note that nanofibers can be clearly visualized at the edges of the gel (see Figure S21a).
+Figure 7i shows an AFM image of the same sample, at higher resolution, which clearly reveals 1D structures (lines, tubes, or wires) that are connected an interwoven; isotropically ordered.
+Furthermore, as clearly mentioned in the maintext, “the xerogel from cyclohexane (Figure 7h and i), consisted of a dense network of ultrafine nanofibers (Figure 7i), which although are too small to be resolved in SEM images (Figure 7h), could be easily resolved by AFM.
+The AFM widths of the nanofibers in Figure 7i are consistent with the AFM width of the elementary nanofiber in Figure 6c (i.e., ~10 nm).” None of the presented images therefore are referring to 3D crystallization systems.
+PXRD patterns are relatively broad so if 3D crystallization was the case then the peaks would be sharper and possibly greater in number, more well-dispersed etc… Now, the authors may argue that their rheological experiments always show G’> G”.
+As was shown by Collin et al.
+(Soft Matter, 2013, 9, 2947) this can be deceiving because the explored range of frequency, especially within the low frequency range, is limited.
+Their experiments show that there is no modulus at infinite time, as required by a true rheological of a gel.
+Basically, each time they apply a new deformation, they retrieve the same value of G’, whereas this value should have increased.
+This should be considered and discussed.
+We thank this reviewer for the insight and the reference, which we are aware of.
+This reference has been added along with the following text: Although G’ and G’’ data here were collected using a conventional rheometer and are typical of a viscoelastic material like a gel, others have shown that for low frequencies and long relaxation times this may not be the case [81].
+At low frequencies only accessible with non-conventional rheological instrumentation, supramolecular gels from LMWGs may experience irreversible permanent deformations and may not be physical gels, but rather may be “solid-like networks that respond elastically for small deformations and are embedded in suspending fluids [8,81].” 3) The Hansen parameter allows one only to decide whether the solvent is not too good, thus preventing crystallization, nor not too bad, thus preventing solubilization.
+It cannot predict whether the system will give ID fibrils or 3D crystallization, which is what is eventually needed.
+Again, see the above book by Guenet.
+Note that for polymers, scientists are rather using the Flory’s parameter, which is experimentally obtained, rather than the Hansen parameter.
+In a recent publication by Weiss and Rogers (Langmuir 2017, 33, 10907−10916), they state “HSPs can be used as effective a priori tools for predicting the abilities of small molecules to self-assemble into SAFiNs for specific solvents.” Reviewer #2s comment seems to contradict this statement.
+HSPs for LWMGs are also discussed in the book by Weiss that reviewer #2 suggested citing above.
+Note that Weiss can be considered a pioneer and one of the biggest experts in the field of supramolecular gels.
+HSPs are recognized as the best current approach for predicting gelator behavior.
+Please see references 70-73 cited in our manuscript as well as the following references to list a few others: 1.
+Van Lommel et al, Gels 2021, 7, 87.
+2.
+Nunes et al, Langmuir, 2019, 35, 7970 3.
+Lan et al, Soft Matter, 2019, 15, 9205--9214 4.
+Nunes et al, Soft Matter, 2018, 14, 4805 5.
+Chen et al, Materials Today Chemistry 2022, 23, 100719 6.
+Ge et al, Langmuir 2021, 37, 2677-2682 7.
+Draper and Adams, Chem 2017, 3, 390 Also, just because a compound can form 1D fibrils does not mean a gel will be formed.
+We did image the precipitate formed from ISA24 with hexanes by SEM, which showed the same narrow diameter nanofibers shown in Figure 6, 7 and Figures S17-S30.
+ISA24 formed fibers in hexanes but did not gel hexanes (unpublished results).
+To the best of my understanding, Flory’s parameters (Flory-Huggins interaction parameters) have not been commonly applied to LMWG systems.
+A few reviews have been published on the use of solubility parameters for LWMGs which do not mention Flory-Huggins interaction parameters.
+4) The gel formation and melting would be better studied by DSC.
+The inverted tube method is not very precise.
+Also, about the so-called “critical gelation concentration”, the authors should read the two above books above.
+As was also emphasized in a GELS article the T-C phase diagram by DSC is an important step in studying organogelation (R.G.
+Weiss, Gels, 2018, 4, 2).
+This concentration depends upon the temperature at which it is measured.
+So, it is not a critical parameter in the physical sense.
+Only the temperature-concentration phase diagram tells you something about the system.
+We thank the reviewer for this insight, which we are aware of and agree with.
+We have even had samples that did not pass the vial inversion test but yet still were shown to have the typical rheological properties of gels.
+We did try to measure Tgel values (formation and melting) using DSC, Unfortunately, we were not able to detect any phase transitions by DSC or rheology temperature sweeps, which could be due the low gelator concentrations.
+This is often the case of “supergelators” indeed, since the amount of solvent is excessively high and therefore transitions are rather difficult to be observed.
+Alternatively, and more likely, the gel formation and melting transitions occur near or above the bp of the solvents for the gels tested.
+Many if not all of the gelators required heating to high temperatures (often larger than the solvent bp) in sealed vials to prevent solvent evaporation.
+Such high temperatures and pressures are known to affect DSC measurements using conventional DSC instruments and supplies (i.e., hermetically sealable Al pans are known to deform under high internal pressures).
+Note that we clearly mentioned at the end of this section (lines 223-239) that the Tg values are probably more likely decomposition temperatures rather than true melting transitions.
+The true melting transitions for these compounds are probably near or above the solvent bps
+April 26, 2022 Dear Reviewer #3: Thank you very much for taking the time to review our manuscript gels-1665237.
+Our responses to your feedback is provided below in red.
+Sincerely, Darren Darren Makeiff, PhD Research Officer National Research Council of Canada Nanotechnology Research Center Edmonton, AB, Canada Comments and Suggestions for Authors In this work titled: “Self-Assembly of Alkylamido Isophthalic Acids Toward the Design of a supergelator: Phase Selective Gelation and Dye Absorption”, Makeiff et al.
+report on a series of 5 new supramolecular gelators derived from 5-amido isophthalic acid with linear and branched alkyl chains.
+Even though many other isophthalic acid derived gelators were already reported in the literature the structures of the present work are new and the organogels, their properties and potencial applications and characterization were performed exhaustively so I consider the work will be of interest to the supramolecular gel community of the journal.
+But there are some minor points that need to be revised before this manuscript is accepted to be published.
+In a structure based search I found that the authors have patented the use of these gelators as phase selective gelators and organogel formulations, it would be interesting to cite those patents and refer to them in the text, since they reflect the potential applications of the materials: Phase selective gelation with alkylated aromatic acid compounds Application number: CN201210548127 20121217 Priority number(s): US201113327664 20111215 Organogel Compositions Comprising Alkylated Aromatic Acids Application number: US201113327655 20111215 Priority number(s): US20100820497 20100622 ; US201113327655 20111215 National Center for Biotechnology Information (2022).
+PubChem Patent Summary for US-2011311813-A1, Self-assembled nanostructures.
+Retrieved April 18, 2022 from https://pubchem.ncbi.nlm.nih.gov/patent/US-2011311813-A1.
+Yes this work was initially done in partnership with the Xerox Research Centre of Canada, which resulted in several patents filed in Canada, the USA, Europe and Asia.
+The US patents have been added to the references as suggested.
+62.
+Makeiff, D.A.
+; Carlini, R. Nanosized particles of benzimidazolone pigments.
+US Patent US7905954B2, 15 March 2011.
+63.
+Makeiff, D.A.
+; Carlini, R. Sterically bulky stabilizers.
+US Patent US9067878B2, 23 April 2013.
+64.
+Makeiff, D.A.
+; Carlini, R. Self-assembled nanostructures.
+US Patent US8703988B2, 22 April 2014.
+65.
+Makeiff, D.A.
+; Carlini, R. Organogel compositions comprising alkylated aromatic acids.
+US Patent US9067878B2, 30 June 2015.
+66.
+Makeiff, D.A.
+; Carlini, R. Phase selective gelation with alkylated aromatic acid compounds.
+U.S Patent US9623435B2, 18 April 2017.
+At the abstract, line 16 “…gelators for low, polarity solvents” should say “…gelators for low polarity solvents…” Thank you for pointing this out.
+The comma has been removed.
+Since the chemical structures of the 5-alkylamido ISA compounds in Figure 2 are different (but closely related) than the alkylated ISA gelators previously reported by Hamilton et al [37] or Lv et al [38].
+I consider that Figure 1 should be completed with the identity of R at position 5 present on the isoftalic acid derived gelators previously reported by Hamilton and Lv (as they are related structures it would make it easy to the reader to relate to the gelators of the present work).
+Done Gelator ISA16 L is similar to CP14IP form reference 38.
+The main difference being the inverted amide group (and one carbon on the alkyl chain).
+Both gelators should be compared and their properties discussed in base of the structural difference, and if possible, a conclusion about the effect of the amide inversion.
+We thank the reviewer for this suggestion.
+ISA16 is also similar to CP18IP (both CP14IP and CP18IP 2 C atoms less and more, respectively).
+Only the gelation behavior with ethanol-water mixtures can be compared since there is no data for CP14IP and CP18IP with other solvents.
+The following text has been added to the end of the gelation behavior section: “Note that the chemical structure of the gelator ISA16L is similar to the previously reported gelators CP14IP and CP18IP (Figure 2) [38].
+The only differences are the reversed direction of the amide linker group and minus or plus two methylene groups, respectively (Figure 2).
+Although no data was reported on the gelation behavior of CP14IP and CP18IP with low polarity solvents, both compounds were good gelators for highly polarity ethanol:water (97:3 to 92.5:7.5) solvent mixtures at 10 mM [38].
+For this work, ISA16L only formed crystallites/precipitates and not gels with similar ethanol:water solvent compositions at 10 mM.
+Clearly, the subtle structural change of reversing the direction of the amide group has a significant impact on the ability of alkylamido ISA compounds to form gels with polar solvents.” Gel of ISA12 in xilenes has a MCG of <0.5 according to table S1, but in figure 4a, blue line, it can be seen that if can form gels even at concentrations as low as 0.01.
+I wonder if this difference has a reason, if not in table S1 it should say MCG <0.01.
+check the other MCGs.
+We thank this reviewer very much for pointing out this mistake.
+The data for the gels with xylenes and decalin were plotted on the wrong panels.
+The graphs in Figure 4a and 4b have been switched to correct this.
+Also all the data has been checked and corrected in Table S1.
+The MGC for ISA16 of 2 has been corrected to <0.1.
+Also, a missing data point for ISA12 at 2 wt % was added to Figure 4a.
+Three data points were also removed for ISA24 in Figure 4a (0.2, 2.5 and 3 wt %).
+These experiments could not be found amongst the pages of 10 lab notebooks and thus were deleted as they do not change any of the results.
+The authors used a cryo-SEM microscope to take images of what they call in situ aerogels, (freeze- dried), I do not understand why it is necessary to use the expensive cryo-SEM microscope if the sample is an aerogel, so it is already dried and there is no liquid to freeze, I understand you can use regular SEM to analyze the aerogels or xerogels (formed in situ or ex situ).
+If my analysis is wrong, the text should be revised to clarify this.
+We apologize for this confusion.
+The in and ex situ aerogels were prepared at different scales.
+The in situ was small scale by drying a small piece of “wet” organogel (<0.1 mL) directly on the microscopy substrate.
+The sample was freeze-dried in vacuo in the chamber of a cryo-coater and subquently coated with a metal film In contrast, “ex situ” aerogel was prepared in a vial on larger scale (1-20 mL), by freezing and then freeze drying using a conventional freeze drier.
+Then a small piece of aerogel was transferred onto the microscopy substrate, sputter-coated with a metal film, and then analysed using regular SEM at room temp.
+Clearly, different results were obtained.
+Features are seen in Figure 7c that are not present in Figures 7e and f. Also, the cryo-SEM work was added only recently just before submission of this manuscript as it is a new capability at our research center.
+Although the details of the preparation of the in situ and ex situ aerogel samples are clearly explained in the experimental section (Lines 674-689, 704-711 and 721-724), to alleviate confusion, the main text has been changed to “In the context of this report, in situ indicates that the aerogel or xerogel was formed at small scale (i.e., <0.1 mL) directly on the substrate for cryo-SEM analysis, while ex situ refers to aerogel samples that were prepared separately on a larger scale (i.e., 1-20 mL), and deposited onto a substrate for room temperature SEM analysis (see experimental section).” Also the caption for Figure 7 has been changed to: “Microscopy images of SAFINs of ISA24.
+POM images of organogels of ISA24 with (a) cyclohexane and (b) toluene (2 wt %).
+Freeze-fractured Cryo-SEM images of in situ aerogels of ISA24 from (c) cyclohexane and (d) toluene organogels (2 wt %).
+SEM images of an ex situ, freeze-dried aerogel of ISA24 from a cyclohexane organogel (2 wt %) at 23C (e) and (f).
+SEM images of dense, in situ xerogels of ISA24 from (g) toluene and (h) cyclohexane (2 wt %) at 23C.
+AFM amplitude images of a thick in situ xerogel of ISA24 from cyclohexane (2 wt %) (i).” NMR experiments does not give any highly relevant information, but that the gelator forms aggregates in chloroform.
+I think figure 8 can be placed at the supporting information file.
+Also, Figure S31 is not discussed, what is the information that it gives?
+Why there is a THF signal on the spectra, is not pure chloroform?
+If this experiment does not give any info should be removed, or if it does, the discussion should be added.
+Done.
+Figure 8 has been moved to the supporting information and Figure 31 has been removed.
+Figure 31 was included to show that the aggregates formed are stable and do not disassemble quickly, otherwise signals for mobile ISA24 would be restored.
+The NMR tubes were probably washed with THF previously and an insignificant amount was still present even after drying (as indicated by their size relative to the 13C satellite signals).
+In figure 9, XR patterns of aerogels of ISA24 from freeze-dried cyclohexane organogels (2 wt %) are shown.
+What is the difference between a and b?
+I mean, they are the same aerogel?
+They were prepared with different methodology?
+With the info given, they seem to belong to the same sample, but that is not possible.
+Please indicate the diffecence between a and b samples on the text and figure.
+Line 477, it refers to Figure 11a, but there is no figure 11, I think it should refer to figure 9a.
+Indeed Figure 11a should be Figure 9a.
+Thank you for picking this up.
+With the NMR Figure moved to the supporting information Figure 9a is now Figure 8a.
+As clearly mentioned into the main text, both DL or Colr phases from cyclohexane gels were produced randomly in the xerogels or aerogels (line 505).
+Fig.
+8a and Fig 8b show the patterns obtained for each type of organization (DL vs. Colr).
+To lift the confusion pointed out be the reviewer, Fig.8 has been shifted to the end of the paragraph, so that the reader is well informed before seeing the patterns.
+Furthermore, the caption of Fig.9 has been modified with the following information: Figure 8.
+PXRD patterns of representative (a) lamello-columnar (DL) and (b) rectangular columnar (Colr) phases in aerogels of ISA24 randomly observed from freeze-dried cyclohexane organogels (2 wt %).
+Schematic representation of the proposed columnar phases of ISA24.
+(c) Side and (d) top views of the Lamello columnar phase (DL).
+(e) Side and (f) tope view of the Rectangular columnar phase (Colr).
+dL = repeating interlayer distance.
+h0 = distance between discoids.
+ar, br = Colr phase unit cell parameters.
+Submission Date 18 March 2022 Date of this review 18 Apr 2022 19:10:01

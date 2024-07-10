@@ -1,0 +1,59 @@
+Author Response We thank the reviewer for taking the time to read through the manuscript once more, we greatly appreciate it!
+Author Response Please see the attachment.
+Author Response File: Author Response.pdf
+I have no comments on the manuscript.
+The authors resubmitted the original paper with some improvements regarding the materials and methods, some lacking parameters in the population studied, but none real improvement concerning the BBB properties.
+Vigh et al.
+2021 clearly indicated how the TEER measurements are experimentation and system-dependent and can't be set alone to define the BBB integrity.
+Moreover, the TEER measurements testify the ion fluxes, and even increased TEER values, the permeability for integrity markers such as sodium fluorescein of Dextrans is not proportionally alter and can be as low as the control conditions.
+Once again, the relationship between preeclampsia and BBB integrity is quite original, but poorly demonstrated.
+Thanks to the authors for this serious revision and the data provides as sub-figures or supplementary figures.
+Even for a pilot study, some standards have to be checked to fit in the BBB field.
+In the proposed revised version, this preliminary study deserves to be published in Cells.
+Response to Reviewer 2 Comments The authors resubmitted the original paper with some improvements regarding the materials and methods, some lacking parameters in the population studied, but none real improvement concerning the BBB properties.
+Vigh et al.
+2021 clearly indicated how the TEER measurements are experimentation and system-dependent and can't be set alone to define the BBB integrity.
+Moreover, the TEER measurements testify the ion fluxes, and even increased TEER values, the permeability for integrity markers such as sodium fluorescein of Dextrans is not proportionally alter and can be as low as the control conditions.
+Once again, the relationship between preeclampsia and BBB integrity is quite original, but poorly demonstrated.
+We thank you for taking the time to read our manuscript again, we greatly appreciate it!
+In our previously published article ‘Preeclampsia and Increased Permeability Over the Blood– Brain Barrier: A Role of Vascular Endothelial Growth Receptor 2’ by Bergman et al.
+2020, several additional analyses are described, including permeability to 70 kDa fluorescein isothiocyanate (FITC)-dextran for the assessment of BBB integrity.
+We have now added the following text to the manuscript: “For this manuscript a re-confirmation analysis of previously published data was performed, where plasma was randomly included from the group of women with preeclampsia (PE, n=12), and the women with normal pregnancies (NP, n=13).
+Results shown in Figure 2.
+Figure 2.
+Re-confirmation analysis of TEER and permeability to 70 kDa Dextran.
+Plasma from a small, randomly chosen, sample of the women with preeclampsia (PE, n=12) and the women with normal pregnancies (NP, n=13) was analyzed for re-confirmation of previously published data on (a) transendothelial electrical resistance (TEER) and (b) permeability to 70 kDa fluorescein isothiocyanate (FITC)-dextran [1].
+**p<0.01; ****p<0.0001” [Page 8; lines 263-271] For this extra analysis we needed to add a few sentences in the methods section: “Confirmatory experiments of TEER and cell permeability to high-molecular weight fluorescent dye (Fluorescein-5-isothiocyanate FITC-dextran 70 kDa) were performed as previously reported [1] using randomly selected plasmas from women with preeclampsia (n=12), and women with normal pregnancies (n=11).“ [Page 4; lines 172-175] “The expression of tight junction proteins (zonula occludens-1 and occludin) and phosphorylation of two tyrosine residues of VEGFR2 (pY951 and pY1175) were also explored, with no changes in the mRNA expression of the tight junction proteins.
+Despite that, changes in their localization morphology or function were not discarded.” [Pages 11; lines 370-374] “For this study we re-confirmed findings of a reduction in TEER and increased permeability in cells exposed to plasma of women with preeclampsia (Figure 2).
+In addition, we also examined expression of tight junction protein claudin-5.
+This was performed as a sole experiment with only four randomly chosen plasma samples.
+Brain endothelial cells exposed to plasma from women with preeclampsia demonstrated a reduced protein abundance of claudin-5 in the cell membrane, while it was enhanced in the cytoplasmatic fraction (supplementary material, Figure S1).” [Pages 11; lines 378-384] As stated in above section, we also examined expression of claudin-5 (not previously published), and we have proposed to add this data as supplementary material.
+This was performed as a sole experiment with only four randomly chosen plasma samples, and shows a reduced protein abundance of claudin-5 in cell membrane of brain endothelial cells exposed to plasma of women with preeclampsia.
+Supplementary material added: Figure S1.
+Reduced protein abundance of claudin-5 in cell membrane of brain endothelial cells exposed to plasma of women with preeclampsia.
+Brain endothelial cell line hCMEC/D3 were incubated (12 h) with plasma from women with normal pregnancy (NP, n=4) or plasma from women with preeclampsia (PE, n=4).
+Plasma samples were randomly chosen from the whole group of 28 plasma samples.
+After treatment, cells were used for extraction of membrane (M) and cytoplasmic (C) fractions by centrifugation.
+Briefly, hCMEC/D3 cells grown in 100 mm plates (maximum confluence) were washed with phosphate buffer solution (PBS, pH 7.4) and extracted with 100 µl of buffer lysis (Sigma-Aldrich, MO, USA) enriched with 1X protease inhibitors (Thermo Fisher Scientific, New York, USA).
+The lysate obtained was vortexed and homogenized constantly with the help of a 32G (0.23mm) syringe for approximately 15 times, and centrifuged at 2.000 rpm x 10 minutes at 4 °C.
+The supernatant obtained was again centrifuged at 14.000 rpm x 30 minutes at 4 °C, where a new pellet (membrane fraction) and supernatant (cytoplasm fraction) were obtained.
+The membrane fraction pellet was hydrated in lysis buffer, and joint with the cytoplasmic fraction they were stored at -20 °C until further analysis.
+For claudin-5 identification (key tight junction protein of the BBB), 50 g of protein from the membrane and cytoplasm fractions were separated using SDS-PAGE (10%), transferred to nitrocellulose membranes, and probed with the primary antibody for claudin-5 (Abcam, Cambridge, UK; ab15106, dilution 1:1500 v/v).
+Rabbit (Thermo Scientific) secondary antibody conjugated with horseradish peroxidase was used for visualization.
+Identification of hypoxia inducible factor (HIF, Santa Cruz, CA, USA; sc-10790, dilution 1:2000 v/v) was used as negative control of membrane fractions, while Ponceau staining was used as loading control.
+Bands on gels were scanned and images quantified using ImageJ V1.48 software (National Institute of Health, USA) as previously described [2].
+(a) Representative blot of analyzed proteins.
+(b) Densitometry of claudin- 5/Ponceau ratio in the cell membrane fraction; or in (c) cytoplasmatic fraction.
+*p<0.05 With these amendments, we want to show that we understand that TEER is not the only measurement of BBB integrity.
+However, we respectfully emphasize that the aim of this study was to correlate the cerebral biomarkers and TEER in women with preeclampsia as a pilot project.
+These results have intrigued us to explore this further, and we will perform similar analyses on a cohort of women with more severe symptoms of preeclampsia.
+We are most grateful for all the input we have gotten from the reviewer, regarding on how we may improve and refine our upcoming studies.
+However, the scope of this study was not at complete assessment of all the properties of the BBB, but more of a first exploration.
+References: 1.
+Bergman, L.; Acurio, J.; Leon, J.; Gatu, E.; Friis, T.; Nelander, M.; Wikstrom, J.; Larsson, A.; Lara, E.; Aguayo, C.; et al.
+Preeclampsia and increased permeability over the blood brain barrier - a role of vascular endothelial growth receptor 2.
+Am J Hypertens 2020, doi:10.1093/ajh/hpaa142.
+2.
+Escudero, C.; Bertoglia, P.; Hernadez, M.; Celis, C.; Gonzalez, M.; Aguayo, C.; Acurio, J.
+Impaired A2A adenosine receptor/nitric oxide/VEGF signaling pathway in fetal endothelium during late- and early-onset preeclampsia.
+Purinergic Signalling 2013, 9, 215-226, doi:10.1007/s11302-012-9341-4.

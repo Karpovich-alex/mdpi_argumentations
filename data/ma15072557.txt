@@ -1,0 +1,206 @@
+Author Response Please see the attachment Author Response File: Author Response.pdf
+Author Response Please see the attachment Author Response File: Author Response.pdf
+Author Response Please see the attachment Author Response File: Author Response.pdf
+The paper is worth publishing.
+It is an experimental work that can contribute to the state of the art.
+However, I would like to suggest some additions to help the reader understand the physics behind the device operation, without the need for an extensive search.
+The authors may consider the following issues if the editor agrees: Since this is a normally-on device, it is assumed that there is a conducting channel under the gate.
+Explain how this hole-channel is formed?
+A simple explanation would be enough.
+Since this is an interface device, it would help the reader to see an energy band diagram for the device.
+Is there a quantum well at the interface due to surface band bending?
+How does the band look?
+The dielectric is grown using ALD, which is assumed to grow materials with low defect densities.
+Why are there 1.66 a1013/cm2 and trapped charges of 4.03 x 1012 /cm3 these are very high values for the device to be stable?
+Can you explain?
+Any evidence for the validity of the explanation for the decrease of the negative charges with annealing?
+Any evidence for the validity of the explanation for the increase of mobility and the subsequent decrease with annealing?
+The paper presents original results on the fabrication of diamond MOSFET on a free-standing heteroepitaxial single crystal diamond.
+The results are meaningful and clearly presented.
+The following points should be addressed before publication: 1) The language in the introduction is sometimes vague: "It is gratifying that diamond heteroepitaxy on Ir has achieved some excellent results" - It is not clear what is meant by excellent results.
+When say "China has achieved excellent results".
+The same applies to the sentence: "The performance of MOSFET with the same size is much better than that we reported previously".
+It is not clear what is meant by "the performance".
+2) Materials and methods sections start with the results of XRD (first sentence) obtained by characterization of the diamond sample, and photographs of the diamond sample(second sentence).
+The description of sample preparation is after the results.
+I recommend following chronological order - first to write how was the sample preparation and after that how it was characterized.
+Otherwise, it is confusing for readers.
+3) The substrate for diamond growth is not specified.
+4) Type of MPCVD system is not mentioned.
+5) The conclusion states "The annealing condition for Al2O3/H-diamond need to be controlled precisely."
+It is not clear what is meant by precise control.
+Paper title: Electrical characteristics of diamond MOSFET with 2DHG on heteroepitaxy diamond substrate Paper ID: materials-1627638 Semiconducting diamond has become recently an important material for manufacturing various kinds of electron devices, including high-energy particle detectors and MOSFETs resistant to nuclear radiation or high temperatures.
+The paper is of interest, since the authors show the possibility of making a MOSFET with the channel in a an epitaxial layer of hydrogen-terminated diamond grown on the substrate fabricated from heteroepitaxial single crystal diamond.
+However, in the presentation of results there are many points that need to be clarified and improved.
+The authors give just a FWHM value of the substrate rocking curve obtained by X-ray measurements.
+A comment concerning the crystallographic quality of the substrate material is needed.
+Comparison with the rocking curve characteristics for other materials, e.g.
+4H-SiC would be valuable.
+The two-dimensional hole gas (2DHG) that is mentioned in the title is later on only once mentioned in the introduction.
+A comment saying how the 2DHG is formed in the H-diamond layer is needed.
+In particular, the band diagram for the interface between the oxide and the diamond layer should be presented.
+There is no evidence in the text that the 2DHG can be formed.
+The low mobility of holes is in the contradiction to the fact the MOSFET is with 2DHG.
+A comment on the reasons for existing the negative charge in the oxide layer is needed.
+Please explain why a high density of this charge is observed.
+What factors can affect the trapped charge density?
+The dependence of the density of states at the interface on the annealing temperature is strange and should be discussed.
+With what accuracy is the hole mobility determined.
+What are the factors influencing the accuracy (uncertainty).
+Why the current density is given in the units of [mA/mm], not in [mA/mm2] and transconductance in [mS/mm], not in [mS].
+Is it somehow normalized?
+The power density is also in [W/mm], not in [W/mm2].
+On page 3, the on-resistance is in [Ωmm], not in [Ω]?
+On page 2, there is LSG and LSD are 9 µm.
+Should be LSG and LGD are 9 µm.
+Besides, there are a lot of language errors.
+For example, in the title: there is heteroepitaxy; should be heteroepitaxial, first line of the introduction: there is diamond semiconductor have been studied; should be diamond semiconductor has been studied; first line of second paragraph: there is vast majority, should be the vast majority.
+Please check thoroughly the text in terms of the English and remove the errors related to grammar and style.
+The revised version should be clear for readers.
+Response letter Dear Reviewers First of all, we would like to express our great thanks to you for your carefully reading our manuscript and providing us very helpful suggestions.
+We appreciate your comments very much.
+According to your requirements and suggestions, we have carefully answered the questions mentioned by reviewers, and revised the manuscript in red color.
+We would like to resubmit the revised manuscript to Materials.
+Thank you for your consideration and time.
+Best regards, Genqiang Chen Reviewer 1 1.Since this is a normally-on device, it is assumed that there is a conducting channel under the gate.
+Explain how this hole-channel is formed?
+A simple explanation would be enough.
+Thanks for your suggestion.
+When a hydrogen-terminated diamond is exposed to air, some negatively charged adsorbates form at diamond surface, such as OH-, HCO3- and CO32- etc .
+Electrons at diamond surface can transfer to these adsorbates, thus the compensating hole-channel beneath diamond surface is formed.
+The energy band diagram is shown as follows, e- air Expose to air bare H-diamond ++ ++ + EC EV EF EF EC EV In addition, Ref.4 was cited to interpret how the hole channel is formed.
+And, the sentence, page 1 line 34, “Thanks to the hydrogen-terminated diamond (H-diamond) which can form the two-dimensional hole gas (2DHG) after hydrogen plasma treatment beneath the surface” was revised to be “Thanks to the hydrogen-terminated diamond (H-diamond) which can form the two-dimensional hole gas (2DHG) beneath the surface when it is exposed to air” , which was used red font in the revised manuscript 4 F. Maier, M. Riedel, B. Mantel, J. Ristein, and L. Ley, Physi.
+Rev.
+Lett.
+85, 3472 (2000).
+2.Since this is an interface device, it would help the reader to see an energy band diagram for the device.
+Is there a quantum well at the interface due to surface band bending?
+How does the band look?
+We appreciate your precious advice.
+Since the energy band energy diagram of Normally-On ALD-Al2O3/H-diamond is well-known, we drew the energy band diagram of ALD-Al2O3/H-diamond here as follows， H-diamond ALD-Al2O3 EC EC EV EV + + + + Fig2 (b) energy band diagram of H-diamond/Al2O3 without gate bias Due to surface band bending, there is a quantum well at diamond surface.
+We revised the Fig.1 and Fig.2 in the revised manuscript.
+The energy band diagram is shown in Fig.2 (b).
+And, a simple illustration “Fig.2 (a) shows the schematic diagram of the MOSFET.
+The gate width (WG), gate length (LG) and distance source/drain are 100, 2, and 20 μm, respectively.
+LSG and LGD are 9 μm.
+Fig.2(b) illustrates energy band diagram of H-diamond/Al2O3.
+The 2DHG under diamond surface is accumulated due to negatively charged adsorbates, which leads to the energy band upward bending at diamond surface” for Fig.2 (b) was added into page7, line 100~104.
+3.The dielectric is grown using ALD, which is assumed to grow materials with low defect densities.
+Why are there 1.66 a1013/cm2 and trapped charges of 4.03 x 1012 /cm3 these are very high values for the device to be stable?
+Can you explain?
+Thanks for your professional comments .In fact, defect densities in ALD-Al2O3 strongly depends on synthesis temperature.
+In this work, the dielectric deposition began at 90℃.
+This temperature is relatively low so that there are lots of defects in Al2O3.
+Thereby, a high density of trapped charges and interface states density exists.
+According to literature1, trapped charges can induce the threshold voltage instability after a high gate bias sweeping.
+In our experiment, the interval between two measurement was 10 h minimize this affect, and a little difference of Vth(<0.2 V) was observed.
+1 Z. Chen, X. Yu, J. Zhou, S. Mao, Y. Fu, B. Yan, R. Xu, Y. Kong, T. Chen, Y. Li, and Y. Xu, Appl.
+Phys.
+Lett.
+117, (2020).
+2 Y. Li, J.F.
+Zhang, G.P.
+Liu, Z.Y.
+Ren, J.C. Zhang, and Y. Hao, Phys.
+Status Solidi - Rapid Res.
+Lett.
+12, 1 (2018).
+3 Y. Sasama, T. Kageura, M. Imura, K. Watanabe, T. Taniguchi, T. Uchihashi, and Y. Takahide, 1 (2021).
+4.Any evidence for the validity of the explanation for the decrease of the negative charges with annealing?
+Thanks for your suggestion.
+The decrease of negative charges can be explained in two ways.
+1.
+It is well-known that a 2D hole channel formed at H-diamond surface is induced by surface adsorbates.
+These adsorbates commonly are present negative polarity, such as OH-, HCO3- and CO32- etc.
+It is negative charges that induce holes beneath H-diamond surface.
+According to the negatively shifted threshold voltage after annealing, it is confirmed that the hole density decreased.
+Thus, we could conclude that the negative charges decreased.
+2.
+In another way, the decreased negative charges with annealing can be confirmed by the negatively shifted flat band voltage.
+In accordance with equation.2, the decreased VFB results in the decreased quantities negative charges.
+5.Any evidence for the validity of the explanation for the increase of mobility and the subsequent decrease with annealing?
+Thanks for your comments.
+In order to make sure the mobility was worked out with a same carrier density, we used equation (3) to calculate the mobility at Vth-VGS = 2 V. 2 ( ) 2 G eff ox GS th DS G W C V V I L  − = (3) The current density IDS at Vth-VGS = 2 V is 8.6 mA/mm.
+After 150 ℃ annealing process, the current density at Vth-VGS = 2 V is 10.8 mA/mm, and it is 5.9 mA/mm after 200 ℃ annealing process.
+According to ohm’s law and definition of mobility, the current density can be given by J e = Where the J is current density , the ρ is carrier density ,μ is mobility, and e is electron charge.
+Thereby, the increase of current density and subsequent decrease with annealing could be the evidence for our explanation.
+Response letter Dear Reviewers First of all, we would like to express our great thanks to you for your carefully reading our manuscript and providing us very helpful suggestions.
+We appreciate your comments very much.
+According to your requirements and suggestions, we have carefully answered the questions mentioned by reviewers, and revised the manuscript in red color.
+We would like to resubmit the revised manuscript to Materials.
+Thank you for your consideration and time.
+Best regards, Genqiang Chen Reviewer 2 1.
+The language in the introduction is sometimes vague: "It is gratifying that diamond heteroepitaxy on Ir has achieved some excellent results" - It is not clear what is meant by excellent results.
+When say "China has achieved excellent results".
+The same applies to the sentence: "The performance of MOSFET with the same size is much better than that we reported previously".
+It is not clear what is meant by "the performance".
+We are very grateful to your comments for the manuscript.
+We revised the sentences, page 1 line 45, "It is gratifying that diamond heteroepitaxy on Ir has achieved some excellent results" to “It is gratifying that diamond heteroepitaxy on Ir has been greatly developed.
+Not only the size 4-inch of heteroepitaxial diamond but also the low dislocation density of 9 ×106 cm-2 were achieved.” And, this sentence, page 2 line 54, "The performance of MOSFET with the same size is much better than that we reported previously" was modified to be “The output current density IDS, maximum transconductance gm(max) and carrier density of MOSFET with a same size is much better than that we reported previously.” The two were revised using red font in the revised manuscript.
+2.Materials and methods sections start with the results of XRD (first sentence) obtained by characterization of the diamond sample, and photographs of the diamond sample (second sentence).
+The description of sample preparation is after the results.
+I recommend following chronological order - first to write how was the sample preparation and after that how it was characterized.
+Otherwise, it is confusing for readers.
+Thanks for your generous comments.
+We re-wrote this part following chronological, and supplied several sentences to describe the heteroepitaxial diamond preparation.
+This part “Fig.1 (a) shows the the XRD (X-ray diffraction) characteristic of the HSCD.
+The FWHM of (004) X-ray rocking curve was measured as 209.52 arcsec.
+The insert image is the optical image of heteroepitaxy heteroepitaxial diamond with a dimension of 26×26×1 mm3” was revised to be “In this work, an a-plane (11-20) sapphire with a size of 26×26×1 mm3 was chosen as substrate.
+Then, approximately 150 nm Ir was deposited at 900 ℃ using magnetron sputtering technology.
+Subsequently, bias enhanced nucleation was conducted in direct current CVD.
+After BEN process, diamond epitaxy was carried out in MPCVD for 100 h with a growth rate of 10 μm/h.
+The specific parameters of BEN and epitaxial growth process were reported elsewhere [17].
+The insert image is the optical image of polished heteroepitaxial diamond with a dimension of 26×26×1 mm3.
+Fig.1 (a) shows the XRD (X-ray diffraction) characteristic of the HSCD.
+The FWHM of (004) X-ray rocking curve was measured as 209.52 arcsec.” 3.The substrate for diamond growth is not specified.
+Thanks for your reminding.
+The substrate for diamond growth is a-plane (11-20) sapphire, and it was added in the part of Materials and methods part.
+4.
+Type of MPCVD system is not mentioned.
+Thanks for your comment.
+The type of MPCVD we used is horizontal type MPCVD with a maximum microwave power 6 kW.
+And a sentence “After BEN process, diamond epitaxy was carried out in horizontal type MPCVD for 100 h with a growth rate of 10 μm/h” was added in revised manuscript.
+5.The conclusion states "The annealing condition for Al2O3/H-diamond need to be controlled precisely."
+It is not clear what is meant by precise control.
+Thanks for your suggestion.
+The “annealing condition” was replaced by “annealing temperature and period” in the revised manuscript.
+Response letter Dear Reviewers First of all, we would like to express our great thanks to you for your carefully reading our manuscript and providing us very helpful suggestions.
+We appreciate your comments very much.
+According to your requirements and suggestions, we have carefully answered the questions mentioned by reviewers, and revised the manuscript in red color.
+We would like to resubmit the revised manuscript to Materials.
+Thank you for your consideration and time.
+Best regards, Genqiang Chen Reviewer 2 1.
+The language in the introduction is sometimes vague: "It is gratifying that diamond heteroepitaxy on Ir has achieved some excellent results" - It is not clear what is meant by excellent results.
+When say "China has achieved excellent results".
+The same applies to the sentence: "The performance of MOSFET with the same size is much better than that we reported previously".
+It is not clear what is meant by "the performance".
+We are very grateful to your comments for the manuscript.
+We revised the sentences, page 1 line 45, "It is gratifying that diamond heteroepitaxy on Ir has achieved some excellent results" to “It is gratifying that diamond heteroepitaxy on Ir has been greatly developed.
+Not only the size 4-inch of heteroepitaxial diamond but also the low dislocation density of 9 ×106 cm-2 were achieved.” And, this sentence, page 2 line 54, "The performance of MOSFET with the same size is much better than that we reported previously" was modified to be “The output current density IDS, maximum transconductance gm(max) and carrier density of MOSFET with a same size is much better than that we reported previously.” The two were revised using red font in the revised manuscript.
+2.Materials and methods sections start with the results of XRD (first sentence) obtained by characterization of the diamond sample, and photographs of the diamond sample (second sentence).
+The description of sample preparation is after the results.
+I recommend following chronological order - first to write how was the sample preparation and after that how it was characterized.
+Otherwise, it is confusing for readers.
+Thanks for your generous comments.
+We re-wrote this part following chronological, and supplied several sentences to describe the heteroepitaxial diamond preparation.
+This part “Fig.1 (a) shows the the XRD (X-ray diffraction) characteristic of the HSCD.
+The FWHM of (004) X-ray rocking curve was measured as 209.52 arcsec.
+The insert image is the optical image of heteroepitaxy heteroepitaxial diamond with a dimension of 26×26×1 mm3” was revised to be “In this work, an a-plane (11-20) sapphire with a size of 26×26×1 mm3 was chosen as substrate.
+Then, approximately 150 nm Ir was deposited at 900 ℃ using magnetron sputtering technology.
+Subsequently, bias enhanced nucleation was conducted in direct current CVD.
+After BEN process, diamond epitaxy was carried out in MPCVD for 100 h with a growth rate of 10 μm/h.
+The specific parameters of BEN and epitaxial growth process were reported elsewhere [17].
+The insert image is the optical image of polished heteroepitaxial diamond with a dimension of 26×26×1 mm3.
+Fig.1 (a) shows the XRD (X-ray diffraction) characteristic of the HSCD.
+The FWHM of (004) X-ray rocking curve was measured as 209.52 arcsec.” 3.The substrate for diamond growth is not specified.
+Thanks for your reminding.
+The substrate for diamond growth is a-plane (11-20) sapphire, and it was added in the part of Materials and methods part.
+4.
+Type of MPCVD system is not mentioned.
+Thanks for your comment.
+The type of MPCVD we used is horizontal type MPCVD with a maximum microwave power 6 kW.
+And a sentence “After BEN process, diamond epitaxy was carried out in horizontal type MPCVD for 100 h with a growth rate of 10 μm/h” was added in revised manuscript.
+5.The conclusion states "The annealing condition for Al2O3/H-diamond need to be controlled precisely."
+It is not clear what is meant by precise control.
+Thanks for your suggestion.
+The “annealing condition” was replaced by “annealing temperature and period” in the revised manuscript.

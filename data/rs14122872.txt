@@ -1,0 +1,134 @@
+Author Response Please see the attachment Author Response File: Author Response.docx
+Author Response Please see the attachment Author Response File: Author Response.pdf
+Author Response Please see the attachment Author Response File: Author Response.docx
+Author Response We would like to thank the reviewer again for the effort made to review the document a second time.
+We have integrated the comment about the reference.
+However, we do not see any vertical line in table 3.
+I add a screenshot, where table 3 is shown.
+Author Response File: Author Response.docx
+Dear authorsThank you for your manuscript submission and your efforts to review and update it.
+This new version is significantly improved.
+Nothing more to comment on or say.
+Dear authors I have both general and more specific comments to your manuscript.
+general comments: When I read your manuscript I cant find a good answer to your title.
+is it possible to delineate N fertilization using NDVI?
+I believe based on your results that the answer is no, do you agree?
+It is not enough to be able to devide the fields into management zones, you also have to define how much N should be applied to each zone before it is useful for the farmer.
+do a search and replace on upper cases like ha-1 which should be ha-1 x is replaced by - More specific comments: line 20 - define DDA line 36 and 37 - is this the reason for increased use of N?
+I am not sure, I believe it is due to just want to have a higher yield, I would like you to comment this.
+line 53 - PA doesnt necessarily increase yield and sustainability, you should be more critical to literature lin 58 - avoid using etc.
+line 83 to 85 - be critical to theses suggestions, is it always true?
+line 101 and 102 - you need a reference to this line 125 - define what you mean by 'classified' line 131 - 11/24/2018 is not a week line 131 - seed density, do you mean seed rate line 133 - replace made with applied line 174 - 6Co is the correct way to write it figure 2 - title on y axis is wrong line 202 - safety buffer, is this the same as headland?
+line 378 - I don't understand this line line 434 - what do you mean by ... and spike-1 weight.. line 439 misspelled waterlloged and the is to much space at ..from GS 30.. line 441 - what do you mean by (number of spikes-1.. line 445 - what do you mean by meter2
+It is nice paper about attempt to delineate N fertilization maps by using NDVI, especially the attempting to provide an answer for plots that do not show agreement between NDVI classified images and grain yield classified maps.
+However, it is some weakness for the conclusion that the mismatch may be the result of a delay in the onset of tillering, which causes a shortening of the tillering phase.
+Maybe a figure showing the comparison of the NDVI seasonal evolution in unrelated plots and in the related plots can give more clear evidence.
+In detail: English check should be more carefully for example L16 a third should be one third and L18: another third should be another one-third.
+L135: ANC fertilizer dose applied was 220 and 210 kg ha-1.
+These numbers are not coordinate with Table 1.
+L173: annual rainfall should be monthly rainfall L237: change “Geoeuskadi a repository for spatial data for the Basque Country” to geomorphological variables: Elevation, soil type and orthophoto L264-266: Sentences are not well.
+Maybe it can be changed as “The degree of similarity between maps is quantified using KI, as it is considered a more reliable measure of agreement than simple percent agreement, since KI takes into account the likelihood of agreement occurring by chance.” L384-404: Suggestion: give a figure to show the seasonal evolution of NDVI of unrelated plots and the related plots as Figure 5.
+Dear Authors Thank you for taking my comments into consideration for this new version.
+I only have a few comments: delete vertical line in table 3 line 363: there is one number too much for the Babar reference
+Response to revisor 1: Thank you for your manuscript submission and your efforts to review and update it.
+This new version is significantly improved.
+Nothing more to comment on or say.
+We can only be grateful to the reviewer for the comments made in the previous version and which have been helpful to obtain the current document.
+Thank you.
+Response to revisor 2: Reviewer comments appear in blue, while responses appear in black.
+I have both general and more specific comments to your manuscript.
+Thank you very much for the effort made in this thorough revision.
+The authors have taken into account all the suggestions made by the reviewer and have added them to the text.
+Regarding the issue of the replacement of the x's in the text by the -, we do not understand how this happened and that we did not notice it during the repeated revisions of the text.
+The x's have been reinstated in the text again.
+The reviewer's questions are accurate, and he has noticed stylistic errors that were difficult to find, for which we thank him for his work.
+We believe that the text has been substantially improved by integrating the reviewer's comments.
+The conclusions have been rewritten in order to give a more precise answer to the question posed in the title.
+General comments: When I read your manuscript I cant find a good answer to your title.
+is it possible to delineate N fertilization using NDVI?
+I believe based on your results that the answer is no, do you agree?
+Yes, we agree with you.
+However, we believe we are on the right track and will be able to delineate N fertilization using NDVI or other vegetative index when we have data from more plots and have done more studies on it.
+This is a first study related to this topic.
+Even so, the results obtained are encouraging since this technique is useful for 33% of the plots analyzed.
+And if we take into account that the spatial patterns are recurrent during several years, the results are useful for 66% of the plots.
+We have slightly modified the title to make it clear that this is a first attempt.
+It is not enough to be able to divide the fields into management zones, you also have to define how much N should be applied to each zone before it is useful for the farmer.
+Yes, of course you are right.
+Here we are making the first steps.
+In order to be able to accurately determine the fertilizer demand of wheat we need to estimate the yield of wheat, but unfortunately we are not yet in this situation.
+Once we have estimated the expected yield, we should multiply this by the nitrogen extraction of the wheat (25-30 kg N/1000 kg produced).
+In order to carry out an adequate fertilization, it would be necessary to subtract the wheat's demand from this figure.
+The amount of N that the soil is capable of supplying, should be subtracted from the wheat demand.
+This amount is defined by soil organic matter and soil and climatic conditions.
+Therefore, the soil will not provide the same amount of N every year, nor will it provide it at the same time.
+If there is no crop, the mineralized N will be lost, while if it coincides with a time of high demand by the crop, the N will be used more.
+But there is no doubt that the most important factor in deciding the nitrogen fertilization are the extractions of the crop, at least in our conditions in which the organic matter is not high and the mineralization is usually produced in periods in which there is no plant (summer, autumn) and the rains are important.
+That is why the Nmin that we usually obtain between GS20 and GS30 is usually low as we have verified in several trials.
+Table 1 (data published in the thesis of Mª Arritokieta Ortuzar Iragorri) shows the Nmin values measured in different plots during other trials.
+Nmin analysis is complicated for several reasons, and its application at the plot level is not considered very precise (Ravier et al., 2016).
+One of the main reasons is the spatial and temporal variability of Nmin.
+For example, authors such as Ilsemann et al., 2001 did not find spatial dependence in the values of Nmin.
+To capture all variability of a plot, the Association of German Agricultural Research Institutes recommends taking 15 to 16 soil samples every 90m2.
+For a farmer to perform this process on each of his plots is unfeasible.
+Therefore, in their paper of 2021, Heinemann & Schmidhalter propose a simplified methodology that produces an error of less than 10kg Nitrate-N ha-1.
+The arguments explained previously are the motives why this article does not provide more information about how much N need to be applied in each management zones.
+Do a search and replace on upper cases like ha-1 which should be ha-1 Replaced x is replaced by Thank you very much, we do not understand how the x's could have been replaced by -.
+The typos have been identified in the text and have been corrected.
+More specific comments: line 20 - define DDA Done line 36 and 37 - is this the reason for increased use of N?
+I am not sure, I believe it is due to just want to have a higher yield, I would like you to comment this.
+The phrase has been rewritten in the text to clarify this term.
+line 53 - PA doesnt necessarily increase yield and sustainability, you should be more critical to literature The reviewer is right.
+The use of AP does not have to increase production.
+However, in the definition of the International Society of Precision Agriculture (ISPA) one of the improvements derived from its use is the sustainability.
+The definition proposed by ISPA has been added to the document.
+line 58 Done line 83 to 85 - be critical to theses suggestions, is it always true?
+The sentence has been slightly changed to better define own situation.
+In addition, a reference has been added to reinforce the idea.
+The plots selected for the study (Table 2) are representative of the study area.
+In our region the plot average size is near to 0.8 ha, so their size is small.
+Thus, hiring a flight for these farmers is excessively expensive.
+Taking this into account, the authors believe that the use of airplanes for this purpose is not suitable.
+101 and 102 - you need a reference to this Added a reference in the text line 125 - define what you mean by 'classified' A short definition has been added in the text.
+line 131 - 11/24/2018 is not a week Done line 131 - seed density, do you mean seed rate Done line 133 - replace made with applied Done line 174 - 6Co is the correct way to write it Done figure 2 - title on y axis is wrong The title has been corrected in the text line 202 - safety buffer, is this the same as headland?
+A buffer is defined as something that prevents something else from being harmed or that prevents two things from harming each other.
+In this paper, the term buffer is used to refer to a reduction in the size (15m) of the plot to ensure that all pixels used are within the plot.
+The underlying reason for this is that NDVI is sensitive to the presence of soil, and therefore, if a pixel is located partially outside the plot on a road, the values of this pixel will be lower than the rest and may alter the relationship.
+Therefore, the buffer corresponds to the headland.
+line 378 - I don't understand this line This sentence has been modified in the text by adding an explanation to improve its comprehensibility.
+line 434 - what do you mean by ... and spike-1 weight..
+It is normal that it was not understood, we had made a typing error when transcribing this parameter from the original article.
+We have revised the original article and corrected the error.
+The correct variable is kernel weight spike-1.
+With this variable, we think that the text is well understood.
+line 439 misspelled waterlloged and the is to much space at ..from GS 30..
+Both changes have been incorporated into the text.
+line 441 - what do you mean by (number of spikes-1..
+The wrong variable has been replaced by the number of grains per spike in the text.
+line 445 - what do you mean by meter2 This term refers to the number of tillers per square meter in a plot of land
+Response to revisor 3: Reviewer comments appear in blue, while responses appear in black.
+It is nice paper about attempt to delineate N fertilization maps by using NDVI, especially the attempting to provide an answer for plots that do not show agreement between NDVI classified images and grain yield classified maps.
+However, it is some weakness for the conclusion that the mismatch may be the result of a delay in the onset of tillering, which causes a shortening of the tillering phase.
+Maybe a figure showing the comparison of the NDVI seasonal evolution in unrelated plots and in the related plots can give more clear evidence.
+Thank you very much for the effort made in this thorough revision.
+The authors have taken into account all the suggestions made by the reviewer and have added them to the text As suggested the reviewer a new figure has beedn added.We believe that the text has been substantially improved by integrating the reviewer's comments.
+The conclusions have been rewritten in order to give a more precise answer to the question posed in the title.
+In detail: English check should be more carefully for example: L16 a third should be one third and L18: another third should be another one-third Done L135: ANC fertilizer dose applied was 220 and 210 kg ha-1.
+These numbers are not coordinate with Table 1.
+It has been corrected in the document.
+The data in the table were incorrect.
+The correct data were those reflected in the text.
+This can be checked with the total N dosage of 169 kg/ha indicated in the text.
+L173: annual rainfall should be monthly rainfall Done, thank you L237: change “Geoeuskadi a repository for spatial data for the Basque Country” to geomorphological variables: Elevation, soil type and orthophoto Change done L264-266: Sentences are not well.
+Maybe it can be changed as “The degree of similarity between maps is quantified using KI, as it is considered a more reliable measure of agreement than simple percent agreement, since KI takes into account the likelihood of agreement occurring by chance.” The sentence proposed by the reviewer is much better understood than the original sentence.
+Therefore, the original has been replaced.
+L384-404: Suggestion: give a figure to show the seasonal evolution of NDVI of unrelated plots and the related plots as Figure 5.
+An excellent contribution proposed by the reviewer.
+The figure printed below has been added in the document together with an explicative text.
+In the manuscript we had quantified the differences between the groups using an ANOVA.
+This allows us to see that there were significant differences between the groups, but it did not allow us to see how each group of plots behaved.
+But with the figure added in the paper it can be seen how each plot behaved differently.
+We would like to thank the reviewer again for the effort made to review the document a second time.
+We have integrated the comment about the reference.
+However, we do not see any vertical line in table 3.
+I add a screenshot, where table 3 is shown.

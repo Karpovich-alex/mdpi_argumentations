@@ -1,0 +1,169 @@
+side	opponent	round	number	attacks	ann	text
+					0	ISSN 2227-7099 www.mdpi.com/journal/economies Peer-Review Record: Economic Development and Government Spending: An Exploration of Wagner’s Hypothesis during Fifty Years of Growth in East Asia Hassan Mohammadi and Rati Ram Economies 2015, 3, 150-160, doi:10.3390/economies3040150 Reviewer 1: Anonymous Reviewer 2: Anonymous Editor: Ralf Fendel (WHU-Otto Beisheim School of Management, Germany, Editor-in-Chief of Economies) Received: 9 June 2015 First Editorial Decision: 26 August 2015 First Revision Received: 10 September 2015 Second Editorial Decision: 15 September 2015 Second Revision Received: 19 September 2015 Accepted: 29 September 2015 Published: 9 October 2015 First Round of Evaluation Round 1: The motivation for testing Wagner’s law using data from East Asian countries is fine; the rapid growth should provide some strong evidence.
+Reviewer_1	Author	1	1	0	2	However, the overall thrust in the paper is somewhat strange.
+Reviewer_1	Author	1	1	0	2	After mechanically, without checking assumptions, doing specification test, checking the results carefully, etc.
+Reviewer_1	Author	1	1	0	2	they conclude that relationships, which are not visible in graphs, cannot be found even with the most sophisticated approach.
+Reviewer_1	Author	1	1	0	2	But who thinks they could, or should, be found?
+Reviewer_1	Author	1	1	0	2	Tests are used to support informal results, such as those obtained in graphs.
+Reviewer_1	Author	1	2	0	2	I don’t really doubt the empirical findings of the paper (which I see as support for the hypothesis in Japan and possibly in Korea), but I dislike the approach of spending a lot of space on various, often pointless, tests.
+Reviewer_1	Author	1	2	0	2	There should be one detailed analysis based on adequate tests, and a discussion about the results.
+Reviewer_1	Author	1	2	0	2	After all, government expenditure is a political decision.
+Reviewer_1	Author	1	3	0	2	An import question is why are the series for real GDP per capita are taken from PWT 7.0?
+Reviewer_1	Author	1	3	0	2	These series are constructed to be used in cross-country studies, and they are not suitable for the analyses in the paper.
+Reviewer_1	Author	1	3	0	2	See the paper by Johnson et al.
+Reviewer_1	Author	1	3	0	2	(2009).
+					0	This is a major flaw of the paper and the choice should be defended by showing that using the ‘standard’ real GDP series’ would give the same results.
+					0	Or the GDP series, downloaded from World Development Indicators (local currency, constant prices), should be used.
+Reviewer_1	Author	1	4	0	2	The dependency ratio has not been included mechanically in most papers, as it is this one.
+Reviewer_1	Author	1	4	0	2	It is supposed to pick up changes in demand for government expenditure, such as schooling and pensions.
+Reviewer_1	Author	1	4	0	2	The general idea is that these have increased government expenditure, both because per-capita schooling and pensions have expanded and because the dependency ratio has increased.
+Reviewer_1	Author	1	4	0	2	In most of the countries studied, as is well-known, the dependency ratio declined during the period studied, while expenditure per person probably increased.
+Reviewer_1	Author	1	4	0	2	Japan is most likely an exception; it should have entered the demographic transition much earlier than the other countries.
+Reviewer_1	Author	1	4	0	2	There is thus no a priory no reason to expect the dependency ratio to play an important role in the Wagner hypothesis in general.
+Reviewer_1	Author	1	4	0	2	It can thus be removed from the analysis, or moved to a footnote.
+Reviewer_1	Author	1	4	0	2	If the author(s) wish to pursue the approach of testing other potentially relevant variables, see Shelton 2007.
+Reviewer_1	Author	1	5	0	2	Figure 1 tends to hide co-movements between the variables by mixing of scales.
+Reviewer_1	Author	1	5	0	2	I suggest the graphs are re-done using two y-axes and preferably logs.
+					0	The correlations in Table 4 are by definition not valid in the cases where the variables are non- stationary.
+					0	Even high correlations are uninformative in this case.
+					0	Moreover, most studies that add variables to the models, such as the dependency ratio, argue that Wagner’s law holds conditional on it.
+					0	This makes the unconditional correlations uninteresting.
+Reviewer_1	Author	1	7	0	2	The static regressions in Table 5 are used when testing for cointegration (Engle-Granger approach), when the variables have a unit root.
+Reviewer_1	Author	1	7	0	2	In these cases, correction for serial correlation (AR1) just messes up the results.
+Reviewer_1	Author	1	7	0	2	And when the variables are stationary, the validity of AR1 should be tested.
+					0	Usually it imposes invalid restrictions.
+					0	The autoregressive distributed lags model is a much better choice in general.
+					0	But later tests show that the variables are non-stationary.
+Reviewer_1	Author	1	8	0	2	In Table 5 we can get information about cointegration from the R2 and the t-values.
+Reviewer_1	Author	1	8	0	2	Only Japan shows any promise, in all other cases R2 are very low.
+Reviewer_1	Author	1	8	0	2	I would say they are suspiciously low for time series data.
+Reviewer_1	Author	1	8	0	2	Are thy correct?
+Reviewer_1	Author	1	9	0	2	The discussion about endogeneity can be skipped.
+Reviewer_1	Author	1	9	0	2	In any case, cointegration analysis allows for endogeneity, and it can easily be test when there is cointegration.
+Reviewer_1	Author	1	9	0	2	The instruments used (lags) are not useful since the variables are very persistent.
+Reviewer_1	Author	1	9	0	2	And they should give the same results as OLS.
+Reviewer_1	Author	1	10	0	2	Unless short run dynamics are an important reason for the lack of cointegration, the Johansen test should give the same results as the static OLS regressions, when there is one cointegrating vector.
+Reviewer_1	Author	1	10	0	2	The authors do not seem to understand they are using different approaches to test for cointegration.
+Reviewer_1	Author	1	11	0	2	The Johansen approach is suitable for times series with many observations, about 300.
+Reviewer_1	Author	1	11	0	2	When one has fewer than 50, it is not possible to rely on the tests in the way it is done in the paper.
+Reviewer_1	Author	1	11	0	2	Additional information has to be provided.
+Reviewer_1	Author	1	11	0	2	See Juselius (2001) for an instructive example.
+Reviewer_1	Author	1	12	0	2	Gregory–Hansen is used when one fails to find cointegration with standard tests.
+Reviewer_1	Author	1	12	0	2	There is no point in testing countries such as Japan and Korea, when a superior test shows that they are cointegrated.
+Reviewer_1	Author	1	13	0	2	The use of the MTAR model is dubious because of the small sample, and it should not be used when cointegration has been established.
+Reviewer_1	Author	1	13	0	2	It is unlikely that there is enough information in the data to capture asymmetric effects and the standard procedure is to use MTAR when Engle-Granger fails to show cointegration.
+Reviewer_1	Author	1	14	0	2	What is the alternative hypothesis of the Pedroni test, that there is cointegration in any country or or in all countries?
+Reviewer_1	Author	1	14	0	2	This should be made clear.
+Reviewer_1	Author	1	15	0	2	The authors provide a very provocative conclusion (see below), but it is not supported by the analyses in the paper.
+Reviewer_1	Author	1	16	0	2	The single-country analysis would provide the same results if done carefully, and the panel data analyses are dubious both because of the small cross-section (six) and the heterogeneity of the sample.
+Reviewer_1	Author	1	16	0	2	I don’t mind the use panel analyses they can be presented for illustrative purposes, noting the heterogeneity.
+Reviewer_1	Author	1	16	0	2	However, the time series analyses should be done correctly.
+Reviewer_1	Author	1	17	0	2	Moreover, it is quite obvious that in simple bivariate cases, graphs can be very informative.
+Reviewer_1	Author	1	18	0	2	However, the author(s) do not manage to provide any useful information about the dependency ratio in the ‘old fashioned’ analyses; they do only in Table 5 when (unknowingly) testing for cointegrating using OLS.
+Reviewer_1	Author	1	19	0	2	“Methodologically, while the pattern is reflected fairly well in plots and simple correlations, and even in regressions, the widely-used cointegration methodology yields a diverse scenario in four different procedures, and, through a choice of the procedure and the model, it seems as easy to conclude that there is no cointegration, and thus no support for the hypothesis as to conclude that the evidence supports the hypothesis in a majority of the cases.
+Reviewer_1	Author	1	19	0	2	At any rate, it is not obvious that such sophisticated and complex tests of cointegration provide any useful additional insight regarding the empirical status of the hypothesis.
+Reviewer_1	Author	1	19	0	2	More generally, we venture the highly subjective view that despite the immense mathematical sophistication of cointegration tests and their application in perhaps thousands of studies, it is not obvious how much additional substantive insight has been gained in the wide variety of contexts in which these tests have been used.” These statements should be explained.
+Reviewer_1	Author	1	19	0	2	Is the second one a rejection of the last 40 years of advances in times series analysis?
+Reviewer_1	Author	1	20	0	2	Despite Biehl’s (1998) insightful essay, almost all empirical research on the topic has interpreted the Wagnerian proposition
+Reviewer_1	Author	1	21	0	2	As Ram (1998, Pp.
+Reviewer_1	Author	1	21	0	2	149-150) has explained, considerations of “nonstationarity” of the variables or “spuriousness” of the correlations or regression do not have much bearing on such tests.
+					0	References: Cameron A. Shelton (2007) “The size and composition of government expenditure” Journal of Public Economics, 91 (11–12) Simon Johnson, William Larson, Chris Papageorgiou, Arvind Subramanian.
+					0	(2009) “Is Newer Better?
+					0	Penn World Table Revisions and Their Impact on Growth Estimates” NBER Working Paper No.
+					0	15455 Juselius, K. (2001).
+					0	Unit roots and the demand for cigarettes in Turkey: pitfalls and possibilities.
+					0	University of Copenhagen Dept.
+					0	of Economics Discussion Paper, (01-02).
+					0	Round 1: Author Response to Reviewer 1 1.
+Author	Reviewer_1	2	2	2	2	Following the reviewer’s comments, we have now focused on one detailed analysis based on adequate tests and a discussion of the results.
+Author	Reviewer_1	2	2	2	2	The revised version drops Descriptive statistics in old Table 2, rates of increase given in the old Table 3, correlations reported in old Table 4, the regressions in old Table 5, and pooled regressions of old Table 6.
+Author	Reviewer_1	2	2	2	2	The discussion based on these Tables has consequently been omitted from the revision.
+Author	Reviewer_1	2	2	2	2	The unit-root-test Tables have been moved from the Appendix to the text as Table 2, and in view of the evidence in favor of unit roots, rates of growth of GDP and government variables have been shown in Table 3 somewhat like the old Table 3.
+Author	Reviewer_1	2	2	2	2	These are the most major changes.
+					0	2.
+Author	Reviewer_1	2	3	3	1	The authors are aware of the Johnson et al.
+Author	Reviewer_1	2	3	3	1	paper (JME 2013) and other critiques of the PWT data.
+Author	Reviewer_1	2	3	3	1	However, while the LCU numbers are appropriate for single-country analysis, these are not suitable for panel-data format which is a significant part of this study.
+Author	Reviewer_1	2	3	3	1	Therefore, we use the PWT numbers throughout and hope that single-country analysis with these numbers is a reasonable approximation to the scenario indicated by LCU data.
+					0	3.
+Author	Reviewer_1	2	4	4	1	The dependency variable has been removed from the analysis.
+					0	4.
+Author	Reviewer_1	2	5	5	1	Figure 1 has been redone with separate scales for logarithms of real GDP per capita and government share.
+					0	5.
+Author	Reviewer_1	2	8	8	3	The correlations of old Table 4, the static regressions of Table 5, and the discussion of endogeneity have been omitted.
+					0	6.
+Author	Reviewer_1	2	12	12	4	Since our data cover a long period of nearly 50 years, we are inclined to rely on Johansen tests although the number of data points is smaller than 100.
+Author	Reviewer_1	2	12	12	4	The Gregory-Hansen test is done for Japan and Korea also just for completeness, and might be of some methodological interest since it does not show cointegration even for Japan and Korea.
+Author	Reviewer_1	2	12	12	4	The reviewer’s observation has been acknowledged in note 2.
+					0	7.
+Author	Reviewer_1	2	13	13	1	We agree with the reviewer about the limited usefulness of MTAR in small samples and for Japan and Korea.
+Author	Reviewer_1	2	13	13	1	However, it is included in the hope it would indicate whether lack of cointegration for Malaysia, Philippines, Singapore and Thailand might be due to asymmetric adjustment.
+Author	Reviewer_1	2	13	13	1	The reviewer’s observation has been acknowledged in note 3.
+					0	8.
+Author	Reviewer_1	2	14	14	1	We have highlighted the alternative hypothesis in Pedroni’s tests on Page 8.
+Author	Reviewer_1	2	14	14	1	As Pedroni (1999) clearly points out, the alternative hypothesis rejects the null of no-cointegration across all cross-sections in both within- and between-dimension tests.
+					0	9.
+Author	Reviewer_1	2	19	19	5	The “provocative conclusion” reflected one author’s subjective perception and was stated as such.
+Author	Reviewer_1	2	19	19	5	He shares the perspective noted by Bennett McCallum’s in his “Is the spurious regression problem spurious?” (Economics Letters, 2010).
+Author	Reviewer_1	2	19	19	5	However, the segment cited by the reviewer has been deleted since it is a more general proposition and is not necessary for the limited analysis reported in our paper.
+					0	10.
+Author	Reviewer_1	2	20	20	1	We completely share the reviewer’s view that despite Biehl’s PF/FP essay, almost everyone follows the standard approach, and we do the same.
+Author	Reviewer_1	2	20	20	1	Our observation is just a restatement of the proposition that our approach is traditional.
+					0	Round 1: The paper analyzes the validity of Wagner’s law in six East Asian countries during the period 1960- 2008.
+					0	While interesting, generally well written and scientifically sound, several suggestions should be considered before further consideration.
+					0	The suggestions are listed below in no particular order of importance: 1.
+Reviewer_2	Author	1	1	0	2	List of references is scant and limited.
+Reviewer_2	Author	1	1	0	2	It is necessary to add more recent works on the subject with alternative ways of testing for Wagner’s Law.
+Reviewer_2	Author	1	1	0	2	Suggestions include “Testing the Validity of Wagner’s Law in Bolivia: A Cointegration and Causality Analysis with Disaggregated Data” by A. Bojanic (2013); “Wagner’s Law and Italian Disaggregated Public Spending: Some Empirical Evidences” by C. Magazzino (2010); and “Panel Data, Cointegration, Causality and Wagner’s Law: Empirical Evidence from Chinese Provinces” by Narayan, P.K., et al.
+Reviewer_2	Author	1	1	0	2	(2008).
+					0	2.
+Reviewer_2	Author	1	2	0	2	The paper only lists one way of testing for Wagner’s hypothesis (i.e., analyzing the relation between the share on GDP of government spending and real GDP per capita) when in fact there are many ways of looking at the hypothesis.
+Reviewer_2	Author	1	2	0	2	The authors should include at least a couple of recent ways of testing this law, in addition to the traditional way of testing for it.
+					0	3.
+Reviewer_2	Author	1	3	0	2	The variables used do not have the same units, which may clog the analysis of the paper.
+Reviewer_2	Author	1	3	0	2	Specifically, real GDP per capita is measured in 2005 dollars while the share of government consumption on GDP is measured in current prices.
+Reviewer_2	Author	1	3	0	2	Either both should be in real terms or both in current prices, but not as is currently the case.
+					0	4.
+Reviewer_2	Author	1	4	0	2	The descriptive stats in Table 2 reflect stats for the whole period?
+Reviewer_2	Author	1	4	0	2	If so, the table should explicitly state this fact.
+					0	5.
+Reviewer_2	Author	1	5	0	2	Why are there 3 graphs for the Philippines in Figure 1?
+Reviewer_2	Author	1	5	0	2	By the way, if the variables were measured in either current prices or utilizing the same base year, these graphs would likely be quite different (same goes for all statistical analysis, it is likely to vary when the two variables are measured the same way) 6.
+Reviewer_2	Author	1	6	0	2	What is the point of the dependency rate?
+Reviewer_2	Author	1	6	0	2	The authors should expand on the need to add this variable and what exactly is it trying to capture.
+					0	In the same vein, what do the authors mean by “however, it seems that the fall in young-dependency ratio was greater than the rise in the old- dependency rate” on p. 4?
+Reviewer_2	Author	1	7	0	2	In Table 4, delete the “generated by SAS” note.
+					0	Round 1: Author Response to Reviewer 2 1.
+Author	Reviewer_2	2	21	1	1	Several new references, including those kindly mentioned by the reviewer, have been added, and there is a concise description of these in note 1.
+					0	2.
+Author	Reviewer_2	2	22	2	1	Several formats in which Wagner’s hypothesis has been formulated and tested have been listed on page 5 of the revision.
+Author	Reviewer_2	2	22	2	1	That paragraph includes six different approaches.
+					0	3.
+Author	Reviewer_2	2	23	3	1	Real GDP per capita is a fairly standard proxy for the “level of development” in the context of Wagner’s hypothesis.
+Author	Reviewer_2	2	23	3	1	It might not be appropriate to use nominal GDP per capita.
+Author	Reviewer_2	2	23	3	1	For the government share, it seems better to take the current-price ratio which indicates what fraction of the current output is used for government activities.
+Author	Reviewer_2	2	23	3	1	The deflators for GDP and government spending are different and “real” government-share may not be a good indicator of the resource-use by the government during the current year.
+					0	4.
+Author	Reviewer_2	2	24	4	1	The old Table 2 has been deleted.
+Author	Reviewer_2	2	24	4	1	Those descriptive statistics were for the entire period.
+Author	Reviewer_2	2	24	4	1	The growth rates in the new Table 3 are also for the entire period, and that has been indicated.
+					0	5.
+Author	Reviewer_2	2	25	5	1	The redundant graphs for Philippines have been deleted.
+					0	6.
+Author	Reviewer_2	2	26	6	1	The dependency-rate variable has been dropped.
+					0	7.
+Author	Reviewer_2	2	27	7	1	The old Table 4 has been deleted along with the remark about p-values being taken from SAS.
+					0	Second Round of Evaluation Round 2: The paper is much better and I only have some minor comments.
+Reviewer_1	Author	3	1	0	2	First, the authors should provide some tentative explanation for their findings in the conclusion section based politics, the characteristics of the economies, etc.
+					0	Now the paper is mainly an econometric exercise.
+					0	Even if many studies have failed to that Wagner’s law holds, there is a common perception that it holds over periods when countries become developed.
+Reviewer_1	Author	3	2	0	2	The graphs in Figure 1 are still misleading, probably because of the scaling of the axes.
+Reviewer_1	Author	3	2	0	2	It is obvious for Japan, where there is no discernible evidence for cointegration.
+Reviewer_1	Author	3	2	0	2	With proper scaling, the lines should cross each other four times, providing some (but weak) evidence for cointegration.
+Reviewer_1	Author	3	3	0	2	The x-axes in Figure 1 should have years.
+					0	Round 2: Author Response to Reviewer 1
+Author	Reviewer_1	4	2	3	2	Please note the following changes in revised version: (a) the plots in Figure 1 have been rescaled and now there are cross-overs in the plot for Japan, (b) years have been shown on the horizontal axis in Figure 1, (c) a sizable addition has been made toward the end of Section 3 to address the reviewer’s observations about possible reasons for lack of cointegration in most countries, and (d) a few minor editorial alterations have been made.
+					0	Round 2:
+Reviewer_2	Author	3	1	0	2	My recommendation is to accept the paper for publication.
+					0	Round 2: Author Response to Reviewer 2
+Author	Reviewer_2	4	3	1	1	Thank you.

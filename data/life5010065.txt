@@ -1,0 +1,119 @@
+ISSN 2075-1729 www.mdpi.com/journal/life Peer-Review Record: Characterization of RNA-Like Oligomers from Lipid-Assisted Nonenzymatic Synthesis: Implications for Origin of Informational Molecules on Early Earth Chaitanya V. Mungi and Sudha Rajamani Life 2015, 5, 65-84, doi:10.3390/life5010065 Reviewer 1: Anonymous Reviewer 2: Richard Egel Editor: Niles Lehman (Guest Editor of Special Issue “The Origins and Early Evolution of RNA”) Received: 16 October 2014 / Accepted: 23 December 2014 / Published: 5 January 2015 First Round of Evaluation Round 1: and Author Response • Line 39: nucleotide molecules • Line 44:resulted in phosphodiester bonds similar • Line 98: known to date • Section 2.2.1. length of PEEK tubing (amend twice) • Line 129: using an Agilent • Line 131: a linear gradient • Line 133: through a 0.22 … using a high • Line 134: a fluorescence • Line 191: 260 • Lines 207–212: phosphoric acid contains poly phosphoric acid • Line 232: for simplicity, the HPLC • Line 254: A condensation • Line 262: Monomers become concentrated • Line 269: To identify this • Line 288: For example, excess • Line 304: samples.
+However, ... • Table 1: Use (AMP) subscript 2 rather than stacked ?
+??
+R2 • Page 13: Dehydrating the oligomers rather than forming a cyclic structure is a possible explanation too • Line 398: use prime not quote on 2'/3' • Lines 405–409: Role of oxygen here needed for sulphur dioxide to sulphuric acid • Page 16: Alternative Route; NMP to rP and base; rP to oligomers; Oligomer and base forms the pseudoRNA Response: “Page 16.
+Alternative RouteNMP to rP and baserP to oligomersOligomer and base forms the pseudoRNA” Our response: We believe that this alternative route will not be feasible under our low pH and high temperature conditions, which destabilize the N-glycosidic linkage between the ribose sugar and canonical bases.
+This has also been demonstrated to various extents in the following three studies: 1.
+Fuller, W.D.
+; Sanchez, R.A.; Orgel, L.E.
+Studies in prebiotic synthesis.
+VII.
+Solid-state synthesis of purine nucleosides.
+J. Mol.
+Evol.
+1972, 1, 249–257 2.
+Hud, N.V.; Cafferty, B.J.
+; Krishnamurthy, R.; Williams, L.D.
+The origin of RNA and “My Grandfather’s Axe”.
+Chem.
+Biol.
+2013, 20, 466–474.
+3.
+Rios, A.C.; Yu, H.T.
+; Tor, Y. Hydrolytic fitness of N -glycosyl bonds: comparing the deglycosylation kinetics of modified, alternative, and native nucleosides.
+J. Phys.
+Org.
+Chem.
+2014, doi:10.1002/poc.3318.
+Given this, a more plausible alternate route would be the formation of rMP oligomers that could have accommodated prebiotic heterocycles whose glycosidic linkage can form more readily under low pH and high temperature conditions (Bean 2007).
+Bean, H.D.
+et al.
+Formation of a beta-pyrimidine nucleoside by a free pyrimidine base and ribose in a plausible prebiotic reaction.
+J.
+Am.
+Chem.
+Soc.
+2007, 129, 9556–9557.
+Round 1: and Author Response Doctors Chaitanya V. Mungi and Sudha Rajamani have submitted a research article to Life/Chemistry section—under the title: “Characterization of RNA-like oligomers from lipid-assisted nonenzymatic synthesis: Implications for origin of informational molecules in the RNA world.”—The topic is relevant and important for geochemical mechanisms at work during the putative transition from no life at all to some kinds of proto-life on the early Earth.
+The authors report on very interesting and significant results, obtained by solid methods and technology.
+Not really being an experimental chemist myself, I have little to add to or criticize about the methodology as such.
+From my vantage point as a molecular geneticist, however, I have several remarks on the conceptual framework, part of its phrasing and some of the long-range implications.
+To start with the title already, I should recommend two clarifying changes: 1 “… from phospholipid-assisted …” should be more congruent with the actual analyses, since no other lipids were studied at all in these experiments.
+It is still possible, therefore, that the enhancement of RNA-like polymerization (involving phosphate groups in the reaction) is catalyzed by the coordinated, surface-exposed phosphate groups of the lipids, rather than by lipid R3 inclusion as such.
+It should be worth testing in the future, of course, whether non-phospholipid liposomes could be used to the same effect or not, but that is a different story.
+2 “… informational molecules in [the] a putative RNA world”—I find it striking that the authors talk of “a pre-RNA World” (two times) but quite consistently use “the RNA World” (6 times) in the affirmative.
+This tentative model, however, should not be taken for granted by any means.
+Even the Deamer group (key reference [13] in the paper) only talk of “an RNA World”.
+Response” We have changed our title to reflect the reviewer’s concern of our taking “the RNA World” for granted.
+We have substituted it with “an RNA World”.
+The latter comment, in particular, deserves to be expanded.
+It is worth noting that the RNA model as such is not a very favorable hypothesis [Bernhardt HS (2012) The RNA world hypothesis: the worst theory of the early evolution of life (except for all the others).
+Biol Direct 7:23].
+Unfortunately, to my opinion at least, Bernhardt failed to mention the conceptually most robust alternative – a putative RNP world with very early coevolution of (uncoded) peptide synthesis and (non-replicative) RNA-like polymerization [cf.
+Cech TR (2009) Crawling out of the RNA world.
+Cell 136:599–602].
+At any rate, there is no reason to believe that the first RNA-like oligomers were born into any peculiar environment completely devoid of amino acids, or even peptides, for that matter.
+Thus, given the facts that even quite simple peptides can considerably stabilize RNA (primary structure, as well as secondary folding patterns) and ribonucleotides (such as the terminal CCA in tRNAs) can activate amino acids for polymerization, the stage is set for mutual coevolution to optimize both kinds of sequential polymer simultaneously.
+Moreover, since other simple peptides with mostly hydrophobic residues can form membrane-like aggregates spontaneously [Vauthey S, Santoso S, Gong H, Watson N, Zhang S (2002) Molecular self-assembly of surfactant-like peptides to form nanotubes and nanovesicles.
+Proc.
+Natl.
+Acad.
+Sci.
+USA 99:5355–5360], there is no need to postulate any prebiotic abundance of bulky (advanced) phospholipids to get primordial polymerization reactions under way.
+Response: We have made requisite changes in the discussion section to make it very clear that the phopholipid used in our study is not prebiotically relevant.
+Fatty acids are thought to be the more relevant prebiotic counterparts and ongoing work in our lab is looking at their role in nonenzymatic synthesis of RNA oligomers.
+In addition, we have added a sentence to reflect the fact that abiotic hydrophobic peptides might have also potentially provided a lipid-like organization effect under similar conditions.
+This, however, needs to be characterized in detail.
+The following comment from Reviewer 2 “I presume, the present data are more in support of the coevolutionary RNP world model than the classical RNA world concept still favored by many authors.” is something we choose to respectfully disagree with.
+In our opinion, we strongly feel that our “prebiotic phosphodiester polymers” actually provide the first proof-of-principle result that directly corroborates Hud group’s hypothesis on the sequential manner of molecular evolution that would have resulted in an RNA World (Hud et.
+al.
+reference from aforementioned passage).
+R4 Second Round of Evaluation Round 2: and Author Response I am sorry to say this, but the authors’ response to the concluding comment of mine does not seriously take the underlying rationale of my original argument into consideration.
+“3.
+The following comment from Reviewer 2 “I presume, the present data are more in support of the coevolutionary RNP world model than the classical RNA world concept still favored by many authors.” is something we choose to respectfully disagree with.
+In our opinion, we strongly feel that our “prebiotic phosphodiester polymers” actually provide the first proof-of-principle result that directly corroborates Hud group’s hypothesis on the sequential manner of molecular evolution that would have resulted in an RNA World (Hud et.
+al.
+reference from aforementioned passage).” Only referring to the Hud &c reference to motivate their “strongly felt disagreement” with my major concerns is largely beside the point.
+To be sure, this reference is quite relevant in its own right, but not exactly in the way referred to above.
+First of all, Hud &c are careful enough not to mention the precarious catch phrase of an “RNA World” in their paper, not even a single time.
+Doctors Mungi & Rajamani, therefore, are on shaky grounds in seeking support therein in this particular regard.
+Next in line, I find it significant to note that Hud &c specifically acknowledge the likely existence of prebiotic peptides: “Prebiotic chemists have long hypothesized that the polymers of life were first assembled by the spontaneous, nonenzymatic coupling of pre-existing molecular building blocks.
+This hypothesis remains attractive for the origin of noncoded peptides.
+… Indeed, there already exists at least one experimentally tested hypothesis for prebiotic amide bond formation that produces peptides of lengths up to at least tetrapeptides (Leman et al., 2004).
+[Leman, L., Orgel, L., and Ghadiri, M.R.
+(2004).
+Carbonyl sulfide-mediated prebiotic formation of peptides.
+Science 306, 283–286.
+]”—This is very much in contrast to Mungi & Rajamani, who happen to be outdated by several decades on this important issue when they lightly dismiss the potential relevance of prebiotic peptides as follows.
+“Few previous studies have attempted to polymerize amino acids under dehydrated conditions [8 (1978)!
+].” Furthermore, I am particularly fond of the conceptual acuity of Hud &c in metaphorically emphasizing ‘‘My Grandfather’s Axe’’ in their rhetoric narrative—“Of course, it has occasionally required some repairs.
+My father replaced the handle and I replaced the head.”—This playful figure of speech may also be applied anew when it comes to putting the unquestionably positive results of Mungi & Rajamani into a likely evolutionary perspective.
+Such replacements—or functional “takeovers”—can indeed occur in biological evolution many times.
+However, the observational input to “My Grandfather’s Axe” cannot yet be embedded in a uniquely definable evolutionary setting as such.
+In the context of Hud &c, “In contrast to [uncoded] peptides (!
+), the prebiotic origin of RNA is not at all obvious”.
+It is essentially this conceptual contrast between peptides and RNA in a reasonable scenario of prebiotic origins that has been alleviated by the proof-of-principle result of Mungi & Rajamani that RNA-like oligomers could have been formed by a nonenzymatic, chemically driven process of prebiotic polymerization.
+By this token, uncoded peptides and still non-replicative and non-informational ribonucleotides have potentially drawn even in conveivably forming the raw material of successive prebiotic evolution, nothing more and nothing less.
+R5 The finding of “Evidence in Favor of an Early Ribonucleopeptide [RNP] World” is not an altogether novel or unheard-of concept [Di Giulio M (1997) On the RNA world: evidence in favor of an early ribonucleopeptide world.
+J. Mol.
+Evol.
+45: 571–578.]
+It merges with the quite natural notion that progressive coevolution of peptides and nucleic acids may have formed a coherent and robust framework for early evolution.
+In this scenario, ‘‘My Grandfather’s Axe’’ originally consisted of a primordial handle (non-replicative oligonucleotides) and a primordial head (uncoded peptides), which in turn have been replaced by replicative RNA and mRNA-encoded proteins, respectively.
+The purist assumption of both replicative and catalytic self-sufficiency of RNA (Gilbert’s RNA World model), however, has never managed to lose its non-metabolic touch of wishful thinking, notwithstanding its long standing popularity in part of the scientific audience.
+At any rate, the experimental results of Mungi & Rajamani do not by any means discriminate between a putative RNA world model on the one hand and a coevolutionary RNP world concept on the other.
+A robust supply of geochemically polymerized RNA-like oligonucleotides would certainly have been required in either scenario for getting evolution under way.
+This said, it should be clear enough that the authors’ “prebiotic phosphodiester polymers” as such do not exclusively corroborate either Gilbert’s RNA World or the more holistic RNP World (sensu Di Giulio or Cech) of two major competitive hypotheses.
+They do, however, form a quite important stepping stone as an essential prerequisite to either one.
+The eventual discrimination between these hypothetical alternatives has to be based on yet other, independent evidence or arguments.
+Although it is none of my business to make Mungi & Rajamani change their “strongly felt opinion”, they should be cordially advised to follow decent scientific standards, at least by briefly mentioning the prominent alternative to their pet idea that likewise would depend on their kind of experimental finding.
+Response: We thank reviewer 2 for the detailed comments provided in connection with our last point made during the previous round of revision.
+At the outset, there is one thing we would like to clarify with reviewer 2.
+We truly do not belong to the puritanical—seeming RNA World—only group.
+If our original manuscript indicated otherwise, we would like to say that it was not our intention to do so.
+Our interpretation of the results, in addition, might have added to this.
+We also want to let reviewer 2 know that, in an ongoing project in our lab, we are actually looking at abiogenic synthesis of peptides from amino acids without the use of any activation chemistry (intrinsic or extrinsic).
+We are working on this and understanding certain other aspects of peptide—nucleic acid crosstalk as we really do believe that the origin of life problem is better addressed by taking a holistic approach that also accounts for the origin of noncoded peptides.
+In addition, in the past, Rajamani, in conjunction with Zepik, had undertaken a study in Deamer lab where they looked at the role of lipids in the formation of peptides from activated amino acids (OLEB 2007).
+To conclude, we wish to reiterate that our approach to addressing origin of life related problems in the lab is inclusive, per se.
+Reviewer 2’s detailed comments from this round have clarified to us the basis of their argument and we have made the requisite changes in the document that reflects this.

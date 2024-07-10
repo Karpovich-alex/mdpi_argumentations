@@ -1,0 +1,246 @@
+side	opponent	round	number	attacks	ann	text
+					0	Author Response Please see the attachment.
+					0	Author Response File: Author Response.docx
+					0	Author Response Please see the attachment.
+					0	Author Response File: Author Response.docx
+					0	Major corrections The manuscript by Zhu et al., describes the cloning of OfSPL1 transcriptional activator from Osmanthus fragans, its molecular characterization, subcellular localization, gene-expression, trans-activation in tobacco cells and two-hybrid system, and overexpression in Arabidopsis, displaying and enhanced salt-tolerance phenotype and protection from oxidative damage.
+					0	In addition, heterologous overexpression promotes induction of several genes involved in tolerance to abiotic stress.
+					0	Although the work is thorough,
+Reviewer_1	Author	1	1	0	2	the Discussion is insufficient.
+Reviewer_1	Author	1	2	0	2	Also, the manuscript is poorly written, it should be substantially improved.
+Reviewer_1	Author	1	2	0	2	Check English grammar and Instructions to Authors.
+Reviewer_1	Author	1	3	0	2	In line 227 “back of tobacco” is not clear be more specific.
+Reviewer_1	Author	1	4	0	2	Rephrase lines 266-268 is unclear; wording, grammar and punctuation are wrong.
+Reviewer_1	Author	1	5	0	2	Rephrase lines 317-318.
+Reviewer_1	Author	1	5	0	2	Comments as above.
+Reviewer_1	Author	1	6	0	2	In lines 271-272 and 395-396, how do you explain that salt induced promoter trans-activation?
+Reviewer_1	Author	1	6	0	2	Is there any published precedent?
+Reviewer_1	Author	1	7	0	2	Write appropriate brand of kits and reagents, followed by country.
+Reviewer_1	Author	1	7	0	2	Check journal format.
+					0	Minor corrections
+Reviewer_1	Author	1	8	0	2	In line 38 replace “Fortunately” with However.
+Reviewer_1	Author	1	9	0	2	In line 63 replace “trancroptoma” with transcriptome.
+Reviewer_1	Author	1	10	0	2	In line 65 replace “And” with In addition.
+Reviewer_1	Author	1	11	0	2	In line 69 add period after assay.
+Reviewer_1	Author	1	12	0	2	In line 83 what extraction method was used?
+Reviewer_1	Author	1	12	0	2	Mention kit of reagent brand.
+Reviewer_1	Author	1	13	0	2	In line 91 what brand was Taq polymerase from?
+Reviewer_1	Author	1	14	0	2	In line 100 replace “ligated” with was ligated and quote a reference for pORERA-GFP vector or mention brand if it is commercial.
+Reviewer_1	Author	1	15	0	2	In line 113 replace “psoup” with pSOUP and “tobaccos” with tobacco plants.
+Reviewer_1	Author	1	16	0	2	In line 117 and 267 replace “vacuuming penetration” with vacuum infiltration.
+Reviewer_1	Author	1	17	0	2	In line 118 define “symbiotic medium”.
+Reviewer_1	Author	1	18	0	2	In line 123 delete the first phrase which is repetitive (was already written before in Line 100).
+Reviewer_1	Author	1	19	0	2	In line 129 replace “strains” and “strain” with lines and line.
+Reviewer_1	Author	1	20	0	2	In line 131 delete the period after experiments.
+Reviewer_1	Author	1	21	0	2	In line 138 Seedling should be lowercase.
+Reviewer_1	Author	1	22	0	2	In line 149 mention the kit brand.
+Reviewer_1	Author	1	23	0	2	In line 154 add “strain” after receptor and mention kit brand.
+Reviewer_1	Author	1	24	0	2	In line 169 add “were done” at the end.
+Reviewer_1	Author	1	24	0	2	A phrase must have a verb.
+Reviewer_1	Author	1	25	0	2	In line 261 replace “tobaccos” with tobacco plants.
+Reviewer_1	Author	1	26	0	2	In line 262 replace “were treatment by” with were treated with.
+Reviewer_1	Author	1	27	0	2	In line 264 replace “indicate” with indicated.
+Reviewer_1	Author	1	28	0	2	In line 292 “The” must be lowercase.
+Reviewer_1	Author	1	29	0	2	In line 318 “We” must be lowercase.
+Reviewer_1	Author	1	30	0	2	In line 395 replace “it revealed” with revealed.
+Reviewer_1	Author	1	31	0	2	In line 406 delete period after stress.
+					0	The paper by Zhu and coworkers deal with the functional deeeping on te role of gene OfSPL11 from Osmanthus fragrant.
+					0	This goal was achieved using transgenic lines to investigate the role of this gene in salt stress response.
+					0	A deeeping on protein an nucleotide structures was also reported.
+					0	Results clearly describe the protein localization as well as its role in stress response.
+					0	In this view, I've only some few questions for the authors.
+Reviewer_2	Author	1	1	0	2	Why the authors do not consider to use aminoacidic sequence to compute a protein model (e.g., by using gromacs)?
+Reviewer_2	Author	1	2	0	2	Auhtors report that Actin was used as housekeeping gene.
+Reviewer_2	Author	1	2	0	2	Do the authors have performed an efficiency test before using it?
+Reviewer_2	Author	1	2	0	2	Do they tried to use otherHK genes?
+					0	Furthermore, I reccomend a text revision since some errors are present in the main text.
+Reviewer_2	Author	1	3	0	2	Line 124: generate instead of generate
+Reviewer_2	Author	1	4	0	2	Line 267-268: Please, check this sentence.
+Reviewer_2	Author	1	4	0	2	"It ends with ""then""."
+Reviewer_2	Author	1	5	0	2	Figure 5 caption: activates instead of activate
+Reviewer_2	Author	1	6	0	2	Line 302: plant leaves instead of plants leaves
+Reviewer_2	Author	1	7	0	2	Line 311: plant leaves instead of plants leaves
+Reviewer_2	Author	1	8	0	2	"Line 315: maybe a semicolon after ""salt stress"" is appropriate"
+Reviewer_2	Author	1	9	0	2	"Line 360: remove the space after ""assay"""
+Reviewer_2	Author	1	10	0	2	Figure 9 caption: measure instead of measuring
+Reviewer_2	Author	1	11	0	2	"Line 392: I suggest to change the sentence in the following way "".. to drive the expression of target genes.."""
+Reviewer_2	Author	1	12	0	2	"Line 446: ""...participate in salt stress"""
+Reviewer_2	Author	1	13	0	2	"Line 448: check the word ""redycing"""
+					0	"Response to Reviewer 1 Comments Point 1: ""back of tobacco"" is not clear be more specific."
+					0	Response 1:
+Author	Reviewer_2	2	40	12	4	Thank for your kindly suggestion.
+Author	Reviewer_2	2	29	1	3	We feel sorry for the unclear statement.
+Author	Reviewer_1	2	1	3	1	We have modified this part in revised manuscript (Line 233-236).
+Author	Reviewer_1	2	1	3	1	This sentence has been changed to “A suspension of A. rhizogenes strain GV3101 containing the pORER4-OfSPL11-GFP recombinant plasmid was aspirated using a 1 mL range syringe (needle not included), and the suspension was gently injected into the abaxial surface of four-week-old tobacco leaves avoiding the leaf veins.” Point 2: Rephrase lines 266-268 is unclear; wording, grammar and punctuation are wrong.
+					0	Response 2:
+Author	Reviewer_2	2	38	10	4	Special thanks to you for your good suggestion.
+Author	Reviewer_2	2	32	4	2	We have revised the manuscript according to your comments (Line 274-277).
+Author	Reviewer_2	2	32	4	2	This sentence has been changed to “A.
+Author	Reviewer_2	2	32	4	2	tumefaciens suspensions containing the fusion vector OfSPL11pro: LUC was transiently transformed into O. fragrans callus using vacuum infiltration, and then the O. fragrans callus were cultured in a symbiotic medium containing 0 mM and 200 mM NaCl.” Point 3: Rephrase lines 317-318.
+					0	Comments as above.
+					0	Response 3:
+Author	Reviewer_2	2	41	13	19	Thank you for your comment.
+Author	Reviewer_1	2	3	5	1	We have modified this part in revised manuscript (Line 326-328).
+Author	Reviewer_1	2	3	5	1	This sentence has been changed to “To better understand why OfSPL11 transgenic lines exhibit enhanced abiotic stress tolerance, we analyzed the expression of known abiotic stress response genes in 3-week-old wild-type and transgenic Arabidopsis.” Point 4: In lines 271-272 and 395-396, how do you explain that salt induced promoter trans-activation?
+					0	Is there any published precedent?
+					0	Response 4: We feel sorry for the unclear statement.
+Author	Reviewer_1	2	4	6	1	In a previous study (Ding, 2021), the LlWRKY39 promoter was fused to a pGreenII-0800-LUC vector using a recombinant ligase (Vazyme, Nanjing, China).
+Author	Reviewer_1	2	4	6	1	The constructed vector and an empty vector (control) were transformed into A. tumefaciens strain GV3101 (pSoup), which was used to transform N. benthamiana leaves.
+Author	Reviewer_1	2	4	6	1	The LUC signal increased profoundly after subjection to HS (37℃), although under normal conditions (room temperature), the LUC signal was very low, which implied that HS activated the promoter activity of LlWRKY39.
+Author	Reviewer_1	2	4	6	1	In this study, the experimental operations, reagents and plant materials were were the same as the previous study, except for the different treatment conditions.
+Author	Reviewer_1	2	4	6	1	Therefore, we suggest that salt stress can induce the activity of the OfSPL11 promoter.
+					0	Ding, L.P.; Wu, Z.; Teng, R.D.
+					0	; Xu, S.J.
+					0	; Cao, X.; Yuan, J.Z.
+					0	; Zhang, D.H.; Teng, N.J. LlWRKY39 is involved in thermotolerance by activating LlMBF1c and interacting with LlCaM3 in lily (Lilium longiflflorum).
+					0	Horti.
+					0	Res.
+					0	"2021, 8,36. https://doi.org/10.1038/s41438-021-00473-7 Point 5: In line 38 replace ""Fortunately"" with However."
+					0	Response 5: Thank you for your comment.
+Author	Reviewer_1	2	5	7	1	Special thanks to you for your good suggestion, we had made correction carefully (Line 38).
+					0	"Point 6: In line 63 replace ""trancroptoma"" with transcriptome."
+					0	Response 6:
+Author	Reviewer_1	2	6	8	1	Thank for your kindly suggestion, we have replaced this word in the revised version (Line 63).
+					0	"Point 7: In line 65 replace ""And"" with In addition."
+					0	Response 7:
+Author	Reviewer_1	2	7	9	1	Special thanks to you for your good suggestion, we had made correction carefully (Line 65).
+					0	Point 8: In line 69 add period after assay.
+					0	Response 8: Thank you for your comment.
+Author	Reviewer_1	2	8	10	1	We are very sorry for our negligence, we had made correction in the manuscript (Line 69).
+					0	Point 9: In line 83 what extraction method was used?
+					0	Mention kit of reagent brand.
+					0	Response 9: Thank for your kindly suggestion.
+Author	Reviewer_1	2	9	11	1	We had made correction in the manuscript (Line 83-84).
+Author	Reviewer_1	2	9	11	1	The statements of “RNA extractions” were corrected as “total RNA was extracted using the RNA prep Pure Plant Plus Kit (Tiangen, Beijing, China).” Point 10: In line 91 what brand was Taq polymerase from?
+					0	Response 10: Thank you for your comment.
+Author	Reviewer_1	2	10	12	1	We had made correction in the manuscript (Line 92).
+Author	Reviewer_1	2	10	12	1	Taq polymerase was purchased from TaKaRa Biotechnology, Inc, Dalian, China.
+					0	"Point 11: In line 100 replace ""ligated"" with was ligated and quote a reference for pORER4-GFP vector or mention brand if it is commercial."
+					0	Response 11: Thank you for your comment.
+Author	Reviewer_1	2	11	13	1	Special thanks to you for your good suggestion, we had made correction carefully (Line 102-103).
+Author	Reviewer_1	2	11	13	1	The pORER4-GFP vector and the plant expression vector OfSPL11-GFP were purchased from Tsingke, Biotechnology, Inc, Hangzhou, China.
+					0	"Point 12: In line 113 replace ""psoup"" with pSOUP and ""tobaccos"" with tobacco plants."
+					0	Response 12: Thank you for your comment.
+Author	Reviewer_1	2	12	14	1	We are very sorry for our negligence, we had made correction carefully (Line 115 and 270).
+					0	"Point 13: In line 117 and 267 replace ""vacuuming penetration"" with vacuum infiltration."
+					0	Response 13:
+Author	Reviewer_1	2	13	15	1	Thank for your kindly suggestion, we had made correction carefully (Line 119 and 276).
+					0	"Point 14: In line 118 define ""symbiotic medium""."
+					0	Response 14: Thank you for your comment.
+Author	Reviewer_1	2	14	16	1	We have modified this part in revised manuscript (Line 121-125).
+Author	Reviewer_1	2	14	16	1	This sentence has been changed to “Symbiotic medium was prepared by weighing 4.414 g MS, 20 g sucrose, 10 g glucose, 7 g agar into a conical flask, sterile water was fixed to 1 L. The medium was sterilized in an autoclave for 30 min and the temperature was lowered to 55℃, add 100 μl naphthalene acetic acid (0.1 mg L-1), 500 μl zeatin (1mg L-1), 1 mL folic acid (1mg L-1), 1 mL 6-BA (2mg L-1), 500 μl acetosyringone (0.1 mol L-1).” Point 15: In line 123 delete the first phrase which is repetitive (was already written before in Line 100).
+					0	Response 15: Thank you for your comment.
+Author	Reviewer_1	2	15	17	1	We are very sorry for our negligence, we had made correction in the manuscript (Line 129).
+					0	"Point 16: In line 129 replace ""strains and ""strain"" with lines and line."
+					0	Response 16:
+Author	Reviewer_1	2	16	18	1	Special thanks to you for your good suggestion, we had made correction carefully (Line 136).
+					0	Point 17: In line 131 delete the period after experiments.
+					0	Response 17: Thank you for your comment.
+Author	Reviewer_1	2	17	19	1	We are very sorry for our negligence, we had made correction carefully (Line 138).
+					0	Point 18: In line 138 Seedling should be lowercase.
+					0	Response 18:
+Author	Reviewer_1	2	18	20	1	We are very sorry for our negligence, we had made correction in the manuscript (Line 145).
+					0	Point 19: In line 149 mention the kit brand.
+					0	Response 19: Thank you for your comment.
+Author	Reviewer_1	2	19	21	1	We had made correction in the manuscript (Line 156-157).
+Author	Reviewer_1	2	19	21	1	"The statements of “the MDA assay kit” were corrected as “the MDA assay kit (Jiancheng Bioengineering Institute, Nanjing, China).” Point 20: In line 154 add ""strain"" after receptor and mention kit brand Response 20: Thank you for your comment."
+Author	Reviewer_1	2	20	22	1	We had made correction in the manuscript (Line 162 and 163).
+Author	Reviewer_1	2	20	22	1	"The statements of “the yeast Y187 receptor strain preparation and transformation kit” were corrected as “the yeast Y187 receptor strain preparation and transformation kit (Coolaber, Beijing, China).” Point 21: In line 169 add ""were done"" at the end."
+					0	A phrase must have a verb.
+					0	Response 21:
+Author	Reviewer_1	2	21	23	1	Thank for your kindly suggestion, we had made correction carefully (Line 177).
+					0	"Point 22: In line 261 replace ""tobaccos"" with tobacco plants."
+					0	Response 22:
+Author	Reviewer_1	2	22	24	1	Thank you for your comment, we had made correction in the manuscript (Line 270).
+					0	"Point 23: In line 262 replace ""were treatment by"" with were treated with."
+					0	Response 23:
+Author	Reviewer_1	2	23	25	1	Thank for your kindly suggestion, we had made correction carefully (Line 271).
+					0	"Point 24: In line 264 replace ""indicate"" with indicated."
+					0	Response 24:
+Author	Reviewer_1	2	24	26	1	We are very sorry for our negligence, we had made correction carefully (Line 273).
+					0	"Point 25: In line 292 ""The"" must be lowercase."
+					0	Response 25: Thank you for your comment.
+Author	Reviewer_1	2	25	27	1	We are very sorry for our negligence, we had made correction in the manuscript (Line 301).
+					0	"Point 26: In line 318 ""We"" must be lowercase."
+					0	Response 26:
+Author	Reviewer_1	2	26	28	1	We are very sorry for our negligence, we had made correction carefully (Line 327).
+					0	"Point 27: In line 395 replace ""it revealed"" with revealed."
+					0	Response 27:
+Author	Reviewer_1	2	27	29	1	Thank for your kindly suggestion, we had made correction carefully (Line 403).
+					0	Point 28: In line 406 delete period after stress.
+					0	Response 28:
+Author	Reviewer_1	2	28	30	1	Thank you for your comment, we had made correction in the manuscript (Line 415).
+					0	2 1
+					0	Response to Reviewer 2 Comments Point 1: Why the authors do not consider to use aminoacidic sequence to compute a protein model (e.g., by using gromacs)?
+					0	Response 1: Thank you for your comment.
+					0	We feel sorry for the unclear statement.
+Author	Reviewer_2	2	29	1	1	In our study, we used the amino acid sequence of OfSPL11 to compute the protein model.
+Author	Reviewer_2	2	29	1	1	Secondary structure predictions were conducted on the PRABI (http://www.prabi.fr/spip.php?page=sommaire) protein structure prediction server.
+Author	Reviewer_2	2	29	1	1	The ExPASy (http://web.expasy.org) was used to analyze the molecular weight, theoretical isoelectric point, and other physiochemical properties of the translated protein.
+Author	Reviewer_2	2	29	1	1	Similar methods of operation and efforts can be found in other articles (Islam, 2021).
+Author	Reviewer_2	2	29	1	1	Once again,we sincerely thank you for the recommended method, which we will use in future studies.
+					0	Islam, M.D.
+					0	; Rahman, M.M.
+					0	; Rahman, M.M.
+					0	; Jin, X.J.
+					0	; Sun, L.L.
+					0	; Zhao, K.; Wang, S.; Sikdar, A.; Noor, H.; Jeon, J.S.
+					0	; Zhang, W.J.
+					0	; Sun, D.Z.
+					0	In Silico and Transcription Analysis of Trehalose-6-phosphate Phosphatase Gene Family of Wheat: Trehalose Synthesis Genes Contribute to Salinity, Drought Stress and Leaf Senescence.
+					0	Genes.
+					0	2021, 12, 1652. https://doi.org/10.3390/genes12111652 Point 2: Auhtors report that Actin was used as housekeeping gene.
+					0	Do the authors have performed an efficiency test before using it?
+					0	Do they tried to use otherHK genes?
+					0	Response 2: Thank you for your comment.
+Author	Reviewer_2	2	30	2	1	We tested the amplification efficiency before using housekeeping genes.
+Author	Reviewer_2	2	30	2	1	Referring to the previous study of Arabidopsis housekeeping genes (Dheda, 2004; Czechowski, 2005; Hou, 2018), we selected Atactin1 (F: AGGCACCTCTTAACCCTAAAGC, R: GGACAACGGAATCTCTCAGC), Atactin2 (F: TTGTGCTGGATTCTGGTGATGG, R: CCGCTCTCTGCTGTTGTGGTG) and Atactin8 (F: GAATTACCCGACGGACA, R: ACGGTCTGCAATACCT) were tested for efficiency, and we found that the best result was Atactin2.
+Author	Reviewer_2	2	30	2	1	The best housekeeping gene for O. fragrans is OfACT, which has been reported in a previous study (Zhang, 2015).
+					0	Dheda, K.; Huggett, J.F.
+					0	; Bustin, S.A. Validation of housekeeping genes for normalizing RNA expression in real-time PCR.
+					0	Biotechniques.
+					0	2004, 37: 112-119. https://doi.org/10.2144/04371RR03 Czechowski, T.; Stitt, M.; Altmann, T. Genome-wide identification and testing of superior reference genes for transcript normalization in Arabidopsis.
+					0	Plant Physiol.
+					0	2005, 139: 5-17. https://doi.org/10.1104/pp.105.063743 Hou, H.; Jia, H.; Yan, Q.; Wang, X. Overexpression of a SBP-Box Gene (VpSBP16) from Chinese Wild Vitis Species in Arabidopsis Improves Salinity and Drought Stress Tolerance.
+					0	Int.
+					0	J. Mol.
+					0	Sci.
+					0	2018, 19, 940. https://doi.org/10.3390/ijms19040940 Zhang, C.; Fu, J.X.
+					0	; Wang, Y.G.
+					0	; Bao, Z.Y.
+					0	; Zhao, H.B.
+					0	Identification of Suitable Reference Genes for Gene Expression Normalization in the Quantitative Real-Time PCR Analysis of Sweet Osmanthus (Osmanthus fragrans Lour.).
+					0	Plos one.
+					0	2015, 10,1-17. https://doi.org/10.1371/journal.pone.0136355 Point 3: Line 124: generat instead of generate.
+					0	Response 3: Special thanks to you for your good suggestion.
+Author	Reviewer_2	2	31	3	1	We are very sorry for our negligence, we had made correction in the manuscript (Line 130).
+					0	Point 4: Line 267-268: Please, check this sentence.
+					0	"It ends with ""then"" Response 4: Thank you for your comment."
+					0	We have revised the manuscript according to your comments (Line 274-277).
+					0	This sentence has been changed to “A.
+					0	tumefaciens suspensions containing the fusion vector OfSPL11pro: LUC was transiently transformed into O. fragrans callus using vacuum infiltration, and then the O. fragrans callus were cultured in a symbiotic medium containing 0 mM and 200 mM NaCl.” Point 5: Figure 5 caption: activates instead of activate.
+					0	Response 5: Thank for your kindly suggestion.
+Author	Reviewer_2	2	33	5	1	We had made correction carefully (Line 283).
+					0	Point 6: Line 302: plant leaves instead of plants leaves.
+					0	Response 6: Thank you for your comment.
+Author	Reviewer_2	2	34	6	1	We are very sorry for our negligence, we had made correction in the manuscript (Line 310).
+					0	Point 7: Line 311: plant leaves instead of plants leaves.
+					0	Response 7: Special thanks to you for your good suggestion.
+Author	Reviewer_2	2	35	7	1	We are very sorry for our negligence, we had made correction in the manuscript (Line 319).
+					0	"Point 8: Line 315: maybe a semicolon after ""salt stress"" is appropriate."
+					0	Response 8:
+Author	Reviewer_2	2	36	8	1	Thank for your kindly suggestion, we had made correction carefully (Line 324).
+					0	"Point 9: Line 360: remove the space after ""assay""."
+					0	Response 9: Thank you for your comment.
+Author	Reviewer_2	2	37	9	1	We are very sorry for our negligence, we had made correction in the manuscript (Line 366).
+					0	Point 10: Figure 9 caption: measure instead of measuring.
+					0	Response 10: Special thanks to you for your good suggestion.
+Author	Reviewer_2	2	38	10	1	We had made correction carefully (Line 381).
+					0	"Point 11: Line 392: I suggest to change the sentence in the following way"".. to drive the expression of target genes.."" Response 11: Thank you for your comment."
+Author	Reviewer_2	2	39	11	1	Special thanks to you for your good suggestion, we had made correction in the manuscript (Line 398).
+					0	"Point 12: Line 446: ""..participate in salt stress"" Response 12: Thank for your kindly suggestion."
+Author	Reviewer_2	2	40	12	1	We have revised the manuscript according to your comments (Line 456).
+Author	Reviewer_2	2	40	12	1	"The statements of “participate in salt stress responses” were corrected as “participate in salt stress.” Point 12: Line 448: check the word ""redycing"" Response 12: Thank you for your comment."
+Author	Reviewer_2	2	41	13	1	We are very sorry for our negligence.
+Author	Reviewer_2	2	41	13	1	We had made correction carefully (Line 457).
+Author	Reviewer_2	2	41	13	1	The word of “redycing” were corrected as “reducing.” 2 1

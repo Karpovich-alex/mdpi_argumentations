@@ -1,0 +1,92 @@
+Author Response Please see the attachment.
+Author Response File: Author Response.pdf
+Author Response Please see the attachment.
+Author Response File: Author Response.pdf
+Author Response Please see the attachment.
+Author Response File: Author Response.pdf
+The given topic about the effect of antibiotics on the mung sprouts features is very interesting and highly important for food safety.
+The article is written in a very good form in all neccessary part.
+The only minor formal error is that the lines names miss in Figure 2.
+Generally, I recommend this article for publishing in the present version.
+Comments and suggestions for authors are provided below and for supplementary materials in an attached file.
+Journal: Antibiotics Review comments for manuscript entitled: Effects of Typical Antimicrobials on Growth Performance, Morphology and Antimicrobial Residues of Mung Bean Sprouts Line 43: “…meat bacterial…” change to “…meat bacteria…” Line 78: “…risks.
+[19]” change to “…risks [19].” Line 123: “…were repeated for…” delete “for” and change to “…were repeated…” Line 154: “…and 1 mL were taken…” change to “…and 1 mL was taken…” Line 169: “…employed as nebulizer…” add “a” and change to “…employed as a nebulizer…” Line 191: “…were detected for…” change to “were prospected for” Table 1. and Line 198 : there are no letters within a column in the table which define the statistical significances Line 242: “…was shown…” change to “…is shown…” Line 293: “…were shown…” change to “…are shown…” Line 297: “…(P <05)…” change to “…(P > 0.05)…” Line 337: “Antimicrobial residues were…” delete “were” and change to “Antimicrobial residues…” Line 348: “Over use…” change to “Overuse…” Line 349: “…caused residue and pollution of antimicrobials in…” change to “…caused occurrence of antimicrobial residues and pollution in…” Comments for author File: Comments.pdf
+Reviewer A Comment’s: I have completed a review of the manuscript “Effects of typical antimicrobials on growth performance, morphology and antimicrobial residues of mung bean sprouts” (Antibiotics - 1738611).
+The aim of this study was to understand and elucidate This study aimed to investigate the role of antimicrobials in the growth of mung bean sprouts and to clarify antimicrobial residues in the cultivation of mung bean sprouts.
+I congratulate the authors for their excellent work, the research is of great importance for the field of the pharmacology and has technical and scientific merit.
+The information generated will be of great value.
+The findings indicated that the abuse of antimicrobials might cause potential food safety risks in fast growing vegetables and the monitoring of antimicrobial residues might be necessary to guarantee food safety.
+Overall the manuscript is a well-designed study, the figures are of good quality and the text is mostly adequate, data were analyzed properly, the search results are consistent and very interesting and it fits the scope of the journal well.
+Dear Reviewer： Thank you for your letter and your kind comments.
+We are very sorry for the confusion we have caused you.
+The point-to-point responses are given here.
+The given topic about the effect of antibiotics on the mung sprouts features is very interesting and highly important for food safety.
+The article is written in a very good form in all necessary part.
+The only minor formal error is that the lines names miss in Figure 2.
+Generally, I recommend this article for publishing in the present version.
+Response: Thank you for this kind comment.
+The names of the lines in Figure 2 are indicated in the notes below the Figure 2.
+Each line represents the growth of mung bean sprouts in the same antimicrobial group at 24h, 48h, 72h and 96h, respectively.
+Each column represents the growth of different antimicrobial groups at the same time.
+We would like to express our great appreciation for your warm work earnestly, and hope that the explanation will meet with approval.
+Thank you and best regards.
+Yours sincerely, Jing Cao.
+Supplementary materials 1 1.
+Table S1 Positive ion A gradient elution conditions 2 2.
+Table S2 Positive ion B gradient elution conditions 3 3.
+Table S3 Negative ion gradient elution conditions 4 4.
+Table S4 Mass spectrometry conditions in MRM mode 5 5.
+Table S5 Concentration (μg/kg) of antimicrobial and metabolite residues in mung 6 bean sprouts from market survey (n=36, mean ±standard deviation) 7 6.
+Figure S1 Correlation between production of mung bean sprouts and OD450 in 8 circulating water in 96h 9 10 Commented [a1]: It is included in the main text Table S1 Positive ion A gradient elution conditions 11 step Total time (min) A (%) B (%) flow rate 1 0.00 90 3 0.4 2 1.00 90 3 0.4 3 1.10 60 15 0.4 4 9.50 40 75 0.4 5 9.60 10 95 0.4 6 7 11.50 10 95 0.4 11.60 90 3 0.4 8 13.00 97 3 0.4 12 13 Table S2 Positive ion B gradient elution conditions 14 step Total time (min) A (%) B (%) flow rate 1 0.00 90 10 0.3 2 0.50 90 10 0.3 3 3.00 60 40 0.3 4 6.00 40 60 0.3 5 6.50 10 90 0.3 6 7 8.00 10 90 0.3 8.20 90 10 0.3 15 16 Table S3 Negative ion gradient elution conditions 17 step Total time (min) A (%) B (%) flow rate 1 0.00 80 20 0.5 2 0.50 80 20 0.5 3 2.80 2 98 0.5 4 4.00 2 98 0.5 5 4.10 80 20 0.5 6 6.00 80 20 0.5 18 19 Table S4 Mass spectrometry conditions in MRM mode 20 condition positive ions negative ions electrospray voltage (V) 5500 -4500 curtain air pressure (psi) 30 psi 30 psi ion source atomizer temperature (oC) 600oC 600oC atomizing gas pressure (psi) 50 psi 50 psi auxiliary gas pressure (psi) 60 psi 60 psi Ihe on on 21 22 Table S5 Concentration (μg/kg) of antimicrobial and metabolite residues in mung 23 bean sprouts from market survey (n=36, mean ±standard deviation) 24 residues positive samples positive ratio concentration chloramphenicol 1 2.78% 9.31 enrofloxacin 8 22.22% 193.23± 98.42 AOZ 5 13.89% 2.88± 1.93 25 26 Commented [a2]: It is included in the main text 27 28 Figure S1Correlation between production of mung bean sprouts and OD450 in 29 circulating water in 96h 30 31
+Dear Reviewer： Thank you for your letter and your kind comments.
+We have thoughtfully taken into account these comments.
+The point-to-point responses are given here.
+Comments and suggestions for authors are provided below and for supplementary materials in an attached file.
+Response: We are very sorry for our mistake.
+The table that already appear in the main text has been deleted in the supplementary materials.
+Line 43: “…meat bacterial…” change to “…meat bacteria…” Response: We are very sorry for our mistake.
+“…meat bacterial…” has been modified for “… meat bacteria…” in the manuscript.
+Line 78: “…risks.
+[19]” change to “…risks [19].” Response: We are very sorry for our mistake.
+“…risks.
+[19]” has been modified for “…risks [19].” in the manuscript.
+Line 123: “…were repeated for…” delete “for” and change to “…were repeated…” Response: We are very sorry for our mistake.
+“…were repeated for…” has been deleted and modified for “…were repeated…” in the manuscript.
+Line 154: “…and 1 mL were taken…” change to “…and 1 mL was taken…” Response: We are very sorry for our mistake.
+“…and 1 mL were taken…” has been modified for “…and 1 mL was taken…” in the manuscript.
+Line 169: “…employed as nebulizer…” add “a” and change to “…employed as a nebulizer…” Response: We are very sorry for our mistake.
+“…employed as nebulizer…” has been modified for “…employed as a nebulizer…” in the manuscript.
+Line 191: “…were detected for…” change to “were prospected for” Response: We are very sorry for our mistake.
+“…were detected for…” has been modified for “were prospected for” in the manuscript.
+Table 1. and Line 198 : there are no letters within a column in the table which define the statistical significances Response: We are very sorry for our mistake.
+We have deleted the explanation of letters which define the statistical significances.
+Line 242: “…was shown…” change to “…is shown…” Response: We are very sorry for our mistake.
+“…was shown…” has been modified for “…is shown…” in the manuscript.
+Line 293: “…were shown…” change to “…are shown…” Response: We are very sorry for our mistake.
+“…were shown…” has been modified for “…are shown…” in the manuscript.
+Line 297: “…(P <05)…” change to “…(P > 0.05)…” Response: We are very sorry for our mistake.
+“…(P <05)…” has been modified for “…(P > 0.05)…” in the manuscript.
+Line 337: “Antimicrobial residues were…” delete “were” and change to “Antimicrobial residues…” Response: We are very sorry for our mistake.
+“Antimicrobial residues were…” has been modified for “Antimicrobial residues…” in the manuscript.
+Line 348: “Over use…” change to “Overuse…” Response: We are very sorry for our mistake.
+“Over use…” has been modified for “Overuse…” in the manuscript.
+Line 349: “…caused residue and pollution of antimicrobials in…” change to “…caused occurrence of antimicrobial residues and pollution in…” Response: We are very sorry for our mistake.
+“…caused residue and pollution of antimicrobials in…” has been modified for “…caused occurrence of antimicrobial residues and pollution in…” in the manuscript.
+We are sorry again for our mistakes.
+We would like to express our great appreciation for your warm work earnestly, and hope that the correction will meet with approval.
+Thank you and best regards.
+Yours sincerely, Jing Cao.
+Dear Reviewer: Thank you for your letter and your kind comments.
+We have thoughtfully taken into account these comments.
+The point-to-point responses are given here.
+I have completed a review of the manuscript “Effects of typical antimicrobials on growth performance, morphology and antimicrobial residues of mung bean sprouts” (Antibiotics - 1738611).
+The aim of this study was to understand and elucidate This study aimed to investigate the role of antimicrobials in the growth of mung bean sprouts and to clarify antimicrobial residues in the cultivation of mung bean sprouts.
+I congratulate the authors for their excellent work, the research is of great importance for the field of the pharmacology and has technical and scientific merit.
+The information generated will be of great value.
+The findings indicated that the abuse of antimicrobials might cause potential food safety risks in fast growing vegetables and the monitoring of antimicrobial residues might be necessary to guarantee food safety.
+Overall the manuscript is a well-designed study, the figures are of good quality and the text is mostly adequate, data were analyzed properly, the search results are consistent and very interesting and it fits the scope of the journal well.
+Response: Thank you for your careful review.
+We really appreciate your efforts in reviewing our manuscript during this unprecedented and challenging time.
+We would like to express our great appreciation for your warm work earnestly, and hope that the correction will meet with approval.
+Thank you and best regards.
+Yours sincerely, Jing Cao.

@@ -1,0 +1,139 @@
+ISSN 2079-9284 www.mdpi.com/journal/cosmetics Peer-Review Record: Green Cosmetic Surfactant from Rice: Characterization and Application Ibrahim Hanno, Marisanna Centini, Cecilia Anselmi and Claudia Bibiani Cosmetics 2015, 2, 322-341, doi:10.3390/cosmetics2040322 Reviewer 1: Anonymous Reviewer 2: Anonymous Reviewer 3: Catarina Rosado Reviewer 4: Anonymous Editor: Carla Villa (Guest Editor of Special Issue “Green Cosmetic Ingredients”) Received: 1 May 2015 / Accepted: 23 September 2015 / Published: 10 October 2015 First Round of Evaluation Round 1: and Author Response 1.
+The paper describes application of a surfactant in cosmetic emulsions.
+The topic is very relevant for the audience of Cosmetics.
+However, the contents and the structure of the paper need considerable revision to improve the quality and the scientific soundness.
+Response: The manuscript was revised.
+2.
+In particular, the Result and Discussion section does not content discussion at all.
+It is recommended to review some relevant literature and to compare the obtained results in order to prove/disprove and to explain them.
+Response: Results and Discussion section was revised and some references were added.
+3.
+All results are presented without the standard deviations.
+It is not indicated, if there are some significant differences.
+A statistical analysis has to be carried out and presented.
+Response: Standard deviations were included.
+4.
+In the introduction, some points have to be completed: the chemical structure of the investigated surfactant as well as a scheme or at least a reaction equation of the synthesis of polyglycerol ester are very missed.
+Response: The reaction scheme was added.
+R2 5.
+One of the aims of the work, stated in the abstract and in the introduction is “to synthesize the polyglycerol ester”.
+In fact, the synthesis is not described in the paper, but only the application.
+Although there is a subparagraph “characterization” in the method section, I could not find any corresponding results in the result section.
+May be, there are in the lines 140-143?
+They are to be replaced and explained, what these shifts mean.
+Response: More details have been added.
+6.
+Lines 127, 135 etc: the headings have to be completed (synthesis of ….
+Etc) Response: The headings were included.
+7.
+§2.2.3 “Emulsion preparation”: Tables 1-4 present the composition of different emulsions, which were used.
+Since so many formulations were tested, it is very difficult to retrace which of them is described in the followed text.
+Therefore, it is recommended to give to each formulation an unique code and to refer to it in the text and in the figures/tables in the result section.
+Response: A code was given to each formulation as suggest.
+8.
+§2.2.3 below each Table 1-4 there are the procedure description, which are very similar and can be easily summarized in one paragraph.
+Response: A general procedure was included.
+9.
+Lines 187-191 belong to a separate section “characterization of emulsions” Response: The section was separate as suggested.
+10.
+Lines 219-227: the text sounds as an advertisement.
+There are some statements which are not supported with results or references.
+E.g.
+hydrodispersability and formation of liquid crystals.
+Response: Some references were included.
+11.
+Line 226: there is a description of some microscopic images, but they are not presented.
+Response: The figure of liquid crystals observed under a polarizing microscope was added.
+12.
+Lines 228-229: the reference as well as explanation, why the liquid crystals enhance the moisturizing ability, are missed.
+Response: Some references were included.
+13.
+Figures 2-7: as mentioned above, it is very difficult to follow, which formulations are described.
+Please identify the formulations in the method section.
+Response: The codes assigned to each formulation were reported in the figures.
+14.
+All results are given without the standard deviations!!!
+Response: Standard deviations were included.
+15.
+Lines 235-236: stability results are not presented.
+Response: Stability results were included.
+16.
+Lines 244-246: please check the oil phase amounts (9 to 29 % or 10 to 30 %?).
+R3 Response: Oil phase amount were checked.
+17.
+Line 247: which organoleptic characteristics are meant?
+Response: Organoleptic characteristics were reported.
+18.
+Lines 253-256: please specify the formulations.
+Response: The codes of the formulations were reported.
+19.
+Line 255: please indicate the polarity of the oils.
+Response: The polarity of the oils was showed in the legend of Figure 7.
+20.
+Lines 277-281: obviously, the results in the lines 140-143 should be presented here?
+Response: The results in the lines 140-143 are the signals of the protons of the emulsifier synthesized.
+In the lines 277-281 the results of the interaction emulsifier-xanthan gum are reported.
+Some details were added.
+21.
+In general, the section “results and discussion” has to be considerably restructured and throughout revised.
+Discussion has to be added.
+Response: The section “results and discussion” were revised.
+Round 1: and Author Response 1.
+Cosmetic formulation is very difficult and complex field in cosmetics.
+Authors first fixed 5% emulsifier concentration, next 14% oil concentration, so on.
+I strongly suggest to repeat with 'Design of Experiment' Technique.
+Fixing one subject, and changing other concentrations may not get optimal cosmetic formulation.
+Response: The emulsifying properties and the compatibility between the emulsifier with various ingredients were investigated.
+For this purpose we designed experimental emulsions containing a few essential ingredients.
+2.
+From Figures 6 and 7, I do not see any advantage from your new method compared with conventional preparation in UVB and UVA.
+New technique is only justified when you have better results.
+Response: The influence of the different emulsifier on the SPF value was compared.
+The effectiveness of a sunscreen agent applied in an emulsion is influenced mainly by the emulsifier and fatty components.
+Emulsifier are able to affect surface tension during the film formation phase, the rheological behavior and the distribution of the emulsion on the skin.
+Rheological behavior has a fundamental importance in the formulation of sunscreens, because the formation of an evenly distributed film is critically influenced by the flowing properties of the formulation.
+The emulsion containing the UVB filter prepared with the new emulsifier showed the lowest SPF value and less photostability while it improves UVA photostability.
+More details were added in the Results and Discussion section.
+R4 Round 1: and Author Response 1.
+In the Introduction, the authors should take into account that some degree of chemical transformation is allowed, for instance, in the Ecocert certification of natural materials.
+Response: The suggestion was included in the introduction and the Cosmos-standard was added as reference 2.
+In the Results section, figure 1 is missing.
+Response: The figure was included.
+Round 1: and Author Response 1.
+The synthesized product is new whatever the approach is now widely applied by the cosmetic industry to prepare new surfactants that may cover the claim of organic and/or natural products.
+Response: The observation of the reviewer is right, the method is not new but it allows to obtain green ingredients that can be included in organic/natural cosmetic products.
+2.
+A representation of the synthesis may be useful for the reader.
+Response: The reaction scheme was added.
+3.
+The figure of the microscopy representing liquid crystals may be interesting.
+Response: The figure of liquid crystals observed under a polarizing microscope was added.
+4.
+Please give more details about the formulation in the figure legend.
+Response: In the figure legends more details were added.
+5.
+The reviewer is quite surprised concerning the components used for the formulations, that are not biodegradable and in general not preferred for organic formulations, such as silicons, EDTA, acrylates… Response: The emulsifying properties and the compatibility between the emulsifier with various ingredients were investigated.
+For this purpose we designed experimental emulsions containing a few essential ingredients.
+The emulsions were added with a preservative system that, according to our experience, was suitable for the storage of the preparation during the observation time.
+The reviewer’s observation is right.
+The green emulsifier is mainly suitable for the formulation of the organic/natural products, but it can be used in any product.
+Second Round of Evaluation Round 2: and Author Response 1.
+The manuscript has been significantly improves, however, some points have to be revised.
+The authors have added standard deviations in the legend of the figures.
+Such a way of the presentation is very unclear.
+Usually the SD values are presented in the form of error bars, please change.
+Furthermore, it is not necessary to give exact values in the diagrams.
+Response: Figures 4, 5, 7, 8, 9 and 10 were changed and the error bars were included.
+R5 2.
+Figures 3 and 6: please present scale bars.
+Response: The scale bars are shown in Figure 6.
+3.
+The method section still contains some results.
+Response: The reviewer may refer to NMR and IR data, but generally these data are given in the method section.
+4.
+Tables 5,6, Figure 8: The SI-Unit for the viscosity is Pa·s, and in my opinion should be used in the scientific publications.
+Values given in cPs can be easily recalculated.
+Response: The viscosity values given in cPs were converted to Pa·s.
+Round 2: and Author Response The paper is now much better than the original.
+Accept as it is.
+Response: Thank you for your suggestions and consideration.

@@ -1,0 +1,60 @@
+Author Response Dear Reviewer We would like to thank You for your attention to our work and for carefully reading our manuscript.
+We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly.
+All amendments suggested have been included.
+Additional corrections through the text have been done.
+Changes in respect to the previous version are in track changes.
+Below point by point response to concerns Reviewer 1 The manuscript is generally well written.
+It presents interesting original results on the assessment of the diversity existing for the sweet pepper local variety ‘Peperone Cornetto di Pontecorvo’.
+The obtained data can be very useful.
+#Answer: Again, we would like to thank You for your attention and for carefully reading the manuscript.
+We also thank you for the positive and encouraging comment.
+There are just a few minor comments: lines 102 and 113: Were the seeds collected in 2000 and sown in 2021?
+#Answer: We better clarified this in the method section (L101, L105-106).
+2000 is the year of the establishment of Conservation and Safety Network.
+In this frame, seeds were collected and maintained in long term storage conditions by Arsial in the subsequent years.
+How many seeds were collected?
+#Answer: Between 8-10 grams (about 2000 seeds) we don’t think is a detail to insert in the manuscript.
+line 115: Did one repetition mean one plant?
+#Answer: Yes, we clarified (L116).
+line 130: How many fruits were used as a sample of representative fruits?
+line 135: How many fruits were used as a bulk of representative fruits?
+#Answer: We added these details (L132 and L136) The results are described and discussed in detail.
+#Answer: Thanks We hope that these revisions successfully address the raised concerns, remaining available for any other requests regarding the manuscript.
+Author Response Dear Reviewer We would like to thank You for your attention to our work and for carefully reading our manuscript.
+We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly.
+All amendments suggested have been included.
+Additional corrections through the text have been done.
+Changes in respect to the previous version are in track changes.
+Below point by point response to concerns Reviewer 2 Tripodi et al., seeks to set a basis of authenticity of ‘Peperone Cornetto di Pontecorvo’ sweet pepper by using a combinatory approach of biochemical, genetic, and agronomic markers/traits.
+This work is quite interesting and is well-written.
+#Answer: Again, we would like to thank You for your attention and for carefully reading the manuscript.
+We also thank you for the positive and encouraging comment.
+I only have some minor comments.
+1) The introduction part is a bit long, although it states the importance of this local variety of sweet pepper and of tracing its origin.
+#Answer: We prefer to keep the introduction in order to give a broad overview to readers 2) In figure 3: why CP cultivars in purple lines are clustered with CC and MG in green?
+Any explanation?
+#Answer: The cluster analysis is based on phenotypic traits, this analysis revealed specific clusters of "Cornetto di Pontecorvo" and similar types, although they were not clearly separated at the hierarchical level.
+The genotyping analysis provided more in-depth insights.
+We addressed this in the discussions section (see L485 and subsequent).
+Others: Line 37: “products” #Answer: Product is correct since refer to This crop (singular), we specify (as a food and non-food product) Line 245: would be better to show the value of each agronomic trait mentioned here #Answer: We agree and better positioned the table 3 after the sentence Line 385-388: the figure legend does not provide enough information on this figure #Answer: Figure 4 caption has been improved Line 435: it may not be worth to mention the sweet pepper as the first 30 crops #Answer: We agree and modified the sentence (see L439) Line 468: “GBS”?
+Genotype by sequencing?
+#Answer: We change referring to ddRAD seq (see L473) Conclusion: What kind of broader impact of this work could be?
+#Answer: In order to answer to this question, we improved the conclusion (L524-529) We hope that these revisions successfully address the raised concerns, remaining available for any other requests regarding the manuscript.
+The manuscript is generally well written.
+It presents interesting original results on the assessment of the diversity existing for the sweet pepper local variety ‘Peperone Cornetto di Pontecorvo’.
+The obtained data can be very useful.
+There are just a few minor comments: lines 102 and 113: Were the seeds collected in 2000 and sown in 2021?
+How many seeds were collected?
+line 115: Did one repetition mean one plant?line 130: How many fruits were used as a sample of representative fruits?
+line 135: How many fruits were used as a bulk of representative fruits?
+The results are described and discussed in detail.
+See the attachment Comments for author File: Comments.pdf
+Tripodi et al., seeks to set a basis of authenticity of ‘Peperone Cornetto di Pontecorvo’ sweet pepper by using a combinatory approach of biochemical, genetic, and agronomic markers/traits.
+This work is quite interesting and is well-written.
+I only have some minor comments.
+1) The introduction part is a bit long, although it states the importance of this local variety of sweet pepper and of tracing its origin.
+2) In figure 3: why CP cultivars in purple lines are clustered with CC and MG in green?
+Any explanation?
+Others: Line 37: “products” Line 245: would be better to show the value of each agronomic trait mentioned here Line 385-388: the figure legend does not provide enough information on this figure Line 435: it may not be worth to mention the sweet pepper as the first 30 crops Line 468: “GBS”?
+Genotype by sequencing?
+Conclusion: What kind of broader impact of this work could be?

@@ -1,0 +1,198 @@
+side	opponent	round	number	attacks	ann	text
+					0	Author Response Dear Professor Mok, We appreciate that you give us the possibility to revise our manuscript and we thank the reviewers for their valuable comments.
+					0	Based on these comments we herewith respond to all questions raised in a point-by-point manner, as follows: Reviewer 1:
+Reviewer_1	Author	1	1	0	2	Based on the cell line RNA and protein data the expression level of MACC1 is highly variable rather than being present or not.
+Reviewer_1	Author	1	1	0	2	Is there a similar variability present among the tissue samples?
+Reviewer_1	Author	1	1	0	2	Please provide the distribution of the IRS scores of the patient cohort and explain how was IRS 5 chosen as cut off?
+					0	Answer:
+Author	Reviewer_1	4	1	1	2	We thank the reviewer for this comment.
+Author	Reviewer_1	2	1	1	1	As suggested, we analyzed the distribution of IRS (immunoreactivity score) across the cohort.
+Author	Reviewer_1	2	1	1	1	In Figure 1 it can be clearly seen that there are two groups forming here, those with 0-4 and those with 6-12 IRS.
+Author	Reviewer_1	2	1	1	1	In addition, we calculated the survival probability depending on the IRS (Figure 2).
+Author	Reviewer_1	2	1	1	1	Patients with an IRS of 6 or higher have a similar bad prognosis compared to patients with an IRS below 5.
+Author	Reviewer_1	2	1	1	1	A better survival correlates with lower MACC1 IRS.
+Author	Reviewer_1	2	1	1	1	Patients with an IRS of 0 have the best prognosis.
+Author	Reviewer_1	2	1	1	1	Based on these two analyses, the decision for cut-off value of 5 was made.
+Author	Reviewer_1	2	1	1	1	Additionally, ROC curve analysis showed, that the IRS value of 5 has the highest Youden Index and is therefore the most suitable cut-off value.
+Author	Reviewer_1	4	1	1	2	The IRS cut-off value 5 reaches a sensitivity of 76.6% and a specificity of 64.2% (Youden Index.
+Author	Reviewer_1	2	1	1	1	0.408) (Figure 3 and Table 1).
+Author	Reviewer_1	2	1	1	1	Looking at MACC1 expression in cell lines and tissue samples, the variability looks similar.
+Author	Reviewer_1	2	1	1	1	Nevertheless, it must be considered that the investigation of the homogeneous cell lines is a purely quantitative analysis of the expression by Western plot and RT-PCR.
+Author	Reviewer_1	2	1	1	1	The analysis of the tissue samples by immunoreactivity score analyses both the strength of expression and the inhomogeneity of expression.
+Author	Reviewer_1	2	1	1	1	Figure 1: Distribution of the IRS across the cohort Figure 2: Overall Survival depending on the IRS Figure 3: ROC Curve for IRS cut-off analysis (AUC 0.716 [0.656 – 0.776]) Table 1: Sensitivity, specificity and Youden Index for different IRS cut-off values.
+Reviewer_1	Author	1	2	0	2	The authors argue that MACC1 expression did not significantly influenced cell proliferation in the two cell line models.
+Reviewer_1	Author	1	2	0	2	However, cell proliferation was analyzed only in a 24-hour long period even though most cancer cells have a doubling time around 24 hours.
+Reviewer_1	Author	1	2	0	2	In order to draw a conclusion about the proliferation effect a longer (48 or 72 hours) measurement is necessary.
+					0	Answer:
+Author	Reviewer_1	2	2	2	1	We thank the reviewer for raising this point.
+Author	Reviewer_1	2	2	2	1	However, to respond to this question appropriately, we currently can provide only the results from proliferation assays for one cell line model (FLO1-EV vs FLO1-MACC1) over the time period of 72 h. This assay was with no statistically significant difference in cell proliferation between FLO1-EV vs FLO1-MACC1 (see Figure 4).
+Author	Reviewer_1	2	2	2	1	Figure 4: Proliferation of FLO1 EV and FLO1 MACC1 over 72 h. Analysis of in vitro proliferation assay.
+Author	Reviewer_1	2	2	2	1	Unfortunately, the short revision period of 10 days limits the generation of additional data sets for proliferation in further tumor cell lines.
+					0	The concentration used from selumetinib both for the cell line experiments (10 microM) and for the animal experiments (50 mg/kg) are quite high.
+					0	Please discuss how the applied concentrations are related to the clinically used dosage (75 mg administered orally twice https://clinicaltrials.gov/ct2/show/NCT02448290) and why not the more efficient MEK1 inhibitor trametinib was used for the experiments.
+Reviewer_1	Author	1	3	0	2	It would be nice to know the selumetinib sensitivity of the two used cell lines.
+					0	Answer:
+Author	Reviewer_1	2	3	3	1	We thank the reviewer for this question.
+Author	Reviewer_1	2	3	3	1	The concept of MACC1 inhibition was originally developed by our group for the treatment of MACC1 positive colorectal cancers and was recently published (Kobelt et al.
+Author	Reviewer_1	2	3	3	1	Oncogene 2021).
+Author	Reviewer_1	2	3	3	1	In this study we transferred our experience with MACC1 inhibition by selumetinib on AGE/S.
+Author	Reviewer_1	2	3	3	1	Therefore, we chose the same doses for in vitro and in vivo experiments, and which was also used by other authors (Huynh et al.
+Author	Reviewer_1	2	3	3	1	Mol Cancer Therapy.
+Author	Reviewer_1	2	3	3	1	2007).
+Author	Reviewer_1	2	3	3	1	Further, we knew that the selected selumetinib concentrations of 10 µM has no cytotoxic effect in vitro and showed no reduction of migration in the MACC1 negative clones (FLO1-EV and OEshMACC1).
+Author	Reviewer_1	2	3	3	1	Regarding the different dosages in the context of xenografted mice treatment in vivo and the clinically used dosages, the FDA recommends multiplying the dosage by a factor of 0.08 when transferring from mouse to human (Niar et al.
+Author	Reviewer_1	2	3	3	1	Journal of basic and clinical pharmacy 2016).
+Author	Reviewer_1	2	3	3	1	According to this calculation, the dosage of 50 mg selumetinib /kg mouse used would equal a dosage of 4 mg/kg in humans.
+Author	Reviewer_1	2	3	3	1	The clinical dose of 75mg twice daily corresponds to a dose of 2x1mg per kg assuming a patient weight of 75kg.
+Author	Reviewer_1	2	3	3	1	Using the aforementioned calculation, this dose equals then 12.5 mg/kg for treatment of mice.
+Author	Reviewer_1	2	3	3	1	In our study, we refer again to the work of Huynh et al.
+Author	Reviewer_1	2	3	3	1	Here, in which a dosage of 12 mg/kg selumetinib showed only a low level of effectiveness.
+Author	Reviewer_1	2	3	3	1	At 100 mg/kg, a very good effectiveness was seen, however combined with an increased toxicity.
+Author	Reviewer_1	2	3	3	1	Thus, we used in our study the dosage of 50 mg/kg as an effective dosage with low toxicity for the mice.
+Author	Reviewer_1	2	3	3	1	Overall, we are considering here a pre-clinical model.
+Author	Reviewer_1	2	3	3	1	The possibility of MEK1 inhibition to inhibit MACC1-induced effects in AGE/S was examined.
+Author	Reviewer_1	2	3	3	1	Further, extended in vivo studies might then reveal the ideal dosage in vivo, being thereafter translated to use in humans.
+Author	Reviewer_1	2	3	3	1	The use of trametinib is an interesting suggestion and might well be adapted to its use in forthcoming studies References: Kobelt, D., Perez-Hernandez, D., Fleuter, C., Dahlmann, M., Zincke, F., Smith, J., ... & Stein, U.
+Author	Reviewer_1	2	3	3	1	(2021).
+Author	Reviewer_1	2	3	3	1	The newly identified MEK1 tyrosine phosphorylation target MACC1 is druggable by approved MEK1 inhibitors to restrict colorectal cancer metastasis.
+Author	Reviewer_1	2	3	3	1	Oncogene, 40(34), 5286-5301.
+Author	Reviewer_1	2	3	3	1	Huynh H, Soo KC, Chow PK, Tran E. Targeted inhibition of the extracellular signal-regulated kinase kinase pathway with AZD6244 (ARRY-142886) in the treatment of hepatocellular carcinoma.
+Author	Reviewer_1	2	3	3	1	Mol Cancer Ther.
+Author	Reviewer_1	2	3	3	1	2007 Jan;6(1):138-46.. Nair, Anroop B.; Jacob, Shery.
+Author	Reviewer_1	2	3	3	1	(2016).
+Author	Reviewer_1	2	3	3	1	A simple practice guide for dose conversion between animals and human.
+Author	Reviewer_1	2	3	3	1	Journal of basic and clinical pharmacy, 7.
+Author	Reviewer_1	2	3	3	1	Jg., Nr.
+Author	Reviewer_1	2	3	3	1	2, S. 27.
+					0	Author Response Dear Professor Mok, We appreciate that you give us the possibility to revise our manuscript and we thank the reviewers for their valuable comments.
+					0	Based on these comments we herewith respond to all questions raised in a point-by-point manner, as follows: Reviewer 2 Major Issues:
+Reviewer_2	Author	1	1	0	2	[1] Figure 4 is missing.
+Reviewer_2	Author	1	1	0	2	In the pdf I reviewed, the caption is there, but the figure is not.
+Author	Reviewer_2	2	4	1	1	We apologize for the inconvenience.
+Author	Reviewer_2	2	4	1	1	Figure 4 can be found on page 14 in the submitted version.
+Author	Reviewer_2	2	4	1	1	We inserted Figure 4 in the revised manuscript again to solve the technical issue.
+Reviewer_2	Author	1	2	0	2	[2] Abstract says 266 patients were analyzed (line 36), while result says 360 patients were analyzed (line 249).
+Reviewer_2	Author	1	2	0	2	Please fix this inconsistency.
+					0	Answer:
+Author	Reviewer_2	2	5	2	1	We address this question in the results part MACC1 expression: “ Due to the procedure of cutting and staining, some samples could not be used for the evaluation.
+Author	Reviewer_2	2	5	2	1	Samples with insufficiently representative tumor tissue were also excluded from the evaluation.
+Author	Reviewer_2	2	5	2	1	Cores with representative tumor material and evaluable staining were available in 266 of 360 samples (73.9%)…”.
+Author	Reviewer_2	2	5	2	1	To avoid misunderstandings, we corrected the abstract to: 266 Samples of 360 AGE/S patients were analyzed for MACC1 expression.
+Reviewer_2	Author	1	3	0	2	[3] Throughout the paper, 10^x wrongly displays as 10x (e.g.
+Reviewer_2	Author	1	3	0	2	"""105"" instead of ""10^5"" in lines 152 and 170, ""106"" instead of ""10^6"" in line 217, ""X2"" instead of ""X^2"" in line 241, ""108"" instead of ""10^8"" in lines 353, 354, 365, 366, 367, 368, 370, 371)."
+					0	Answer:
+Author	Reviewer_2	2	6	3	1	We thank the reviewer for this correction.
+Author	Reviewer_2	2	6	3	1	This formatting issue was corrected throughout the entire manuscript.
+					0	Minor Issues:
+Reviewer_2	Author	1	4	0	2	[4] In Figures 3G and 3H, please specify p-values for untreated vs selumetinib in FLO-1/EV and OE33/shMACC1 respectively.
+Reviewer_2	Author	1	4	0	2	If the difference is statistically significant, please briefly explain/speculate why.
+					0	Answer:
+Author	Reviewer_2	2	7	4	1	We thank the reviewer for this valuable hint.
+Author	Reviewer_2	2	7	4	1	As suggested, we included p-values in Figure 3G and 3H.
+Author	Reviewer_2	2	7	4	1	In Figure 3G there is a significant increase in migration of cells without MACC1 expression.
+Author	Reviewer_2	2	7	4	1	This is based on a sufficiently large N, that renders even small differences statistically significant.
+Author	Reviewer_2	2	7	4	1	Further, this increase is rather small and is outperformed by the MACC1-mediated increase in migration and the reduction in the MACC1-mediated migration by selumetinib.
+Author	Reviewer_2	2	7	4	1	The data show, that selumetinib does not reduce migration of the MACC1-negative FLO1 and that MACC1 induces migration in this cell line that can be inhibited by selumetinib.
+Reviewer_2	Author	1	5	0	2	[5] If possible, please use a higher resolution version of Figures 3F and 3I (the legends are blurry and hard to read in the current version).
+					0	Answer:
+Author	Reviewer_2	2	8	5	1	We thank the reviewer for this suggestion to improve the visual quality of the manuscript.
+Author	Reviewer_2	2	8	5	1	The legends of 3F and I have been enlarged and the resolution of the figure has been increased.
+Reviewer_2	Author	1	6	0	2	[6] In line 306/307, please explain/speculate briefly why the control clone had higher MACC1 expression than the wildtype.
+Author	Reviewer_2	2	9	6	1	We thank the reviewer for this discussion.
+Author	Reviewer_2	2	9	6	1	The empty vector control clone was transduced and selected afterwards.
+Author	Reviewer_2	2	9	6	1	During the selection procedure it is possible that a subclone was generated that expresses slightly more (or less) of any mRNA and protein.
+Author	Reviewer_2	2	9	6	1	It differs from the wildtype by handling (transduction, selection etc) and somewhat by age (cell divisions).
+Author	Reviewer_2	2	9	6	1	Therefore, for all comparisons the empty vector clone was used, as this clone was generated in parallel to the MACC1 clone.
+Reviewer_2	Author	1	7	0	2	[7] In line 272/273: (i) please report median survival in each group (instead of mean survival), (ii) please specify Hazard ratio with 95% confidence interval (in addition to p values), (iii) please report both overall survival result and disease-specific survival result (since you showed both in Figures).
+					0	Answer:
+Author	Reviewer_2	2	10	7	1	We thank the reviewer for pointing this out: Survival reports were changed in median survival and the 95% confidence interval were included.
+Author	Reviewer_2	2	10	7	1	Additionally, disease-specific survival results were reported.
+Reviewer_2	Author	1	8	0	2	"[8] In line 274, please change ""OR 1.51"" to ""OR 1.51 [... - ...]"", i.e."
+Reviewer_2	Author	1	8	0	2	specify the 95% confidence interval.
+					0	Answer:
+Author	Reviewer_2	2	11	8	1	We thank the reviewer for pointing this out: OR with the confidence interval is now included.
+Reviewer_2	Author	1	9	0	2	[9] In line 277-279: (i) please report median survival in each group (instead of mean survival), (ii) please specify Hazard ratio with 95% confidence interval (in addition to p values).
+Reviewer_2	Author	1	9	0	2	Same for lines 425/426.
+					0	Answer:
+Author	Reviewer_2	2	12	9	1	We thank the reviewer for pointing this out: all survival reports were changed in median survival and the 95% confidence interval were included.
+Reviewer_2	Author	1	10	0	2	[10] If the journal allows it, please break up the abstract into Introduction, Methods, Results, Conclusion.
+Reviewer_2	Author	1	10	0	2	If the journal requires an unstructured abstract instead, please reorganize the current abstract so that the content flows uninterrupted (e.g.
+Reviewer_2	Author	1	10	0	2	"""MACC1 is an independent negative prognostic marker in AGE/S patients."""
+Reviewer_2	Author	1	10	0	2	"should be after ""Expression was correlated with survival and morphological characteristics."""
+Reviewer_2	Author	1	10	0	2	"and before ""To analyze the role of MACC1 in vitro the cell lines FLO-1 and OE33 were lentivirally manipulated."""
+Reviewer_2	Author	1	10	0	2	and so on).
+					0	Answer:
+Author	Reviewer_2	2	13	10	1	Thank you for this valuable comment.
+Author	Reviewer_2	2	13	10	1	The journal requires an unstructured abstract.
+Author	Reviewer_2	2	13	10	1	As suggested by the reviewer, we have therefore reorganized the abstract and improved the flow of reading: Abstract: Esophageal and Gastric Adenocarcinomas (AGE/S) are characterized by early metastasis and poor survival.
+Author	Reviewer_2	2	13	10	1	MACC1 (Metastasis Associated in Colon Cancer 1) acts in colon cancer as a metastasis inducer, linked to reduced survival.
+Author	Reviewer_2	2	13	10	1	This project illuminates the role and potential of inhibition of MACC1 in AGE/S.
+Author	Reviewer_2	2	13	10	1	Using 266 of 360 TMAs and survival data of AGE/S patients we confirm the value of MACC1 as an independent negative prognostic marker in AGE/S patients.
+Author	Reviewer_2	2	13	10	1	MACC1 gene expression correlated with survival and morphological characteristics.
+Author	Reviewer_2	2	13	10	1	In vitro analysis of lentivirally MACC1 manipulated subclones of FLO-1 and OE33 showed enhanced migration induced by MACC1 in both cell line models, which could be inhibited by the MEK1 inhibitor selumetinib.
+Author	Reviewer_2	2	13	10	1	In vivo, the efficacy of selumetinib on tumor growth and metastasis of MACC1-overexpressing FLO-1 cells xenografted intrasplenically in NOG mice was tested.
+Author	Reviewer_2	2	13	10	1	Mice with high MACC1 expressing cells developed faster and larger distant metastases.
+Author	Reviewer_2	2	13	10	1	Treatment with selumetinib led to a significant reduction of metastasis exclusively in the MACC1 positive xenografts.
+					0	Author Response Please see the attachment Author Response File: Author Response.pdf
+					0	Author Response
+Author	Reviewer_2	4	3	1	1	There were no more open questions in the second review.
+					0	In this paper the authors represents that MACC1 is a negative prognostic marker in esophageal and gastric adenocarcinomas in a large Caucasian cohort.
+					0	They demonstrate that MACC1 is expressed in 79% of the investigated samples and its presence is coupled with reduced overall survival even in patients with good prognosis.
+					0	In the in vitro analysis they investigated MACC1 expression in five cell lines and generated a cell line with MACC1 overexpression and a MACC1 knock-down cell line.
+					0	They found that MACC1 expression does not influence cell proliferation but is correlated with cell migration.
+					0	Inhibition of MEK1 with selumetinib also reduced cell migration only in MACC1 expressing cells.
+					0	In an in vivo xenograft model using a control and a MACC1 overexpressing cell line pair they found that MACC1 expression increased metastasis formation and this was reduced by selumetinib treatment.
+					0	Comments to authors: Major: Based on the cell line RNA and protein data the expression level of MACC1 is highly variable rather than being present or not.
+					0	Is there a similar variability present among the tissue samples?
+					0	Please provide the distribution of the IRS scores of the patient cohort and explain how was IRS 5 chosen as cut off?
+					0	The authors argue that MACC1 expression did not significantly influenced cell proliferation in the two cell line models.
+					0	However, cell proliferation was analyzed only in a 24-hour long period even though most cancer cells have a doubling time around 24 hours.
+					0	In order to draw a conclusion about the proliferation effect a longer (48 or 72 hours) measurement is necessary.
+Reviewer_1	Author	1	3	0	2	The concentration used from selumetinib both for the cell line experiments (10 microM) and for the animal experiments (50mg/kg) are quite high.
+Reviewer_1	Author	1	3	0	2	Please discuss how the applied concentrations are related to the clinicaly used dosage (75 mg administered orally twice https://clinicaltrials.gov/ct2/show/NCT02448290) and why not the more efficient MEK1 inhibitor trametinib was used for the experiments.
+					0	It would be nice to know the selumetinib sensitivity of the two used cell lines.
+					0	Previous studies in colorectal cancer have shown that MACC1 expression (which is associated with poor prognosis) induces cell migration in vitro and metastasis formation in vivo, and these effects can be inhibited by selumetinib.
+					0	In this study, the authors have shown that the same is also true for gastric/esophageal cancer.
+					0	The results are interesting and may have clinical relevance.
+					0	I recommend the following edits before publication.
+					0	Major Issues: [1] Figure 4 is missing.
+					0	In the pdf I reviewed, the caption is there, but the figure is not.
+					0	[2] Abstract says 266 patients were analyzed (line 36), while result says 360 patients were analyzed (line 249).
+					0	Please fix this inconsistency.
+					0	[3] Throughout the paper, 10^x wrongly displays as 10x (e.g.
+					0	"""105"" instead of ""10^5"" in lines 152 and 170, ""106"" instead of ""10^6"" in line 217, ""X2"" instead of ""X^2"" in line 241, ""108"" instead of ""10^8"" in lines 353, 354, 365, 366, 367, 368, 370, 371)."
+					0	Minor Issues: [4] In Figures 3G and 3H, please specify p-values for untreated vs selumetinib in FLO-1/EV and OE33/shMACC1 respectively.
+					0	If the difference is statistically significant, please briefly explain/speculate why.
+					0	[5] If possible, please use a higher resolution version of Figures 3F and 3I (the legends are blurry and hard to read in the current version).
+					0	[6] In line 306/307, please explain/speculate briefly why the control clone had higher MACC1 expression than the wildtype.
+					0	[7] In line 272/273: (i) please report median survival in each group (instead of mean survival), (ii) please specify Hazard ratio with 95% confidence interval (in addition to p values), (iii) please report both overall survival result and disease-specific survival result (since you showed both in Figures).
+					0	"[8] In line 274, please change ""OR 1.51"" to ""OR 1.51 [... - ...]"", i.e."
+					0	specify the 95% confidence interval.
+					0	[9] In line 277-279: (i) please report median survival in each group (instead of mean survival), (ii) please specify Hazard ratio with 95% confidence interval (in addition to p values).
+					0	Same for lines 425/426.
+					0	[10] If the journal allows it, please break up the abstract into Introduction, Methods, Results, Conclusion.
+					0	If the journal requires an unstructured abstract instead, please reorganize the current abstract so that the content flows uninterrupted (e.g.
+					0	"""MACC1 is an independent negative prognostic marker in AGE/S patients."""
+					0	"should be after ""Expression was correlated with survival and morphological characteristics."""
+					0	"and before ""To analyze the role of MACC1 in vitro the cell lines FLO-1 and OE33 were lentivirally manipulated."""
+					0	and so on).
+Reviewer_1	Author	3	1	0	2	The authors´answer regarding the cut off is sufficient, please include this argument either in the methods section or as supplementary information.
+Reviewer_1	Author	3	2	0	2	"The authors refer to a data ""Proliferation of FLO1 EV and FLO1 MACC1 over 72 h"", however I couldn´t find the figure either in the manuscript file or here in the answer."
+Reviewer_2	Author	3	1	0	2	The authors have satisfactorily addressed my comments.
+					0	Dear Professor Mok, We appreciate that you give us the possibility to revise our manuscript and we thank the reviewers again for their valuable comments.
+					0	Based on these comments we herewith respond to all questions raised in a point-by-point manner, as follows: Reviewer 1: 1.
+					0	The authors´answer regarding the cut off is sufficient, please include this argument either in the methods section or as supplementary information.
+					0	Answer: We thank the reviewer for this comment.
+Author	Reviewer_1	4	1	1	1	We include the arguments into the methods section page 3: To define the cut-off value a ROC curve analysis was performed.
+					0	The IRS cut-off value 5 reaches a sensitivity of 76.6% and a specificity of 64.2% (Youden Index.
+Author	Reviewer_1	4	1	1	1	0.408) and was chose as cut-off value (see supplement Figure S1 and Table S1).
+Author	Reviewer_1	4	1	1	1	Additionally, we added the ROC curve and the table with sensitivity, specificity and Youden Index into a supplement section as figure S1 and table S1 Figure S1: ROC Curve for IRS cut-off analysis (AUC 0.716 [0.656 – 0.776]) Positive if Greater than or Equal to Sensitivity 1- Specificity Specificity Youden Index -1 1 1 0 0 1 0,869 0,500 0,500 0,369 3 0,864 0,483 0,517 0,381 5 0,766 0,358 0,642 0,408 7 0,729 0,342 0,658 0,387 8,5 0,421 0,217 0,783 0,204 10,5 0,411 0,200 0,800 0,211 13 0 0 1 0 Table S1: Sensitivity, specificity and Youden Index for different IRS cut-off values.
+					0	2.
+					0	"The authors refer to a data ""Proliferation of FLO1 EV and FLO1 MACC1 over 72 h"", however I couldn´t find the figure either in the manuscript file or here in the answer."
+					0	Answer:
+Author	Reviewer_1	4	2	2	1	thank you for this comment: we added the proliferation analyses by MTT into the method section page 5: Additionally, proliferation for FLO-1/EV and FLO-1/MACC1 was analyzed over 72 h by MTT.
+Author	Reviewer_1	4	2	2	1	4x103 cells were plated into 96-well-plates and were allowed to accommodate for 24 h. after 48 and 72 h formazan crystals were dissolved in 150 μl of DMSO and the absorption was measured at 560 nm in the absorbance reader (Tecan infinite 200 PRO).
+Author	Reviewer_1	4	2	2	1	Each cell proliferation experiment was performed in triplicates.
+Author	Reviewer_1	4	2	2	1	We added the results of the MTT analyses into the results section page 11: The additional analysis of the proliferation over 72 h showed no significant differences between FLO-1/EV (100% ± 4.886) and FLO-1/MACC1 (112.3% ± 12.24; p=0.113) (see supplement Figure S3).
+Author	Reviewer_1	4	2	2	1	We added the MTT plot as figure S2 into the supplement section Figure S2: Proliferation of FLO1 EV and FLO1 MACC1 over 72 h. Analysis of in vitro proliferation assay.
+					0	FLO1 EV FLO1 MACC1 0 50 100 150 AUC (72h) Percent of Controll MACC1 related Proliferation over 72h p = 0.113 p=0.113

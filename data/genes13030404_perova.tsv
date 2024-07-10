@@ -1,0 +1,118 @@
+side	opponent	round	number	attacks	ann	text
+					0	Author Response Please see the attachment Author Response File: Author Response.docx
+					0	Author Response Please see the attachment Author Response File: Author Response.docx
+					0	Ren et al.
+					0	's study focus on the characterization of IbmiR319 based on its effect on plant architecture and drought response.
+					0	While congratulating the authors on this interesting study, I have the following comments.
+					0	Major comments
+Reviewer_1	Author	1	1	0	2	The authors look at the expression of IbTCP11/17 (targets of miR319) from lines 418-424.
+Reviewer_1	Author	1	1	0	2	Here authors capture the early response to PEG compared to the drought response (water withdrawal) assessed earlier.
+Reviewer_1	Author	1	1	0	2	To have a meaningful comparison, the authors need to show the expression level of these two genes in the drought assay (Lines 400-417).
+Reviewer_1	Author	1	1	0	2	As the authors briefly mentioned, PEG stress is more severe than water withdrawal, so it will not give a solid verification provided there are two variables, inducer, and timing.
+Reviewer_1	Author	1	1	0	2	In our experience, we observed completely different responses when we tried to compare PEG, air drying, and water withdrawal.
+Reviewer_1	Author	1	1	0	2	This is essential given that no temporal expression baseline is established for IbTCP11/17 under water withdrawal stress and the presence of other regulatory mechanisms of IbTCP11/17.
+Reviewer_1	Author	1	2	0	2	It is interesting to see that only MDA content increases in response to drought.
+Reviewer_1	Author	1	2	0	2	The possible mechanism/reason should be included in the discussion.
+Reviewer_1	Author	1	3	0	2	The discussion needs to be further expanded.
+Reviewer_1	Author	1	3	0	2	Esp.
+Reviewer_1	Author	1	3	0	2	RNA-Seq results need to be further discussed.
+Reviewer_1	Author	1	4	0	2	There should be a summary (concluding statement at the end).
+Reviewer_1	Author	1	4	0	2	This manuscript ends very abruptly.
+					0	Minor Comments Please see the attached file.
+					0	Comments for author File: Comments.pdf
+					0	The manuscript is well written and the presented evidence supports the conclusions being made.
+					0	There are some small edits that need addressing for clarity.
+Reviewer_2	Author	1	1	0	2	"Pg 1 line 45: the wording ""and so on"" is awkward and imprecise."
+Reviewer_2	Author	1	1	0	2	Please rephrase and indicate what other processes are being referred to.
+Reviewer_2	Author	1	2	0	2	Pg 2 line 67: don't assume that everyone reading the manuscript are aware of miRNA roles in plant stress physiology.
+Reviewer_2	Author	1	3	0	2	Pg 3 Plasmid and sweet potato genetic transformation section: Include relevant protocols instead of just referring to another manuscript.
+Reviewer_2	Author	1	3	0	2	Citing the original source is required but so are details needed to reproduce and evaluate the soundness of the manuscript.
+Reviewer_2	Author	1	3	0	2	The same applies to other parts of the materials and methods:
+Reviewer_2	Author	1	4	0	2	Pg 6 line 239: I don't understand the point being made here.
+Reviewer_2	Author	1	4	0	2	"""sequester the normal expression"" is nonsensical."
+Reviewer_2	Author	1	4	0	2	Please clarify and rephrase.
+					0	The authors addressed some of the suggestions made.
+					0	However,
+Reviewer_1	Author	3	1	3	4	Comments #1 (gene expression assay) and #3 (proper discussion on RNA-Seq data) aren't properly addressed.
+					0	Genes 2022, 13, x. https://doi.org/10.3390/xxxxx www.mdpi.com/journal/genes Article 1 Blocking IbmiR319 impacts plant architecture and reduces 2 drought tolerance in sweet potato 3 Lei Ren 1, 2, #, Tingting Zhang 1, 2, #, Haixia Wu 1, 2, Xinyu Ge 1, 2, Huihui Wan 1, 2, Shengyong Chen 4, Zongyun Li 1, 2 *, 4 Daifu Ma 3 *, Aimin Wang 1, 2 * 5 1 Institute of Integrative Plant Biology, School of Life Science, Jiangsu Normal University, Xuzhou 221116, 6 Jiangsu Province, People’s Republic of China 7 2 Jiangsu Key Laboratory of Phylogenomics & Comparative Genomics, School of Life Science, Jiangsu Nor- 8 mal University, Xuzhou 221116, Jiangsu Province, People’s Republic of China 9 3 Xuzhou Institute of Agricultural Sciences in Jiangsu Xuhuai District, Key Laboratory for Biology and Ge- 10 netic Breeding of Sweetpotato (Xuzhou), Ministry of Agriculture/Jiangsu Xuzhou Sweetpotato Research 11 Center, 221131, People's Republic of China 12 4 Zhanjiang Academy of Agricultural Sciences, Zhanjiang Guangdong 524094, People's Republic of China 13 # These authors contributed equally to this paper 14 * Correspondence: aiminwang@jsnu.edu.cn (A.W.
+					0	), daifuma@163.com (D.M.
+					0	), zongyunli@jsnu.edu.cn (Z.L.
+					0	); 15 Tel.
+					0	: +86 516 83400033 (A.W.
+					0	), +86 516 82189200 (D.M.
+					0	), +86 516 83400033 (Z.L.)
+					0	16 Abstract: MicroRNA319 (miR319) plays a key role in plant growth, development, and multiple re- 17 sistance by repressing the expression of targeted TEOSINTE BRANCHED/CYCLOIDEA/PCF (TCP) 18 genes.
+					0	Two members, IbmiR319a and IbmiR319c, were discovered in the miR319 gene family in sweet 19 potato (Ipomoea batatas [L.] Lam).
+					0	Here, we focused on the biological function and potential molec- 20 ular mechanism of the response of IbmiR319a to drought stress in sweet potato.
+					0	Blocking IbmiR319a 21 in transgenic sweet potato (MIM319) resulted in a slim and tender phenotype and greater sensitivity 22 to drought stress.
+					0	Microscopic observations revealed that blocking IbmiR319a decreased the cell 23 width and increased stomatal distribution in the adaxial leaf epidermis, and also increased the in- 24 tercellular space in the leaf and petiole.
+					0	We also found that the lignin content was reduced, which 25 led to increased brittleness in MIM319.
+					0	Quantitative real-time PCR showed that the expression lev- 26 els of key genes in the lignin biosynthesis pathway were much lower in the MIM319 lines than in 27 the wild type.
+					0	Ectopic expression of IbmiR319a-targeted genes IbTCP11 and IbTCP17 in Arabidopsis 28 resulted in similar phenotypes as MIM319.
+					0	We also showed that the expression of IbTCP11 and 29 IbTCP17 was largely induced by drought stress.
+					0	Transcriptome analysis indicated that cell growth- 30 related pathways, such as plant hormonal signaling, were significantly downregulated with the 31 blocking of IbmiR319a.
+					0	Taken together, our findings suggest that IbmiR319a affects plant architecture 32 by targeting IbTCP11/17 to control the response to drought stress in sweet potato.
+					0	33 Keywords: sweet potato; microRNA319; TCP transcription factor; drought stress.
+					0	34 35 1.
+					0	Introduction 36 Drought is a major environmental factor causing abiotic stress (Pearce and RS 2001, 37 Xie, Wang et al.
+					0	2017, Meng, Li et al.
+					0	2018).
+					0	Severe drought restricts crop growth and sig- 38 nificantly reduces yield worldwide (Burke, Lobell et al.
+					0	2009), (Hu and Xiong 2014).
+					0	It is 39 therefore essential that crops with drought tolerance traits are produced.
+					0	Generally, the 40 responses of plants to abiotic stress are similar, especially in the first phase—a rapid, os- 41 motic phase that inhibits shoot growth (Zhou, Li et al.
+					0	2014).
+					0	At the physiological level, 42 the symptoms of drought damage include wilting, growth retardation through reduced 43 photosynthetic capacity (especially the lost function of PSII) (Lin, Chiang et al.
+					0	2011), dis- 44 coloration, abnormal ripening, and so on (Sato, Murakami et al.
+					0	2001).
+					0	45 Citation: Lastname, F.; Lastname, F.; Lastname, F. Title.
+					0	Genes 2022, 13, x. https://doi.org/10.3390/xxxxx Academic Editor: Firstname Last- name Received: date Accepted: date Published: date Publisher’s Note: MDPI stays neu- tral with regard to jurisdictional claims in published maps and institu- tional affiliations.
+					0	Copyright:
+					0	Response to Reviewer 1 Comments Point 1: The authors look at the expression of IbTCP11/17 (targets of miR319) from lines 418-424.
+					0	Here authors capture the early response to PEG compared to the drought response (water withdrawal) assessed earlier.
+					0	To have a meaningful comparison, the authors need to show the expression level of these two genes in the drought assay (Lines 400-417).
+					0	As the authors briefly mentioned, PEG stress is more severe than water withdrawal, so it will not give a solid verification provided there are two variables, inducer, and timing.
+					0	In our experience, we observed completely different responses when we tried to compare PEG, air drying, and water withdrawal.
+					0	This is essential given that no temporal expression baseline is established for IbTCP11/17 under water withdrawal stress and the presence of other regulatory mechanisms of IbTCP11/17.
+					0	Response 1:
+Author	Reviewer_1	2	1	1	1	Thanks for your good suggestion and we have improved it.
+					0	Point 2: It is interesting to see that only MDA content increases in response to drought.
+					0	The possible mechanism/reason should be included in the discussion.
+					0	Response 2:
+Author	Reviewer_1	2	2	2	1	Thanks for your good suggestion and we have added the possible reason in the discussion.
+					0	Point 3: The discussion needs to be further expanded.
+					0	Esp.
+					0	RNA-Seq results need to be further discussed.
+					0	Response 3:
+Author	Reviewer_1	2	3	3	1	Thank you for your positive and constructive suggestions and we have improved it in our revised manuscript.
+					0	Point 4: There should be a summary (concluding statement at the end).
+					0	This manuscript ends very abruptly.
+					0	Response 4:
+Author	Reviewer_1	2	4	4	1	Thanks for your good suggestions on this point.
+Author	Reviewer_1	2	4	4	1	In our revised manuscript, we have made corresponding modifications to summary our work.
+					0	2 1
+					0	"Response to Reviewer 2 Comments Point 1: Pg 1 line 45: the wording ""and so on"" is awkward and imprecise."
+					0	Please rephrase and indicate what other processes are being referred to.
+					0	Response 1:
+Author	Reviewer_2	2	5	1	1	Thanks for your good suggestion.
+Author	Reviewer_2	2	5	1	1	We removed “and so on” in our revised manuscript.
+					0	Point 2: Pg 2 line 67: don't assume that everyone reading the manuscript are aware of miRNA roles in plant stress physiology.
+					0	Response 2:
+Author	Reviewer_2	2	6	2	1	Thanks for your reminding.
+Author	Reviewer_2	2	6	2	1	We modified “As we all know” into “More and more research reveals that”.
+					0	Point 3: Pg 3 Plasmid and sweet potato genetic transformation section: Include relevant protocols instead of just referring to another manuscript.
+					0	Citing the original source is required but so are details needed to reproduce and evaluate the soundness of the manuscript.
+					0	Response 3:
+Author	Reviewer_2	2	7	3	1	It is really true as you mention that the details of methods is needed.
+Author	Reviewer_2	2	7	3	1	But considering that this method is also expressed in thus way in our previous articles (Ren L, et al (2021) Genome-Wide Identification of TCP Transcription Factors Family in Sweet Potato Reveals Significant Roles of miR319-Targeted TCPs in Leaf Anatomical Morphology.
+Author	Reviewer_2	2	7	3	1	Front.
+Author	Reviewer_2	2	7	3	1	Plant Sci.
+Author	Reviewer_2	2	7	3	1	12: 686698. doi: 10.3389/fpls.2021.686698), we just cite the original source here.
+					0	Point 4: Pg 6 line 239: I don't understand the point being made here.
+					0	"""sequester the normal expression"" is nonsensical."
+					0	Please clarify and rephrase.
+					0	Response 4:
+Author	Reviewer_2	2	8	4	1	Thanks for your question Target mimicry is a common method to study the function of miRNA.
+Author	Reviewer_2	2	8	4	1	There is a non-coding protein gene IPS in Arabidopsis, and its transcription RNA can specifically bind to miRNA through sequence complementarity, but it forms incomplete complementary bubble structure at the cleavage site of miRNA, that is, miRNA cannot cleavage IPS RNA, thus inhibiting the degradation of miRNA to its target gene mRNA.
+Author	Reviewer_2	2	8	4	1	IPS gene is equivalent to the target mimicry.
+Author	Reviewer_2	2	8	4	1	(Franco-Zorrilla et al., 2007) 2 1

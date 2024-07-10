@@ -1,0 +1,150 @@
+side	opponent	round	number	attacks	ann	text
+					0	Author Response 1-
+Reviewer_1	Author	1	1	0	2	My main issue is with the way the results are presented.
+Reviewer_1	Author	1	1	0	2	The authors claim that they observed statistical differences between case and reference groups yet they do not preform a statistical test, nor give any p-value.
+Reviewer_1	Author	1	1	0	2	Even if they performed a test, important questions remain on the selection of the reference.
+Reviewer_1	Author	1	1	0	2	The ancestry of HapMap is not latino so therefore any test between cases and references will be confounded by ancestry.
+Reviewer_1	Author	1	1	0	2	The PCA they show is probably capturing those differences instead of real differences given by disease status and, by the way, I question the usefulness of this PCA.
+Reviewer_1	Author	1	1	0	2	My suggestion is to offer a better background for these results by trying to answer two main questions: 1)
+Reviewer_1	Author	1	2	0	2	is the deletion burden observed really exceptional in a population sample of similar ancestry?
+Reviewer_1	Author	1	2	0	2	To answer this question, I would refer to the 1000 genomes data where there are Mexicans, Colombians, Puerto Ricans and Peruvians.
+Reviewer_1	Author	1	2	0	2	There must be available CNV estimations for these ancestries.
+Reviewer_1	Author	1	2	0	2	If you find good estimates then perhaps a statistical tests with those as your control group would be more believable.
+					0	2)
+Reviewer_1	Author	1	3	0	2	is the deletion burden observed similar to those for other cancers?
+Reviewer_1	Author	1	3	0	2	Then again there must be estimates of deletion burden for different types of cancers from TCGA studies.
+Reviewer_1	Author	1	3	0	2	Please cite those.
+					0	[Response]
+Author	Reviewer_1	2	1	1	1	thank you for reviewer’s comments, we made changes accordingly.
+Author	Reviewer_1	2	1	1	1	We added statistical analysis for CNA association between case and reference groups (please see page 5).
+					0	1)
+Author	Reviewer_1	2	2	2	1	For the questions of “is the deletion burden observed really exceptional in a population sample of similar ancestry”, we agree with the reviewer’s comment.
+Author	Reviewer_1	2	2	2	1	We did the analysis a couple of years ago, at that time, there is no CNV data from the 1000 genome for Mexicans, Colombians, Puerto Ricans and Peruvians, however, there is data for the admixed populations, thus we used this for this study.
+Author	Reviewer_1	2	2	2	1	There might be some difficulty to do more analysis since our statistician and bioinformatics person left the department and we are in the process of hiring somebody for this role.
+Author	Reviewer_1	2	2	2	1	At the same, we continue in recruiting more subjects with cervical cancers to further confirm our findings.
+Author	Reviewer_1	2	2	2	1	Moreover, in the discussion, we have list this as one of the limitations in page 8 “2) there might be bias of the CNA identified in cervical cancer for the Mexican Americans since we used the 1000 Genome admixed populations, not Mexican Americans, thus, we current recruit more subjects with cervical cancer from the same population and plan to validate the findings in more samples;” 2)
+Author	Reviewer_1	2	3	3	1	For the question of “is the deletion burden observed similar to those for other cancers?
+Author	Reviewer_1	2	3	3	1	Then again there must be estimates of deletion burden for different types of cancers from TCGA studies”, our response is that we did search of CNAs observed in other cancer based on TCGA studies, although there are limited studies, we addressed this issue in the discussion section (page 8) “…Using the TCGA data, a recent study identified nine regions of deletion that were unique to ER+ post menopause tumors in patients with breast cancer, including deletion in 7p22.3 where our newly identified deletion in cases only located and it contains known tumor suppressor gene”.
+					0	2-
+Reviewer_1	Author	1	4	0	2	The only real statistical inference they show is on the pathway analysis yet no mention is made on the abstract.
+Reviewer_1	Author	1	4	0	2	I suggest bringing this result up to the surface and making it more relevant even from the abstract.
+Reviewer_1	Author	1	4	0	2	You can refer to it as methodological alternative, in the introduction, for the limited number of cases and lack of control group; issues that must be tackle in a larger study.
+					0	[Response] great suggestions, thank the reviewer.
+Author	Reviewer_1	2	4	4	1	Now we added a sentence of “Moreover, the pathway analysis revealed endometrial cancer and estrogen signaling pathways associated with this cancer (P < 0.05) using the KEGG” in the abstract as the reviewer’s suggestion.
+Author	Reviewer_1	2	4	4	1	In addition, in the introduction section, we added “We are aware of the limited number of cases and lack of control group.
+Author	Reviewer_1	2	4	4	1	Thus future a large study with a control sample and more cases as methodological alternative is needed”.
+Author	Reviewer_1	2	4	4	1	(Please see page 3) Minor comments: 1-
+Reviewer_1	Author	1	5	0	2	I missed a definition of the sample's ancestry.
+Reviewer_1	Author	1	5	0	2	In the title it refers to Mexican American but in the rest of the manuscript it is treated as a latino population.
+Reviewer_1	Author	1	5	0	2	Note that there are differences in admixture in the latino population depending of their country of origin.
+Reviewer_1	Author	1	5	0	2	Studies on the 1000 genomes show differences between Puerto Ricans, Colombians, Mexicans and Peruvians.
+Reviewer_1	Author	1	5	0	2	Therefore, if the authors can state that their sample is essentially Mexican that would be more informative and precise.
+Reviewer_1	Author	1	5	0	2	I would then limit the use of latino.
+Reviewer_1	Author	1	5	0	2	However if the ancestry is only self reported as latino, then I would write latino in the title and mention the issue of genetic variability between latinos in the discussion.
+					0	[Response]
+Author	Reviewer_1	2	5	5	1	as the reviewer’s suggestion, we changed “Latino” to “Mexican American” in the text of the manuscript and table
+					0	 2-
+Reviewer_1	Author	1	6	0	2	Abstract Line 23: should read Latino Populations
+					0	[Response]
+Author	Reviewer_1	2	6	6	1	now we change “Latino population” to “Mexican American” as the reviewer’s suggestion
+					0	 3-
+Reviewer_1	Author	1	7	0	2	Figure 1: I cannot see the supposed deletions marked in green
+					0	[Response]
+Author	Reviewer_1	2	7	7	1	thank you for the comments.
+Author	Reviewer_1	2	7	7	1	We also realized this issue which is due to that the color green overlaps with the other colors, thus it cannot be distinguished, and we have tried different color combinations without help.
+Author	Reviewer_1	2	7	7	1	Now we made changes of the figure and legend.
+					0	4-
+Reviewer_1	Author	1	8	0	2	Table 2b: Please remove the % sign in some of the table cells, for instance in Reference (Deletion, 10-100kb).
+					0	[Response]
+Author	Reviewer_1	2	8	8	1	thanks, we removed the % sign in table cells in Table 2b
+					0	Author Response There comments are minor.
+Reviewer_2	Author	1	1	0	2	1) Line 34.
+Reviewer_2	Author	1	1	0	2	The authors need to make clear about “pre-, cancer (91.3%) groups”.
+Reviewer_2	Author	1	1	0	2	It is not clear if there is one or two groups but just one percentage.
+					0	[Response]
+Author	Reviewer_2	2	9	1	1	thank you, reviewer, this is a typo, we corrected it.
+Reviewer_2	Author	1	2	0	2	2) Line 40.
+Reviewer_2	Author	1	2	0	2	The authors may add up to 6 key words.
+					0	[Response]
+Author	Reviewer_2	2	10	2	1	yes, we added up to six key words now
+Reviewer_2	Author	1	3	0	2	3) Lines 196-197.
+					0	It is not clear which statistical method is used for the significant results in Table 2.
+Reviewer_2	Author	1	6	0	2	Please give more details.
+					0	[Response]
+Author	Reviewer_2	2	11	3	1	we made changes based on the reviewer’s suggestion, please see statistical method in page 5 and result in page 6
+Reviewer_2	Author	1	4	0	2	4) Line 199.
+Reviewer_2	Author	1	4	0	2	The authors need to define “pre-cancer” in materials.
+					0	[Response]
+Author	Reviewer_2	2	12	4	1	thanks, we provided definition for pre-cancer in materials, which include patients with CIN I, II, and III.
+Reviewer_2	Author	1	5	0	2	5) Lines 202-206.
+Reviewer_2	Author	1	5	0	2	The authors mentioned the results by using PCA but PCA was not found in methods.
+Reviewer_2	Author	1	5	0	2	The authors need to give more details about how to use PCA in statistical methods.
+					0	[Response]
+Reviewer_2	Author	1	6	0	2	6) Lines 214-216.
+Reviewer_2	Author	1	6	0	2	It is not clear which statistical method is used for the significant results.
+					0	Please give more details.
+					0	[Response]
+Author	Reviewer_2	2	13	6	1	thanks, we added “…using statistical analyses described in the method section”
+Reviewer_2	Author	1	7	0	2	7) Lines 238-242 are replicated in discussion lines 376-380.
+Reviewer_2	Author	1	7	0	2	The authors may need to delete the part in lines 238-242.
+					0	[Response]
+Author	Reviewer_2	2	14	7	1	thanks, the reviewer.
+Author	Reviewer_2	2	14	7	1	Now we removed redundancy statement.
+					0	Tobari and colleagues studied the CNV burden in patients with cervical cancer from Mexican American ancestry.
+					0	They found that the burden of deletions in these patients is much higher than expected, as compared with CNV burden in HapMap populations.
+					0	They observed that their sample is enriched in CNV variants in pathways relevant to the phenotype like endometrial cancer and estrogen signaling pathway.
+					0	I think that these finding are indeed intriguing and deserve to be pursued in a larger study.
+					0	However, I think that the manuscript needs some substantial revisions before it can be published.
+					0	Major comments: 1-My main issue is with the way the results are presented.
+					0	The authors claim that they observed statistical differences between case and reference groups yet they do not preform a statistical test, nor give any p-value.
+					0	Even if they performed a test, important questions remain on the selection of the reference.
+					0	The ancestry of HapMap is not latino so therefore any test between cases and references will be confounded by ancestry.
+					0	The PCA they show is probably capturing those differences instead of real differences given by disease status and, by the way, I question the usefulness of this PCA.
+					0	My suggestion is to offer a better background for these results by trying to answer two main questions: 1) is the deletion burden observed really exceptional in a population sample of similar ancestry?
+					0	To answer this question, I would refer to the 1000 genomes data where there are Mexicans, Colombians, Puerto Ricans and Peruvians.
+					0	There must be available CNV estimations for these ancestries.
+					0	If you find good estimates then perhaps a statistical tests with those as your control group would be more believable.
+					0	2) is the deletion burden observed similar to those for other cancers?
+					0	Then again there must be estimates of deletion burden for different types of cancers from TCGA studies.
+					0	Please cite those.
+					0	2- The only real statistical inference they show is on the pathway analysis yet no mention is made on the abstract.
+					0	I suggest bringing this result up to the surface and making it more relevant even from the abstract.
+					0	You can refer to it as methodological alternative, in the introduction, for the limited number of cases and lack of control group; issues that must be tackle in a larger study.
+					0	Minor comments: 1-I missed a definition of the sample's ancestry.
+					0	In the title it refers to Mexican American but in the rest of the manuscript it is treated as a latino population.
+					0	Note that there are differences in admixture in the latino population depending of their country of origin.
+					0	Studies on the 1000 genomes show differences between Puerto Ricans, Colombians, Mexicans and Peruvians.
+					0	Therefore, if the authors can state that their sample is essentially Mexican that would be more informative and precise.
+					0	I would then limit the use of latino.
+					0	However if the ancestry is only self reported as latino, then I would write latino in the title and mention the issue of genetic variability between latinos in the discussion.
+					0	2-Abstract Line 23: should read Latino Populations 3-Figure 1: I cannot see the supposed deletions marked in green 4-Table 2b: Please remove the % sign in some of the table cells, for instance in Reference (Deletion, 10-100kb).
+					0	A brief summary The authors conducted a pilot study of genome wide CNA analysis using 2.5 million markers in four diagnostic groups: reference, low grade dysplasia, high grade dysplasia, and invasive carcinoma.
+					0	They found statistically significant difference of CNA burden between case and reference groups in different sizes of CNAs that included deletions and amplifications, e.g., a statistically significant difference of >100 kb deletions were observed between the reference and pre-cancer and cancer groups.
+					0	Recurrent aberrations of 98 CNA regions were also identified in cases only.
+					0	A total of 32 CNA regions identified contained tumor suppressor genes and oncogenes.
+					0	Broad comments This is the first genome-wide copy number analysis of CNAs identified for cervical cancer in the U.S. Latino population.
+					0	The manuscript is well-written.
+					0	The experimental design is adequate and the statistical methods are updated.
+					0	The results are novel and provide insight into how multiple CNAs might contribute to cervical cancer development.
+					0	No major issues were found.
+					0	The authors have acknowledged the limitation of this study, for example, the small sample size.
+					0	Therefore, the authors pointed out that validation and confirmation of the results in a large sample size will be needed in the future.
+					0	Specific comments There comments are minor.
+					0	1) Line 34.
+					0	The authors need to make clear about “pre-, cancer (91.3%) groups”.
+					0	It is not clear if there is one or two groups but just one percentage.
+					0	2) Line 40.
+					0	The authors may add up to 6 key words.
+					0	3) Lines 196-197.
+Reviewer_2	Author	1	3	0	2	It is not clear which statistical method is used for the significant results in Table 2.Please give more details.
+					0	4) Line 199.
+					0	The authors need to define “pre-cancer” in materials.
+					0	5) Lines 202-206.
+					0	The authors mentioned the results by using PCA but PCA was not found in methods.
+					0	The authors need to give more details about how to use PCA in statistical methods.
+					0	6) Lines 214-216.
+					0	It is not clear which statistical method is used for the significant results.
+					0	Please give more details.
+					0	7) Lines 238-242 are replicated in discussion lines 376-380.
+					0	The authors may need to delete the part in lines 238-242.
+					0	I have no further comments

@@ -1,0 +1,35 @@
+ISSN 2075-1729 www.mdpi.com/journal/life Peer-Review Record: Functional Characterization of the FNT Family Nitrite Transporter of Marine Picocyanobacteria Shin-ichi Maeda, Akio Murakami, Hisashi Ito, Ayumi Tanaka and Tatsuo Omata Life 2015, 5, 432-446, doi:10.3390/life5010432 Reviewer 1: Anonymous Reviewer 2: Anonymous Academic Editors: John C. Meeks and Robert Haselkorn (Guest Editor of Special Issue “Cyanobacteria: Ecology, Physiology and Genetics”) Received: 1 December 2014 / Accepted: 29 January 2015 / Published: 9 February 2015 First Round of Evaluation Round 1: and Author Response The manuscript by Maeda et al.
+entitled “Functional Characterization of the FNT Family Nitrite Transporter of Marine Picocyanobacteria” is a very interesting piece of work since it shows the functional characterization as nitrite transporter of several nitM proteins from different picocyanobacteria, showing also fruitful comparisons of their sequences that lead to characterize the c-terminal region of a-cyanobacterial NitM proteins as an inhibitory domain of nitrite transport.
+In Figure 3, formate formula should be better symbolized as HCOO- instead of COOH- as indicated.
+Response: p. 7, Figure 3, formate formula has been changed to “HCOO-” from “COOH-”.
+Round 1: and Author Response I found this research interesting, relevant and novel.
+Functional annotation of genes through protein expression is highly needed in our time of exponentially growing sequence data.
+The characterized here gene, nitM, can serve as a molecular marker in environmental studies.
+It was particularly interesting to see the differences in protein functionality among the strains of marine Synechococcus.
+Such differences can be explained by habitat adaption of each strain.
+CC9605 is an open ocean strain and does not encounter high nitrite concentrations, while CC9311 is a coastal strain that deals with a range of nitrate/nitrite availability.
+A few minor comments are listed below.
+R2 This article will be of interest to general microbiologists, specialists in cyanobacteria, and especially researchers that conduct environmental research and also genome annotations.
+ Lines 59–60: Instead of links, a figure (may be included in supplementary document) will be more helpful.
+The links lead to a non-English website, and also they may become outdated in year or two.
+Response: p. 2, Lines 22–24; the data at the website cannot be posted as a supplementary figure because of copyright issues.
+I will ask them to revise the figure using English.
+ Line 60: Link to NO2− concentrations shows temperature profiles.
+Response: p. 2, Line 24; I confirmed that the following website link to the data of nitrite concentration is correct.
+“http://www.data.jma.go.jp/gmd/kaiyou/db/vessel_obs/hq/2006spr/137e/index_line.php?id=no2”  Line 118: Was the analysis done on all FNT-proteins available at NCBI database?
+Please clarify.
+Response: p. 4, line 16; Six NitM proteins registered recently were added to Figure 1 and Figure 5.
+ Line 40: Line 120: From the tree as it is, one can see that NitM from β-cyanobacteria form a distinct clade.
+However, NitM from α‐cyanobacteria are not grouped in one clade.
+It is possible that another outgroup sequence or different methods for alignment and tree construction will help.
+Line 122: What methods were used for creating alignment and phylogenetic tree (for example, neighbor-joining)?
+Response: p5, Figure 1; Figure 1 was reproduced by using the UPGMA clustering method instead of the NJ clustering method according to the suggestion of the reviewer, then, NitM from α-cyanobacteria and β-cyanobacteria form clearly distinct groups.
+“using the UPGMA (Unweighted Pair Group Method with Arithmetic mean) clustering method of ClustalX.” was added in the legend of Figure 1.
+ Was formate inhibition test also done on strains with nitM from CC9311, CC9605 and MIT9313?
+Response: Formate inhibition experiments of the NitM from CC9311, CC9605 and MIT9313 have not been carried out yet.
+ It would be especially exciting to see the uptake of nitrite at environmentally relevant concentrations (less than 50 nM)?
+Considering the genetic constructs available, I was wondering if the authors have attempted such experiments and what were the results.
+Response: We will consider the nitrite uptake experiments at environmentally relevant concentrations of nitrite (~50 nM) in the future.
+R3 Other changes (1) p. 1 line 26, “α-cyanobacteira” has been changed to “α-cyanobacteria”.
+(2) p. 2 lines 2–3, “α-cyanobacteiral” has been changed to “α-cyanobacterial”.
+(3) p. 5 line 5, “abbreviation” has been changed to “abbreviations”.

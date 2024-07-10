@@ -1,0 +1,86 @@
+Author Response Please see the attachment Author Response File: Author Response.pdf
+Author Response Please see the attachment Author Response File: Author Response.pdf
+Author Response Please see the attachment Author Response File: Author Response.docx
+This is a well-designed and executed survey of university cigarette smoking in a country with above-average poverty.
+Results were consistent with previous studies of similar target populations.
+Recommendations did not go beyond the data and human subjects protections were adequate.
+Weaknesses: Two weaknesses stand out.
+First is the omission of any items referring to experience/use of eCigarette/vaping.
+Thus it is unclear if students may be nicotine addicting by alternative means to tobacco smoking.
+Second it a lack of analysis of second-hand smoke exposure.
+Specifically, whether exposure increases risk of smoking.
+Correlations do not confirm causality.
+It is likely that students who smoke actively seek roommates who smoke, and students who do not smoke seek roommates who do not smoke.
+Thus, exposure alone offers little information about the role of second-hand smoke and "contagion."
+Finally, I found it disturbing that medical school faculty tolerate student smoking at all.
+This is contrary to accepted public health policy internationally.
+Healthcare providers who smoke provide a bad example to their patients - giving the impression that smoking is not dangerous.
+The link between smoking and reduced life expectancy has been shown to be causal.
+This result calls into question the university's curriculum addressing the very many diseases associated with tobacco smoking - most of which reduce life expectancy.
+This is the opposite of health promotion one expects from all healthcare providers - especially physicians.
+The study aim should be more precise "The aim of this study was...." Study sample - please provide more precise data on population (faculties at the university and its share in the total sample of recruited subjects) Please attach an English version of the questionnaire as supplementary material or precisely describe questions that were used to assess the smoking status The results section is too extensive - please avoid describing all the results in the text.
+Please provide the most important results in the text, and the rest of them are present in Tables.
+In table 5 please provide thr number of subjects (n=.....) Tables 6 and 7 are unclear and should be more precise (Especially confidence intervals) Please provide practical implications of this study Please provide a conclusion based on obtained findings and please avoid overwhelming conclusions
+Thank you for addressing all the comments.
+The manuscript was professionaly revised.
+Response to Reviewer 1 I would like to thank Reviewer 1 for very detailed and useful comments which will definitely improve our manuscript.
+Comment 1.
+Is the omission of any items referring to experience/use of eCigarette/vaping.
+Thus it is unclear if students may be nicotine addicting by alternative means to tobacco smoking.
+Response 1.
+There was a question related to electronic devices (eCigarettes) but we missed to add this data.
+Only 0.5% of participants used eCigaretes or similar devices.
+We added this sentence in the section Results.
+Comment 2.
+Lack of analysis of second-hand smoke exposure.
+Specifically, whether exposure increases risk of smoking.
+Correlations do not confirm causality.
+It is likely that students who smoke actively seek roommates who smoke, and students who do not smoke seek roommates who do not smoke.
+Thus, exposure alone offers little information about the role of second-hand smoke and "contagion."
+Response 2.
+It has been showed that higher exposure to secondhand smoking increased the risk of smoking.
+The multivariable logistic regression analysis showed that variables such as secondhand smoke at home, secondhand smoke at faculty, and secondhand smoke at public spaces can determine whether students smoke or not.
+It is also obvious that non-smokers avoid being in closed smoking places, but this was not subject of this study.
+Finally, I found it disturbing that medical school faculty tolerate student smoking at all.
+This is contrary to accepted public health policy internationally.
+Healthcare providers who smoke provide a bad example to their patients - giving the impression that smoking is not dangerous.
+The link between smoking and reduced life expectancy has been shown to be causal.
+This result calls into question the university's curriculum addressing the very many diseases associated with tobacco smoking - most of which reduce life expectancy.
+This is the opposite of health promotion one expects from all healthcare providers - especially physicians.
+Your comment is very logical.
+Cigarette smoking, sedentary life-style and obesity are the major public health concerns, particularly in the Balkan region.
+This was a reason that we have provided some additional comments and recommendations for further actions at the very end of the Discussion section.
+Response to Reviewer 2 I would like to thank Reviewer 2 for very detailed and useful comments which will definitely improve our manuscript.
+Comment 1.
+The study aim should be more precise "The aim of this study was...." Response 1.
+The “Aim of the study” has been changed completely.
+Comment 2.
+Study sample - please provide more precise data on population (faculties at the university and its share in the total sample of recruited subjects) Response 2.
+To reply on this comment and to provide readers with more precise data we made some changes in two sections.
+In the subsection “Sample size” of the section “Materials and methods” we emphasized that “students from 16 faculties of the University of Banja Luka were participants in our study”.
+In section “Results” we have added a new sentence that “Majority of study participants were medical students (41.4%) and the rest were students from other faculties (58.6%).” Comment 3.
+Please attach an English version of the questionnaire as supplementary material or precisely describe questions that were used to assess the smoking status.
+Response 3.
+This has been already presented in Table 2. and explained by asterisks (**) below the table: * Students who smoked at least one day in 30 days prior to the survey.
+** Students who smoke every day and desired to smoke always or sometimes upon waking up, and where smoking time after waking up was within one day.
+If necessary the English version of the Questionnaire could be provided as Supplementary material.
+Comment 4.
+The results section is too extensive - please avoid describing all the results in the text.
+Please provide the most important results in the text, and the rest of them are present in Tables.
+Response 4.
+We have made some changes in the section “Results” to avoid data duplication.
+Comment 5.
+In Table 5 please provide thr number of subjects (n=.....) Response 5.
+The number of subjects (N) has been added.
+Comments 6.
+Tables 6 and 7 are unclear and should be more precise (Especially confidence intervals) Response 6.
+The contents of Table 6 and Table 7 have been rearranged and comprised into one table which is now Table 6.
+Comment 7.
+Please provide practical implications of this study Response 7.
+In the last paragraph of the section “Discussion” we have proposed some practical implications and recommendations for further actions.
+Comment 8.
+Please provide a conclusion based on obtained findings and please avoid overwhelming conclusions Response 8.
+The section “Conclusion” has been completely revised and rearranged according to the reviewer’s comment.
+Medicina 2021, 57, x FOR PEER REVIEW 12 of 12 Article Prevalence of cigarette smoking and influence of associated factors among students of the University of Banja Luka: a cross-sectional study Ivana Todorović1,3, Feng Cheng1, Stela Stojisavljević2, Sonja Marinković3,4, Stefan Kremenović3, Pane Savić3, Ana Golić-Jelić5, Nataša Stojaković6, Svjetlana Stoisavljević-Šatara6, Rajko Igić7,8, Ranko Škrbić4,6,* Citation: Lastname, F.; Lastname, F.; Lastname, F. Title.
+Medicina 2021, 57, x. https://doi.org/10.3390/xxxxx Academic Editor: Firstname Lastname Received: date Accepted: date Published: date Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Copyright:

@@ -1,0 +1,180 @@
+side	opponent	round	number	attacks	ann	text
+					0	Author Response Reply to Reviewer#1 Introduction
+Reviewer_1	Author	1	1	0	2	"Line 31 – ""(4-10 Hz) induced…"" this is not theta range; please correct."
+Author	Reviewer_1	2	1	1	1	Thanks for pointing out the error in the range.
+Author	Reviewer_1	2	1	1	1	Correction made in the text.
+Reviewer_1	Author	1	2	0	2	Line 32 – add the reference.
+Author	Reviewer_1	2	2	2	1	Reference added.
+					0	Methods Participants
+Reviewer_1	Author	1	3	0	2	Did the authors take note of the menstrual cycle of the female participants?
+Author	Reviewer_1	2	3	3	1	No, we did not.
+Author	Reviewer_1	2	3	3	1	We have added a statement in the study limitations to address the issue.
+Reviewer_1	Author	1	4	0	2	Although the differences in handedness would not profoundly affect the overall results, can the author check if there were significant differences in stimulation intensity (AMT and RMT) in right and left-handed participants?
+Reviewer_1	Author	1	4	0	2	Left-handed individuals often have a high threshold on the left motor cortex.
+Author	Reviewer_1	2	4	4	1	The three left-handed participants exhibited rMT and aMt typical of young adults of their age (Right, n=16, mean rMT 42%, aMT, 32%, see below for Left).
+Author	Reviewer_1	2	4	4	1	We did not perform bilateral testing, so we cannot comment on hemispheric differences in excitability.
+Author	Reviewer_1	2	4	4	1	However, our own investigation on the matter showed that Left-handers had higher rMT on the right hemisphere and, in fact, those individuals exhibited comparable rMT on the left hemisphere to that of mixed and right-handed individuals ( See Figure 3 in Davidson & Tremblay 2013) Subject Left-handed rMT aMT KY13 56% 46% KY8 36% 34% KY19 54% 38% Davidson, T., and F. Tremblay.
+Author	Reviewer_1	2	4	4	1	"""Hemispheric Differences in Corticospinal Excitability and in Transcallosal Inhibition in Relation to Degree of Handedness."""
+Author	Reviewer_1	2	4	4	1	PloS One 8, no.
+Author	Reviewer_1	2	4	4	1	7 (2013): e70286.
+Reviewer_1	Author	1	5	0	2	Line 89-90: edit this part.
+Author	Reviewer_1	2	5	5	1	The statement has been revised.
+Author	Reviewer_1	2	5	5	1	We think it is important for readers to know that participants wore masks during testing because of the pandemic.
+Reviewer_1	Author	1	6	0	2	Line 145 - Edit the subheading
+Author	Reviewer_2	2	20	7	2	Correction made.
+					0	Results
+Reviewer_1	Author	1	7	0	2	Are there differences in stimulation intensities taken from the two devices (Magstim Rapid and BiStim2)?
+Author	Reviewer_1	2	7	7	1	Yes, there are some differences given the difference in pulse configuration and coil output, However, rMT and aMT with the two stimulators were highly correlated at the individual level (r2=0.55).
+Reviewer_1	Author	1	8	0	2	Can you report the F value and effect size?
+Author	Reviewer_1	2	8	8	1	We have revised the statistical analysis given the Reviewer’s comment below.
+Author	Reviewer_1	2	8	8	1	Thanks to the Reviewer, we found out that there was a duplicate value in the dataset for MEP amplitude (hence the issue with 20 subjects in Figure 3).
+Author	Reviewer_1	2	8	8	1	The error has been corrected and the analysis re
+Author	Reviewer_2	2	21	8	3	done
+					0	.
+Author	Reviewer_1	2	8	8	1	Note that the correction did not change the results or the conclusions.
+Author	Reviewer_1	2	8	8	1	We now report for the ANOVA’s the F value and the partial eta squared to indicate the size of the intervention.
+Reviewer_1	Author	1	8	0	2	Would it be interesting if the present data can give the same effect size (0.71) as those reported by Chung et al.
+Reviewer_1	Author	1	8	0	2	(2016)?
+Author	Reviewer_1	2	9	8	1	Indeed, it would be interesting.
+Author	Reviewer_1	2	9	8	1	The size of the intervention for variations in MEP amplitude, as reflected in eta squared, is 0.19, which appears smaller than that reported by Chung et al.
+Author	Reviewer_1	2	9	8	1	However, such an effect size could hardly be compared with the “standardized mean difference’ computed by Chung et al.
+Author	Reviewer_1	2	9	8	1	The SMD is based on the assumption that differences in standard deviations among studies reflect differences in measurement scales and not real differences in variability among study participants (which is the case here)..
+Reviewer_1	Author	1	9	0	2	In line 209, the authors reported that “Of 21 participants, 19 (13 females) completed the protocol without any issues.
+Reviewer_1	Author	1	9	0	2	Two female participants had to be excluded….”.
+Reviewer_1	Author	1	9	0	2	However, looking at Figure 3, it is obvious that plotted data were from 20 participants.
+Reviewer_1	Author	1	9	0	2	Can the author correct this discrepancy?
+Author	Reviewer_1	2	10	9	1	Please see above our reply regarding F values.
+Reviewer_1	Author	1	10	0	2	Is the cut-off plus or minus 10 standard for the responder and non-responders?
+Reviewer_1	Author	1	10	0	2	Looking again at Figure 3, we can observe very high variability.
+Reviewer_1	Author	1	10	0	2	In my opinion, plus or minus 10% is arbitrary.
+Author	Reviewer_1	2	11	10	1	We agree it does seem arbitrary but this approach has been used by many other investigators (see Hinder et al or Perellon et al) to assess neuroplastic responses to rTMS.
+Author	Reviewer_1	2	11	10	1	In this respect, the ±10% cutoff provides a reasonable criterion to classify responders given the variability of responses to rTMS interventions.
+Author	Reviewer_1	2	11	10	1	Hinder, M. R., E. L. Goss, H. Fujiyama, A. J. Canty, M. I. Garry, J. Rodger, and J. J. Summers.
+Author	Reviewer_1	2	11	10	1	"""Inter- and Intra-Individual Variability Following Intermittent Theta Burst Stimulation: Implications for Rehabilitation and Recovery."""
+Author	Reviewer_1	2	11	10	1	Brain Stimulation 7, no.
+Author	Reviewer_1	2	11	10	1	3 (2014): 365-71.
+Author	Reviewer_1	2	11	10	1	Perellon-Alfonso, R., M. Kralik, I. Pileckyte, M. Princic, J. Bon, C. Matzhold, et al.
+Author	Reviewer_1	2	11	10	1	"""Similar Effect of Intermittent Theta Burst and Sham Stimulation on Corticospinal Excitability: A 5-Day Repeated Sessions Study."""
+Author	Reviewer_1	2	11	10	1	European Journal of Neuroscience 48, no.
+Author	Reviewer_1	2	11	10	1	4 (2018): 1990-2000.
+Reviewer_1	Author	1	11	0	2	Although we would assume that the figure on the left is always the letter “A” and the one on the right is “B”, for the sake of clarification, kindly add a letter legend on the figures.
+					0	Done Discussion
+Reviewer_1	Author	1	12	0	2	Line 402: in SIFC, one pulse is suprathreshold, and the other is subthreshold.
+Author	Reviewer_1	2	13	12	1	We have corrected the sentence to state that SICF is observed when two stimuli are given at or above threshold.
+					0	Author Response Reviewer #2 1.
+Reviewer_2	Author	1	1	0	2	Why did not compare to the sham stimulation group and 50 Hz/ 5 Hz standard iTBS protocol?
+Reviewer_2	Author	1	1	0	2	I think COVID-19 is not reason.
+Reviewer_2	Author	1	1	0	2	Do you think 30 Hz/6 Hz TBS protocol (intermittent mode) increased MEP amplitude as compared to 50 Hz/ 5 Hz standard iTBS?
+Reviewer_2	Author	1	1	0	2	What are the benefits of 30 Hz/6 Hz TBS protocol (intermittent mode) in comparison with 50 Hz/ 5 Hz standard iTBS?
+Author	Reviewer_2	2	14	1	1	We agree with the Reviewer that having a direct comparison with the 50 Hz protocol would have been ‘ideal’ but we have clearly stated the reasons as to why we did not perform such a comparison.
+Author	Reviewer_2	2	14	1	1	First, our primary goal was to describe the effects of a modified 30 Hz iTBS protocol and not to test the relative efficacy of 30 vs 50 Hz bursts.
+Author	Reviewer_2	2	14	1	1	Besides, as we have stated, there is already ample evidence of the effects of 50 Hz/5 Hz in the literature.
+Author	Reviewer_2	2	14	1	1	Second, as we have explained in the limitations, our study was performed in the context of a worldwide pandemic.
+Author	Reviewer_2	2	14	1	1	In this respect, we disagree with the reviewer.
+Author	Reviewer_2	2	14	1	1	The pandemic has and continues to have a major impact on our research activities.
+Author	Reviewer_2	2	14	1	1	Our lab is located in a geriatric hospital setting.
+Author	Reviewer_2	2	14	1	1	For this reason, we had to follow very strict rules regarding who was coming on the premises and how long they would stay.
+Author	Reviewer_2	2	14	1	1	We were allowed to recruit research participants only if they came for a short period and stayed in one room.
+Author	Reviewer_2	2	14	1	1	A comparison between 30 and 50 Hz protocols would have meant having participants come twice (on different days), exposing them each time to risks for COVID.
+Author	Reviewer_2	2	14	1	1	As for the benefits of the 30 Hz protocol, those are clearly stated in the discussion regarding the number of responders and the size of the facilitation.
+Reviewer_2	Author	1	2	0	2	Does the participants have a neurological disease or other diseases?
+Reviewer_2	Author	1	2	0	2	Please write in the manuscript.
+Author	Reviewer_2	2	15	2	1	We have added a sentence to clarify that participants were screened for health conditions.
+					0	3
+Reviewer_2	Author	1	3	0	2	The single-pulse TMS elicited 20 MEPs at baseline but at three specific time points after post-iTBS (i.e., 5-, 20- and 45-min) just elicited 15 MEPs respectively.
+Reviewer_2	Author	1	3	0	2	Why did not also test 20, 25 or 30 MEPs?
+Author	Reviewer_2	2	16	3	1	We collected more MEPS at baseline to account that variations in excitability are often larger when participants received their first series of TMS pulses (even if they have received some stimuli before collecting data to experience the sensation).
+Author	Reviewer_2	2	16	3	1	Thus, 20 MEPs were deemed adequate to get a reliable estimate of resting corticomotor excitability.
+Author	Reviewer_2	2	16	3	1	Along with the same reasoning, we collected 15 MEPs post iTBS since participants were now more familiar with the sensation elicited by TMS pulse and saved time.
+Author	Reviewer_2	2	16	3	1	As we have explained, we had constraints imposed on us by the local REB to limit the time participants were on-site.
+Author	Reviewer_2	2	16	3	1	The fact that we use 130% rMT for the test intensity also reduced inter-trial variability to provide reliable estimates of corticospinal excitability.
+Reviewer_2	Author	1	4	0	2	In figure 1, the rMT needs to be defined.
+					0	Done
+Reviewer_2	Author	1	5	0	2	In line 125, MT needs to be defined.
+Author	Reviewer_2	2	18	5	1	We have revised the sentence so that abbreviations are defined.
+Reviewer_2	Author	1	6	0	2	Please do not define aMT the second time in line 134.
+Author	Reviewer_2	4	3	3	4	Correction done.
+Reviewer_2	Author	1	7	0	2	In line 145, full stop marked an error.
+					0	Correction made.
+Reviewer_2	Author	1	8	0	2	In line 28, please define rTMS.
+					0	Done
+Reviewer_2	Author	1	9	0	2	How do you test the aMT and rMT?
+Reviewer_2	Author	1	10	0	4	Please give the detailed process.
+Author	Reviewer_2	2	22	9	1	We have provided more explanations in the text as to how we used the MTAS software to estimate MT.
+Reviewer_2	Author	1	10	0	2	How do you get the hotspot?
+					0	Please give the detailed process.
+Author	Reviewer_2	2	23	10	1	We have added more details as to how the hotspot was determined?
+Reviewer_2	Author	1	11	0	2	In lines 459 and 461, pay attention to the space between words.
+Author	Reviewer_2	2	24	11	1	Corrections were made to check for extra spaces.
+					0	Author Response
+Reviewer_2	Author	3	1	0	2	"In line 119, the capital ""a"" changes lower case."
+					0	Correction done Correction done
+Reviewer_2	Author	3	2	0	2	In line 226, notice the format of the comma.
+					0	Correction done Correction done
+Reviewer_2	Author	3	3	0	2	In line 253, where is the F value?
+					0	Correction done.
+Author	Reviewer_2	4	3	3	1	The F value has been added.
+					0	Correction done.
+					0	The F value has been added.
+Reviewer_2	Author	3	4	0	2	In line 282, the result showed r2 = 0.24, p = 0.03 but it is a difference in Fig.
+Reviewer_2	Author	3	4	0	2	5.
+Author	Reviewer_2	4	4	4	1	The coefficient of determination is for the regression analysis and indicates that Lat differences were significant predictors of MEP facilitation.
+Author	Reviewer_2	4	4	4	1	However, as we explained in the text, when participants were sorted into two groups (early and late I-waves), the difference between the two was not significant according to the Mann-Whitney U test.
+					0	The coefficient of determination is for the regression analysis and indicates that Lat differences were significant predictors of MEP facilitation.
+					0	However, as we explained in the text, when participants were sorted into two groups (early and late I-waves), the difference between the two was not significant according to the Mann-Whitney U test.
+Reviewer_2	Author	3	5	0	2	Although you state you defined the rMT in Fig.
+Reviewer_2	Author	3	5	0	2	1 you did not.
+Author	Reviewer_2	4	5	5	1	Actually, we did, but it seems that the new figure legend with the correction was not properly inserted when the system reformated the document.
+					0	Actually, we did, but it seems that the new figure legend with the correction was not properly inserted when the system reformated the document.
+					0	The present study entitled “Facilitation of motor evoked potentials in response to a modified 30 Hz intermittent theta-burst stimulation protocol in healthy adults” investigated the effectiveness of intermittent 30 Hz/6 Hz TBS in inducing lasting facilitation of MEPs.
+					0	The authors reported that the modified iTBS protocol facilitated MEPs for up to 45 min post-stimulation and that small latency differences were predictive of the facilitatory effect on corticospinal excitability.
+					0	The study is interesting and well written.
+					0	In my opinion, the major potential issues were already discussed in the limitation sections.
+					0	I only have minor comments and questions that the author should answer to improve the manuscript.
+					0	"Introduction Line 31 – ""(4-10 Hz) induced…"" this is not theta range; please correct."
+					0	Line 32 – add the reference.
+					0	Methods Participants Did the authors take note of the menstrual cycle of the female participants?
+					0	Although the differences in handedness would not profoundly affect the overall results, can the author check if there were significant differences in stimulation intensity (AMT and RMT) in right and left-handed participants?
+					0	Left-handed individuals often have a high threshold on the left motor cortex.
+					0	Line 89-90: edit this part.
+					0	Line 145 - Edit the subheading Results Are there differences in stimulation intensities taken from the two devices (Magstim Rapid and BiStim2)?
+					0	Can you report the F value and effect size?
+					0	Would it be interesting if the present data can give the same effect size (0.71) as those reported by Chung et al.
+					0	(2016)?
+					0	In line 209, the authors reported that “Of 21 participants, 19 (13 females) completed the protocol without any issues.
+					0	Two female participants had to be excluded….”.
+					0	However, looking at Figure 3, it is obvious that plotted data were from 20 participants.
+					0	Can the author correct this discrepancy?
+					0	Is the cut-off plus or minus 10 standard for the responder and non-responders?
+					0	Looking again at Figure 3, we can observe very high variability.
+					0	In my opinion, plus or minus 10% is arbitrary.
+					0	Although we would assume that the figure on the left is always the letter “A” and the one on the right is “B”, for the sake of clarification, kindly add a letter legend on the figures.
+					0	Discussion Line 402: in SIFC, one pulse is suprathreshold, and the other is subthreshold.
+					0	This study investigated whether the modified 30 Hz/6 Hz TBS protocol (intermittent mode) proposed by Goldsworthy et al.
+					0	(2012) would lead to lasting MEP facilitation.
+					0	Some questions please need authors to answer.
+					0	Why did not compare to the sham stimulation group and 50 Hz/ 5 Hz standard iTBS protocol?
+					0	I think COVID-19 is not reason.
+					0	Do you think 30 Hz/6 Hz TBS protocol (intermittent mode) increased MEP amplitude as compared to 50 Hz/ 5 Hz standard iTBS?
+					0	What are the benefits of 30 Hz/6 Hz TBS protocol (intermittent mode) in comparison with 50 Hz/ 5 Hz standard iTBS?
+					0	Does the participants have a neurological disease or other diseases?
+					0	Please write in the manuscript.
+					0	The single-pulse TMS elicited 20 MEPs at baseline but at three specific time points after post-iTBS (i.e., 5-, 20- and 45-min) just elicited 15 MEPs respectively.
+					0	Why did not also test 20, 25 or 30 MEPs?
+					0	In figure 1, the rMT needs to be defined.
+					0	In line 125, MT needs to be defined.
+					0	Please do not define aMT the second time in line 134.
+					0	In line 145, full stop marked an error.
+					0	In line 28, please define rTMS.
+					0	How do you test the aMT and rMT?
+					0	Please give the detailed process.
+					0	How do you get the hotspot?
+					0	Please give the detailed process.
+					0	In lines 459 and 461, pay attention to the space between words.
+					0	"In line 119, the capital ""a"" changes lower case."
+					0	In line 226, notice the format of the comma.
+					0	In line 253, where is the F value?
+					0	In line 282, the result showed r2 = 0.24, p = 0.03 but it is a difference in Fig.
+					0	5.
+					0	Although you state you defined the rMT in Fig.
+					0	1 you did not.

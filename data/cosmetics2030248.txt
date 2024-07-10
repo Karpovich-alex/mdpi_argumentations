@@ -1,0 +1,54 @@
+ISSN 2079-9284 www.mdpi.com/journal/cosmetics Peer-Review Record: Thermal Behavior and Free-Radical-Scavenging Activity of Phytic Acid Alone and Incorporated in Cosmetic Emulsions André Luis Máximo Daneluti, Maria Valéria Robles Velasco, André Rolim Baby and Jivaldo do Rosário Matos Cosmetics 2015, 2, 248-258, doi:10.3390/cosmetics2030248 Reviewer 1: Anonymous Reviewer 2: Hsieh Chang Reviewer 3: Anonymous Editor: Martina Meinke (Guest Editor of Special Issue “The Antioxidant Potential of the Skin) Received: 15 May 2015 / Accepted: 21 July 2015 / Published: 31 July 2015 First Round of Evaluation Round 1: and Author Response 1.
+Some errors in the legend of Figure 4, such as EM/PHYT/BHT, EM/PHYT is not presented in Figure 4.
+Response: All the corrections are highlighted in yellow.
+Corrected the legend of Figure 4 (EM/HPHYT/BHT, EM/HPHYT, ET/HPHYT).
+2.
+In Figure 4, the results is represented in three times or signal one or other times.
+Therefore, you must rewritten the legend of Figure 4.
+Response: The errors were corrected in text on page 09.
+(EM/HPHYT/BHT, EM/HPHYT, ET/HPHYT).
+Round 1: and Author Response We recommend “galenic” can be changed to herbaceous, because galenic is not usually to see for non-professional fields or general cosmetics reader.
+Response: All the corrections are highlighted in red.
+The “galenic” was mentioned in the article due to physician Claudio Galeno, which created the first creams formulations.
+Therefore we decided to change galenic to cosmetic.
+Less a parenthesis at line 132.
+Response: Inserted parenthesis at line 132 (Tpeak = 48.17 °C).
+R2 At line 160, “Figureure” should be “Figure.” Response: Corrected at line 160 “Figureure” to “Figure”.
+At line 161 mentioned Tonset DCS, but does not explain what this word mean.
+Response: This abbreviation is widely use in Thermal analysis.
+We specified in the text (the extrapolated peak onset temperature (TonsetDSC).
+In Table II, Tonset DCS is a units of temperature, it should be used comma instead of decimal point.
+Response: We removed the units of temperature from the Table.
+At line 167, “donateis” is typically used to represent donate money, we proposed change to be “provide”, in additional, this sentence is not fluent at grammar.
+Response: We changed “donate” to provide and the other word donor to provider.
+The sentence in line 168 is not fluent at grammar.
+Response: We changed this sentence.
+At line 189, it dors (does) not have sample named EBL, it needs to be check again.
+Response: The sample´s name corrected (EM/BL) at line 189.
+Integration of all the above problems, this post Journal does not provide future applications of phytic acid in cosmetics and its title is mentioned in herbal lotion but the experiment did not use any herb emulsion formulation.
+For the antioxidant capacity of phytic acid only do the experiment of DPPH that has not more in-depth study.
+Lot of grammatical errors is found in sentences.
+So we suggested to big modifications, then returned for review.
+Response: We integrated all the problems and correct he errors.
+Round 1: and Author Response The article titled “Thermal behavior and free-radical-scavenging activity of phytic acid alone and incorporated in galenic emulsions” is focused on the characterization of phytic acid stability and use in cosmetic formulas.
+The article is well written, and the overall study was well planned and professionally conducted.
+All the experiments shown are necessary and sufficient to support the conclusions.
+However, I think that the article can be substantially improved if the following points are addressed: (1) The conclusions reported are very short and poor.
+More discussion of the presented results is needed.
+Response: All the corrections are highlighted in green.
+We expanded the discussion of the results on pages 7, 10 and the conclusion on page 11 (item 4).
+(2) The authors missed to report other authors’ studies which agree or disagree with their findings.
+Response: As mentioned in this paper, there are few studies related to the phytic acid in cosmetic products.
+However we added more references regarding about phytic acid antioxidant activity.
+References 24, 25 and 26.
+R3 (3) What is the output of this study?
+What are the implications in the use of PA in galenic/cosmetic formulations?
+Response: We mentioned in the text more information about incorporation of phytic acid into emulsion on Thermal Analysis results, DPPH results and conclusion.
+(4) What are the suggestions of the authors about the use of PA in Cosmetics based on their results?
+And what the parameters and the tricks that the formulators should be aware of while using PA in their products?
+Response: Regarding with this queries we improved the discussion in the results on page 7.
+But we need to study more about.
+Second Round of Evaluation Round 2: and Author Response From the experimental results that phytic acid will decrease the thermal stability of the emulsion, but at line 220 mention that phytic acid has the effect of lipid peroxidation and therefore can be added as an anti-oxidant in the emulsion.
+So we recommend authors to describe these two points much clearer.
+Response: We described these two points more clearly.
+The thermal analysis technique applies high temperatures in the samples due to this thermal stability of the emulsion associated with phytic acid decreased.

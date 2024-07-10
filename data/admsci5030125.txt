@@ -1,0 +1,124 @@
+ISSN 2076-3387 http://www.mdpi.com/journal/admsci Peer-Review Record: Conflicting Incentives Risk Analysis: A Case Study of the Normative Peer Review Process Gaute Wangen Administrative Sciences 2015, 5, 125-147, doi: 10.3390/admsci5030125 Reviewer 1: Anonymous Reviewer 2: Hans J. Pasman Reviewer 3: Anonymous Editor: Joseph Roberts (Editor-in-Chief of Administrative Sciences) Received: 17 March 2015 / Accepted: 2 July 2015 / Published: 9 July 2015 First Round of Evaluation Round 1: and Author Response This paper utilizes the Conflicting Incentives Risk Analysis (CIRA) to examine the problem of authors attempting to circumvent peer-review processes at journals by falsifying identities to serve as their own reviewers.
+The topic is current and interesting, in particular to an academic audience given the recent media attention to scandals and retractions at academic journals.
+My principle concern is with the logical construction of the paper.
+The authors claim in their abstract that the main contribution of this work is knowledge about the CIRA method as an approach to map risk assessments.
+On page 2 in the introduction the authors claim to apply CIRA to research questions such as finding the root cause of an incident of misconduct in peer review, as well as other potential risks inherent in the process.
+On page 5 the authors claim the main form of validation of the CIRA approach is a case study.
+However, on pages 7 - 9 the authors admit that they divert from the CIRA procedure by identifying the outcome in advance, assigning qualitative values to preferences, assuming weights, utility factors, and initial values, and considering several stakeholders as risk owners.
+Each of these departures undermines the authors’ claims of validating the CIRA method.
+Given the number and apparent scope of adaptations of the CIRA method, I am not sure that I am more familiar with CIRA or its advantages having read the paper than I was previously.
+While the authors describe the process as a case study, the procedure they use is a table top exercise.
+Rather than developing a case through research, interviews, or observation, they presented a stylized scenario to academic peers for discussion.
+This may be a difference in semantics, but I do not consider R2 the implementation of an extant case the same as an academic contribution in developing a qualitative case study.
+It is the difference between writing a case and facilitating a discussion of one.
+Given their process, the claim to validate the methodology is incorrect.
+The CIRA does appear to be a useful and interesting tool for assessing risk, with particular regard to incentive structures.
+Likewise, the application of the tool to the peer review setting is provocative.
+Given the authors stated goal of promoting the CIRA technique and approach to demonstrating its uses, I would recommend re-formatting the paper as a pedagogical tool.
+Rather than claiming to validate the method, focus on a detailed step by step examination of its implementation using a known outcome.
+As a separate recommendation, the paper needs smoother transitions between topics on pages 2-7.
+The authors should add one or two lines smoothing the flow for the reader, rather than relying on subject headings.
+Traditionally, limitations are listed towards the end of the paper.
+Minor Edits: On page 2 in the first paragraph, remove the “s” from “These methods lack…” On page 14 in the first new paragraph, “Aspects of the confirmation bias are hard to mitigate…” Round 1: Author Response to Reviewer 1 Dear reviewer 1, Thank you for taking the time to review my work and provide very good comments on my work.
+I have tried to accomodate your comments to the best of my ability.
+I have tried to address your principle concern by improving the scope of the work, revising the method section, results, discussion and conclusion.
+Kind regards, Gaute Wangen Round 1: and Author Response The topic of CIRA is interesting; the choice of the PRP as a case is certainly not bad.
+The paper is on the one hand quite verbose, but with respect to the peer review incomplete.
+Possible risks in peer review are many more than the ones listed in Table 3.
+The line of reasoning in the paper is not easy to follow.
+The paper can become stronger if it limits itself to the Peer Review Ring Incident and will look at the various aspects of that scenario including risk reducing measures.
+The role of the journal editor is to my experience much stronger than depicted.
+There is of course a demand for reliable reviewers but an editor is invited by a publisher because he knows the field and the players.
+So, he selects by preference experienced, independent (retired) experts.
+(Opening up a literature data base as some publishers do for their reveiwers may for them be a good incentive).
+As an editor I would think twice if a young scientist whom I don't know offers her./himself as a reviewer and I would certainly ask for recommendations.
+Much of what is analyzed and concluded is rather obvious.It didn't become clear to me as a reader where the specific results of the 13 steps of the CIRA application are and where these are described.
+What are the conclusions about the root cause?
+Or are there multiple root causes?
+And what definition of root cause is used?
+There are flaws in the English singular/plural verb grammar.
+R3 Please repeat Pipkin's reference number in Section 4.1.2.
+Round 1: Author Response to Reviewer 2 Dear Reviewer 2, Thank you for taking the time to review my work and provide very good comments on my work.
+I have tried to accomodate your comments to the best of my ability.
+I have tried to improve the information density of the paper from being to verbiose.
+I have added the results of the stakeholder analysis to improve the communication our view of the PRP.
+I have tried to address your other concerns by improving the scope of the work, revising the method section, results, discussion and conclusion.
+Kind regards, Gaute Wangen Round 1: and Author Resposne Here are some comments based on reviewing your paper: The general structure of the paper is good.
+You start with an introduction.
+Then, you do a literature review.
+After that, the methodology is explained with a case study as its application.
+Then, it is followed by the model discussion, conclusion and future work.
+It is great that you have the research questions in the beginning of the paper in the introduction and then, refer to them in different sections of the paper.
+They are also valid research questions.
+You brought up a very interesting topic/subject of research in this study/paper, which I believe it is of interest and use to many journals for their peer review process.
+From this point of view, this study can have a significant implication/application in the literature.
+However, the originality level and based on that, the contribution of your research/work is not too clear.
+Regarding section 2, literature review should usually be structured with explicitly stating what types of methodologies have already been developed/are existing in the context of what you studied or conducted your research on.
+You have some examples of what has been done in the area of peer review process and the risk analysis of such a process.
+This literature review however is not systematic.
+Also, the connection of those examples with/as risk analysis methods has not been clarified either.
+The way you conducted your literature review, the existing work has not been completely explained in order for readers to see what the novelty/originality of your study/research is.
+Based on what I see and get from reading your paper, the CIRA methodology is not the framework that you proposed.
+If so, there is not enough explanation about the CIRA and the person(s) who developed this method.
+Also there is not enough clarification and elaboration on the differences of your work on CIRA and your customizations comparing to the original methodology.
+(You stated some points in this regard, but it is not sufficient.)
+This does not allow readers to recognize your contribution in this study.
+There is a need for you to elaborate in much more detail what your contribution is by stating more details about the existing model(s) for peer review risk analysis; especially the CIRA, and what additional things you brought up to this picture.
+R4 You did a good job explaining your case study.
+However, again, there is not sufficient amount of explanation/elaboration on how your version of the CIRA is connected to the original model.
+Also, some steps of the CIRA, which is shown in Fig.1, have been explained/implemented but not all.
+Here are some points which I believe need to be adjusted/added in your paper: 1) You mentioned tier-2 business process level.
+You did cite a reference in this regard, but you may need to briefly explain it.
+2) I believe that stated items under (ii) and (iii) on page 3 need to be swapped based on your research questions order in the introduction.
+3) You mentioned employing the “agency-theory” without mentioning anything about it.
+Please elaborate on that.
+The following points are related to the quality and the consistency of your writing: 1) There are some consistency issues in your writing.
+This does not look professional in scientific papers.
+Here are some examples: In some places you wrote down “peer review” (e.g.
+page 3, paragraph 5) while in other places, you said “peer-review”; hyphenated (e.g.
+page 3, paragraph 4).
+You have Principle-agent problem on page 3 and Problem-Agent (Agent with capitalized “A”) on page 4.
+Root cause versus root-cause.
+Please read the whole paper again and make sure there are not inconsistencies like these in the paper.
+2) There are some typos, punctuations and grammatical errors in the paper, such as: Some grammatical errors such as the following sentence in the abstract: “This work will mainly benefit practitioners… by providing a new approach to risk manage human factors…”.
+This should change to “to manage the risk of human factors or to risk management of human factors”.
+“et.
+al.” rather than “et al.”, page 3 “Editor” rather than “editor” “E.g.” rather than “e.g.” Some commas are needed; e.g.
+page 4: you said “this type of incentives… (p.136)…” after “(p.136)", you need a comma.
+Also, you have to say “these types of incentives” as a plural version based on your used verb that is plural.
+Using “etc…” is not professional in scientific writing.
+Just say “etc.”.
+The three dots represent an incomplete sentence.
+You stated 9 risks in table 3 while you mentioned eight in the title of that table as well as on page 9 in the beginning of 4.2.1 section.
+Please make sure that you read-proof your whole paper again.
+3) There are some abbreviations with no extended version such as ISRA.
+4) The abbreviated version of RCA has been used once before stating it with its extended version for the first time.
+R5 Round 1: Author Response to Reviewer 3 Dear Reviewer 3, Thank you for taking the time to review my work and provide very good comments on my work.
+I have tried to accomodate your comments to the best of my ability.
+I have elaborated on all the areas you commented, and clarified the CIRA methodology and hopefully my contribution.
+Thank you for comments on the grammar issues, these are now fixed.
+Abbrevation issues should be fixed.
+I have also tried to address your other concerns by improving the scope of the work, revising the method section, results, discussion and conclusion.
+Kind regards, Gaute Wangen Second Round of Evaluation Round 2: Despite the article even became longer, the line of thought is now clear.
+What the CIRA process can contribute to analyze the vulnerability of a procedure to misbehavior has now become convincing, because the example case study has been further developed.
+Few minor linguistic glitches have been indicated by annotations in the text.
+Round 2: Author Response to Reviewer 2 Dear reviewer, Thank you for the thorough read-through of my manuscript.
+I have included all your suggested changes together with a major spellcheck.
+Best regards, Gaute Wangen Round 2: It is great to see that most of the comments have been considered and there were actions to fix those in the revised version of the paper.
+The main contribution of the paper and its deliverable are described.
+The difference between your methodology and the original CIRA is explained.
+There is more elaboration on the method and the case study discussion.
+Few things to fix:   There is a need for some editing; e.g.
+grammatical and punctuation corrections, elements in the text.
+For example, there are some inconsistencies in having the first letter of some words in small and capital letters.
+For example: R6   Peer review ring expression is like “Peer Review ring” on page 2 and then it is like “Peer Review Ring” on page 3.
+There are some other combinations of small and capital first letters of these three words in the rest of the paper.
+On page 7, in the paragraph before the last one, you needed to say “… follows the steps outlined in Fig.
+1” rather than ““… follows the steps outlined in Fig.
+fig: CIRAprocedure…([6], P.63-82)”.
+I believe you mistakenly have the caption of figure 1 in here.
+I suggest that you review the whole paper again and edit it as needed.
+Also, I believe that figure 2 needs some more explanation.
+Round 2: Author Response to Reviewer 3 Dear reviewer, Thank you for the read-through of my manuscript.
+I have included all your suggested changes together with a major spellcheck.
+Best regards, Gaute Wangen

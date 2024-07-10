@@ -1,0 +1,733 @@
+Author Response Thanks for your positive cmments.
+Author Response 1) The caption has been changed to: "Energy spectrum from Eq.~(\ref{eigqn2}) for $r= 1$ as a function of (i) $\alpha$ in the left panel, and (ii) $k_y$ at $\alpha= 3/5$ in the right panel."
+2) We added the following lines in the consluion section: << There are certain similarities observed with the $U(2)$ cases.
+For the metal-insulator transition in Sec.~\ref{trans1}, the behaviour of the extended/localized states in the $k_y$-$r$ plane are similar to that in the $U(2)$ case \cite{Clark}.
+Again, for the superfluid-insulator transition in Sec.~\ref{trans2}, the presence of the $U(3)$ flux led to a suppression of the values of $J_c$ with respect to the zero fluz case.
+Such suppression was also found in the $U(2)$ case \cite{krish-kush}.
+In general, it might be easier to simulate U(2) gauge potentials rather than U(3) or higher gauge group potentials in cold atom experiments.
+While systems with U(2) gauge potential can be useful to study fermions with the spin degree of freedom, which is what we find in condensed matter systems, the simulation of U(3) gauge potentials may open the path to study QCD-like systems.>> Author Response File: Author Response.pdf
+The paper studies ultracold atoms in the the presence of an artificial U(3) gauge potentials.
+Artificial gauge fields in the field of ultracold atoms is a rapidly developing field of very high interest.
+I think this paper will be interest to readers and support its publication.
+By comparing the gauge fields with non-constant and constant Wilson loops, the authors studied the effects of artificial U(3) gauge potentials on ultracold atoms.
+The paper reads well and the theoretical model is clearly discussed.
+Therefore, I would recommend the manuscript for publication in Condensed Matter after the authors make the minor modifications.
+(1) Please rewrite the figure caption of Figure 5 to make the statement of right figure clear.
+(2) The authors should put more sentences in conclusion of how U(2) gauge potentials is relevant to artificial U(3) gauge potentials on ultracold atoms.
+I am agree with the manuscript for publication in Condensed Matter.
+Article Cold atoms in U(3) gauge potentials Ipsita Mandal 1,* and Atri Bhattacharya 2 1 Perimeter Institute for Theoretical Physics, 31 Caroline St. N., Waterloo ON N2L 2Y5, Canada; imandal@pitp.ca 2 IFPA, AGO Department, University of Liège, Sart Tilman, 4000 Liège, Belgium; A.Bhattacharya@ulg.ac.be * Correspondence: imandal@pitp.ca Academic Editor: name Version July 6, 2016 submitted to Condens.
+Matter; Typeset by L AT EX using class ﬁle mdpi.cls Abstract: We explore the effects of artiﬁcial U(3) gauge potentials on ultracold atoms.
+We study 1 background gauge ﬁelds with both non-constant and constant Wilson loops around plaquettes, 2 obtaining the energy spectra in each case.
+The scenario of metal-insulator transition for irrational 3 ﬂuxes is also examined.
+Finally, we discuss the effect of such a gauge potential on the 4 superﬂuid-insulator transition for bosonic ultracold atoms.
+5 Keywords: cold atoms; non-abelian; U(3) 6 PACS: 03.75.Mn 37.10.Jk 67.85.-d 7 1.
+Introduction 8 The study of ultracold atoms in optical lattices has emerged to be a subject of great interest in 9 recent years, opening up the possibilities of synthesising gauge ﬁelds capable of coupling to neutral 10 atoms.
+This is in a vein similar to how electromagnetic ﬁelds couple to charged matter, for instance, 11 or how SU(2) and SU(3) ﬁelds couple to fundamental particles in high-energy physics.
+[1–10] The 12 effects of these artiﬁcial abelian and non-abelian “magnetic ﬁelds” can subsequently be studied in 13 experiments designed to realise these magnetic ﬁelds.
+Over the years several innovative techniques 14 to achieve this have been suggested.
+One such procedure involves rotating the atoms in a trap.
+[2,11] 15 More sophisticated methods involve atoms in optical lattices, making use of laser-assisted tunnelling 16 and lattice tilting (acceleration) [12–14], laser methods employing dark states [15,16], two-photon 17 dressing by laser ﬁelds [17,18], lattice rotations [19–22], or immersion of atoms in a lattice within a 18 rotating Bose-Einstein condensate.
+[23] Further, in a recent work [24], the authors have proposed a 19 two-tripod scheme to generate artiﬁcial U(3) gauge ﬁelds.
+Observations in these experiments are 20 expected to show particularly conspicuous features like the fractal “Hofstadter butterﬂy" spectrum 21 [25] and the “Escher staircase" [13] in single-particle spectra, vortex formation [2,19,26], quantum Hall 22 effects [14,21,27,28], as well as other quantum correlated liquids.
+[29] 23 A novel scheme to generate artiﬁcial abelian “magnetic" ﬁelds was proposed in the work by 24 Jaksch and Zoller.
+[12] This involves the coherent transfer of atoms between two different internal 25 states by making use of Raman lasers.
+Later, by making use of laser tunneling between N distinct 26 internal states of an atom, this scheme was generalised to mimic artiﬁcal non-abelian “magnetic" 27 ﬁelds by Osterloh et al.
+[30] In addition, an alternative method employing dark states has also 28 been discussed.
+[24,31] In such a scenario, one employs atoms with multiple internal states dubbed 29 “ﬂavours”.
+The gauge potentials that can be realized by the application of laser-assisted non-uniform 30 and state-dependent tunnelling and coherent transfer between internal states, can practically allow 31 for a unitary matrix transformation in the space of these internal states, corresponding to U(N) or 32 SU(N).
+In such a non-abelian U(2) potential, a moth-like structure [30] emerges for the single-particle 33 Submitted to Condens.
+Matter, pages 1 – 13 www.mdpi.com/journal/condensedmatter Version July 6, 2016 submitted to Condens.
+Matter 2 of 13 spectrum, which is characterized by numerous tiny gaps.
+Several other works involve studies 34 of non-trivial quantum transport properties [32], integer quantum Hall effect for cold atoms [28], 35 spatial patterns in optical lattices [26], modiﬁcations of the Landau levels [33], and quantum atom 36 optics.
+[34,35] An SU(3) topological insulator has been constructed for a non-interacting quadratic 37 Hamiltonian.
+[36] In the context of an interacting system with three-component bosons, the Mott 38 phase in the presence of “SU(3) spin-orbit coupling" has been shown to exhibit SU(3) spin spiral 39 textures in the ground state, both for one-dimensional chain and the square lattice.
+[37] 40 However, Goldman et al [38] have pointed out that the U(2) gauge potentials proposed 41 earlier [30] are characterized by non-constant Wilson loops and that the features characterizing the 42 Hofstadter “moth" are a consequence of this spatial dependence of the Wilson loop, rather than the 43 non-abelian nature of the potential.
+They have emphasised that the moth-like spectrum can also be 44 found in the standard abelian case when the gauge potential is chosen such that the Wilson loop is 45 proportional to the spatial coordinate.
+46 In this work, we investigate whether features similar to those discussed in the literature for U(2) 47 gauge potentials, also reveal themselves in artiﬁcial U(3) gauge potentials on ultracold atoms.
+This 48 builds upon existing results in the literature for U(2) potentials and may be viewed as a stepping 49 stone toward the generalisation of such features for arbitrary (S)U(N) gauge potentials.
+50 Our paper is organised as follows.
+Sec.
+2 describes the necessary theoretical set-up.
+In Sec.
+3, we 51 consider background gauge ﬁelds with non-constant [30] Wilson loops.
+The spectra for both rational 52 and irrational ﬂuxes are discussed.
+The scenario of metal-insulator transition for irrational ﬂuxes is 53 also examined in Sec.
+3.2.
+Sec.
+4 is devoted to systems subjected to a gauge potential with a constant 54 [38] Wilson loop.
+Lastly, in Sec.
+4.2, we study the effect of such a gauge potential on the Mott insulator 55 to superﬂuid transition for bosonic ultracold atoms for rational ﬂuxes.
+We conclude with a summary 56 and an outlook for related future work in Sec.
+5.
+57 2. Review of artiﬁcial gauge potentials in optical lattices 58 In this section, we review the theoretical framework for studying a system of non-interacting fermionic atoms with j ﬂavours.
+We assume that the atoms are trapped in a 2D optical square lattice of lattice-spacing a, with sites at (x = m a, y = n a), where n, m are integers.
+Without loss of generality, we will set a = 1 in all subsequent discussions.
+When the optical potential is strong, the tight-binding approximation holds and the Hamiltonian is given by: H = ∑ m,n  tx Ψ† m+1,n UxΨm,n + ty Ψ† m,n+1 Uy Ψm,n  + h.c., (1) where Ux and Uy are the tunnelling matrices (operators), belonging to the U(N) group, along the 59 x and y directions respectively.
+Also, tx and ty represent the corresponding tunnelling amplitudes, 60 and each of the Ψ† m,n’s is a j-component fermion creation operator at the site (m, n).
+The tunnelling 61 operators are related to the non-abelian gauge potential according to Ux = eiAx and Uy = eiAy.
+62 Throughout this work, we will impose periodic boundary conditions on both x and y directions.
+63 In the presence of the gauge potential, the atoms performing a loop around a plaquette undergo the unitary transformation: U = Ux Uy(m + 1) U† x U† y(m) , (2) where we are considering the case that Ux is position-independent, whereas Uy depends on the x-coordinate.
+Noting that the gauge potential (and hence the Hamiltonian) is independent of the y-coordinate, the 3-component eigenfunction can be written as: Ψ(m, n) ≡eikyn    am bm cm   , (3) Version July 6, 2016 submitted to Condens.
+Matter 3 of 13 such that H |Ψ⟩= E |Ψ⟩.
+64 The Wilson loop deﬁned by: W = Tr   Ux(m + 1) Uy(m + 1) U† x(m) U† y(m)  , (4) is a gauge-invariant quantity and can be used to distinguish whether the system is in the “genuine" 65 abelian or non-abelian regime.
+For |W| = 3, the system is in the abelian regime according to the 66 criteria by Goldman et al [38].
+67 3.
+U(3) gauge potential with non-constant Wilson loop 68 In this section, we consider the U(3) gauge potential 69 Ax = 4π 3 √ 3    0 −i i i 0 −i −i i 0   , Ay = −2πm diag(α1 , α2 , α3) , Az = 0 , (5) where Ax is proportional to the linear combination (λ2 −λ5 + λ7) of the Gell-Mann matrices for 70 SU(3).
+In order to realize such a potential one may consider the method elaborated by Osterloh et al.
+71 [30] 72 The tunnelling operators corresponding to the above non-abelian gauge potentials are given by the following 3 × 3 unitary matrices: Ux =    0 0 1 1 0 0 0 1 0   , Uy = diag( e−i2πα1m, e−i2πα2m, e−i2πα3m) .
+(6) From Eq.
+(4), we ﬁnd W = e2 π i{m α1−(m+1) α3} + e2 π i{m α1−(m+1) α3} + e2 π i{m α3−(m+1) α2}, which is 73 position dependent for generic values of α1, α2, α3, and hence we expect a moth-like rather than a 74 butterﬂy-like structure.
+[38] For α1 = α2 = α3, |W| = 3 and we are then in the abelian regime where 75 the fractal “Hofstadter butterﬂy" is expected to show up with q1(= q2 = q3) triply-degenerate bands.
+76 3.1.
+Spectrum for rational ﬂuxes 77 For the case of rational αi’s such that αi = pi/qi ( for i ∈{1, 2, 3} & {pi, qi} ∈Z ) , (7) the system is periodic in x-direction with periodicity Q, where Q is equal to the least common multiple 78 of {q1, q2, q3}.
+The recursive eigenvalue equations are: 79 bm−1 + Um am + cm+1 = E tx am , cm−1 + Vm bm + am+1 = E tx bm , am−1 + Wm cm + bm+1 = E tx cm , (8) Version July 6, 2016 submitted to Condens.
+Matter 4 of 13 Figure 1.
+The energy eigenvalues of the system depicted by Eq.
+(11) for α2 = 2/3, α3 = 1/2 and r = 1, as a function of α1.
+The three plots correspond to ky = 0 (top), π/3 (bottom left) and π/2 (bottom right).
+Version July 6, 2016 submitted to Condens.
+Matter 5 of 13 where 80 Um = 2 r cos(2πmα1 −ky) , Vm = 2 r cos(2πmα2 −ky) , Wm = 2 r cos(2πmα3 −ky) , r = ty/tx .
+(9) Since the Hamiltonian H commutes with the translation operator deﬁned by T Q x f (m, n) = 81 f (m + Q, n), we can apply Bloch’s theorem in the x-direction: 82    am+Q cm+Q bm+Q   = eikxQ    am cm bm   .
+(10) Hence in the ﬁrst Brillouin zone, kx ∈[ 0, 2π Q ] and ky ∈[ 0, 2π ], and we need to solve the 3Q × 3Q 83 eigenvalue problem: 84                      U1 0 0 0 0 1 0 0 0 .
+.
+0 0 0 0 e−ikxQ 0 0 V1 0 1 0 0 0 0 0 .
+.
+0 0 0 0 0 e−ikxQ 0 0 W1 0 1 0 0 0 0 .
+.
+0 0 0 e−ikxQ 0 0 0 1 0 U2 0 0 0 0 1 .
+.
+0 0 0 0 0 0 0 0 1 0 V2 0 1 0 0 .
+.
+0 0 0 0 0 0 1 0 0 0 0 W2 0 1 0 .
+.
+0 0 0 0 0 0 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+0 0 eikxQ 0 0 0 0 0 0 .
+.
+0 1 0 UQ 0 0 eikxQ 0 0 0 0 0 0 0 0 .
+.
+0 0 1 0 VQ 0 0 eikxQ 0 0 0 0 0 0 0 .
+.
+1 0 0 0 0 WQ                                           a1 b1 c1 a2 b2 c2 .
+.
+aQ bQ cQ                      = E tx                      a1 b1 c1 a2 b2 c2 .
+.
+aQ bQ cQ                      .
+(11) This matrix equation can be decoupled into three independent equations: 85                      U1 1 0 0 0 0 0 0 0 .
+.
+0 0 0 0 0 e−ikxQ 1 W2 1 0 0 0 0 0 0 .
+.
+0 0 0 0 0 0 0 1 V3 1 0 0 0 0 0 .
+.
+0 0 0 0 0 0 0 0 1 U4 1 0 0 0 0 .
+.
+0 0 0 0 0 0 0 0 0 1 W5 1 0 0 0 .
+.
+0 0 0 0 0 0 0 0 0 0 1 V6 1 0 0 .
+.
+0 0 0 0 0 0 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+0 0 0 0 0 0 0 0 0 .
+.
+0 0 1 UQ−2 1 0 0 0 0 0 0 0 0 0 0 .
+.
+0 0 0 1 WQ−1 1 eikxQ 0 0 0 0 0 0 0 0 .
+.
+0 0 0 0 1 VQ                                           a1 c2 b3 a4 c5 b6 .
+.
+aQ−2 cQ−1 bQ                      = E1 tx                      a1 c2 b3 a4 c5 b6 .
+.
+aQ−2 cQ−1 bQ                      , (12)                      V1 1 0 0 0 0 0 0 0 .
+.
+0 0 0 0 0 e−ikxQ 1 U2 1 0 0 0 0 0 0 .
+.
+0 0 0 0 0 0 0 1 W3 1 0 0 0 0 0 .
+.
+0 0 0 0 0 0 0 0 1 V4 1 0 0 0 0 .
+.
+0 0 0 0 0 0 0 0 0 1 U5 1 0 0 0 .
+.
+0 0 0 0 0 0 0 0 0 0 1 W6 1 0 0 .
+.
+0 0 0 0 0 0 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+0 0 0 0 0 0 0 0 0 .
+.
+0 0 1 VQ−2 1 0 0 0 0 0 0 0 0 0 0 .
+.
+0 0 0 1 UQ−1 1 eikxQ 0 0 0 0 0 0 0 0 .
+.
+0 0 0 0 1 WQ                                           b1 a2 c3 b4 a5 c6 .
+.
+bQ−2 aQ−1 cQ                      = E2 tx                      b1 a2 c3 b4 a5 c6 .
+.
+bQ−2 aQ−1 cQ                      , (13) Version July 6, 2016 submitted to Condens.
+Matter 6 of 13 Figure 2.
+Energy spectrum E = (E1, E2, E3) from Eqs.
+(12), (13) and (14), as a function of ky for α1 = 89/144, α2 = 2/3, α3 = 1/2 and r = 1.
+E1, E2 and E3 have been plotted in green, blue and orange respectively.
+The abelian case corresponding to α1 = α2 = α3 = 89/144 has also been plotted in grey, which shows bands with no variation with ky.                      W1 1 0 0 0 0 0 0 0 .
+.
+0 0 0 0 0 e−ikxQ 1 V2 1 0 0 0 0 0 0 .
+.
+0 0 0 0 0 0 0 1 U3 1 0 0 0 0 0 .
+.
+0 0 0 0 0 0 0 0 1 W4 1 0 0 0 0 .
+.
+0 0 0 0 0 0 0 0 0 1 V5 1 0 0 0 .
+.
+0 0 0 0 0 0 0 0 0 0 1 U6 1 0 0 .
+.
+0 0 0 0 0 0 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+0 0 0 0 0 0 0 0 0 .
+.
+0 0 1 WQ−2 1 0 0 0 0 0 0 0 0 0 0 .
+.
+0 0 0 1 VQ−1 1 eikxQ 0 0 0 0 0 0 0 0 .
+.
+0 0 0 0 1 UQ                                           c1 b2 a3 b4 a5 c6 .
+.
+cQ−2 bQ−1 aQ                      = E3 tx                      c1 b2 a3 b4 a5 c6 .
+.
+cQ−2 bQ−1 aQ                      , such that the full set of eigenvalues is the union of the eigenvalues (E1, E2, E3) obtained for the 86 three decoupled systems.
+Fig.
+(1) shows the plots of these energy eigenvalues as functions of α1 87 for α2 = 2/3, α3 = 1/2 and r = 1.
+The three plots, from left to right, correspond to ky = 0, π/3, π/2 88 respectively.
+We have checked that the features of the plots remain unchanged irrespective of whether 89 the horizontal axis is chosen as α1, α2 or α3, whilst keeping the other two αi’s ﬁxed.
+90 3.2.
+Metal-insulator transition for irrational ﬂux 91 The Hofstadter system [25] undergoes metal-insulator transitions for irrational values of ﬂux 92 and the spectra do not depend on ky. For instance, let us assume α1 = √ 5−1 2 .
+We will approximate 93 this irrational number by the rational approximation 89/144.
+Fig.
+(2) shows the plot of the energy 94 eigenvalues from Eqs.
+(12), (13) and (14), as a function of ky for α1 = 89/144, α2 = 2/3, α3 = 1/2 95 and r = 1.
+The abelian case corresponding to α1 = α2 = α3 = 89/144 has also been shown, which 96 shows bands with no variation along ky. Also in Fig.
+(3), we show how the minimum energy states 97 for ky = (0, π/2) localizes with increasing r. 98 Version July 6, 2016 submitted to Condens.
+Matter 7 of 13 Figure 3.
+The behaviour of the system depicted by Eq.
+(10) for irrational ﬂux captured by plotting the square root of the modulus of the fourier transform of the wavefunction   p | f (kx)|  for the state with minimum energy when α1 = 89/144, α2 = 2/3, α3 = 1/2, as a function of kx, with ky = 0 (π/2) for left (right) panel.
+The four ﬁgures in each panel, from top to bottom, show how the state localizes with increasing r. We ﬁnd that if we consider the case of Ay = −2πm diag(α1 , α2 + 1/2 , α3) such that Uy = 99 diag( e−i2πα1m, −e−i2πα2m, e−i2πα3m) (other choices remaining the same as in Eq.
+(5)), then for E = 0, 100 α1 irrational and α2 = α3 = 0, the recursive equations reduce to: 101 a(m −3) + a(m + 3) + 2 γ cos  2πmα1 −ky  a(m) = 0 , b(m) = a(m −2) + 2 r (−1)m cos ky a(m + 1) −1 + 4 r2 cos2 ky , c(m) = a(m −1) −b(m + 1) 2 r (−1)m cos ky , γ = −r  1 −4 r2 cos2 ky  .
+(14) The a(m) equation is uncoupled and has the structure like that of the Harper equation for the abelian 102 case.
+This leads us to infer that there is a metal-insulator transition at |γ| = 1, such that |γ| < 1 103 corresponds to extended states, while |γ| > 1 characterises localized states.
+These two phases are 104 shown in Fig.
+(4).
+105 4.
+U(3) gauge potential with constant Wilson loop 106 In this section, we study the effect of the U(3) gauge potential given by: 107 Ax = 4π 3 √ 3    0 −i i i 0 −i −i i 0   , Ay = 2παm + π √ 3    0 −i −i i 0 −i i i 0   , Az = 0 , (15) Version July 6, 2016 submitted to Condens.
+Matter 8 of 13 where Ax is the same as in Eq.
+(5), whereas Ay now is proportional to the linear combination (λ2 + 108 λ5 + λ7) of the Gell-Mann matrices for SU(3).
+The tunnelling operators in this case correspond to the 109 following unitary matrices: 110 Ux =    0 0 1 1 0 0 0 1 0   , Uy = −ei2παm 3    1 2 −2 2 1 2 −2 2 1   .
+(16) Here, Eq.
+(4) gives us |W| = 5/9, which is position-independent and hence we expect a modiﬁed 111 butterﬂy structure.
+112 4.1.
+Spectrum for rational ﬂux 113 For α = P/Q, writing the wave-functions in terms of Bloch functions using the same notation as 114 in Eq.
+(10), we arrive at the recursive equations given by: 115 bm−1 + ˜ Um (am + 2bm −2cm) + cm+1 = E tx am, cm−1 + ˜ Um (2am + bm + 2cm) + am+1 = E tx bm , am−1 + ˜ Um (−2am + 2bm + cm) + bm+1 = E tx cm , (17) where ˜ Um = −2 r cos(2πmα + ky) , r = ty/tx .
+(18) This case involves solving a 3Q × 3Q eigenvalue problem given by: 116                      ˜ U1 2 ˜ U1 −2 ˜ U1 0 0 1 0 0 0 .
+.
+0 0 0 0 e−ikxQ 0 2 ˜ U1 ˜ U1 2 ˜ U1 1 0 0 0 0 0 .
+.
+0 0 0 0 0 e−ikxQ −2 ˜ U1 2 ˜ U1 ˜ U1 0 1 0 0 0 0 .
+.
+0 0 0 e−ikxQ 0 0 0 1 0 ˜ U2 2 ˜ U2 −2 ˜ U2 0 0 1 .
+.
+0 0 0 0 0 0 0 0 1 2 ˜ U2 ˜ U2 2 ˜ U2 1 0 0 .
+.
+0 0 0 0 0 0 1 0 0 −2 ˜ U2 2 ˜ U2 ˜ U2 0 1 0 .
+.
+0 0 0 0 0 0 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+0 0 eikxQ 0 0 0 0 0 0 .
+.
+0 1 0 ˜ UQ 2 ˜ UQ −2 ˜ UQ eikxQ 0 0 0 0 0 0 0 0 .
+.
+0 0 1 2 ˜ UQ ˜ UQ 2 ˜ UQ 0 eikxQ 0 0 0 0 0 0 0 .
+.
+1 0 0 −2 ˜ UQ 2 ˜ UQ ˜ UQ                                           a1 b1 c1 a2 b2 c2 .
+.
+aQ bQ cQ                      = E tx                      a1 b1 c1 a2 b2 c2 .
+.
+aQ bQ cQ                      .
+(19) In Fig.
+(5), the energy eigenvalues (with r = 1) have been plotted as a function of (i) α in the left panel, 117 and (ii) ky for α = 3/5 in the right panel.
+118 4.2.
+Superﬂuid-insulator transition of ultracold bosons 119 We consider three independent species of bosonic ultracold atoms, denoted by (am,n, bm,n, cm,n 120 ), in a square optical lattice.
+This system is well-captured by the Bose-Hubbard model and has been 121 theoretically shown to undergo superﬂuid-insulator transitions.
+Here we study the effect of the U(3) 122 gauge potentials given in Eq.
+(16) on such transitions, which result in inter-species hopping terms.
+123 Version July 6, 2016 submitted to Condens.
+Matter 9 of 13 Starting from the tight-binding limit, we treat these hopping terms perturbatively.
+The Hamiltonian 124 of the model is given by: 125 H = H0 + H1 , H0 = ∑ m,n ∑ s=a,b,c hU 2 ˆ ns m,n   ˆ ns m,n −1  −µ ˆ ns m,n i , H1 = J ∑ m,n { Ψ† m+1,n UxΨm,n + Ψ† m,n+1 Uy Ψm,n } + h.c. , ψ† m,n =  a† m,n b† m,n c† m,n  , (20) where the interaction strength U and the chemical potential µ have been chosen to be the same for all 126 species for simplicity.
+Here the hopping matrices Ux and Uy are given by Eq.
+(16).
+We will consider the 127 limit 0 ≤µ ≤U such that H0 describes three independent species having a unique non-degenerate 128 ground state with ns m,n = 1.
+129 Following the analysis in earlier papers [39–42], the zeroth order Green’s function 130 (corresponding to H0) at zero temperature is given by: 131 G0 s,s′(k, k′, i ω) = δs,s′ δk,k′ G0(i ω) , G0(i ω) = n0 + 1 i ω −Ep − n0 i ω + Eh , Eh = µ −U (n0 −1) , Ep = −µ + U n0 , (21) where ω is the bosonic Matsubara frequency and Eh (Ep) is the energy cost of adding a hole (particle) 132 to the Mott insulating phase.
+Also, n0 = [µ/U] is the on-site particle number.
+133 Figure 4.
+The metallic (red) and insulating phases (blue) for the system from Eq.
+(14) in the ky −r plane.
+The x-components of the momenta, in the presence of the ﬂux α, are constrained to lie in the 134 magnetic Brillouin zone where two successive points differ by ±2πα.
+For example, kx can be assigned 135 the discrete values 2πα ℓ, where ℓ= 0, 1, .
+.
+.
+Q −1.
+Using this notation, we denote the momentum 136 Version July 6, 2016 submitted to Condens.
+Matter 10 of 13 Figure 5.
+Energy spectrum from Eq.
+(19) for r = 1 as a function of (i) α in the left panel, and (ii) ky at α = 3/5 in the right panel.
+space wavefunction as ψℓ(k) ≡ψ(k + 2πα ℓˆ kx).
+The hopping matrix, obtained from H1, is then 137 given by: 138 Tk,ℓ,k′,ℓ′ = δk,k′  M1(kx, ℓ) δℓ,ℓ′ + M2(ky) δℓ+1,ℓ′ + M† 2(ky) δℓ−1,ℓ′  , M1(kx, ℓ) = J ei(kx+2πα ℓ) Ux + h.c. = J    0 e−i(kx+2πα ℓ) ei(kx+2πα ℓ) ei(kx+2πα ℓ) 0 e−i(kx+2πα ℓ) e−i(kx+2πα ℓ) ei(kx+2πα ℓ) 0   , M2(ky) = −Jeiky 3    1 2 −2 2 1 2 −2 2 1   .
+(22) The dispersion relations can be found by solving: 139 ˜ M1(kx, ℓ) ψℓ(k) −M2(ky) ψℓ+1(k) −M† 2(ky) ψℓ−1(k) = 0 , ˜ M1(kx, ℓ) = [G0(ωr + iη)]−1 I3×3 −M1(kx, ℓ) , (23) where we have analytically continued to real frequencies as i ω →ωr + iη.
+In other words, we have 140 to solve the 3Q × 3Q matrix equation: 141          ˜ M1(kx, 0) −2 ℜ[M2(ky)] 0 0 0 .
+.
+0 0 0 −2 ℜ[M2(ky)] ˜ M1(kx, 1) −2 ℜ[M2(ky)] 0 0 .
+.
+0 0 0 0 −2 ℜ[M2(ky)] ˜ M1(kx, 2) −2 ℜ[M2(ky)] 0 .
+.
+0 0 0 .
+.
+.
+.
+.
+.
+.
+.
+0 0 .
+.
+.
+.
+.
+.
+.
+.
+0 0 0 0 0 0 0 .
+.
+0 −2 ℜ[M2(ky)] ˜ M1(kx, Q −1)          = 0 .
+(24) The value of the critical hopping parameter J = Jc is obtained when the gap between the lowest 142 particle excitation energy and the highest hole excitation energy goes to zero.
+The Mott lobes for 143 α = (0, 1/2) are shown in Fig.
+(6).
+144 5.
+Discussion 145 To summarise, we have extended existing studies of ultracold atoms in artiﬁcial U(2) gauge 146 potentials to the case of U(3).
+In doing so, we have considered background gauge ﬁelds with both 147 Version July 6, 2016 submitted to Condens.
+Matter 11 of 13 Figure 6.
+The Mott lobes obtained from the critical values of J/U.
+The solid blue (dotted red) curve corresponds to α = 0 (1/2).
+non-constant and constant Wilson loops.
+We ﬁnd that the spectrum for the constant Wilson loop case 148 exhibits a fractal structure very similar to the well-studied abelian case of Hofstader’s.
+Systems with 149 irrational ﬂuxes have been shown to undergo metal-insulator transitions as the hopping parameters 150 are tuned.
+We have also shown the effect of such a gauge potential in the speciﬁc case of the Mott 151 insulator and for superﬂuid transition for bosonic ultracold atoms subjected to rational ﬂux-values.
+152 There are certain similarities observed with the U(2) cases.
+For the metal-insulator transition in 153 Sec.
+3.2, the behaviour of the extended/localized states in the ky-r plane are similar to that in the U(2) 154 case [32].
+Again, for the superﬂuid-insulator transition in Sec.
+4.2, the presence of the U(3) ﬂux led to 155 a suppression of the values of Jc with respect to the zero ﬂuz case.
+Such suppression was also found 156 in the U(2) case [42].
+157 In general, it might be easier to simulate U(2) gauge potentials rather than U(3) or higher gauge 158 group potentials in cold atom experiments.
+While systems with U(2) gauge potential can be useful to 159 study fermions with the spin degree of freedom, which is what we ﬁnd in condensed matter systems, 160 the simulation of U(3) gauge potentials may open the path to study QCD-like systems.
+161 Our study opens several pathways towards future work involving these systems.
+For instance, 162 in the fractal case, the Chern numbers for the emerging energy bands can be calculated leading to 163 the identiﬁcation of the various topological phases.
+Further, while for the scope of this work, we 164 have limited ourselves to the simplest case of square lattice, it will be interesting to study cases with 165 other structures such as triangular and honeycomb lattices.
+Future exploration along these directions 166 will give a better theoretical understanding of such systems.
+It will also help in optimising design 167 related decisions for experiments in the ﬁeld and suggest the experimental signatures one ought to 168 go hunting for.
+169 Acknowledgments: IM is supported by NSERC of Canada and the Templeton Foundation.
+AB is supported by 170 the Fonds de la Recherche Scientiﬁque-FNRS under grant number 4.4501.15.
+In addition AB is grateful for the 171 hospitality provided by the Perimeter Institute during the completion of the work.
+Research at the Perimeter 172 Institute is supported, in part, by the Government of Canada through Industry Canada and by the Province of 173 Ontario through the Ministry of Research and Information.
+174 Author Contributions: I.M.
+conceived and set up the problem and the equations; A.B.
+wrote numerical codes 175 for solving the equations and plotting the data obtained.
+176 Bibliography 177 1.
+Bloch, I.; Dalibard, J.; Zwerger, W. Many-body physics with ultracold gases.
+Rev.
+Mod.
+Phys.
+2008, 178 80, 885–964.
+179 2.
+Lewenstein, M.; Sanpera, A.; Ahuﬁnger, V.; Damski, B.; Sen, A.; Sen, U. Ultracold atomic gases in optical 180 lattices: mimicking condensed matter physics and beyond.
+Advances in Physics 2007, 56, 243–379.
+181 3.
+Juzeli¯ unas, G.; Ruseckas, J.; Dalibard, J. Generalized Rashba-Dresselhaus spin-orbit coupling for cold 182 atoms.
+Phys.
+Rev.
+A 2010, 81, 053403.
+183 Version July 6, 2016 submitted to Condens.
+Matter 12 of 13 4.
+Dalibard, J.; Gerbier, F.; Juzeli¯ unas, G.; Öhberg, P. Colloquium : Artiﬁcial gauge potentials for neutral 184 atoms.
+Rev.
+Mod.
+Phys.
+2011, 83, 1523–1543.
+185 5.
+Banerjee, D.; Dalmonte, M.; Müller, M.; Rico, E.; Stebler, P.; Wiese, U.J.
+; Zoller, P. Atomic Quantum 186 Simulation of Dynamical Gauge Fields Coupled to Fermionic Matter: From String Breaking to Evolution 187 after a Quench.
+Physical Review Letters 2012, 109, 175302.
+188 6.
+Goldman, N.; Satija, I.; Nikolic, P.; Bermudez, A.; Martin-Delgado, M.A.
+; Lewenstein, M.; Spielman, I.B.
+189 Realistic Time-Reversal Invariant Topological Insulators with Neutral Atoms.
+Phys.
+Rev.
+Lett.
+2010, 190 105, 255302.
+191 7.
+Bermudez, A.; Mazza, L.; Rizzi, M.; Goldman, N.; Lewenstein, M.; Martin-Delgado, M.A.
+Wilson 192 Fermions and Axion Electrodynamics in Optical Lattices.
+Phys.
+Rev.
+Lett.
+2010, 105, 190404.
+193 8.
+Mazza, L.; Bermudez, A.; Goldman, N.; Rizzi, M.; Martin-Delgado, M.A.
+; Lewenstein, M. An 194 optical-lattice-based quantum simulator for relativistic ﬁeld theories and topological insulators.
+New 195 Journal of Physics 2012, 14, 015007.
+196 9.
+Goldman, N.; Kubasiak, A.; Bermudez, A.; Gaspard, P.; Lewenstein, M.; Martin-Delgado, M.A.
+197 Non-Abelian Optical Lattices: Anomalous Quantum Hall Effect and Dirac Fermions.
+Phys.
+Rev.
+Lett.
+198 2009, 103, 035301.
+199 10.
+Bermudez, A.; Goldman, N.; Kubasiak, A.; Lewenstein, M.; Martin-Delgado, M.A.
+Topological phase 200 transitions in the non-Abelian honeycomb lattice.
+New Journal of Physics 2010, 12, 033041.
+201 11.
+Ho, T.L.
+Bose-Einstein Condensates with Large Number of Vortices.
+Phys.
+Rev.
+Lett.
+2001, 87, 060403.
+202 12.
+Jaksch, D.; Zoller, P. Creation of effective magnetic ﬁelds in optical lattices: the Hofstadter butterﬂy for 203 cold neutral atoms.
+New Journal of Physics 2003, 5, 56.
+204 13.
+Mueller, E.J.
+Artiﬁcial electromagnetism for neutral atoms: Escher staircase and Laughlin liquids.
+Phys.
+205 Rev.
+A 2004, 70, 041603.
+206 14.
+Sørensen, A.S.; Demler, E.; Lukin, M.D.
+Fractional Quantum Hall States of Atoms in Optical Lattices.
+207 Phys.
+Rev.
+Lett.
+2005, 94, 086803.
+208 15.
+Juzeli¯ unas, G.; Öhberg, P.; Ruseckas, J.; Klein, A.
+Effective magnetic ﬁelds in degenerate atomic gases 209 induced by light beams with orbital angular momenta.
+Phys.
+Rev.
+A 2005, 71, 053614.
+210 16.
+Juzeli¯ unas, G.; Öhberg, P. Slow Light in Degenerate Fermi Gases.
+Phys.
+Rev.
+Lett.
+2004, 93, 033602.
+211 17.
+Lin, Y.J.
+; Compton, R.L.
+; Jiménez-García, K.; Porto, J.V.
+; Spielman, I.B.
+Synthetic magnetic ﬁelds for 212 ultracold neutral atoms.
+Nature 2009, 462, 628–632.
+213 18.
+Lin, Y.J.
+; Compton, R.L.
+; Perry, A.R.
+; Phillips, W.D.
+; Porto, J.V.
+; Spielman, I.B.
+Bose-Einstein Condensate 214 in a Uniform Light-Induced Vector Potential.
+Physical Review Letters 2009, 102, 130401.
+215 19.
+Bhat, R.; Holland, M.J.; Carr, L.D.
+Bose-Einstein Condensates in Rotating Lattices.
+Phys.
+Rev.
+Lett.
+2006, 216 96, 060405.
+217 20.
+Polini, M.; Fazio, R.; MacDonald, A.H.; Tosi, M.P.
+Realization of Fully Frustrated Josephson-Junction 218 Arrays with Cold Atoms.
+Phys.
+Rev.
+Lett.
+2005, 95, 010401.
+219 21.
+Bhat, R.; Krämer, M.; Cooper, J.; Holland, M.J. Hall effects in Bose-Einstein condensates in a rotating 220 optical lattice.
+Phys.
+Rev.
+A 2007, 76, 043601.
+221 22.
+Tung, S.; Schweikhard, V.; Cornell, E.A.
+Observation of Vortex Pinning in Bose-Einstein Condensates.
+222 Phys.
+Rev.
+Lett.
+2006, 97, 240402.
+223 23.
+Klein, A.; Jaksch, D. Phonon-induced artiﬁcial magnetic ﬁelds in optical lattices.
+EPL (Europhysics Letters) 224 2009, 85, 13001.
+225 24.
+Hu, Y.X.
+; Miniatura, C.; Wilkowski, D.; Grémaud, B. U(3) artiﬁcial gauge ﬁelds for cold atoms.
+Phys.
+Rev.
+226 A 2014, 90, 023601.
+227 25.
+Hofstadter, D.R.
+Energy levels and wave functions of Bloch electrons in rational and irrational magnetic 228 ﬁelds.
+Phys.
+Rev.
+B 1976, 14, 2239–2249.
+229 26.
+Goldman, N. Spatial patterns in optical lattices submitted to gauge potentials.
+EPL (Europhysics Letters) 230 2007, 80, 20001.
+231 27.
+Palmer, R.N.
+; Jaksch, D. High-Field Fractional Quantum Hall Effect in Optical Lattices.
+Phys.
+Rev.
+Lett.
+232 2006, 96, 180407.
+233 28.
+Goldman, N.; Gaspard, P. Quantum Hall-like effect for cold atoms in non-Abelian gauge potentials.
+EPL 234 (Europhysics Letters) 2007, 78, 60001.
+235 Version July 6, 2016 submitted to Condens.
+Matter 13 of 13 29.
+Hafezi, M.; Sørensen, A.S.; Lukin, M.D.
+; Demler, E. Characterization of topological states on a lattice with 236 Chern number.
+EPL (Europhysics Letters) 2008, 81, 10005.
+237 30.
+Osterloh, K.; Baig, M.; Santos, L.; Zoller, P.; Lewenstein, M. Cold Atoms in Non-Abelian Gauge Potentials: 238 From the Hofstadter "Moth" to Lattice Gauge Theory.
+Phys.
+Rev.
+Lett.
+2005, 95, 010403.
+239 31.
+Ruseckas, J.; Juzeli¯ unas, G.; Öhberg, P.; Fleischhauer, M. Non-Abelian Gauge Potentials for Ultracold 240 Atoms with Degenerate Dark States.
+Phys.
+Rev.
+Lett.
+2005, 95, 010404.
+241 32.
+Satija, I.I.
+; Dakin, D.C.; Vaishnav, J.Y.
+; Clark, C.W.
+Physics of a two-dimensional electron gas with cold 242 atoms in non-Abelian gauge potentials.
+Phys.
+Rev.
+A 2008, 77, 043410.
+243 33.
+Jacob, A.; Öhberg, P.; Juzeli¯ unas, G.; Santos, L. Landau levels of cold atoms in non-Abelian gauge ﬁelds.
+244 New Journal of Physics 2008, 10, 045022.
+245 34.
+Jacob, A.; Öhberg, P.; Juzeli¯ unas, G.; Santos, L. Cold atom dynamics in non-Abelian gauge ﬁelds.
+Applied 246 Physics B: Lasers and Optics 2007, 89, 439–445.
+247 35.
+Juzeli¯ unas, G.; Ruseckas, J.; Jacob, A.; Santos, L.; Öhberg, P. Double and Negative Reﬂection of Cold 248 Atoms in Non-Abelian Gauge Potentials.
+Physical Review Letters.
+249 36.
+Barnett, R.; Boyd, G.R.
+; Galitski, V. SU(3) Spin-Orbit Coupling in Systems of Ultracold Atoms.
+Phys.
+Rev.
+250 Lett.
+2012, 109, 235308.
+251 37.
+Graß, T.; Chhajlany, R.W.
+; Muschik, C.A.
+; Lewenstein, M. Spiral spin textures of a bosonic Mott insulator 252 with SU(3) spin-orbit coupling.
+Phys.
+Rev.
+B 2014, 90, 195127.
+253 38.
+Goldman, N.; Kubasiak, A.; Gaspard, P.; Lewenstein, M. Ultracold atomic gases in non-Abelian gauge 254 potentials: The case of constant Wilson loop.
+Phys.
+Rev.
+A 2009, 79, 023624.
+255 39.
+Sengupta, K.; Dupuis, N. Mott-insulator–to–superﬂuid transition in the Bose-Hubbard model: A 256 strong-coupling approach.
+Phys.
+Rev.
+A 2005, 71, 033629.
+257 40.
+Freericks, J.K.; Krishnamurthy, H.R.
+; Kato, Y.; Kawashima, N.; Trivedi, N. Strong-coupling expansion 258 for the momentum distribution of the Bose-Hubbard model with benchmarking against exact numerical 259 results.
+Phys.
+Rev.
+A 2009, 79, 053631.
+260 41.
+Sinha, S.; Sengupta, K. Superﬂuid-insulator transition of ultracold bosons in an optical lattice in the 261 presence of a synthetic magnetic ﬁeld.
+EPL (Europhysics Letters) 2011, 93, 30005.
+262 42.
+Graß, T.; Saha, K.; Sengupta, K.; Lewenstein, M. Quantum phase transition of ultracold bosons in the 263 presence of a non-Abelian synthetic gauge ﬁeld.
+Phys.
+Rev.
+A 2011, 84, 053632.
+264 c ⃝2016 by the authors.
+Submitted to Condens.
+Matter for possible open access publication under the terms and 265 conditions of the Creative Commons Attribution license (http://creativecommons.org/licenses/by/4.0/).
+266

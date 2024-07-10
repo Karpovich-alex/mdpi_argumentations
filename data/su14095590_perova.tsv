@@ -1,0 +1,354 @@
+side	opponent	round	number	attacks	ann	text
+					0	Author Response Please see the attachment.
+					0	Author Response File: Author Response.pdf
+					0	Author Response Please see the attachment.
+					0	Author Response File: Author Response.pdf
+					0	Author Response Please see the attachment.
+					0	Author Response File: Author Response.pdf
+					0	Author Response Please see the attachment.
+					0	Author Response File: Author Response.pdf
+					0	Author Response Please see the attachment.
+					0	Author Response File: Author Response.pdf
+					0	Author Response Please see the attachment.
+					0	Author Response File: Author Response.pdf
+					0	Author Response Please see the attachment.
+					0	Author Response File: Author Response.pdf
+					0	Author Response Please see the attachment.
+					0	Author Response File: Author Response.pdf
+Reviewer_1	Author	1	1	0	2	Thank you for giving the opportunity to read such an interesting paper.
+Reviewer_1	Author	1	2	0	2	For a better and accurate model I recommend the authors to eliminate from the model the extreme value.
+Reviewer_1	Author	1	2	0	2	For example in Fig 2.
+Reviewer_1	Author	1	2	0	2	- workers values greater then 40, community greater than 58, environment 45, customers 46 (the bullets), in Fig 3 - values with global score greater than 130, in Fig.
+Reviewer_1	Author	1	2	0	2	5 also all the bullets.
+Reviewer_1	Author	1	2	0	2	Then repeat all the statistical analysis.
+Reviewer_1	Author	1	3	0	2	In lines 391-395 I would prefer an Sk and Ku between -1 and 1.
+Reviewer_1	Author	1	3	0	2	You have some values that are not included in this interval - maybe because of the outliers from the figures above that I recommend to exclude.
+					0	Overall the information presented it makes sense to me.
+Reviewer_2	Author	1	1	0	2	Excellent work.
+Reviewer_2	Author	1	1	0	2	Very well structured, with a critical and current problem.
+Reviewer_2	Author	1	1	0	2	Keep it on in your future researches.
+Reviewer_3	Author	1	1	0	2	The paper is interesting; however, it is not clear what the authors are trying to achieve with this study.
+Reviewer_3	Author	1	1	0	2	The authors test a popular assessment tool using confirmatory factor analysis and finds that the model is weak.
+Reviewer_3	Author	1	1	0	2	However, there is no in-depth discussion or recommendations that follow.
+Reviewer_3	Author	1	1	0	2	In fact, the discussion needs to be grounded in previous research findings in regard to CSR/sustainability indices/assessment tools/initiatives.
+Reviewer_3	Author	1	1	0	2	Unfortunately, I am really not sure what the point is here.
+Reviewer_3	Author	1	2	0	2	Further, the hypothesis does not seem to be written correctly.
+Reviewer_3	Author	1	2	0	2	First, it should be stated prior to the methods section.
+Reviewer_3	Author	1	2	0	2	Second, currently it is descriptive.
+Reviewer_3	Author	1	2	0	2	In other words, it doesn't state what the authors are trying to test in this study.
+Reviewer_3	Author	1	3	0	2	Unfortunately, I cannot recommend publication unless major changes are made to the discussion section and possibly recommendations are added for future research and practice.
+Reviewer_4	Author	1	1	0	2	The paper is well structured and presented in a very meaningful manner.
+Reviewer_4	Author	1	1	0	2	It definitely adds a value to the existed literature.
+					0	There are minor corrections to be considered.
+					0	This includes:
+Reviewer_4	Author	1	2	0	2	Line 169 page 4, studies [28] & [29] do not reference to any presented argument(s) unless the preceding para.
+Reviewer_4	Author	1	3	0	2	The word of Table in all text should start with capital letter (e.g.
+Reviewer_4	Author	1	3	0	2	Line 199, L. 223)
+Reviewer_4	Author	1	4	0	2	Paragraph presented after Table 2 (page 7) is a repetitive content to what has been presented in the Table.
+Reviewer_4	Author	1	4	0	2	It could be removed or move to footnote.
+Reviewer_4	Author	1	5	0	2	It is better to show the P-values in Table 3 rather than (***) although a note is indicated in this regard.
+Reviewer_4	Author	1	6	0	2	Very good practical recommendations and criticism to the B Corp certification have been presented in the last para.
+Reviewer_4	Author	1	6	0	2	of section (6).
+Reviewer_4	Author	1	6	0	2	No any future research recommendations have been suggested by the respected authors.
+					0	References list is well prepared.
+					0	Title:
+Reviewer_5	Author	1	1	0	2	The title demands a review because there isn’t a connection between the first part and the second one.
+Reviewer_5	Author	1	1	0	2	We understand what the authors intend to inform us after reading the paper.
+Reviewer_5	Author	1	1	0	2	Even though this was clear to me, the title doesn’t show the real idea developed in the paper.
+Reviewer_5	Author	1	1	0	2	The objective is a good guide for the title.
+					0	Abstract:
+Reviewer_5	Author	1	2	0	2	The content is well organized, but the results need some to attract the reader.
+Reviewer_5	Author	1	2	0	2	What is the main result of the B assessment with the confirmatory analysis?
+Reviewer_5	Author	1	2	0	2	Besides, the contribution isn’t clear here.
+					0	Introduction:
+Reviewer_5	Author	1	3	0	2	This section demands more attention because there are some empty spaces to fill.
+Reviewer_5	Author	1	3	0	2	The authors should explain better what is B Impact Assessment.
+Reviewer_5	Author	1	3	0	2	What is its contribution to the structure of a model using Confirmatory Analysis?
+Reviewer_5	Author	1	3	0	2	For me, lines 39 and 40 show the aim of the paper, but the idea is different from the ones presented in the abstract (“The main objective is to understand the B Impact Assessment, verifying its added value in the sustainability process and socio-economic development of the business sector”).
+Reviewer_5	Author	1	3	0	2	The sentence in the Introduction is more complete than the main objective in the Abstract.
+Reviewer_5	Author	1	3	0	2	The ‘areas’ represent a broader goal than the main dimensions of sustainability (Triple Bottom Line).
+					0	Literature review:
+Reviewer_5	Author	1	4	0	2	The lines from 70 to 82 could be summarized, and cut and paste in the Introduction section.
+Reviewer_5	Author	1	4	0	2	I suggest cutting the text from lines 90 to 103 because it’s quite an advertisement for the B Certificate.
+Reviewer_5	Author	1	4	0	2	The content in this section is exclusively dedicated to the Certification and the Corporation which offers it, there isn’t any scientific information there.
+Reviewer_5	Author	1	4	0	2	The section demands a literature review about the theme, as the relationship between the certificate with adding value, sustainability, and the ‘areas’ governance, workers, community, environment, and customers.
+Reviewer_5	Author	1	4	0	2	What is the idea of the assessment of sustainability, in these areas?
+Reviewer_5	Author	1	4	0	2	This discussion is the basis of the paper, related to the objective, and connected with Figure 1 presented in the next section, Method.
+					0	Even though the areas are from B Lab, the authors should study and related them to sustainability and value creation.
+Reviewer_5	Author	1	4	0	2	There isn’t a literature review in this work.
+					0	Method:
+Reviewer_5	Author	1	5	0	2	In the Abstract, the objective added an economic dimension to the development, but in lines 180 and 181 the impact to be measured includes just environmental and social.
+Reviewer_5	Author	1	5	0	2	It was not clear to me who is the author of Figure 1, the B Lab, or the authors of this paper?
+Reviewer_5	Author	1	5	0	2	There isn’t a source below the Title of Figure 1, though after that seems that B Corporation is the owner of it.
+Reviewer_5	Author	1	5	0	2	The source of data from all companies in the sample isn’t clear, is B Corporation (site) or authors contact all these companies and did the survey?
+Reviewer_5	Author	1	5	0	2	I understood that the data is from the B Corporation website.
+Reviewer_5	Author	1	5	0	2	I accessed the link available in line 191 and there was a message ‘404 page not found, but when I clicked on ‘What is B Corporation’, I found the ‘areas’ and the steps for a company that intends to assess its practices and be certified.
+Reviewer_5	Author	1	5	0	2	The authors should develop more theory than describe a model which has already existed.
+Reviewer_5	Author	1	5	0	2	Table 2 and the paragraph after it is a repetition of Figure 1 and Table 1, could be cut.
+Reviewer_5	Author	1	5	0	2	It’s clever to reduce the number of companies, though it isn’t clear who contacts the companies, the authors or Company B?
+Reviewer_5	Author	1	5	0	2	The hypothesis is interesting when they come from a discussion in the literature review to the field research to test a theory (models, methods, frameworks, etc).
+Reviewer_5	Author	1	5	0	2	Suddenly, appears one in the Method section, in a paper with a limited presentation of a technical model/certificate from an existed company.
+					0	Results:
+Reviewer_5	Author	1	6	0	2	The sentence from line 137 to line 138 isn’t clear when I saw Figure 6.
+Reviewer_5	Author	1	6	0	2	The authors could use a standard for a plural of index word, ‘indices’ (345) or ‘indexes’ (362).
+Reviewer_5	Author	1	6	0	2	In line 384 the authors should substitute ‘chapter’ for ‘section’.
+Reviewer_5	Author	1	6	0	2	The authors presented and analyzed the variables/areas of certification with many models, it is interesting and is a basis for analysis in the next section.
+					0	Discussion:
+Reviewer_5	Author	1	7	0	2	In the first sentence, what is the topic that the authors mentioned?
+Reviewer_5	Author	1	7	0	2	What source provided that information?
+Reviewer_5	Author	1	7	0	2	The analysis is interesting, but demands more comparisons and explanations for cuts and adds.
+Reviewer_5	Author	1	7	0	2	For me, the answer to Hypothesis 1 isn’t clear.
+Reviewer_5	Author	1	7	0	2	The authors should reflect the presence of that in the text.
+Reviewer_5	Author	1	7	0	2	The Cronbach’s Alpha ‘selected’ just ‘environment’ area of the B Lab model.
+Reviewer_5	Author	1	7	0	2	This is an interesting result, which could be more analyzed with other assessment models presented in the text, to say what the authors wrote at the end of the section.
+Reviewer_5	Author	1	8	0	2	Conclusion: I just see one objective, but in the first sentence the authors wrote ‘objectives’.
+Reviewer_5	Author	1	8	0	2	Where are they?
+Reviewer_5	Author	1	8	0	2	The suggestions are interesting, but demand more analysis in the previous section.
+					0	Congratulation!
+					0	Thank you for your revisions.
+Reviewer_4	Author	3	3	0	2	The text has some improvements, but there are some points that still demand more attention.
+					0	Comments for author File: Comments.pdf
+					0	1 Response to Reviewer 1 Comments Point 1: Thank you for giving the opportunity to read such an interesting paper.
+					0	Response 1:
+Author	Reviewer_4	2	8	1	3	Thank you.
+Author	Reviewer_1	2	1	1	1	We very much appreciate the contributions.
+					0	Point 2: For a better and accurate model I recommend the authors to eliminate from the model the extreme value.
+					0	For example in Fig 2.
+					0	- workers values greater then 40, community greater than 58, environment 45, customers 46 (the bullets), in Fig 3 - values with global score greater than 130, in Fig.
+					0	5 also all the bullets.
+					0	Then repeat all the statistical analysis.
+					0	Response 2:
+Author	Reviewer_1	2	3	3	2	Thank you for your suggestion.
+Author	Reviewer_1	2	2	2	1	An analysis of extreme values was carried out, using univariate and multivariate detection methods.
+Author	Reviewer_1	2	2	2	1	The analysis resulted in the elimination of 34 univariate extreme values and 2 multivariate extreme values.
+Author	Reviewer_1	2	2	2	1	All statistical analysis was repeated considering a database of 520 companies.
+					0	Point 3: In lines 391-395 I would prefer an Sk and Ku between -1 and 1.
+					0	You have some values that are not included in this interval - maybe because of the outliers from the figures above that I recommend to exclude.
+					0	Response 3: Thank you for your suggestion.
+Author	Reviewer_1	2	3	3	1	We researched more literature on the subject and adopted a more moderate perspective for assessing normality (|Sk|>2-3, |Ku|>7-10 and |KuMult|>10).
+Author	Reviewer_1	2	3	3	1	As you mention, with the elimination of the extreme values, the skewness and kurtosis values improved significantly, approaching the range -1 to 1.
+					0	Point 4: Overall the information presented it makes sense to me.
+					0	Response 4: Thank you.
+					0	1 Response to Reviewer 2 Comments Point 1: Excellent work.
+					0	Very well structured, with a critical and current problem.
+					0	Keep it on in your future researches.
+					0	Response 1: Thank you.
+Author	Reviewer_4	2	8	1	2	We very much appreciate the comment.
+					0	1 Response to Reviewer 3 Comments Point 1: The paper is interesting; however, it is not clear what the authors are trying to achieve with this study.
+					0	The authors test a popular assessment tool using confirmatory factor analysis and finds that the model is weak.
+					0	However, there is no in-depth discussion or recommendations that follow.
+					0	In fact, the discussion needs to be grounded in previous research findings in regard to CSR/sustainability indices/assessment tools/initiatives.
+					0	Unfortunately, I am really not sure what the point is here.
+					0	Response 1:
+Author	Reviewer_5	2	21	8	8	Thank you for the suggestions.
+Author	Reviewer_3	2	5	1	1	The discussion section has been improved and future research recommendations have been added in the conclusions.
+					0	Point 2: Further, the hypothesis does not seem to be written correctly.
+					0	First, it should be stated prior to the methods section.
+					0	Second, currently it is descriptive.
+					0	In other words, it doesn't state what the authors are trying to test in this study.
+					0	Response 2:
+Author	Reviewer_5	2	14	1	2	Thank you for the suggestion.
+Author	Reviewer_3	2	6	2	1	The hypothesis was removed since, as mentioned, it doesn't state what we are trying to test in this study.
+Author	Reviewer_5	2	18	5	2	Factor analysis involves the examination of interdependence relationship, so it shouldn’t be expressed as a hypothesis that establishes dependence relationships.
+					0	Point 3: Unfortunately, I cannot recommend publication unless major changes are made to the discussion section and possibly recommendations are added for future research and practice.
+					0	Response 3:
+Author	Reviewer_3	2	7	3	1	Major changes have been made to the paper.
+Author	Reviewer_3	2	7	3	1	We hope that this new version may deserve your recommendation for publication.
+					0	1 Response to Reviewer 4 Comments Point 1: The paper is well structured and presented in a very meaningful manner.
+					0	It definitely adds a value to the existed literature.
+					0	Response 1: Thank you.
+					0	We very much appreciate the comment.
+					0	Point 2: There are minor corrections to be considered.
+					0	This includes: • Line 169 page 4, studies [28] & [29] do not reference to any presented argument(s) unless the preceding para.
+					0	• The word of Table in all text should start with capital letter (e.g.
+					0	Line 199, L. 223) • Paragraph presented after Table 2 (page 7) is a repetitive content to what has been presented in the Table.
+					0	It could be removed or move to footnote.
+					0	• It is better to show the P-values in Table 3 rather than (***) although a note is indicated in this regard.
+					0	• Very good practical recommendations and criticism to the B Corp certification have been presented in the last para.
+					0	of section (6).
+					0	No any future research recommendations have been suggested by the respected authors.
+					0	Response 2: Thank you.
+					0	We have made all the minor corrections indicated.
+					0	•
+Author	Reviewer_4	2	9	2	1	The argument associated with studies [28] & [29] was added.
+					0	•
+Author	Reviewer_4	2	10	3	1	The words Table and Figure have all been revised to start with a capital letter.
+					0	•
+Author	Reviewer_4	2	11	4	1	Paragraph presented after Table 2 (page 7) has been moved to footnote.
+					0	• The (***) have been replaced by the p-values (<0.001) in Table - B Impact Assessment - Regression Weights (original model) (current Table 6).
+					0	•
+Author	Reviewer_4	2	13	6	1	Future research recommendations have been added to the conclusions.
+					0	Point 3: References list is well prepared.
+					0	Response 3: Thank you.
+					0	1 Response to Reviewer 5 Comments Point 1: Title: The title demands a review because there isn’t a connection between the first part and the second one.
+					0	We understand what the authors intend to inform us after reading the paper.
+					0	Even though this was clear to me, the title doesn’t show the real idea developed in the paper.
+					0	The objective is a good guide for the title.
+					0	Response 1: Thank you for the suggestion.
+Author	Reviewer_5	2	14	1	1	The title has been clarified in line with the main objective.
+					0	Point 2: Abstract: The content is well organized, but the results need some to attract the reader.
+					0	What is the main result of the B assessment with the confirmatory analysis?
+					0	Besides, the contribution isn’t clear here.
+					0	Response 2: Thank you for the suggestions.
+Author	Reviewer_5	2	15	2	1	The results were improved and the paper's contribution was added.
+					0	Point 3: Introduction: This section demands more attention because there are some empty spaces to fill.
+					0	The authors should explain better what is B Impact Assessment.
+					0	What is its contribution to the structure of a model using Confirmatory Analysis?
+					0	For me, lines 39 and 40 show the aim of the paper, but the idea is different from the ones presented in the abstract (“The main objective is to understand the B Impact Assessment, verifying its added value in the sustainability process and socio-economic development of the business sector”).
+					0	The sentence in the Introduction is more complete than the main objective in the Abstract.
+					0	The ‘areas’ represent a broader goal than the main dimensions of sustainability (Triple Bottom Line).
+					0	Response 3: Thank you for the suggestions.
+Author	Reviewer_5	2	16	3	1	The introduction has been improved, including a better explaination of B Impact Assessment.
+Author	Reviewer_5	2	16	3	1	The use of confirmatory factor analysis has been explained.
+Author	Reviewer_5	2	16	3	1	The aim of the paper was revised in the abstract to be aligned with the one presented in the introduction.
+					0	Point 4: Literature review: The lines from 70 to 82 could be summarized, and cut and paste in the Introduction section.
+					0	I suggest cutting the text from lines 90 to 103 because it’s quite an advertisement for the B Certificate.
+					0	The content in this section is exclusively dedicated to the Certification and the Corporation which offers it, there isn’t any scientific information there.
+					0	The section demands a literature review about the theme, as the relationship between the certificate with adding value, sustainability, and the ‘areas’ governance, workers, community, environment, and customers.
+					0	What is the idea of the assessment of sustainability, in these areas?
+					0	This discussion is the basis of the paper, related to the objective, and connected with Figure 1 presented in the next section, Method.
+Reviewer_5	Author	1	4	0	2	Even 2 though the areas are from B Lab, the authors should study and related them to sustainability and value creation.
+					0	There isn’t a literature review in this work.
+					0	Response 4: Thank you for the suggestions.
+Author	Reviewer_5	2	17	4	1	Lines 70 to 82 have been revised and included in the introduction.
+Author	Reviewer_5	2	17	4	1	Lines 90 to 103 have been revised and decided to be kept in the literature review as they express arguments from important scientific research ( S. Poponi, A. Colantoni, S. R. S. Cividino, and E. M. Mosconi, “The Stakeholders’ perspective within the B corp certification for a circular approach,” Sustain., vol.
+Author	Reviewer_5	2	17	4	1	11, no.
+Author	Reviewer_5	2	17	4	1	6, pp.
+Author	Reviewer_5	2	17	4	1	1–15, 2019, doi: 10.3390/su11061584.
+Author	Reviewer_5	2	17	4	1	/ T. De Mendonca and Y. Zhou, “What does targeting ecological sustainability mean for company financial performance?,” Bus.
+Author	Reviewer_5	2	17	4	1	Strateg.
+Author	Reviewer_5	2	17	4	1	Environ., vol.
+Author	Reviewer_5	2	17	4	1	28, no.
+Author	Reviewer_5	2	17	4	1	8, pp.
+Author	Reviewer_5	2	17	4	1	1583–1593, 2019, doi: 10.1002/bse.2334.
+Author	Reviewer_5	2	17	4	1	/ C. Putnam Rankin and T. L. Matthews, “Patterns of B Corps Certification: The Role of Institutional, Economic, and Political Resources,” Societies, vol.
+Author	Reviewer_5	2	17	4	1	10, no.
+Author	Reviewer_5	2	17	4	1	3, p. 72, 2020, doi: 10.3390/soc10030072.).
+Author	Reviewer_5	2	17	4	1	The literature review was enhanced with scientific information in the fields of sustainability and certification, and, B Lab certification and sustainability.
+					0	Point 5: Method: In the Abstract, the objective added an economic dimension to the development, but in lines 180 and 181 the impact to be measured includes just environmental and social.
+					0	It was not clear to me who is the author of Figure 1, the B Lab, or the authors of this paper?
+					0	There isn’t a source below the Title of Figure 1, though after that seems that B Corporation is the owner of it.
+					0	The source of data from all companies in the sample isn’t clear, is B Corporation (site) or authors contact all these companies and did the survey?
+					0	I understood that the data is from the B Corporation website.
+					0	I accessed the link available in line 191 and there was a message ‘404 page not found, but when I clicked on ‘What is B Corporation’, I found the ‘areas’ and the steps for a company that intends to assess its practices and be certified.
+					0	The authors should develop more theory than describe a model which has already existed.
+					0	Table 2 and the paragraph after it is a repetition of Figure 1 and Table 1, could be cut.
+					0	It’s clever to reduce the number of companies, though it isn’t clear who contacts the companies, the authors or Company B?
+					0	The hypothesis is interesting when they come from a discussion in the literature review to the field research to test a theory (models, methods, frameworks, etc).
+					0	Suddenly, appears one in the Method section, in a paper with a limited presentation of a technical model/certificate from an existed company.
+					0	Response 5: Thank you for the suggestions.
+Author	Reviewer_5	2	18	5	1	The economic dimension has been added in the former lines 180 and 181.
+Author	Reviewer_5	2	18	5	1	We clarify that figure 1 is original and was created by the authors.
+Author	Reviewer_5	2	18	5	1	Regarding the data, we confirm that it was taken from the official website, during the period between March and May 2021.
+Author	Reviewer_5	2	18	5	1	The link provided (https://bcorporation.eu/directory) was the one used.
+Author	Reviewer_5	2	18	5	1	In the meantime, the site has been changed and the directory of certified companies can be found in another link.
+Author	Reviewer_5	2	18	5	1	Table 2 has been eliminated.
+Author	Reviewer_5	2	18	5	1	To avoid the repetition of information in Table 2 and the paragraph after, we followed the recommendations of another reviewer by placing the paragraph as a footnote.
+Author	Reviewer_5	2	18	5	1	The reduction in the number of companies was based on the analysis of the database and information collected from B Lab that allowed us to see that there was a change in the measurement model used in B Corp certification during the period January 2017 and March 2021.
+Author	Reviewer_5	2	18	5	1	Thus, to ensure the 3 consistency of the database and the statistical analysis subsequently performed, we reduced the database to a recent period in which the same measurement model was used.
+Author	Reviewer_5	2	18	5	1	Finally, the hypothesis was removed since, as suggested by another reviewer, it doesn't state what we are trying to test in this study.
+					0	Factor analysis involves the examination of interdependence relationship, so it shouldn’t be expressed as a hypothesis that establishes dependence relationships.
+					0	Point 6: Results: The sentence from line 137 to line 138 isn’t clear when I saw Figure 6.
+					0	The authors could use a standard for a plural of index word, ‘indices’ (345) or ‘indexes’ (362).
+					0	In line 384 the authors should substitute ‘chapter’ for ‘section’.
+					0	The authors presented and analyzed the variables/areas of certification with many models, it is interesting and is a basis for analysis in the next section.
+					0	Response 6: Thank you for the suggestions.
+Author	Reviewer_5	2	19	6	1	"We have replaced the word ""indicator"" with ""aspect"" to eliminate possible confusion with the 5 indicators in the B Impact Assessment Model (Figure 6)."
+Author	Reviewer_5	2	19	6	1	The text has been completely revised and the word 'indices' has been used as the standard.
+Author	Reviewer_5	2	19	6	1	The word ‘chapter’ has been replaced by ‘section’.
+Author	Reviewer_5	2	19	6	1	Finally, we are thankful for the good appreciation to the many models studied in our research.
+					0	Point 7: Discussion: In the first sentence, what is the topic that the authors mentioned?
+					0	What source provided that information?
+					0	The analysis is interesting, but demands more comparisons and explanations for cuts and adds.
+					0	For me, the answer to Hypothesis 1 isn’t clear.
+					0	The authors should reflect the presence of that in the text.
+					0	The Cronbach’s Alpha ‘selected’ just ‘environment’ area of the B Lab model.
+					0	This is an interesting result, which could be more analyzed with other assessment models presented in the text, to say what the authors wrote at the end of the section.
+					0	Response 7: Thank you for the suggestions.
+Author	Reviewer_5	2	20	7	1	The topic is “B Corp certification”.
+Author	Reviewer_5	2	20	7	1	The text has been revised and the source has been added (E. Diez-Busto, L. Sanchez-Ruiz, and A. Fernandez-Laviada, “The b corp movement: A systematic literature review,” Sustain., vol.
+Author	Reviewer_5	2	20	7	1	13, no.
+Author	Reviewer_5	2	20	7	1	5, pp.
+Author	Reviewer_5	2	20	7	1	1–17, 2021, doi: 10.3390/su13052508.).
+Author	Reviewer_5	2	20	7	1	Hypothesis 1 has been removed with the justification provided in response 5.
+Author	Reviewer_5	2	20	7	1	Information was added on Cronbach’s Alpha and its impact on the need for B Impact Assessment improvement.
+					0	Point 8: Conclusion: I just see one objective, but in the first sentence the authors wrote ‘objectives’.
+					0	Where are they?
+					0	The suggestions are interesting, but demand more analysis in the previous section.
+					0	Response 8: Thank you for the suggestions.
+Author	Reviewer_5	2	21	8	1	The word was changed to “objective”.
+Author	Reviewer_5	2	21	8	1	The discussion section has been improved in line with the suggestions made in the conclusion.
+					0	1 Response to Reviewer 1 Comments (round 2) Point 1:
+Reviewer_1	Author	3	1	0	2	English language and style are fine/minor spell check required
+					0	 .
+					0	Response 1:
+Author	Reviewer_3	4	6	4	6	Thanks for the comment.
+Author	Reviewer_3	4	3	1	2	The manuscript has been revised to improve grammar and english language.
+					0	Point 2:
+Reviewer_4	Author	3	1	0	4	Is the content succinctly described and contextualized with respect to previous and present theoretical background and empirical research (if applicable) on the topic?
+Reviewer_4	Author	3	2	0	8	Can be improved.
+					0	Response 2: Thanks for the comment.
+Author	Reviewer_4	4	7	1	3	The manuscript has been revised.
+Author	Reviewer_4	4	7	1	2	The literature review has been improved, and new references have been added (text in blue).
+					0	Point 3: Congratulation!
+					0	Response 3: Thank you!
+Author	Reviewer_4	4	9	3	1	We believe that the reviewers' suggestions have been very helpful in improving the manuscript.
+					0	1 Response to Reviewer 3 Comments (round 2) Point 1:
+Reviewer_3	Author	3	1	0	2	English language and style are fine/minor spell check required .
+					0	Response 1: Thanks for the comment.
+					0	The manuscript has been revised to improve grammar and english language.
+					0	Point 2:
+Reviewer_4	Author	3	2	0	4	Are the research design, questions, hypotheses and methods clearly stated?
+					0	Can be improved.
+					0	Response 2: Thanks for the comment.
+Author	Reviewer_4	4	8	2	2	The method section has been improved (text in blue).
+					0	Point 3:
+Reviewer_3	Author	3	3	0	2	Are the arguments and discussion of findings coherent, balanced and compelling?
+					0	Can be improved.
+					0	Response 3: Thanks for the comment.
+					0	The manuscript has been revised.
+Author	Reviewer_3	4	5	3	1	The discussion and conclusions sections have been improved (text in blue).
+					0	Point 4:
+Reviewer_3	Author	3	4	0	2	Are the conclusions thoroughly supported by the results presented in the article or referenced in secondary literature?
+Reviewer_4	Author	3	1	0	4	Must be improved Response 4: Thanks for the comment.
+Author	Reviewer_3	4	6	4	1	The conclusions section has been improved (text in blue).
+					0	Point 5: Thank you for your revisions.
+					0	Response 5: We believe that the reviewers' suggestions have been very helpful in improving the manuscript.
+					0	Thank you!
+					0	2nd round Title: OK Abstract: OK Introduction: There is an improvement to do in the objective because it is still different from the one presented in the Abstract, and needs a correction to be aligned with the content of the text.
+					0	Seems that verb ‘improve’ isn’t appropriate for ‘impact’, which leads the reader to understand that these impacts are negative, which isn’t true.
+					0	Another correction is related to the ‘size’ of the objective, it's too long, as an example: in the literature review, the authors explained (a first version of the paper) the B model, so it’s not necessary to do this in the objective.
+					0	The authors must add the source of that areas, and it is enough for the objective.
+					0	Abstract: The main objective is to analyze the B Impact Assessment, verifying the robustness and consistency of the model to measure and improve the economic, social, and environmental impact of companies.
+					0	Introduction: This paper analyses the consistency and robustness of B impact assessment as a certification model that helps companies measure and improve their economic, social, and environmental impact in five different areas: governance, workers, community, environment, and customers.
+					0	Reviewer’s suggestion: This paper analyses the consistency and robustness of the B impact assessment model in measuring sustainability impacts in five areas of ?
+					0	???.
+					0	Literature review: There is still work to do discussing the five areas, not just relating them to each dimension of the Triple Bottom Line of the sustainability concept.
+					0	Some authors were added, but for me, this section demands an improvement to enhance the quality of the text, and to turn it into a scientific paper.
+					0	Method: For me, as commented in the first round, Table 2 is a repetition, doesn’t need to be in the text.
+					0	In the first round, I observed and commented that the link in line 191 wasn’t working.
+					0	In the new version, although the authors – in the review response file - recognize that the link changed (“The link provided (https://bcorporation.eu/directory) was the one used.
+					0	In the meantime, the site has been changed and the directory of certified companies can be found in another link.”), they don’t provide the new ones, to prove the source of data in the final paper.
+					0	This link remains in the new version, in line 231.
+					0	I strongly recommend the authors find the new one.
+					0	The authors answer the comments by saying that Figure 1 was done by them, it’s fair to provide this information.
+					0	It’s their signature in the text, so I understand that they deserve this recognition.
+					0	If the rules of the Journal don’t allow to write down the Figures who is the author, I suggest to authors write it in a paragraph before the Fig 1, or in a footnote, according to Editor’s allowance.
+					0	I suggest the explanation given in the reviewers’ response about the decrease of companies in the sample be available in the text (“The reduction in the number of companies was based on the analysis of the database and information collected from B Lab that allowed us to see that there was a change in the measurement model used in B Corp certification during the period January 2017 and March 2021.
+					0	Thus, to ensure the 3 consistency of the database and the statistical analysis subsequently performed, we reduced the database to a recent period in which the same measurement model was used.” Results: I didn’t see ads in Cronbach’s alpha analysis (the text is the same as the first version, see lines 457-486 – new version and compare with an old version from line 405- 433), though there are some adjustments in their numeric results.
+					0	Discussion: The authors made an effort to add more discussion, though no one was about Cronbach’s alpha.
+					0	Conclusion: OK
+					0	1 Response to Reviewer 5 Comments (round 2) Point 1: Is the content succinctly described and contextualized with respect to previous and present theoretical background and empirical research (if applicable) on the topic?
+					0	Must be improved.
+					0	Response 1:
+Author	Reviewer_4	4	9	3	3	Thank you for the comment.
+					0	The manuscript has been revised.
+					0	The literature review has been improved, and new references have been added (text in blue).
+					0	Point 2: Are the research design, questions, hypotheses and methods clearly stated?
+					0	Can be improved.
+					0	Response 2: Thank you for the comment.
+					0	The method section has been improved (text in blue).
+					0	Point 3: The text has some improvements, but there are some points that still demand more attention.
+					0	Response 3: Thank you for the comment.
+Author	Reviewer_4	4	9	3	1	The manuscript has been entirely revised.
+					0	We believe that the reviewers' suggestions have been very helpful in improving the manuscript.

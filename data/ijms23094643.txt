@@ -1,0 +1,42 @@
+Author Response We very much appreciated the reviewer’s suggestion for improving our manuscript.
+Typos and grammatical errors have been corrected throughout the MS.
+The MS has also been edited in response to the comments.
+all of which have been addressed.
+Under the Discussion section, we have included a brief paragraph regarding CONOPS.
+We have further clarified that all four agents approved by the US FDA are radiomitigators for use after radiation exposure (useful for the civilian population) while GT3 is a radioprotector for use prior to radiation exposure (important for military and first responders).
+Author Response Thank you for your review of our manuscript and the positive comments to the study design and conduct.
+We also appreciate the comments that the manuscript was well written and structured.
+This is an important paper, and should be published, since there are limited data available for GI-ARS in nonhuman primates.
+I have included some specific suggestions in the attached pdf document (concerning numerous typos - most highlighted in yellow (e.g., lack of noun/verb agreement), as well as some general comments concerning the text and content.
+One think that I would specifically call out is that it would be helpful to provide additional information and discussion (either in the intro or discussion) about the expected conops where this drug would be useful.
+Recommend a discussion of the difference between pre-exposure administration (for military troops that might be knowingly sent into harm's way, or perhaps first responders), and post-exposure administration (for civilian populations, primarily, who will not know in advance of their exposure).
+GT3 efficacy is for pre-exposure, so is not considered mitigation...also see my note in the text where it is not made clear that other growth factors are effective at +24 hours post-exposure.
+Comments for author File: Comments.pdf
+The author suggest that the vitamin E analog gamma-tocotrienol(GT3) is a promising radio-protectant in nonhuman primates(NHP) with increasing the survival and proliferation of stem cells in intestinal epithelial and crypt.
+This was an excellent report on very thorough study.
+The paper is also generally well written and structured.
+Int.
+J. Mol.
+Sci.
+2021, 22, x. https://doi.org/10.3390/xxxxx www.mdpi.com/journal/ijms Article 1 Effects of gamma-tocotrienol on intestinal injury in a GI-spe- 2 cific acute radiation syndrome model in nonhuman primate 3 Sarita Garg, 1,†,‡ Tarun K. Garg, 2,† Stephen Y.
+Wise, 3,4 Oluseyi O. Fatanmi, 3,4Isabelle R. Miousse, 5Alena V. Sav- 4 enka, 6Alexei G Basnakian, 6,7 Vijay K. Singh 3,4 and Martin Hauer-Jensen 1,* 5 1 Division of Radiation Health, Department of Pharmaceutical Sciences, University of Arkansas for Medical 6 Sciences, Little Rock, AR; 7 2 UAMS Myeloma Center, University of Arkansas for Medical Sciences, Little Rock, AR; 8 3 Division of Radioprotectants, Department of Pharmacology and Molecular Therapeutics, F. Edward Hébert 9 School of Medicine, Uniformed Services University of the Health Sciences, Bethesda, MD; 10 4 Armed Forces Radiobiology Research Institute, Uniformed Services University of the Health Sciences, Be- 11 thesda, MD; 12 5 Department of Biochemistry and Molecular Biology, University of Arkansas for Medical Sciences, Little 13 Rock, AR; 14 6 Department of Pharmacology and Toxicology, University of Arkansas for Medical Sciences, Little Rock, 15 AR; 16 7 John L. McClellan Memorial VA Hospital, Central Arkansas Veterans Healthcare System, Little Rock, AR 17 †These authors contributed equally 18 ‡ Present address: Department of Biochemistry and Molecular Biology, University of Arkansas for Medical 19 Sciences, Little Rock, AR 20 * Correspondence: author: Martin Hauer-Jensen, MD, PhD Division of Radiation Health 4301 West Markham, 21 Slot 522-10 Little Rock, AR 72205 Phone: 501-686-7912;Fax: 501-421-0022 ;E-mail: mhjensen@life.uams.edu 22 Abstract: The gastrointestinal (GI) system is highly susceptible to irradiation.
+Currently, there is no 23 Food and Drug Administration (FDA)-approved medical countermeasures for GI injury.
+The Vita- 24 min E analog gamma-tocotrienol (GT3) is a promising radioprotector in mice and nonhuman pri- 25 mates (NHP).
+We evaluated GT3-mediated GI recovery in total-body irradiated (TBI) NHPs.
+Sixteen 26 rhesus macaques were divided into two groups; eight received vehicle and eight GT3 24 h prior to 27 12 Gy TBI.
+Proximal jejunum was assessed for structural injuries and crypt survival on day 4 and 7.
+28 Apoptotic cell death and crypt cell proliferation were assessed with TUNEL and Ki-67 im- 29 munostaining.
+Irradiation induced significant shortening of the villi and reduced mucosal surface 30 area.
+GT3 induced an increase in crypt depth at day 7 ((p<0.001)), suggesting that more stem cells 31 survived and proliferated after irradiation.
+GT3 did not influence crypt survival after irradiation.
+32 GT3 treatment caused a significant decline in TUNEL-positive cells at both day 4 (p<0.03) and 7 33 (p<0.0003).
+Importantly, GT3 induced a significant increase in Ki-67-positive cells at day 7 (p< 0.05).
+34 These data suggest that GT3 has radioprotective function in intestinal epithelial and crypt cells.
+GT3 35 should be further explored as a prophylactic medical countermeasure for radiation-induced GI in- 36 jury.
+37 Keywords: Gamma-tocotrienol; intestine; radiation; nonhuman primates; radiation countermeas- 38 ure 39 40 1.
+Introduction 41 The increasing risk of exposure to ionizing radiation (IR) due to nuclear or radiolog- 42 ical incident is a serious concern to civilians as well as military encountering the 43 Citation: Garg, S. Effects of gamma- tocotrienol on intestinal injury in a GI-specific acute radiation syndrome model in nonhuman primate.
+Int.
+J. Mol.
+Sci.
+2022, 22, x. https://doi.org/10.3390/xxxxx Academic Editor(s): Received: date Accepted: date Published: date Publisher’s Note: MDPI stays neu- tral with regard to jurisdictional claims in published maps and institu- tional affiliations.
+Copyright:

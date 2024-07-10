@@ -1,0 +1,665 @@
+Author Response Thanks for the reviewer's comments, please see the attachment.
+Author Response File: Author Response.pdf
+Author Response Please see the attachment.
+Author Response File: Author Response.pdf
+Author Response Please see the attachment.
+Author Response File: Author Response.pdf
+Author Response We thank the Reviewer for the nice consideration.
+Author Response Please see the attachment.
+Author Response File: Author Response.pdf
+Author Response Please see the attachment.
+Author Response File: Author Response.pdf
+Please considering the attachment Comments for author File: Comments.pdf
+The present article dealing with the incorporation of HPW on γ-Al2O3, MAP, and MAS for simultaneous esterification and transesterification reactions of biodiesel production using unrefined green seed canola oil, is in the overall well written and contains interesting results.
+However, in the introduction some important references on the use of heteropolyacids are missed.
+Please improve the introduction and discussion citing some recent references dealing with HPW supported on different oxides, such as TiO2, ZrO2, CeO2, SiO2, highlighting the effect of the interaction of the heteropoliacids with the supports.
+The part related to NH3-TPD must be revised.
+The only TCD is not appropriate for the evaluation of the NH3 desorbed, another detector such as QM or specific analysers should be considered.
+Moreover, no details about experimental details are given.
+So the suggestion is to revise such part.
+Manuscript Number: catalysts-1676411 Full Title: Comparative catalytic performance study of HPW/MAP and HPW/MAS catalysts in simultaneous esterification and transesterification of unrefined green seed canola oil Remarks to the Authors: The authors studied the esterification and transesterification of unrefined green seed canola oil over HPW/MAP, HPW/MAS, and HPW/γ-Al2O3 catalysts in a 100 mL Parr reactor at 200 °C with 600 rpm for 7 h under 4 MPa.
+The authors characterized synthesized catalysts by BET, XRD, NH3-TPD, TGA, and TEM analyses.
+The highest biodiesel yield (82.3%) was achieved over the HPW/MAS catalyst, which possessed the highest acidity and surface area.
+I think that the topic of this investigation is in the scope of MDPI Catalysts and can be interesting for the journal audience.
+At the same time, I have found some weaknesses in the manuscript body.
+In my opinion, this work can be considered for publication in MDPI Catalysts only after major revision.
+Please find my comments below.
+The title must be corrected/improved.
+The authors did not mention the HPW/γ-Al2O3 Moreover, I recommend the authors decrypt or exclude abbreviations in the title.
+The authors must mention in the abstract obtained product (biodiesel).
+Did the authors analyze the real catalyst composition?
+I think this information should be provided in Table 2.
+ICP-OES or XRF analyses can be useful.
+How the authors can explain the average pore size increasing for the HPW/MAP catalyst compared to MAP (Table 2), while for the other HPW catalysts it was observed opposite effect?
+How the pore size distribution curves were built?
+Based on adsorption or desorption volume?
+This information must be presented in the manuscript.
+The carbon and/or mass balance must be provided.
+The authors should decrypt the type of percent for the obtained product yield.
+I recommend the authors compare their achieved catalytic results with well-known literature data in a table format and include it in the Results and Discussion section.
+How the authors can explain decreasing of total acidity (Table 3) over the HPW/Al2O3 catalyst while other HPW supported catalysts showed reverse results?
+How the authors can make a statement about Bronsted acidity based on NH3-TPD?
+For these conclusions, the authors should utilize a Pyridine-DRIFTS technique.
+What about the Lewis acid sites (LAS)?
+Why did the authors exclude LAS from the discussion?
+This must be explained.
+Moreover, the authors mentioned Lewis site in the proposed mechanism of HPW immobilization on MAS.
+The authors said: “According to them, the intensity of peaks in the range of 100-300 °C, which is related to the mild Bronsted acidity”.
+What about the weak acid cites in this temperature range?
+Why did not the authors discuss it?
+This needs to be elucidated.
+The authors have been cleared all my piont.
+The authors tried to improve their manuscript and new references have been added.
+However, the characterization of the acidic properties is still very lacking and the manuscript cannot be accepted in the current form.
+The quality of figures 6 (a, c) is very poor, the signals are really noisy.
+The authors revised the experimental part, specifing that :"the spectrum for the desorption of NH3 was recorded with TCD with temperature rise 169 from100°C to 700°C for the evaluation of the NH3 desorbed and total acidity" but the signals are stopped at 600 °C.
+On the other hand considering that supported HPWs have been calcined at 450 °C, a TPD process at temperature > 450 °C doesn't make a sense, unless the authors investigate the thermal stability of their samples at T > 450 °C.
+Other point: XRD patterns are very poor, except that one for HPW.
+Please, register again and correct the strange behaviour at 2 theta < 10°.
+Manuscript Number: catalysts-1676411R1 Full Title: Comparative catalytic performance study of 12-tungstophosphoric heteropoly acid supported on mesoporous supports for biodiesel production from unrefined green seed canola oil Remarks to the Authors: The authors significantly improved their manuscript but still some improvements are needed.
+Please find my comments below.
+1.
+The authors should provide the quantification of Pyridine-DRIFTS results and include these results in Table 3 with additional columns such as BAS, LAS, LAS/BAS.
+To present just spectra in Fig.
+3 is not enough.
+Also, these results should be discussed and compared with NH3-TPD results.
+How the authors can explain so big discrepancy between Pyridine-DRIFTS and NH3-TPD analyses for the HPW/Al2O3 and HPW/MAS catalysts?
+2.
+Please include more details about the Pyridine-DRIFTS analysis to the 2.6.
+Catalyst characterization techniques.
+3.
+The authors said: “Larger average pore size of HPW/MAP compared to that of MAP could be due to the occupation or blockage of the mesopores of the support with HPW anions”.
+But this statement is against the logic.
+How the average pore size can INCREASE after occupation or blockage of the mesopores of the support?
+Why the authors did not observe the same effect for the HPW/Al2O3 and HPW/MAS catalysts?
+Maybe the authors just have experimental errors for the HPW/MAP catalyst?
+According to the reference that the authors provided, there was mentioned about “the development of abnormalities in the pores”.
+It can be another explanation.
+1 Article Title: Comparative catalytic performance study of HPW/MAP and HPW/MAS catalysts in simultaneous esterification and transesterification of unrefined green seed canola oil Overall 1.
+The novelty and the advantages of this manuscript did not express cleared.
+Great efforts must be made to explain the novelty of your study, especially in introduction.
+2.
+The English writing is good, but there are some errors need to correct.
+3.
+In the part of "Results and Discussion", more correlation of catalyst structure and its performance could be established.
+4.
+In the methodology has not been provided information regarding the lower p/p¬0 range from which the measurement stars.
+The pore size distribution provides in Figure 2 starts from approx.
+2.5 nm, although the pores relevant for the accessible SSA for the supercapacitors starts from c.a.
+1 nm, so the assessment does not include them due to application of the too-high p/p0 initial point.
+Selection of the too high value of the initial p/p0 point leads to an artificial shift of the pore size distribution, hence not reliable as well as information obtained from it.
+Was that considered during the selection of the pressure range for the N2 adsorption assessment?
+Also, was the CO2 adsorption considered as the micropore assessment method?
+5.
+To determine the BET surface area the amount of the material used for the experiment is affecting the surface area calculations.
+Can the authors disclose the exact amount of each material for BET analysis?
+6.
+BET results: why the surface area of HPW/MAP is quite decreased compared to MAP.
+but the average pore size is increased?
+The author needs to play attention in this result.
+7.
+Considering on the Figure 1b, the full isotherm of HPW/MAP is weird compared to others impregnated samples.
+It looks like this material has collapsed on its structure rather than pore blocking by HPW.
+8.
+The pore size distribution in Figure 2b and 2 c is weird, this is due to the point for full isotherm is not appropriated.
+The authors need to check the point.
+9.
+What kind of isotherms that the author uses for calculation in this manuscript?
+10.
+The condition and amount of material used for the experiment are affecting the total acidity.
+Can the authors disclose the exact amount of each material for this analysis?
+2 11.
+The baseline is also important.
+How does the authors calculate the total acidity?
+The authors could also provide the information for calculation because the total amount is very unusual.
+12.
+The type of acid needs to analyze in deep detail and could provide in this manuscript.
+The acidity of bare HPW could also provide for camparison.
+13.
+XRD results: it is interesting provide the low angle XRD data for confirm the characteristic of mesoporous types.
+14.
+What is the active species on the surface of each catalyst?
+The author must identify and provide (may be used XPS for analysis) because this work is focused to study the enhancement of catalysts after by HPW.
+15.
+To improve the quality of the manuscript, the comparison in HPW immobilization on the MAS and MAP need to include 16.
+It is not clear in Table 2 and 3, why some sample the author provides some  error but not all for those samples?
+17.
+The comparison of the results obtained in this paper should be compared with similar work already published.
+What is the conclusion and originality of this work compared with already published one?
+1 (Manuscript ID: catalysts-1676411) The authors thank the Reviewers for excellent comments on the manuscript.
+The itemized response to each comment is given below and the manuscript is modified accordingly.
+These modifications helped to improve the quality of the manuscript.
+The discussion added to the manuscript are based on the Reviewers’ comments and are highlighted in the rebuttals below.
+Also, please note that the title of the manuscript is slightly shortened.
+Reviewer #2 1.
+The novelty and the advantages of this manuscript did not express cleared.
+Great efforts must be made to explain the novelty of your study, especially in introduction.
+Our response: We thank the Reviewer for this comment.
+Based on this input, new information is added to the revised manuscript (please see lines 81-84 on page 2) as follows: To our knowledge, no study has explored the potential of MAP as a support material for immobilized HPW and for its application in biodiesel production.
+Besides, a novel and simple hydrothermal method was used for synthesis of MAS, which has not been investigated before.
+2.
+The English writing is good, but there are some errors need to correct.
+Our response: We thank the Reviewer for this comment.
+Based on the comments, the manuscript is modified to make it free from errors.
+3.
+In the part of "Results and Discussion", more correlation of catalyst structure and its performance could be established.
+Our response: This input has helped to improve the quality of the manuscript.
+New information is added to the revised manuscript (Please see lines 202-205, 239-243, and 349-351 on pages 5, 8, and 16, respectively), which are given as follows: The BET data confirm the suitability of these support materials due to their high surface area and appropriate porosity for HPW immobilization, which are important physical properties for enhancing catalytic activity.
+The suitable incorporation of Keggin anion on the surface of support materials verified by XRD, can be attributed to the difference in the pore size of the support materials (γ-Al2O3= 7.5 nm, MAP= 4.7 nm, and MAS= 5 nm) and Keggin anion (1.2 nm).
+This can facilitate the uniform dispersion of HPW on the surface of support materials preventing agglomeration of HPW.
+As HPW supported catalysts are not sensitive to water, the formation of water during the reaction has no adverse effect on their catalytic activity, which can be maintained during the process.
+4.
+In the methodology, no information has not been provided regarding the lower p/p¬0 range from which the measurement starts.
+The pore size distribution provided in Figure 2 starts from approx.
+2.5 nm, although the pores relevant for the accessible SSA for the supercapacitors starts from c.a.
+1 nm, so the assessment does not include them due to application of the too-high p/p0 initial point.
+2 Selection of the too high value of the initial p/p0 point leads to an artificial shift of the pore size distribution, hence not reliable as well as information obtained from it.
+Was that considered during the selection of the pressure range for the N2 adsorption assessment?
+Also, was the CO2 adsorption considered as the micropore assessment method?
+Our response: The initial point of p/p0, in which the measurement started, was around 0.05 for all the materials.
+The primary objective of this work was to use inorganic mesoporous catalysts for esterification and transesterification reactions.
+Because of the nature of our reactants, microporous materials introduce diffusion limitations in the catalyst and therefore are avoided.
+The theory which best explains pore structure in the mesopore range (2-50 nm) is the Barrett–Joyner– Halenda (BJH) model.
+The BJH method is based on the Kelvin equation and corrected for multilayer adsorption.
+However, due to the quadrupolar moment in nitrogen, any pores smaller than 1 nm cannot be accurately characterized by this model.
+CO adsorption technique is most reliable for carbon-based materials like activated carbon or multiwalled carbon nano-tubes and was therefore not considered for this study.
+5.
+To determine the BET surface area, the amount of the material used for the experiment is affecting the surface area calculations.
+Can the authors disclose the exact amount of each material for BET analysis?
+Our response: For each BET measurement, 0.2 g of catalyst sample was used (Please see lines 153 on page 4 in modified manuscript).
+6.
+BET results: why the surface area of HPW/MAP is quite decreased compared to MAP, but the average pore size is increased?
+The author needs to play attention in this result.
+Our response: We thank the Reviewer for this comment.
+Larger average pore size of HPW/MAP compared to that that of MAP could be due to the occupation or blockage of the mesopores of the support with HPW anions.
+Similar finding is reported for TPA anchored to two mesoporous aluminosilicate (MAS-7, MAS-9) in the literature [30].
+Please see lines 184-187 on page 5.
+30.
+A. Kurhade, J. Zhu, Y. Hu, and A. K. Dalai, “Surface Investigation of Tungstophosphoric Acid Supported on Ordered Mesoporous Aluminosilicates for Biodiesel Synthesis,” ACS Omega, vol.
+3, pp.
+14064–14075, 2018.
+7.
+Considering on the Figure 1b, the full isotherm of HPW/MAP is weird compared to others impregnated samples.
+It looks like this material has collapsed on its structure rather than pore blocking by HPW.
+Our response: Our response is explained in the manuscript for all the HPW support materials (Please see lines196-200 on page 5).
+After impregnation of HPW on MAP, the general shape of HPW supported MAP isotherm was considerably alike with MAP and hysteresis loops remained in the same region of relative pressure 3 similar to other impregnated samples.
+This shows that the loading of HPW on MAP does not affect its mesoporous structure.
+8.
+The pore size distribution in Figure 2b and 2c is weird, this is due to the point for full isotherm is not appropriated.
+The authors need to check the point.
+Our response: The initial point of p/, in which the measurement was made, is around 0.05 for all the materials.
+9.
+What kind of isotherms that the author uses for calculation in this manuscript?
+Our response: This is explained in the manuscript (Please see lines 190-191 on page 5) as follows: All samples indicate IV type of isotherms based on IUPAC classification that shows the mesoporous structure of these catalysts [31].
+31.
+W. Roschat, T. Siritanon, B. Yoosuk, T. Sudyoadsuk, and V. Promarak, “Rubber seed oil as potential non-edible feedstock for biodiesel production using heterogeneous catalyst in Thailand,” Renew.
+Energy, vol.
+101, pp.
+937–944, 201.
+10.
+The condition and amount of material used for the experiment are affecting the total acidity.
+Can the authors disclose the exact amount of each material for this analysis?
+Our response: For each TPD experiment, 0.04 g of catalyst sample was used (Please see 164 on page 4).
+11.
+The baseline is also important.
+How does the authors calculate the total acidity?
+The authors could also provide the information for calculation because the total amount is very unusual.
+Our response: For this work, according to the cited article as follow; the total acidity of the materials was calculated by integrating the curve from TPD data and comparing the data with those of standard samples in temperature range from 100 °C to 700 °C.
+This is added in lines 263-265 on page 10 in the revised manuscript.
+12.
+The type of acid needs to analyze in deep detail and could provide in this manuscript.
+The acidity of bare HPW could also provide for comparison.
+Our response: We thank the Reviewer for this comment.
+New explanations on the types of acids and Pyridine FTIR analysis are added to the manuscript (Please see lines 306-315, and 217-229 on page 13, and 8, respectively).
+The existence of both Lewis and Bronsted acid sites on the solid acid catalysts are essential in developing simultaneous esterification and transesterification reactions for biodiesel production.
+Lewis acid catalyst is favorable to ease the transesterification reaction, while for facilitating esterification reaction, Bronsted acidic sites play a significant role.
+Regarding the HPW supported catalysts used in this research study, alumina and the synthesized support materials provide Lewis acid sites, and HPW provides the Bronsted acidic sites.
+Therefore, immobilization of HPW on 4 these support materials that possess both Bronsted and Lewis acidic sites is favorable for biodiesel production through simultaneous esterification and transesterification reactions [16, 40].
+16.
+A. Gaurav, S. Dumas, C. T. Q. Mai, and F. T. T. Ng, “A kinetic model for a single step biodiesel production from a high free fatty acid (FFA) biodiesel feedstock over a solid heteropolyacid catalyst,” Green Energy Environ., vol.
+4, no.
+3, pp.
+328–341, 2019.
+40.
+J. Gupta, M. Agarwal, and A. K. Dalai, “An overview on the recent advancements of sustainable heterogeneous catalysts and prominent continuous reactor for biodiesel production,” J. Ind.
+Eng.
+Chem., 2020.
+Pyridine FTIR was carried out to identify the type of acid sites (Bronsted and Lewis acids) in synthesized HPW/MAS, HPW/MAP, and HPW/ γ-Al2O3 catalysts.
+As illustrated in Fig., five characteristic peaks at 1446, 1487, 1537, 1600, and 1634 cm-1 were observed in all supported HPW catalysts.
+The band at 1446 cm-1 is related to the hydrogen bonded pyridine which correlates to Lewis acid sites.
+The band at 1487 is attributed to the presence of both Bronsted and Lewis acid sites.
+The characteristic peaks at around 1537 and 1634 correspond to Bronsted acid sites, while the peak at approximately 1600 can be attributed to the bond formed between pyridine and Al3+ Lewis acid sites of all the catalysts.
+The obtained results confirm the presence of both types of acid sites in the synthesized catalysts [30, 33].
+30.
+A. Kurhade, J. Zhu, Y. Hu, and A. K. Dalai, “Surface Investigation of Tungstophosphoric Acid Supported on Ordered Mesoporous Aluminosilicates for Biodiesel Synthesis,” ACS Omega, vol.
+3, pp.
+14064–14075, 2018.
+33.
+A. Kurhade, J. Zhu, A. K. Dalai, J. Zhu, Y. Hu, and A. K. Dalai, “Meso-Structured HPW-MAS ‑ 7 and HPW-MAS ‑ 9 Composite Catalysts for Biodiesel Synthesis from Unre fi ned Green Seed Canola Oil,” Fuel Process.
+Technol., vol.
+3, no.
+August, pp.
+14064–14075, 2018.
+Figure 3.
+FTIR spectra after pyridine desorption of (a) HPW/MAS, (b) HPW/MAP, and (c) HPW/ γ-Al2O3.
+13.
+XRD results: it is interesting provide the low angle XRD data for confirm the characteristic of mesoporous types.
+5 Our response: We thank the Reviewer for the suggestion.
+We consider providing low angle XRD data for our future works.
+14.
+What is the active species on the surface of each catalyst?
+The author must identify and provide (may be used XPS for analysis) because this work is focused to study the enhancement of catalysts after by HPW.
+Our response: The presence of HPW on support material was verified successfully by XRD results.
+Besides, TEM images confirm the suitable dispersion of HPW on the support materials.
+Furthermore, ICP-OES characterization technique was added to identify the metal concentration in all the HPW supported catalysts and the information was added to the manuscript and Table 2 (Please see lines 175-177 on page 4).
+This is also given below: The textural features of support materials and HPW supported catalysts obtained from BET analysis and the concentration of tungsten (W) in HPW supported catalysts obtained from ICP- OES technique are represented in Table.
+2.
+Table 2.
+Textural features and metal concentration in catalysts.
+Catalyst BET surface area (m2/g) Total pore volume (cm3/g) Average pore size (nm) ICP-OES W (wt.
+%) γ-Al2O3 297 0.82 7.5 - HPW/ γ-Al2O3 195 0.50 7.2 23.2 MAP 581 0.14 4.7 - HPW/MAP 111 0.08 5.1 22.5 MAS 703 ± 9 0.99 ± 0.03 5.0 ± 0.7 - HPW/MAS 504 0.68 4.4 22.8 15.
+To improve the quality of the manuscript, the comparison in HPW immobilization on the MAS and MAP need to include Our response: The comparison between the performances of HPW/MAS and HPW/MAP is explained based on the characterizations provided in this manuscript.
+Accordingly, more information is added in conclusions (lines 371-375 on page 17) as follows: Both synthesized support materials of MAP and MAS provide high surface area and suitable porosity for immobilization of HPW, however, according to the results obtained, using HPW/MAS led to a better biodiesel yield (82.3%) compared to HPW/MAP (78.3%), which can be attributed to the higher surface area and acidity of HPW/MAS with 504.3 m2/g and 1111 µmol/g, respectively.
+16.
+It is not clear in Table 2 and 3, why some sample the author provides some error but not all for those samples?
+6 Our response: In this research, same instrument is used for all the materials, so the error is likely to be close for all of them.
+Therefore, only a few samples were examined several times to obtain the error.
+17.
+The comparison of the results obtained in this paper should be compared with similar work already published.
+What is the conclusion and originality of this work compared with already published one?
+Our response: The information on the similar works is added both in the introduction (lines 70- 79 on page 2) and also in catalytic activity section (lines 333-336 and Table 4 on pages 14 and 15, respectively).
+This is also given below.
+Various support materials were employed for immobilization of heteropoly acids for different applications.
+Srilatha et al.
+[26] studied the esterification reaction of palmitic acid using TPA supported on ZrO2 catalysts.
+This resulted in ~95% conversion of palmitic acid to biodiesel with better reusability confirming strong interaction between TPA and ZrO2.
+Kumbar et al.
+[27] reported the use of TiO2 supported TPA as a suitable solid acid catalyst in alkylation process.
+It is reported that titanium oxide improved the catalytic activity, which attributed to the strong attachment between TiO2 and the active phase.
+H4SiW12O40-SiO2, synthesized by one-step method, was used for biodiesel production [28].
+H4SiW12O40 was successfully loaded inside the mesoporous channels of -SiO2 which enhanced reusability and diffusion of reactants.
+26.
+K. Srilatha, N. Lingaiah, P. S. Sai Prasad, B. L. A. Prabhavathi Devi, and R. B. N. Prasad, “Kinetics of the esterification of palmitic acid with methanol catalyzed by 12-tungstophosphoric acid supported on ZrO2,” React.
+Kinet.
+Mech.
+Catal., vol.
+104, no.
+1, pp.
+211–226, 2011.
+27.
+S. M. Kumbar, G. V. Shanbhag, F. Lefebvre, and S. B. Halligudi, “Heteropoly acid supported on titania as solid acid catalyst in alkylation of p-cresol with tert-butanol,” J. Mol.
+Catal.
+A Chem., vol.
+256, no.
+1–2, pp.
+324– 334, 2006.
+28.
+K. Yan, G. Wu, J. Wen, and A. Chen, “One-step synthesis of mesoporous H4SiW12O 40-SiO2 catalysts for the production of methyl and ethyl levulinate biodiesel,” Catal.
+Commun., vol.
+34, pp.
+58–63, 2013.
+Table 4 shows the reaction conditions of some similar work that used HPW supported catalysts for biodiesel production.
+Accordingly, the amount of catalyst used in this study is less than that in most of the other studies, which can have a significant impact on the cost of production.
+Table 4.
+Tungstophosphoric supported catalysts for biodiesel production.
+Catalyst Reaction conditions Conversion or yield (wt.
+%) Ref.
+HPA/MK700 Temperature= 200 °C, reaction time= 2 h, alcohol to oil molar ratio = 10, catalyst loading= 10 wt.% Conversion= 83.0 [29] H4SiW12O40-SiO2 Temperature= 65 °C, reaction time= 6 h, catalyst loading= 20 wt.% Yield= 73.0 [28] TPA/SBA-15 Temperature= 65 °C, reaction time= 8 h, alcohol to oil molar ratio= 8, catalyst loading= 0.3 g Conversion= 86.0 [41] 7 TPA/zeolite Hβ Temperature= 60 °C, reaction time= 6 h, alcohol to oil molar ratio= 20, catalyst loading= 30 wt.% Conversion= 84.0 [42] TPA/SnO2 Temperature= 65 °C, reaction time= 200 min, alcohol to oil molar ratio= 14, catalyst loading= 1 g Conversion= 81.2 [43] HPW/ γ-Al2O3 Temperature= 200 °C, reaction time= 7 h, alcohol to oil molar ratio= 20, catalyst loading= 3 wt.% Yield= 64.2 This study HPW/ MAP Temperature= 200 °C, reaction time= 7 h, alcohol to oil molar ratio= 20, catalyst loading= 3 wt.% Yield= 78.3 This study HPW/ MAS Temperature= 200 °C, reaction time= 7 h, alcohol to oil molar ratio= 20, catalyst loading= 3 wt.% Yield= 82.3 This study 29.
+K. Yan, G. Wu, J. Wen, and A. Chen, “One-step synthesis of mesoporous H4SiW12O 40-SiO2 catalysts for the production of methyl and ethyl levulinate biodiesel,” Catal.
+Commun., vol.
+34, pp.
+58–63, 2013.
+28.
+L. H. O. Pires et al., “Esterification of a waste produced from the palm oil industry over 12-tungstophosforic acid supported on kaolin waste and mesoporous materials,” Appl.
+Catal.
+B Environ., vol.
+160–161, no.
+1, pp.
+122– 128, 2014.
+41.
+N. Narkhede, V. Brahmkhatri, and A. Patel, “Efficient synthesis of biodiesel from waste cooking oil using solid acid catalyst comprising 12-tungstosilicic acid and SBA-15,” Fuel, vol.
+135, pp.
+253–261, 2014.
+42.
+A. Patel and N. Narkhede, “12-tungstophosphoric acid anchored to zeolite Hβ: Synthesis, characterization, and biodiesel production by esterification of oleic acid with methanol,” Energy and Fuels, vol.
+26, no.
+9, pp.
+6025– 6032, 2012.
+43.
+K. Srilatha, C. Ramesh Kumar, B. L. A. Prabhavathi Devi, R. B. N. Prasad, P. S. Sai Prasad, and N. Lingaiah, “Efficient solid acid catalysts for esterification of free fatty acids with methanol for the production of biodiesel,” Catal.
+Sci.
+Technol., vol.
+1, no.
+4, pp.
+662–668, 2011.
+Furthermore, the novelty of this work compared to the other studies is highlighted in the introduction (Please see lines 81-84 on page 2).
+Please see the text earlier to edit the following lines.
+To our knowledge, no study has explored the potential of MAP as a support material for HPW immobilization and its application for biodiesel production.
+Besides, the employment of HPW/MAS for biodiesel production in which a novel hydrothermal synthesis method was used for MAS synthesis, has not been investigated before.
+1 (Manuscript ID: catalysts-1676411) The authors thank the Reviewers for excellent comments on the manuscript.
+The itemized response to each comment is given below and the manuscript is modified accordingly.
+These modifications helped to improve the quality of the manuscript.
+The discussion added to the manuscript are based on the Reviewers’ comments and are highlighted in the rebuttals below.
+Also, please note that the title of the manuscript is slightly shortened.
+Reviewer Comments: Reviewer #1 The present article dealing with the incorporation of HPW on γ-Al2O3, MAP, and MAS for simultaneous esterification and transesterification reactions of biodiesel production using unrefined green seed canola oil, is overall well written and contains interesting results.
+However, in the introduction some important references on the use of heteropolyacids are missed.
+Please improve the introduction and discussion citing some recent references dealing with HPW supported on different oxides, such as TiO2, ZrO2, CeO2, SiO2, highlighting the effect of the interaction of the heteropoly acids with the supports.
+The part related to NH3-TPD must be revised.
+The only TCD is not appropriate for the evaluation of the NH3 desorbed, another detector such as QM or specific analysers should be considered.
+Moreover, no details about experimental details are given.
+So the suggestion is to revise such part.
+Our response: We thank the Reviewer for nice comments.
+Based on the recommendation, new references are added to the introduction with papers related to the use of HPW supported catalysts.
+Please see lines 70-79 on page 2 in the revised manuscript as follows: Various support materials were employed for immobilization of heteropoly acids for different applications.
+Srilatha et al.
+[26] studied the esterification reaction of palmitic acid using TPA supported on ZrO2 catalysts.
+This resulted in ~95% conversion of palmitic acid to biodiesel with better reusability confirming strong interaction between TPA and ZrO2.
+Kumbar et al.
+[27] reported the use of TiO2 supported TPA as a suitable solid acid catalyst in alkylation process.
+It is reported that titanium oxide improved the catalytic activity, which attributed to the strong attachment between TiO2 and the active phase.
+H4SiW12O40-SiO2, synthesized by one-step method, was used for biodiesel production [28].
+H4SiW12O40 was successfully loaded inside the mesoporous channels of -SiO2 which enhanced reusability and diffusion of reactants.
+26.
+K. Srilatha, N. Lingaiah, P. S. Sai Prasad, B. L. A. Prabhavathi Devi, and R. B. N. Prasad, “Kinetics of the esterification of palmitic acid with methanol catalyzed by 12-tungstophosphoric acid supported on ZrO2,” React.
+Kinet.
+Mech.
+Catal., vol.
+104, no.
+1, pp.
+211–226, 2011.
+27.
+S. M. Kumbar, G. V. Shanbhag, F. Lefebvre, and S. B. Halligudi, “Heteropoly acid supported on titania as solid acid catalyst in alkylation of p-cresol with tert-butanol,” J. Mol.
+Catal.
+A Chem., vol.
+256, no.
+1–2, pp.
+324– 334, 2006.
+28.
+K. Yan, G. Wu, J. Wen, and A. Chen, “One-step synthesis of mesoporous H4SiW12O 40-SiO2 catalysts for the production of methyl and ethyl levulinate biodiesel,” Catal.
+Commun., vol.
+34, pp.
+58–63, 2013.
+2 For TPD experiment, the sample was first pretreated in helium at 300 C for half an hour.
+The temperature was then decreased to room temperature in flowing helium (20 mL/min).
+Catalyst sample was then saturated with 15% NH3 in helium at a flow rate of 20 mL/min.
+Then the sample temperature was increased at a ramp rate of 10C/min with a constant helium flow rate of 20mL/min and the spectrum for the desorption of NH3 was recorded with TCD with temperature rise from100C to 700C for the evaluation of the NH3 desorbed and total acidity.
+This procedure is added in lines 164-170 on page 4 in the revised manuscript.
+1 (Manuscript ID: catalysts-1676411) The authors thank the Reviewers for excellent comments on the manuscript.
+The itemized response to each comment is given below and the manuscript is modified accordingly.
+These modifications helped to improve the quality of the manuscript.
+The discussion added to the manuscript are based on the Reviewers’ comments and are highlighted in the rebuttals below.
+Also, please note that the title of the manuscript is slightly shortened.
+Reviewer Comments: Reviewer #3 The authors studied the esterification and transesterification of unrefined green seed canola oil over HPW/MAP, HPW/MAS, and HPW/γ-Al2O3 catalysts in a 100 mL Parr reactor at 200 °C with 600 rpm for 7 h under 4 MPa.
+The authors characterized synthesized catalysts by BET, XRD, NH3-TPD, TGA, and TEM analyses.
+The highest biodiesel yield (82.3%) was achieved over the HPW/MAS catalyst, which possessed the highest acidity and surface area.
+I think that the topic of this investigation is in the scope of MDPI Catalysts and can be interesting for the journal audience.
+At the same time, I have found some weaknesses in the manuscript body.
+In my opinion, this work can be considered for publication in MDPI Catalysts only after major revision.
+Please find my comments below.
+Our response: We thank the Reviewer for the comments.
+Based on the comments, the manuscript is modified.
+1.
+The title must be corrected/improved.
+The authors did not mention the HPW/γ-Al2O3 Moreover, I recommend the authors decrypt or exclude abbreviations in the title.
+Our response: The title was changed to “Comparative catalytic performance study of 12- tungstophosphoric heteropoly acid supported on mesoporous supports for biodiesel production from unrefined green seed canola oil” 2.
+The authors must mention in the abstract obtained product (biodiesel).
+Our response: Thanks to the Reviewer for this comment.
+The “biodiesel” product is added in the abstract of the revised manuscript 3.
+Did the authors analyze the real catalyst composition?
+I think this information should be provided in Table 2.
+ICP-OES or XRF analyses can be useful.
+Our response: We thank the Reviewer for this comment.
+ICP-OES characterization technique was added to identify the metal concentration in all the HPW supported catalysts and the information was added to the manuscript and Table 2 (Please see lines 175-177 on page 4).This is also given below: 2 The textural features of support materials and HPW supported catalysts obtained from BET analysis and the concentration of tungsten (W) in HPW supported catalysts obtained from ICP- OES technique are represented in Table.
+2.
+Table 2.
+Textural features and metal concentration in catalysts.
+Catalyst BET surface area (m2/g) Total pore volume (cm3/g) Average pore size (nm) ICP-OES W (wt.
+%) γ-Al2O3 297 0.82 7.5 - HPW/ γ-Al2O3 195 0.50 7.2 23.2 MAP 581 0.14 4.7 - HPW/MAP 111 0.08 5.1 22.5 MAS 703 ± 9 0.99 ± 0.03 5.0 ± 0.7 - HPW/MAS 504 0.68 4.4 22.8 4.
+How the authors can explain the average pore size increasing for the HPW/MAP catalyst compared to MAP (Table 2), while for the other HPW catalysts it was observed opposite effect?
+Our response: We thank the Reviewer for this comment.
+Larger average pore size of HPW/MAP compared to that that of MAP could be due to the occupation or blockage of the mesopores of the support with HPW anions.
+Similar finding is reported for TPA anchored to two kinds of mesoporous aluminosilicate (MAS-7, MAS-9) in the literature [30].
+Please see lines 184-187 on page 5.
+30.
+A. Kurhade, J. Zhu, Y. Hu, and A. K. Dalai, “Surface Investigation of Tungstophosphoric Acid Supported on Ordered Mesoporous Aluminosilicates for Biodiesel Synthesis,” ACS Omega, vol.
+3, pp.
+14064–14075, 2018.
+5.
+How the pore size distribution curves were built?
+Based on adsorption or desorption volume?
+This information must be presented in the manuscript.
+Our response: The information is added to the manuscript (Please see lines 209-210 on page 6) as follows.
+Pore size distribution curves (Fig.
+2) is derived using BJH technique based on adsorption volume data.
+6.
+The carbon and/or mass balance must be provided.
+Our response: Since the objective of this study is to obtain the maximum yield of biodiesel, the amount of unreacted materials and by-products were not calculated.
+However, to response to the Reviewer’s comments, regarding simultaneous esterification and transesterification reactions using HPW/MAS as the best catalyst, the amounts of unrefined green seed canola oil and methanol used as reactants were 35 g, and 25.6, respectively.
+The obtained amount of methyl ester (biodiesel) was 28.8 g (yield: 82.3%).
+Therefore the remaining amount which is 31.8 g contain the unreacted reactants (methanol and oil), and by products (water and glycerol).
+3 7.
+The authors should decrypt the type of percent for the obtained product yield.
+Our response: The wt.
+percentage of biodiesel yield was obtained based on the weight of methyl ester over weight of oil phase multiplied by 100.
+Please see lines 147-148 on page 4 as follows: Ester yield (%) = (weight of methyl ester/ weight of oil phase) × 100 8.
+I recommend the authors compare their achieved catalytic results with well-known literature data in a table format and include it in the Results and Discussion section.
+Our response: The information on the similar works is added both in the introduction (lines 70- 79 on page 2) and also in catalytic activity section (lines 333-336 and Table 4 on pages 14 and 15, respectively).
+This is also given below.
+Various support materials were employed for immobilization of heteropoly acids for different applications.
+Srilatha et al.
+[26] studied the esterification reaction of palmitic acid using TPA supported on ZrO2 catalysts.
+This resulted in ~95% conversion of palmitic acid to biodiesel with better reusability confirming strong interaction between TPA and ZrO2.
+Kumbar et al.
+[27] reported the use of TiO2 supported TPA as a suitable solid acid catalyst in alkylation process.
+It is reported that titanium oxide improved the catalytic activity, which attributed to the strong attachment between TiO2 and the active phase.
+H4SiW12O40-SiO2, synthesized by one-step method, was used for biodiesel production [28].
+H4SiW12O40 was successfully loaded inside the mesoporous channels of -SiO2 which enhanced reusability and diffusion of reactants.
+26.. K. Srilatha, N. Lingaiah, P. S. Sai Prasad, B. L. A. Prabhavathi Devi, and R. B. N. Prasad, “Kinetics of the esterification of palmitic acid with methanol catalyzed by 12-tungstophosphoric acid supported on ZrO2,” React.
+Kinet.
+Mech.
+Catal., vol.
+104, no.
+1, pp.
+211–226, 2011.
+27.
+S. M. Kumbar, G. V. Shanbhag, F. Lefebvre, and S. B. Halligudi, “Heteropoly acid supported on titania as solid acid catalyst in alkylation of p-cresol with tert-butanol,” J. Mol.
+Catal.
+A Chem., vol.
+256, no.
+1–2, pp.
+324– 334, 2006.
+28.
+K. Yan, G. Wu, J. Wen, and A. Chen, “One-step synthesis of mesoporous H4SiW12O 40-SiO2 catalysts for the production of methyl and ethyl levulinate biodiesel,” Catal.
+Commun., vol.
+34, pp.
+58–63, 2013.
+Table 4 shows the reaction conditions of some similar work that used HPW supported catalysts for biodiesel production.
+Accordingly, the amount of catalyst used in this study is less than that in most of the other studies, which can have a significant impact on the cost of production.
+Table 4.
+Tungstophosphoric supported catalysts for biodiesel production.
+Catalyst Reaction conditions Conversion or yield (wt.
+%) Ref.
+HPA/MK700 Temperature= 200 °C, reaction time= 2 h, alcohol to oil molar ratio = 10, catalyst loading= 10 wt.% Conversion= 83.0 [29] H4SiW12O40-SiO2 Temperature= 65 °C, reaction time= 6 h, catalyst loading= 20 wt.% Yield= 73.0 [28] 4 TPA/SBA-15 Temperature= 65 °C, reaction time= 8 h, alcohol to oil molar ratio= 8, catalyst loading= 0.3 g Conversion= 86.0 [41] TPA/zeolite Hβ Temperature= 60 °C, reaction time= 6 h, alcohol to oil molar ratio= 20, catalyst loading= 30 wt.% Conversion= 84.0 [42] TPA/SnO2 Temperature= 65 °C, reaction time= 200 min, alcohol to oil molar ratio= 14, catalyst loading= 1 g Conversion= 81.2 [43] HPW/ γ-Al2O3 Temperature= 200 °C, reaction time= 7 h, alcohol to oil molar ratio= 20, catalyst loading= 3 wt.% Yield= 64.2 This study HPW/ MAP Temperature= 200 °C, reaction time= 7 h, alcohol to oil molar ratio= 20, catalyst loading= 3 wt.% Yield= 78.3 This study HPW/ MAS Temperature= 200 °C, reaction time= 7 h, alcohol to oil molar ratio= 20, catalyst loading= 3 wt.% Yield= 82.3 This study 29.
+K. Yan, G. Wu, J. Wen, and A. Chen, “One-step synthesis of mesoporous H4SiW12O 40-SiO2 catalysts for the production of methyl and ethyl levulinate biodiesel,” Catal.
+Commun., vol.
+34, pp.
+58–63, 2013.
+28.
+L. H. O. Pires et al., “Esterification of a waste produced from the palm oil industry over 12-tungstophosforic acid supported on kaolin waste and mesoporous materials,” Appl.
+Catal.
+B Environ., vol.
+160–161, no.
+1, pp.
+122– 128, 2014.
+41.
+N. Narkhede, V. Brahmkhatri, and A. Patel, “Efficient synthesis of biodiesel from waste cooking oil using solid acid catalyst comprising 12-tungstosilicic acid and SBA-15,” Fuel, vol.
+135, pp.
+253–261, 2014.
+42.
+A. Patel and N. Narkhede, “12-tungstophosphoric acid anchored to zeolite Hβ: Synthesis, characterization, and biodiesel production by esterification of oleic acid with methanol,” Energy and Fuels, vol.
+26, no.
+9, pp.
+6025–6032, 2012.
+43.
+K. Srilatha, C. Ramesh Kumar, B. L. A. Prabhavathi Devi, R. B. N. Prasad, P. S. Sai Prasad, and N. Lingaiah, “Efficient solid acid catalysts for esterification of free fatty acids with methanol for the production of biodiesel,” Catal.
+Sci.
+Technol., vol.
+1, no.
+4, pp.
+662–668, 2011.
+9.
+How the authors can explain decreasing of total acidity (Table 3) over the HPW/Al2O3 catalyst while other HPW supported catalysts showed reverse results?
+Our response: The difference between the acidity of γ-Al2O3 compared to HPW/γ-Al2O3 is less than one percent.
+After HPW immobilization, the total acidity does not have any significant change for HPW/MAS and HPW/MAP, but for all of them the weak acidity increased to moderate acidity as shown in Table 3, indicating the higher acidity for all the HPW supported catalysts in the range of 300- 500 °C compared to their related bare support material.
+10.
+How the authors can make a statement about Bronsted acidity based on NH3-TPD?
+For these conclusions, the authors should utilize a Pyridine-DRIFTS technique.
+Our response: Thanks to the Reviewer for mentioning this point.
+Based on TPD ammonia, only the acidity of the catalysts can be determined and we have removed the statement of Bronsted acidity, which was an error.
+Pyridine FTIR analysis was added to the manuscript (Please see lines 217-229 on page 8) to show the types of active sites (Bronsted and Lewis acid) as follow: 5 Pyridine FTIR was carried out to identify the type of acid sites (Bronsted and Lewis acids) in synthesized HPW/MAS, HPW/MAP, and HPW/ γ-Al2O3 catalysts.
+As illustrated in Fig., five characteristic peaks at 1446, 1487, 1537, 1600, and 1634 cm-1 were observed in all supported HPW catalysts.
+The band at 1446 cm-1 is related to the hydrogen bonded pyridine which correlates to Lewis acid sites.
+The band at 1487 is attributed to the presence of both Bronsted and Lewis acid sites.
+The characteristic peaks at around 1537 and 1634 correspond to Bronsted acid sites, while the peak at approximately 1600 can be attributed to the bond formed between pyridine and Al3+ Lewis acid sites of all the catalysts.
+The obtained results confirm the presence of both types of acid sites in the synthesized catalysts [30, 33].
+30.
+A. Kurhade, J. Zhu, Y. Hu, and A. K. Dalai, “Surface Investigation of Tungstophosphoric Acid Supported on Ordered Mesoporous Aluminosilicates for Biodiesel Synthesis,” ACS Omega, vol.
+3, pp.
+14064–14075, 2018.
+33.
+A. Kurhade, J. Zhu, A. K. Dalai, J. Zhu, Y. Hu, and A. K. Dalai, “Meso-Structured HPW-MAS ‑ 7 and HPW-MAS ‑ 9 Composite Catalysts for Biodiesel Synthesis from Unre fi ned Green Seed Canola Oil,” Fuel Process.
+Technol., vol.
+3, no.
+August, pp.
+14064–14075, 2018.
+Figure 3.
+FTIR spectra after pyridine desorption of (a) HPW/MAS, (b) HPW/MAP, and (c) HPW/ γ-Al2O3.
+11.
+What about the Lewis acid sites (LAS)?
+Why did the authors exclude LAS from the discussion?
+This must be explained.
+Moreover, the authors mentioned Lewis site in the proposed mechanism of HPW immobilization on MAS.
+Our response: More information are added about Lewis acid sites and its application in our study.
+Also, Pyridine FTIR analysis is added to the manuscript (Please see lines 306-315 on page 13) as follows: The existence of both Lewis and Bronsted acid sites on the solid acid catalysts are essential in developing simultaneous esterification and transesterification reactions for biodiesel production.
+Lewis acid catalyst is favorable to ease the transesterification reaction, while for facilitating 6 esterification reaction, Bronsted acidic sites play the significant role.
+Regarding the HPW supported catalysts used in this research study, alumina and the synthesized support materials provide Lewis acid sites, and HPW provides the Bronsted acidic sites.
+Therefore, immobilization of HPW on these support materials that possess both Bronsted and Lewis acidic sites is favorable for biodiesel production through simultaneous esterification and transesterification reactions [16, 40].
+16.
+A. Gaurav, S. Dumas, C. T. Q. Mai, and F. T. T. Ng, “A kinetic model for a single step biodiesel production from a high free fatty acid (FFA) biodiesel feedstock over a solid heteropolyacid catalyst,” Green Energy Environ., vol.
+4, no.
+3, pp.
+328–341, 2019.
+40.
+J. Gupta, M. Agarwal, and A. K. Dalai, “An overview on the recent advancements of sustainable heterogeneous catalysts and prominent continuous reactor for biodiesel production,” J. Ind.
+Eng.
+Chem., 2020.
+12.
+The authors said: “According to them, the intensity of peaks in the range of 100-300 °C, which is related to the mild Bronsted acidity”.
+What about the weak acid cites in this temperature range?
+Why did not the authors discuss it?
+This needs to be elucidated.
+Our response: Following explanation is added to the manuscript (Please see lines 258-265 on page 10).
+Three temperature intervals of 100-300 °C , 300-500 °C , and 500-700 °C were used for this analysis in Table 3, which can be categorized into mild acidic sites, medium and strong acidic sites, respectively.
+The acidity strengths of all HPW supported catalysts were related mainly to the range of 150 to 500 °C representing medium acidic sites.
+However, there is presence of weak acidic sites (in the range of 100 to 150 °C) for all the catalysts.
+1 Rebuttals on the comments made on our manuscript entitled “Comparative catalytic performance study of 12-tungstophosphoric heteropoly acid supported on mesoporous supports for biodiesel production from unrefined green seed canola oil” (Manuscript ID: catalysts-1676411) The authors thank the Reviewers for excellent comments on the manuscript.
+The itemized response to each comment is given below and the manuscript is modified accordingly.
+These modifications helped to improve the quality of the manuscript.
+The discussion added to the manuscript are based on the Reviewers’ comments and are highlighted in the rebuttals below.
+Reviewer Comments: Reviewer 2; 1.
+The authors tried to improve their manuscript and new references have been added.
+However, the characterization of the acidic properties is still very lacking and the manuscript cannot be accepted in the current form.
+The quality of figures 6 (a, c) is very poor, the signals are really noisy.
+Our response: Regarding the acidic properties, the total acidic quantity (µmol/g) of the catalysts were determined using NH3-TPD analysis.
+The Pyridine-FTIR was used to indicate the presence of both types of acidic sites (Bronsted and Lewis), however, it was a qualitative analysis in our case as we do not have access to the quantitative analysis equipment to determine the amount of Bronsted and Lewis acidity.
+Similar procedures were used by Hoo et al.
+[34], and Sudhakar et al.
+[35] to determine and discuss catalysts’ acidity.
+[34] P. Y. Hoo and A.
+Z. Abdullah, “Direct synthesis of mesoporous 12-tungstophosphoric acid SBA-15 catalyst for selective esterification of glycerol and lauric acid to monolaurate,” Chem.
+Eng.
+J., vol.
+250, pp.
+274–287, 2014, doi: 10.1016/j.cej.2014.04.016.
+[35] P. Sudhakar and A. Pandurangan, “Heteropolyacid (H3PW12O40)-impregnated mesoporous KIT-6 catalyst for green synthesis of bio-diesel using transesterification of non-edible neem oil,” Mater.
+Renew.
+Sustain.
+Energy, vol.
+8, no.
+4, pp.
+1–11, 2019, doi: 10.1007/s40243-019-0160-1.
+Figure 6 is removed due to the poor quality, however, the analysis of total acidity of the support materials and catalysts using NH3-TPD are given in Table 3 in the revised manuscript (please see lines 271-279 on pages 10 and 11), which is given below: Based on the TPD results (Table 3), the acidity amount of γ-Al2O3, MAP and MAS were obtained 795 µmol/g, 1015, and 922 µmol/g, respectively.
+HPW immobilization on support materials led to an acidity increase of 9.5 % for HPW/MAS and 5.8 % for HPW/MAP.
+Accordingly, HPW/MAS represented higher acidity related to the HPW/MAP and HPW/γ-Al2O3.
+The acidity of HPW supported catalysts were also analyzed after the first recovery from the reaction which indicated no significant decrease in their acidity for HPW/γ-Al2O3 (< 5%), HPW/MAP (< 1%), HPW/MAS (< 3%) [32, 39].
+2 Table 3.
+Acidity of support materials and HPW supported catalysts obtained from NH3-TPD.
+Catalyst Total acidity (µmol/g) 100-300 °C 300-500°C 500-600°C γ-Al2O3 922 354 429 139 HPW/γ-Al2O3 913 328 480 105 R*- HPW/γ-Al2O3 876 332 453 91 MAP 795 ± 8 283 220 292 HPW/MAP 841 245 348 248 R*-HPW/MAP 835 292 302 241 MAS 1015 ± 16 270 276 469 HPW/MAS 1111 ± 13 466 448 196 R*-HPW/MAS 1082 449 565 68 *R-Recovered.
+[32] P. Y. Hoo and A.
+Z. Abdullah, “Direct synthesis of mesoporous 12-tungstophosphoric acid SBA-15 catalyst for selective esterification of glycerol and lauric acid to monolaurate,” Chem.
+Eng.
+J., vol.
+250, pp.
+274–287, 2014, doi: 10.1016/j.cej.2014.04.016.
+[39] D. P. Sawant, A. Vinu, N. E. Jacob, F. Lefebvre, and S. B. Halligudi, “Formation of nanosized zirconia- supported 12-tungstophosphoric acid in mesoporous silica SBA-15: A stable and versatile solid acid catalyst for benzylation of phenol,” J.
+Catal., vol.
+235, no.
+2, pp.
+341–352, 2005, doi: 10.1016/j.jcat.2005.08.010.
+2.
+The authors revised the experimental part, specifing that :"the spectrum for the desorption of NH3 was recorded with TCD with temperature rise from100°C to 700°C for the evaluation of the NH3 desorbed and total acidity" but the signals are stopped at 600 °C.
+On the other hand considering that supported HPWs have been calcined at 450 °C, a TPD process at temperature > 450 °C doesn't make a sense, unless the authors investigate the thermal stability of their samples at T > 450 °C.
+Our response: We thank the Reviewer for this comment.
+The thermal stability of the catalysts were determined using TGA showing that supported catalysts are stable up to 600 °C.
+Based on this, the calcination was only carried out at 450 °C, however due to the stability of catalyst up to 600°C, TPD analysis was carried out in the range of 100°C to 600 °C.
+Maximum temperature for TPD is changed to 600 °C, which was previously mentioned 700 °C by mistake (Please see lines 263 and 270 on page 10).
+3.
+Other point: XRD patterns are very poor, except that one for HPW.
+Please, register again and correct the strange behaviour at 2 theta < 10°.
+Our response: We determined the structure of the catalysts in wide angle during XRD study in the range of 10° < 2θ < 90°, and scanning of 2θ< 10° was not considered.
+1 Rebuttals on the comments made on our manuscript entitled “Comparative catalytic performance study of 12-tungstophosphoric heteropoly acid supported on mesoporous supports for biodiesel production from unrefined green seed canola oil” (Manuscript ID: catalysts-1676411) The authors thank the Reviewers for excellent comments on the manuscript.
+The itemized response to each comment is given below and the manuscript is modified accordingly.
+These modifications helped to improve the quality of the manuscript.
+The discussion added to the manuscript are based on the Reviewers’ comments and are highlighted in the rebuttals below.
+Reviewer Comments: Reviewer 3, The authors significantly improved their manuscript but still some improvements are needed.
+Please find my comments below.
+1.
+The authors should provide the quantification of Pyridine-DRIFTS results and include these results in Table 3 with additional columns such as BAS, LAS, LAS/BAS.
+To present just spectra in Fig.
+3 is not enough.
+Also, these results should be discussed and compared with NH3-TPD results.
+How the authors can explain so big discrepancy between Pyridine-DRIFTS and NH3-TPD analyses for the HPW/Al2O3 and HPW/MAS catalysts?
+Our response: Regarding the acidic properties, the total acidic quantity (µmol/g) of the catalysts were determined using NH3-TPD analysis.
+The Pyridine-FTIR was used to indicate the presence of both types of acidic sites (Bronsted and Lewis), however, it was a qualitative analysis in our case as we do not have access to the quantitative analysis equipment to determine the amount of Bronsted and Lewis acidity.
+Similar procedures were used by Hoo et al.
+[34], and Sudhakar et al.
+[35] to determine and discuss catalysts’ acidity.
+[34] P. Y. Hoo and A.
+Z. Abdullah, “Direct synthesis of mesoporous 12-tungstophosphoric acid SBA-15 catalyst for selective esterification of glycerol and lauric acid to monolaurate,” Chem.
+Eng.
+J., vol.
+250, pp.
+274–287, 2014, doi: 10.1016/j.cej.2014.04.016.
+[35] P. Sudhakar and A. Pandurangan, “Heteropolyacid (H3PW12O40)-impregnated mesoporous KIT-6 catalyst for green synthesis of bio-diesel using transesterification of non-edible neem oil,” Mater.
+Renew.
+Sustain.
+Energy, vol.
+8, no.
+4, pp.
+1–11, 2019, doi: 10.1007/s40243-019-0160-1.
+2.
+Please include more details about the Pyridine-DRIFTS analysis to the 2.6.
+Catalyst characterization techniques.
+Our response: We thank the Reviewer for this comment.
+Based on the recommendation, more details about Pyridine-FTIR are added to the revised manuscript (please see lines 158-161 on page 4) as follows: HPW supported catalysts (around 100 mg) were first immersed in pyridine for 6 hours.
+Then, the samples were heated at 100 °C for 2 hours and the pyridine chemisorbed catalysts were analyzed to determine the types of acidic sites (Bronsted and Lewis) of the prepared catalysts.
+2 3.
+The authors said: “Larger average pore size of HPW/MAP compared to that of MAP could be due to the occupation or blockage of the mesopores of the support with HPW anions”.
+But this statement is against the logic.
+How the average pore size can INCREASE after occupation or blockage of the mesopores of the support?
+Why the authors did not observe the same effect for the HPW/Al2O3 and HPW/MAS catalysts?
+Maybe the authors just have experimental errors for the HPW/MAP catalyst?
+According to the reference that the authors provided, there was mentioned about “the development of abnormalities in the pores”.
+It can be another explanation.
+Our response: The BET analyses including the determination of average pore diameters for MAP and HPW/MAP were repeated and showed approximately the same values.
+Based on the recommendation, the explanation in the revised paper is modified (please see lines 187-189 on page 5), which is given below: Larger average pore size of HPW/MAP compared to that of MAP could be due to the occupation or blockage of the microporous of the support, which led to an increase in average pore size of HPW/MAP.

@@ -1,0 +1,174 @@
+ISSN 2075-1729 www.mdpi.com/journal/life Peer-Review Record: Cellular Dynamics Drives Emergence of Supracellular Structure in the Cyanobacterium Phormidium sp.
+KS Naoki Sato, Yutaro Katsumata, Kaoru Sato and Naoyuki Tajima Life 2014, 4, 819-836, doi:10.3390/life4040819 Reviewer 1: Anonymous Reviewer 2: Anonymous Editors: John C. Meeks and Robert Haselkorn (Guest Editors of Special Issue “Cyanobacteria: Ecology, Physiology and Genetics”) Received: 13 October 2014 First Revision Received: 12 November 2014 Accepted: 19 November 2014 Published: 28 November 2014 First Round of Evaluation Round 1: and Author Response This manuscript characterizes the phylogeny, genome, ultrastructure, and motility behavior of a previously uncharacterized filamentous cyanobacterium, designated Phormidium sp.
+KS.
+The authors demonstrate the presence of putative junctional pores by electron microscopy and other ultrastructural data that would appear to support polysaccharide secretion as the driving force for motility in this organism.
+In particular, the appearance of bulges in the extracellular sheath adjacent to the site of the junctional pores appears to be consistent with this mode of motility.
+Additionally, the authors sequenced the genome of this organism and identified homologs to genes conserved among filamentous cyanobacteria that have been demonstrated to be essential for motility in Nostoc punctiforme and may encode for the junctional pore proteins (hps locus) or a chemotaxis system (hmp locus).
+Finally, the authors performed a detailed characterization of the motility of individual filaments of the organism by time lapse microscopy providing additional evidence that would appear to support polysaccharide secretion as the driving force for motility, and provide a model for how this motility drives the formation of supercellular structures; in this case, spirals.
+The contribution of motility to the formation of supracellular structure is generally an area of research regarding cyanobacteria that has been overlooked.
+The authors’ conclusions are generally well supported and the electron microscopy provides some of the clearest images to date of the junctional pores.
+A few major comments can be found below concerning R2 the possible presence of type IV pili in their EM images, some confusion regarding descriptions of motility analysis and others.
+Response: We thank the reviewers for giving us helpful comments.
+This study is our new exploration into a new field, and the comments from different fields help us to revise our manuscript.
+The text was revised according to the comments.
+In addition, Figure 3A was replaced by a figure of better contrast.
+Because the EM figures are difficult to view within the Word document, we provide a high-quality figure as a supplement.
+Within the text, corrected words are highlighted.
+Major comments (1) As depicted in some of the electron micrographs in Figure 3, the authors describe the presence of thin filaments within the sheaths surrounding the motile filaments.
+Is it possible that these are in fact type IV pili?
+How does the structure compare to other published reports of type IV pili?
+Response: We are not sure if type IV pili are visible in our EM figures.
+They are very thin (less than 1 nm) and normally visualized by negative staining.
+In the published EM figures of Phormidium (conventional and cryo EM), type IV pili have not been noted.
+The filaments that we see in our EM figures could be components of sheath materials.
+(2) In Section 3.5, Analysis of Movement of Filaments, the descriptions were confusing at times.
+For instance Line 253 states “only in some exceptional cases (the straight line in Figure 6D), net displacement was achieved”.
+Net displacement presumably refers to any final position after a cycle that differs from the starting position.
+In other words, net displacement would refer to any value other than zero in Figure 6D.
+All of the points on this graph appear to indicate net displacement, albeit some less than others.
+Do the authors mean to state that only in a few instances was a large net displacement achieved?
+Otherwise the authors’ statement does not appear correct.
+Perhaps using numerical values instead of statements such as “the average velocity was quite limited” would help to clarify.
+Response: This was corrected.
+(3) The authors observe that the velocity of movement was maximal immediately after a reversal and then declined exponentially until the next reversal.
+The authors then suggest that this observation is theoretically inconsistent with type IV pili or focal adhesion complexes as the driving force for movement.
+Are there any available published reports quantifying the motility of organisms using these systems that would corroborate this empirically?
+In short, has it been demonstrated that bacteria moving by twitching motility or focal adhesion do not show a similar pattern for velocity of movement?
+Response: We did not find such an indication in the literature.
+This point was added in the text.
+(4) The authors state that supracellular structures emerge from unordered motion and are therefore not encoded for genetically.
+While their model for spiral formation does not require a genetic program for controlling motility, it may not always be the case for other supercellular structures.
+In other words, it may not always be true that supercellular structures are not genetically determined.
+Response: The expression was modified.
+R3 Minor comments The addition of a time stamp to the supplemental movies would be useful  Line 45—suggest adding “to” before “back-and-forth motion...”  Lines 268 and 269—“(D)” and “(E)” should be bolded to be consistent  Line 287—appears to be missing e-values.
+The beginning of this sentence indicates 10 genes and then only gives 8 respective e-values for the 10 genes.
+ Line 290—do orf303 and orf297 have homology to any characterized proteins?
+Are they conserved hypotheticals?
+Is there any indication of the function for these?
+ Line 415—“single” appears to be formatted differently than the rest of the text Response:  Line 45—This was corrected.
+ Lines 268 and 269—These were corrected.
+We found many similar cases, too.
+ Line 287—Two values were added.
+ Line 290—Some description was added.
+ Line 415—This was corrected.
+Round 1: and Author Response The manuscript “Cellular dynamics drives emergence of supracellular structure in the cyanobacterium Phormidium sp.
+KS,” by Naoki Sato, et al.
+presents characterization of the growth dynamics and motility of a newly isolated Phormodium strain.
+Using TEM, the authors observed junctional pore complexes arrayed at septa, and extending through the cell envelope to the exterior of the cell, and potentially identified basal body complexes at the cytoplasmic face of the inner membrane.
+By characterizing motility of colonies, as well as single-filament motility of short filaments, the authors find that increasing the agar concentration of the media results in smaller colonies, and slower individual filament movement.
+Additionally, individual filaments were found to undergo polarity reversals, and the maximum velocity was observed immediately following the reversal.
+A model is presented to describe how the rotation of the filament causes left-handed sliding for the portion of the filament not encased in a slime sheath, which leads to formation of counter-clockwise spirals, the predominant macroscopic feature of colonies noted.
+Overall, this study presents observations related to slime-mediated motility on multiple scales (molecular, single-filament and colony), and integrates these findings into a coherent model for the relationship between the cellular organization and the behavior of the colony.
+The observations and models are consistent with previously published work on motility of various cyanobacteria and provide new insights into the mechanics of motility of cyanobacteria that are interesting.
+However, a number of shortcomings need to be addressed before the manuscript could be accepted for publication.
+Response: We thank the reviewers for giving us helpful comments.
+This study is our new exploration into a new field, and the comments from different fields help us to revise our manuscript.
+The text was revised according to the comments.
+In addition, Figure 3A was replaced by a figure of better contrast.
+R4 Because the EM figures are difficult to view within the Word document, we provide a high-quality figure as a supplement.
+Within the text, corrected words are highlighted.
+Major points: (1) About 20 years ago it was shown that in order to preserve crucial ultrastructural features of cyanobacterial cell walls, the cells have to be processed using cryo-procedures (Envelope structure of four gliding filamentous cyanobacteria.
+J. Bacteriol.
+1995, 177, 2387–2395).
+The authors use an outdated and very artifact-laden method to process their samples.
+This choice is responsible for a number of shortcomings that need to be addressed: The lack of certain features such as the S-layer and the oscillin fibrils in the reported pictures are attributable to the choice of preparation, as they are clearly present in two species of the same genus described in the above cited paper.
+Moreover, these structures would explain the rotation of the cells that now is somewhat “mysteriously” explained by a helical slime ejection that is not supported by the observed arrangement of the nozzles.
+Therefore the authors should do the following: Response: The choice of EM technique might have been wrong in visualizing the so-called oscillin fibrils, but was effective in visualizing membrane structures.
+The absence of “oscillin” was based on the genomic analysis but not on EM images.
+In fact, “oscillin” is a glycine-rich large protein which is poorly conserved in bacteria.
+In the reported case of P. uncinatum, oscillin might be important in forming fibrils, but in other organisms, other proteins could function as surface fibrils aligning the flow of slime.
+We agree that the method of fixation was not good for preserving surface structures such as oscillin fibrils, if present.
+(a) Clearly spell out in the text why there are no oscillin fibrils and surface structures visible and compare their results with the published results of the cell wall structure of the species of the same genus prepared using cryo-procedures.
+Response: This point was added in Section 3.7, in which oscillin is discussed.
+In general, pore- inclination and oscillin fibrils are not exclusive.
+We describe both as mechanisms.
+(b) There is no clear distinction in the text between the “sheath” and the secreted “slime” of the cells, which are two completely different structures both physically and chemically (Structural and biochemical analysis of the sheath of Phormidium uncinatum.
+J. Bacteriol.
+1998, 180, 3923– 3932).
+Figure 1A shows a filament that lacks the “sheath”, while in other pictures the structure is visible.
+The reason for this is the following: cyanobacteria of the genus Phormidium build over time a carbohydrate layer on their surface that is physically attached to their cell surface, usually called the sheath.
+Filaments that are ensheathed are non-motile!
+In contrast, the slime that is secreted by gliding filaments of the same species is not visible in TEM preparations, even when cryo-preservation methods are used (see Figure 1A of the ms and Envelope structure of four gliding filamentous cyanobacteria.
+J. Bacteriol.
+1995, 177, 2387–2395 and Structural and biochemical analysis of the sheath of Phormidium uncinatum.
+J. Bacteriol.
+1998, 180, 3923– 3932).
+Therefore, the authors should go through their ms and make a careful distinction between these two structures.
+For example, in the discussion it sounds as if the “sheath” is preventing the R5 cells from sliding, however this is the slime tube that is secreted that is not physically attached to the cell surface at all.
+Response: The quality of Figure 1A was rather bad.
+The contrast was corrected and a new figure was inserted.
+In the new Figure 1A, the sheath is quite visible.
+The quality of EM figure is very low as embedded in an MS word file.
+We provide a better quality figure as supplemental Figure S1.
+The use of “sheath” is therefore correct in the paragraph describing the figure.
+In the model, the word “sliding” was not understood in the sense in which we wanted it to be.
+This is lateral sliding that provokes curvature of the filament.
+This point was clarified in the text.
+(c) Please omit the description of the basal body part of the junctional pores or provide substantially better pictures.
+Even after careful inspection of your images, I cannot convince myself of seeing these parts.
+Moreover, in cryo-preserved and freeze-fractured cells there are no such structures visible.
+That does not mean that they don’t exist, it may only mean that none of the so far used preservation methods reveals these structures.
+Response: What is “the basal body part”?
+Basal body is an organelle of eukaryotic cell.
+If this means the connection of junctional pore tube and inner membrane, it is clearly seen in the figure, as well as in old paper by Halfen and Castenholz.
+A high quality figure is provided as Supplementary Figure S1.
+The “bulges” in the inner membrane are also visible.
+In the Line 183, the description was revised.
+(d) Please omit the description about helical tilted junctional pores.
+These structures are clearly not arranged in this way and the reasons for rotation are the unfortunately not-preserved surface structures mentioned above.
+Response: In Figure 3D, the junctional pores are seen as an array of tilted tubes.
+The mechanism of rotation is still a mystery because oscillin itself is not present in the strain KS.
+This is discussed in Section 3.7 with reservations on our hypothesis of inclined junctional pores.
+On the other hand, the involvement of fibrils in the rotation and locomotion was proposed a long time ago, whether the fibrils are made of oscillin or other proteins.
+In this respect, we still have to work a lot to identify the real mechanism of rotation.
+(2) Results section headings and figure captions should be phrased as conclusions, supported by the data presented, when appropriate (can be a minor change, for example 3.2 could be titled, “Phormidium colonies form divergent structures,” or larger, for example 3.5 could be titled, “Individual filaments undergo directional reversals, with maximum velocity immediately following a reversal.” Response: This is not a good way of naming headings.
+A heading should not be a phrase or conclusion, but should be descriptive words.
+(3) In the discussion there are further points that need to be addressed: (a) Please clarify the source of the helical flow of the slime, which is most likely due to the presence of the not-preserved helically arranged cell surface proteins not the arrangement or tilt of the junctional pores.
+R6 (b) In the model that describes the potential activity of the junctional pores (How myxobacteria glide.
+Curr.
+Biol.
+2002, 12, 369–377) it is not suggested that the nozzle actually “contracts” as mentioned in the ms.
+The swelling of the slime material in the nozzle fills the nozzle and eventually will generate a counter-force of the nozzle walls of the nozzle that results in the ejection of the slime.
+Please rephrase the text accordingly.
+(c) When the cells form spirals, there are two components to this process: the formation of spirals and their macroscopic sense of rotation: clock- or counterclockwise.
+In the discussion it is assumed that the rotation of the filaments is crucial for both of these components.
+If this would be true, then no spirals should be observed in non-rotating filamentous gliding cyanobacteria.
+However, this is not the case.
+Anabaena spec.
+a non-rotating species can generate spirals (see Figure X; Mucilage secretion and the movements of blue-green-algae.
+Protoplasm 1968, 65, 223–238).
+This means that the sense of rotation may only be responsible for the direction of the spiral but not for its emergence in the first place.
+It would be good if the authors would distinguish between these two phenomena and discuss them accordingly.
+(d) In Lines 309–315: References 17 and 22 are accurately described, however these models relate to gliding in Myxobacteria, a distinction not noted in the text.
+Thus, comparisons between these models (including the focal adhesion model) and the current model are only valid if the mechanism of motility in these microorganisms is the same.
+The authors should (briefly) explain their reasoning on the validity of comparing these two systems, and the implications of their findings to motility in Myxobacteria.
+Response: (a) This was described in Section 3.7.
+(b) This point was corrected.
+(c) There might be a misunderstanding in the first part.
+The rotation of filament does not drive macroscopic rotation or spiral formation.
+What we describe in the text was the switch to turn to the left was governed by the filament rotation, but the real formation of a spiral is driven by the locomotion of the filament.
+The cited paper described the clumping of Anabaena cylindria in a dense culture.
+The clumping or aggregation in Arthrospira (Ohmori group) is mediated by cAMP, but A. cylindrica might be different.
+I have been using Anabaena for about 40 years, but I have never seen Anabaena filaments form a spiral on agar plates.
+Spiral formation and clumping are different phenomena.
+It is difficult to discuss the relationship (if any) between clumping and rotation.
+(d) The current paper is focused on Phormidium.
+We never used Myxobacteria, and we have no idea about the motility in Myxobacteria.
+To clarify the situation, the mention to Myxobacteria was added in the text.
+Minor points:  Lines 94–95: Is it standard to sequence an entire genome, but only deposit several clusters, or should the entire genome be accessible to allow other researchers access to this source?
+ Lines 227–230: The interpretation of the counterclockwise spirals here is somewhat distracting.
+It can be left as an observation here, and the model explained later.
+R7  Lines 316–317: This model for slime secretion suggests that rather than slime being comprised of a single, long, polysaccharide, it is made of smaller subunits that are secreted in a step-wise fashion.
+The authors should connect this idea to the finding that pseudopilins appear to be part of the molecular machinery, as the model and the data are coherent on this point.
+Response:  Lines 94–95: We have determined genomic sequences of many organisms, but it is not easy to publish the genomes as genome paper.
+The sequences should be connected by PCR, and annotated.
+In the current study, we are interested in the genes involved in motility.
+We annotated the related genes but we would not connect the contigs and annotate all the genes.
+Nowadays, every researcher can sequence his/her own materials quite easily.
+It is not necessary to deposit all the raw sequence data.
+ Lines 227–230: This was corrected.
+ Lines 316–317: We did not notice this point.
+Polysaccharide chain may not be very long.
+Many of the products of the hps gene cluster encode glycosyltransferases and pseudopilins, which are, respectively, involved in the synthesis and secretion of the slime.
+The secretion of slime is likely mediated by some molecular machinery that is otherwise involved in type II secretion/motility machinery.
+Reference 24 was added.

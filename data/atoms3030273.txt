@@ -1,0 +1,78 @@
+atoms ISSN 2218-2004 Peer-Review Record: Spectra of W VIII and W IX in the EUV region Alexander Ryabtsev * , Edward Kononov , Rimma Kildiyarova , Wan-Ü Lydia Tchang-Brillet , Jean-Francois Wyart , Norbert Champion , Christophe Blaess Atoms 2015, 3, 273-298; doi: 10.3390/atoms3030273 Reviewer 1: Anonymous Reviewer 2: Anonymous Reviewer 3 Anonymous Editor: Bastiaan J. Braams (Guest Editors of Special Issue “Atomic Data for Tungsten”) Received: 8 April 2015 Accepted: 15 June 2015 Published: 30 June 2015 Reviewer 1: Report and Author Response The manuscript describes progress in analyses of several extremely complex spectra and for the first time reports observed and accurately measured spectral lines of 8-times ionized tungsten, W IX, albeit only one of them with a tentative energy-level identification.
+The results have potential applications in fusion energy research, as well as in analyses of hitherto unknown spectra of atomic ions with open 5d and 4f shells.
+The manuscript is well-written and includes proper references to earlier research.
+I recommend accepting it for publication in Atoms after minor revisions indicated in the accompanying marked-up PDF file.
+Suggested corrections to the text marked yellow can be viewed in Adobe Acrobat Reader by hovering the mouse over the yellow text and/or double-clicking on it.
+Perhaps, the most important suggestion is to be more strict when discussing different types of radiative transitions.
+The authors use the term "dipole transitions" forgetting that it may be interpreted either as “electric-dipole” or “magnetic-dipole.” They also loosely use the term “forbidden transitions” without explaining what they mean.
+In different contexts, different types of transitions may considered as allowed or forbidden.
+Another significant deficiency is the lack of description of uncertainties in their W IX line list.
+Response Many thanks for improvement of the text of our manuscript.
+On the forbidden electric dipole transitions: OPEN ACCESS R2 Rigorous selection rules for electric dipole transitions are: 1.
+One electron jumping, with Δl = ± 1 2.
+Parity change 3.
+ΔJ = 0, ± 1 (except 0 0) An electric dipole transition with violation of any of these selection rules is considered as forbidden.
+Different physical processes can break some of these rules.
+In our case, the configuration interactions, mixing the wave functions of different configurations, result in a presence of forbidden lines, what is mentioned in lines 137-138.
+They violate the rule 1.
+In the case of the 4f125s25p66s configuration (lines 243-245), the transitions to the 4f145s25p5 configuration represent a two electron jump and in the transitions to the 4f135s25p6 configuration, Δl = 3 (4f - 6s) Reviewer 2: Report and Author Response The manuscript includes valuable data on WVIII and WIX which will be useful for fusion research.
+The experimental data are also compared with calculation giving their transitions and wavelengths.
+Then, it should be published in Atoms after improving minor points suggested below.
+0.
+The authors have already published several tungsten spectra Phys.
+Scr.
+Please explain clearly in the introduction the different point compared to the papers which were already published.
+It is quite difficult for readers to understand.
+1.
+Line 34: “Tungsten sputtered from the wall" should be replaced by " Tungsten sputtered from the divertor”.
+2.
+Line 89: What is the wavelength range observed by normal incidence spectrograph?
+3.
+Line 152: “Thelines” needs a space, i.e.
+“The lines”.
+Line 181: Uncertainties in the observed wavelength should be indicated in the table captions of Table 1, 2 and 4.
+Line 190: For Lu V the wavelength is suddenly changes from EUV to VUV range (all other isoelectronic sequences are measured in the EUV range).
+Please make a simple explanation.
+Lines 228, 236 and 246: The spectra have been measured in the EUV range.
+However, there is no table such as Table 1.
+Please explain it.
+Response 1.
+It is clearly pointed out in Abstract that in the manuscript “The results obtained on the W VIII spectrum as well as on the isoelectronic spectra Lu V, Hf VI, Ta VII and Re IX in the VUV wavelength region are summarized with emphasis on the main trends along the isoelectronic sequence.”Therefore we give only short summaries for Hf VI, Ta VII and Re IX without the tables of wavelengths, energy levels and parameters.
+All these tables are in the original articles in Physica Scripta.
+From these spectra we present here only the isoelectronic trends of their parameters to support the reliability of our analysis of W VIII.
+2.
+“Line 190: For Lu V the wavelength is suddenly changes from EUV to VUV range (all other isoelectronic sequences are measured in the EUV range).
+Please make a simple explanation.” It is explained that we did not measured Lu V wavelengths, instead we used unpublished wavelength list from Ref.21 (lines 202–204) R3 3.
+“Line 301: It is not clear how the author could distinguish the ionization stage of tungsten ions in the spectra.
+What is the plasma condition?
+Please explain more details.” The distinguish of the ionization stage is performed by the observation of the line intensity changes with the variations of the spark plasma conditions by the changes of the voltage, inductance or capacitance in the range described in section “Experimental techniques”.
+It is a standard procedure which hardly needed to be described in the article considered mostly as a summary.
+The measurements of the plasma parameters were out of the scope of our work.
+All other suggestions are fully accepted with gratitude Reviewer 3: Report and Author Response This is an important contribution to the field of W spectroscopy in fusion applications.
+The paper is a review of contribution to an IAEA CRP on W spectroscopy, thus, per defintion mostly published results are presented and brought into context.
+I suggest a couple of updates on the citations for the importance for ITER and fusion in general (i.e.
+A. Loarte et al.
+on the ITER divertor).
+Secondly, the authors refer only to ions as influx to the main plasma, but the sputtering provides neutral W. This neutral W has been used widely as influx measurements.
+I propose to include in the introduction this type of influx measurements with appropriate references (e.g.
+L. Vainshtein et al, on WI spectroscopy) Thirdly, it would be of interest to see some information about the plasma conditions (ie.
+Te) in the two experiments used to obtain the experimental data.
+Minor suggestions for corrections are added in the pdf as comments.
+Overall very good work and almost ready for publication.
+Response 1.
+“I suggest a couple of updates on the citations for the importance for ITER and fusion in general (i.e.
+A. Loarte et al.
+on the ITER divertor).
+Secondly, the authors refer only to ions as influx to the main plasma, but the sputtering provides neutral W. This neutral W has been used widely as influx measurements.
+I propose to include in the introduction this type of influx measurements with appropriate references (e.g.
+L. Vainshtein et al, on WI spectroscopy)” We did not intend to go into ITER plasma physics because we are not plasma physics experts.
+For us it is important just to mention that the W7+and W8+ spectra are relevant to ITER divertor plasma.
+Therefore, we restrain from mentioning of possible presence of neutral tungsten in divertor plasma and from citation of numerous other articles dealing with the presence of tungsten ions in ITER plasma.
+2.
+“Thirdly, it would be of interest to see some information about the plasma conditions (ie.
+Te) in the two experiments used to obtain the experimental data.” The measurements of the plasma parameters were out of the scope of our work.
+3.
+We do not accept suggested changes for the lines 69 and 76.
+4.
+All other suggestions are fully accepted with gratitude.
+R4 Decision: Accept after minor revision.

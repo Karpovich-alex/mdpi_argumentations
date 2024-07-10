@@ -1,0 +1,62 @@
+ISSN 2075-1729 www.mdpi.com/journal/life Peer-Review Record: The RUBISCO to Photosystem II Ratio Limits the Maximum Photosynthetic Rate in Picocyanobacteria Jackie K. Zorz, Jessica R. Allanach, Cole D. Murphy, Mitchell S. Roodvoets, Douglas A. Campbell and Amanda M. Cockshutt Life 2015, 5, 403-417, doi:10.3390/life5010403 Reviewer 1: Anonymous Reviewer 2: Anonymous Editor: John C. Meeks and Robert Haselkorn (Guest Editor of Special Issue “Cyanobacteria: Ecology, Physiology and Genetics”) Received: 9 November 2014 / Accepted: 22 January 2015 / Published: 4 February 2015 First Round of Evaluation Round 1: and Author Response The paper of Zorz et al.
+provides us with estimates of the concentrations of various proteins representing the PSII, PSI, cytb6 and Rubisco in there different cyanobacteria.
+The data are interesting and worth publishing but… (1) I don’t understand how they calculated the protein molar ratios.
+In the methodology section we learn that they extracted the crude proteins and then performed western analyses using specific antibodies, followed by image analyses.
+I don’t understand how they converted the western data to read the amount of specific proteins, in fmol, in the various organisms as shown in Figure 2; and used for the calculations in the rest of the paper.
+(Why are the units provided again in Line 220?).
+Please provide the reader with the methodology used for the quantification.
+Response: This immunoquantitation method used is described in detail in the reference given (Brown et al.
+2008).
+The reviewer is directed in particular to the Supplementary Methods section.
+To allow readers to get a better understanding of the method in this manuscript we have revised this part of the Experimental Section, adding extra text to increase clarity concerning the method.
+(2) PSII activity is derived from fluorescence measurement, as ETR.
+I am missing calibration with real measurements of PSII activity such as O2 evolution.
+You have got to show it for each organism you R2 are examining otherwise it is worthless.
+There are many reports in the literature showing dramatic decline in fluorescence but hardly any change in O2 evolution.
+Response: Since submitting the manuscript, we have accumulated a set of 84 parallel measurements of steady state oxygen evolution and the functional content of PSII measured using flash yields (with a solid state optode) and simultaneous FRR chlorophyll fluorescence induction curves, from which we can extract e- PSII-1 s-1, for both Synechococcus and Prochlorococcus cultures.
+Consistent with the long literature history of such measurements (ex.
+Suggett et al.
+2004, 2009), we observe a good correlation between the two measures of electron transport per PSII.
+Plotting the FRR estimate of e- PSII-1 s-1 versus the O2 evolution/PSII content estimate of e- PSII-1 s-1 gives a slope of 1.26 and an R2 of 0.58.
+We have added this information to the Materials and Methods to support our use of FRR estimates of electron transport per PSII.
+Furthermore, our estimates of ETRmax from FRR induction curves are independently validated by the close correlation between ETRmax and 1/tau, shown in Figure 4A, since 1/tau is derived from the rate constant for the decay of fluorescence after induction, and thus does not depend (computationally) upon our estimator for ETRmax.
+(3) The cells were grown under a relatively low light intensity and thus the data presented here only apply to these conditions.
+Please make sure the reader is aware of it.
+Response: This has been addressed with the addition of text in the abstract, introduction and discussion specifying that the cultures were grown under low light conditions.
+Round 1: and Author Response The authors present a dataset where they have characterised the relative abundance of components of the photosynthetic electron transfer chain and related this to the measured rate of electron transfer from PSII.
+This is done for a number of globally significance marine microbes of Syn and Pro lineage.
+The approach and methods are robust and the ability to quantify components of the photosynthetic electron transfer chain is powerful.
+The data presented is robust and worthy of publication but should be discussed more critically with regard to published literature (outlined below) I suggest some minor suggestions that should be incorporated before publications.
+(1) Line 19 – I am not sure why stating the cyanobacteria are nondiazatrophic is relevant?
+Response: We have removed the word “nondiazotrophic” as we agree that it is not relevant to the discussion.
+(2) Line 46 – (and throughout) be clear if you mean numerically dominate or dominate production – they are not always the same thing.
+Response: We mean that they numerically dominate and we have clarified this in the introduction.
+(3) Introduction paragraph 2 – I am unsure we know that physbobilisomes require more resource than pcb proteins – this depends on the ratio of antenna to reaction centre?
+Please include references if R3 this has been shown.
+Also, not all Pcb proteins are constitutively expressed (e.g., see Bibby et al.
+Nature 2003).
+Response: We have clarified this statement in the text.
+We refer to the nitrogen cost in the form of allocation to protein per pigment bound.
+(4) Line 250 – This is estimated number of RUBISCO active sites – or is there evidence all the RUBSCIO you quantify is active?
+Response: We are referring to the number of RUBISCO active sites measured by immunoquantitation.
+We are not referring to measured RUBISCO activity.
+We use this expression to be clear that we are referring to RbcL subunits rather than oligomeric RUBISCO.
+We have added a parenthetic phrase to make this more clear.
+(5) Figure 4 – The crunch of this paper is Figure 4e which show the Rubisco:PSII ratio is correlated to ETR.
+While I’m convinced in the presented data only three data-points are shown – I’m most convinced in that this same relationship is presented in in “Aquatic Photosynthesis (edition 2) Figure 7.9 – Falkowski” based on work of Sukenik (1986?).
+A greater discussion should be given in the text to how these datasets compare and what is significantly new in this dataset?
+References 35 and 36 are discussed in relation to the potential control of cytb6f on limiting electron transfer from PSII but more should be made of Falkowski’s observations which support this data.
+Response: We thank the reviewer for drawing this study to our attention.
+We have added a paragraph to the discussion to compare and contrast the Sukenik work with that presented here.
+The Sukenik data support a strong positive correlation between 1/tau and the RUBISCO to PSU ratio over a series of growth irradiances.
+While we also see a strong positive correlation between 1/tau and RUBISCO to PSII our results differ as the molar ratios of the components of the PSU differ significantly between the strains analyzed in the current work.
+This allows us to pinpoint the relationship of PSII to RUBISCO rather than other subunits of the PSU as the determinant of electron transport rate.
+(6) Line 308 – The data presented is used to support potential cyclic electron flow around PSI – however other alternative terminal electron sinks could also be up-regulated – these concepts are discussed in a recent review by Milligan and Behrenfeld annual review 2013 – the implications of this should be discussed unless the authors can show specifically enhanced flow around PSI.
+Response: We have added text to the end of the discussion to address this comment and the relevant reference has been added.
+Thank you for this suggestion.
+Second Round of Evaluation Round 2: and Author Response “In line 178 onward we read about the calibration curve.
+Please presnt it in the paper.
+Once you apply stress such as iron starvation you should recalibrate.” R4 Response: We have added a supplemental figure (Supplemental Figure #2) to show this calibrations curve.
+As all experiments presented here were performed under iron replete conditions, no iron starvation was performed.
+“Please present the calibration curves for the protein levels.” Response: We have added a supplemental figure (Supplemental Figure #1) that shows the method applied with a sample blot, calibration curve and data analysis.
+This work required dozens of blots, each with its own standard curve, so it would not be practical to show all of the standard curves for each determination.

@@ -1,0 +1,569 @@
+side	opponent	round	number	attacks	ann	text
+					0	Author Response Please see the attachment Author Response File: Author Response.pdf
+					0	Author Response Please see the attachment Author Response File: Author Response.pdf
+					0	Author Response Please see the attachment Author Response File: Author Response.pdf
+					0	Author Response Please see the attachment.
+					0	Author Response File: Author Response.pdf
+					0	Author Response Please see the attachment.
+					0	Author Response File: Author Response.pdf
+					0	So, I like this article.
+					0	I think it synthesizes some important and useful literatures, and has some useful points to make.
+					0	That said, I think it requires some tweaks to make it as effective as it could be.
+					0	Broadly, those are as follows: 1)
+Reviewer_1	Author	1	1	0	2	The abstract is very confusingly written and needs a lot of editing.
+Reviewer_1	Author	1	1	0	2	This is the place where the story must be told as simply and clearly as possible, and I think a lot of the abstract is confusing and hard to interpret.
+					0	2)
+Reviewer_1	Author	1	2	0	2	I have some theoretical questions about the applicability of these approaches outside of Korea.
+Reviewer_1	Author	1	2	0	2	For technical reasons (most smart cities have less capability and are less developed than Korean ones), but especially for legal and normative reasons (concerns about surveillance, governance, cybersecurity, etc.)
+Reviewer_1	Author	1	2	0	2	I think many cities and countries will not be comfortable with this approach.
+Reviewer_1	Author	1	2	0	2	I think this needs some exploration.
+					0	3)
+Reviewer_1	Author	1	3	0	2	I'd argue that one of the areas in which Smart City applications (in particular) and urban automation (in general) have been most important during the COVID pandemic - the monitoring of sewage and wastewater for population level assessment of infection - isn't even mentioned.
+Reviewer_1	Author	1	3	0	2	I think that is both a big oversight, and an opportunity for critics.
+Reviewer_1	Author	1	3	0	2	I think that piece needs to be included and worked into any assessment of smart cities and pandemics.
+Reviewer_1	Author	1	3	0	2	Additionally, I've included a few other pieces on COVID and smart cities.
+					0	1) Confusing or awkward wording in the abstract:
+Reviewer_1	Author	1	4	0	2	“Additionally, smart city services couldn`t respond in-time series” (is this time series in the statistical sense?
+Reviewer_1	Author	1	4	0	2	Just meaning sequential?)
+Reviewer_1	Author	1	5	0	2	“a method responding in-time sequential by flexibly combining” “Second, flexible smart city services are combined and deleted as needed to cope with COVID-19 has 17 been summarized.
+Reviewer_1	Author	1	6	0	2	Third, smart city services should only be used to cope with pandemic situations: 18 the healthcare-system data consists of personal information.
+Reviewer_1	Author	1	6	0	2	Therefore, smart city services respond- 19 ing COVID-19 must exist as a flexible.” 2) Theoretical/Substantive questions: (
+Reviewer_1	Author	1	7	0	2	pg2) Does the use of police/telecom monitoring of patients translate out of the Korean context?
+Reviewer_1	Author	1	7	0	2	(i.e.
+Reviewer_1	Author	1	7	0	2	would it be constrained by laws and norms elsewhere?)
+Reviewer_1	Author	1	7	0	2	And what are the implications of this.
+Reviewer_1	Author	1	8	0	2	(pg3) Tables 1 is interesting, but it’s not clear the source of the data.
+Reviewer_1	Author	1	8	0	2	Is this from the literature?
+Reviewer_1	Author	1	8	0	2	(if so, needs sourcing), or a synthesis by the authors?
+					0	This may be because of the error message in sourcing in the document I received.
+Reviewer_1	Author	1	9	0	2	(pg4) Table 3 isn’t clear to me.
+Reviewer_1	Author	1	9	0	2	What is “EA”?
+Reviewer_1	Author	1	9	0	2	Not spelled out.
+Reviewer_1	Author	1	10	0	2	(pg5) Table 4 is very useful.
+					0	(
+Reviewer_1	Author	1	11	0	2	pg14) “such services should be flexibly used only during a national crisis and removed when the service is no longer needed.” Is this likely to happen?
+Reviewer_1	Author	1	11	0	2	Are there concrete examples of such systems being built and operated, then just turned off?
+Reviewer_1	Author	1	11	0	2	Who would oppose turning them off?
+Reviewer_1	Author	1	11	0	2	(I’d imagine many stakeholders) 3) Key missing components/literatures:
+Reviewer_1	Author	1	12	0	2	Smart City and COVID
+					0	
+Author	Reviewer_1	2	12	12	1	Webb, W., & Toh, C. K.
+Author	Reviewer_1	2	12	12	1	(2020).
+Author	Reviewer_1	2	12	12	1	The smart city and COVID‐19.
+Author	Reviewer_1	2	12	12	1	IET Smart cities, 2(2), 56-57.
+					0	Inn, T. L. (2020).
+Author	Reviewer_1	2	12	12	1	Smart city technologies take on COVID-19.
+Author	Reviewer_1	2	12	12	1	World Health, 841.
+Author	Reviewer_1	2	12	12	1	Sharifi, A., Khavarian-Garmsir, A. R., & Kummitha, R. K. R. (2021).
+Author	Reviewer_1	2	12	12	1	Contributions of smart city solutions and technologies to resilience against the COVID-19 pandemic: a literature review.
+Author	Reviewer_1	2	12	12	1	Sustainability, 13(14), 8018.
+Author	Reviewer_1	2	12	12	1	Gusikhin, O.
+					0	(2020).
+Author	Reviewer_1	2	12	12	1	The Impact of COVID-19 Experience on Smart City and Future Mobility.
+Author	Reviewer_1	2	12	12	1	In Smart Cities, Green Technologies, and Intelligent Transport Systems (pp.
+Author	Reviewer_1	2	12	12	1	308-321).
+Author	Reviewer_1	2	12	12	1	Springer, Cham.
+Author	Reviewer_1	2	12	12	1	Kim, H. M. (2021).
+Author	Reviewer_1	2	12	12	1	Smart cities beyond COVID-19.
+Author	Reviewer_1	2	12	12	1	In Smart Cities for Technological and Social Innovation (pp.
+Author	Reviewer_1	2	12	12	1	299-308).
+Author	Reviewer_1	2	12	12	1	Academic Press.
+Reviewer_1	Author	1	13	0	2	Monitoring of sewage/wastewater for COVID case estimation
+Author	Reviewer_1	2	13	13	1	Farkas, K., Hillary, L. S., Malham, S. K., McDonald, J. E., & Jones, D. L. (2020).
+Author	Reviewer_1	2	13	13	1	Wastewater and public health: the potential of wastewater surveillance for monitoring COVID-19.
+Author	Reviewer_1	2	13	13	1	Current Opinion in Environmental Science & Health, 17, 14-20.
+Author	Reviewer_1	2	13	13	1	Daughton, C. G. (2020).
+Author	Reviewer_1	2	13	13	1	Wastewater surveillance for population-wide Covid-19: the present and future.
+Author	Reviewer_1	2	13	13	1	Science of the Total Environment, 736, 139631.
+Author	Reviewer_1	2	13	13	1	Bogler, A., Packman, A., Furman, A., Gross, A., Kushmaro, A., Ronen, A., ... & Bar-Zeev, E. (2020).
+Author	Reviewer_1	2	13	13	1	Rethinking wastewater risks and monitoring in light of the COVID-19 pandemic.
+Author	Reviewer_1	2	13	13	1	Nature Sustainability, 3(12), 981-990.
+Author	Reviewer_1	2	13	13	1	Jaiswal, R., Agarwal, A., & Negi, R. (2020).
+Author	Reviewer_1	2	13	13	1	Smart solution for reducing the COVID‐19 risk using smart city technology.
+Author	Reviewer_1	2	13	13	1	IET Smart Cities, 2(2), 82-88.
+Reviewer_2	Author	1	1	0	2	This article advocates for better flexibility (in the sense of adding and removing when necessary) of smart city services and better integration between them.
+Reviewer_2	Author	1	1	0	2	The authors argue that this would be precious to predict and fight against a pandemic, and as such they propose a smart city structure model.
+Reviewer_2	Author	1	1	0	2	First, I have a series of concerns regarding the form.
+Reviewer_2	Author	1	1	0	2	There are some phrasing issues and typos throughout the paper.
+Reviewer_2	Author	1	2	0	2	There are also many in-text reference errors with tables, which makes it hard to follow given the high number of tables (13!).
+Reviewer_2	Author	1	2	0	2	Also, references to figures seem to include the full caption and cause line breaks instead of the figure number only.
+Reviewer_2	Author	1	2	0	2	Please check especially the conclusion, this is hardly readable.
+Reviewer_2	Author	1	3	0	2	There are referencing issues with sections as well (e.g.
+Reviewer_2	Author	1	3	0	2	line 213: “As mentioned in 0”) Finally, and most importantly, the format of the bibliography is highly problematic.
+Reviewer_2	Author	1	3	0	2	For many references (e.g.
+Reviewer_2	Author	1	3	0	2	[15], [22], [25]) it is impossible to retrieve the source.
+Reviewer_2	Author	1	3	0	2	For many other sources, the local access path of the file is provided, which again prevents the reader from retrieving the source.
+Reviewer_2	Author	1	3	0	2	All these issues could have been picked up by a simple check.
+Reviewer_2	Author	1	3	0	2	Unfortunately, they are enough for me to recommend to reject the paper, as I consider that submitting a report of scientific quality in this form is unacceptable.
+Reviewer_2	Author	1	4	0	2	The content of the paper raises major concerns as well.
+Reviewer_2	Author	1	4	0	2	In the introduction, I could not understand the motivation of the paper.
+Reviewer_2	Author	1	4	0	2	The authors argue that the smart city services failed to be flexible enough to predict and fight the pandemic.
+Reviewer_2	Author	1	4	0	2	However, I am lacking a concrete example of failure that proves the authors’ point.
+					0	It is well-known that different services are hard to integrate together (this is not specific to the smart city), but I would have liked the authors to illustrate in light of the pandemic context, and maybe to the context of Korea since their contribution is specific to this geographic context in that it integrates the 12 smart city categories of Korea and the healthcare phases of Korea.
+Reviewer_2	Author	1	4	0	2	The contribution is not presented in the introduction, only the problem is.
+Reviewer_2	Author	1	5	0	2	The literature review is very long (it represents half of the paper) and can be significantly shortened as it contains few information that is actually useful to the rest of the paper.
+Reviewer_2	Author	1	5	0	2	It is also hard to read, as it contains more tabular content than text.
+Reviewer_2	Author	1	5	0	2	In Table 3, what is an EA?
+Reviewer_2	Author	1	6	0	2	Table 4 presents smart city projects of several different countries.
+					0	The authors than write that these services have a limitation in that cannot predict and prevent transmission of threats such as COVID.
+Reviewer_2	Author	1	6	0	2	It the threats concern COVID only, it does not really make sense, as many of the mentioned services simply do not have this goal (e.g.
+Reviewer_2	Author	1	6	0	2	smart grid).
+Reviewer_2	Author	1	6	0	2	If it goes beyond COVID, this is a claim that needs to be backed with a sound and transparent evaluation by the authors or literature.
+Reviewer_2	Author	1	7	0	2	Table 5 is useless in my opinion.
+Reviewer_2	Author	1	7	0	2	It is well-known that many standards exist and are not used in every service, which causes integration issues.
+Reviewer_2	Author	1	7	0	2	The authors could remove the table and mention 1-2 standards relevant for pandemics and make the same point.
+Reviewer_2	Author	1	8	0	2	Section 2.3 has the same title as Section 2.2.
+Reviewer_2	Author	1	9	0	2	It presents phased plans for pandemics.
+Reviewer_2	Author	1	9	0	2	Several different plans are described, which is useless information for the reader.
+Reviewer_2	Author	1	9	0	2	Indeed, the phases in a Texan county are of no use to understand the authors’ contribution.
+Reviewer_2	Author	1	9	0	2	They could easily break the section down to the essential information that would be the WHO phases and the Korean healthcare phases, and mention that there are global and local plans throughout the world with different phases.
+Reviewer_2	Author	1	9	0	2	Tables 8 and 9 can thus be removed.
+Reviewer_2	Author	1	9	0	2	Table 7 is not very informative, all the phases say that actions from the previous phase should be continued or initiated.
+Reviewer_2	Author	1	9	0	2	I have checked the online source and it mentions other aspects such as treatment and isolation for the recognition phase, which have not been picked up by the authors.
+Reviewer_2	Author	1	9	0	2	A case study approach restricted to Korea would be more informative and more consistent with the contribution of the paper, which is as I mentioned specific to Korea.
+Reviewer_2	Author	1	10	0	2	Section 3, named “Main discussion”, should be renamed to be more explicit regarding what the reader can expect to find.
+Reviewer_2	Author	1	10	0	2	I suggest e.g.
+Reviewer_2	Author	1	10	0	2	“Revised model of smart city service structure”.
+Reviewer_2	Author	1	11	0	2	The contribution is a proposition of services such as screening people with thermal cameras and tracking infected people through CCTV.
+Reviewer_2	Author	1	11	0	2	However, it misses a critical point of COVID.
+Reviewer_2	Author	1	11	0	2	Infected people are in the public space without knowing that they have COVID, since contagion happens before symptoms appears.
+Reviewer_2	Author	1	11	0	2	Once infected people have been identified, they are supposedly in quarantine.
+Reviewer_2	Author	1	11	0	2	Do the authors propose to track everyone and then go back to the records of infected people to retrieve their paths and contacts?
+Reviewer_2	Author	1	11	0	2	Or do the authors want to check if infected people are outside their home instead of in quarantine?
+Reviewer_2	Author	1	11	0	2	This is not clear to me.
+Reviewer_2	Author	1	11	0	2	Also, and more importantly, the integration and flexibility aspects are not really addressed in the end.
+Reviewer_2	Author	1	11	0	2	The authors do not explain how the services they propose could be integrated with existing ones (e.g.
+Reviewer_2	Author	1	11	0	2	which standards should be used) and how the services can be added or removed.
+Reviewer_2	Author	1	11	0	2	This part is only represented as clouds in the proposed structure model but not discussed further.
+Reviewer_2	Author	1	11	0	2	Therefore, it seems that the contribution breaks down to proposing strict tracking services which feasibility and acceptance by the population is not assessed.
+Reviewer_2	Author	1	12	0	2	My last concern is the ethical aspects of the proposed services.
+Reviewer_2	Author	1	12	0	2	The authors acknowledge that not addressing these is a limitation of their research.
+Reviewer_2	Author	1	12	0	2	In my opinion, this is more than a limitation, this is essential to discuss given the nature of what the authors propose.
+Reviewer_2	Author	1	13	0	2	In summary, my suggestions are to focus the paper on the Korean context, in an in-depth case study approach where authors detail more their contribution, clearly illustrate what the problem is and how their contribution helps solving it.
+					0	The manuscript is quite interesting and widely fine.
+					0	However, please include following melioration advices: Please always write out the full terms and than in brackets the abbreviation (lines 79-80)
+Reviewer_3	Author	1	2	0	2	"The whole manuscript is full of ""Error!"
+Reviewer_3	Author	1	2	0	2	"reference source..."" (e.g."
+Reviewer_3	Author	1	2	0	2	line 85)
+Reviewer_3	Author	1	3	0	2	Line 142: lack of flexibility
+					0	
+Reviewer_3	Author	1	4	0	2	Please always explain abbreviations before use - e.g.
+Reviewer_3	Author	1	4	0	2	line 149 Line 320: according to the introduction the COVID-19 pandemic started in 2019 and here you state 2020
+Reviewer_3	Author	1	6	0	2	Lines 352-354: here we have two times Figure 2.
+Reviewer_3	Author	1	6	0	2	Moreover, please bring the text together.
+					0	In this source you can find a whole list of smart city technologies http://www.sinfonia-smartcities.eu/en/resources/d21--swot-analysis-report-of-the-refined-conceptbaseline Might be of interest for your work
+Reviewer_1	Author	3	1	0	2	I think the paper, and especially the abstract, are much improved.
+Reviewer_1	Author	3	1	0	2	Both in terms of readability and accessibility, but also in terms of context and framing.
+Reviewer_1	Author	3	1	0	2	I think the paper has the ability to make a contribution to the literature in a way that the previous version may not have been able to.
+Reviewer_1	Author	3	2	0	2	I think mentioning the scenario approach in the abstract might be worthwhile, but I don't think it's a huge problem if it isn't mentioned.
+Reviewer_1	Author	3	2	0	2	Either way, I think the paper is in much better shape.
+Reviewer_2	Author	3	1	0	2	The authors made substantial efforts to take my comments into account, and I commend them for that.
+Reviewer_2	Author	3	1	0	2	However, despite the good improvements, I have some remaining concerns.
+Reviewer_2	Author	3	2	0	2	"There are still some ""Reference not found"" errors and line breaks when referring to figures in the text, but almost everything regarding the format has been fixed, which gives the revised paper a much more professional look than its previous version."
+Reviewer_2	Author	3	2	0	2	Regarding the references, my point was that there are many references *with formatting mistakes in them*, and not that there are too many references in the bibliography.
+Reviewer_2	Author	3	2	0	2	Please feel free to add them back if you feel they should be included.
+Reviewer_2	Author	3	3	0	2	The motivation of the paper is still unclear for me in the introduction, and the reasons for the limitations of smart city services are not clear in Section 2, but is much better explained later in the paper, which is a nice improvement.
+Reviewer_2	Author	3	3	0	2	I believe that explaining standard constraints (due to the multiplicity of service providers) and coupling between services in the introduction to motivate the paper would be valuable.
+Reviewer_2	Author	3	3	0	2	Indeed, if my understanding is correct, they are the factors that cause the limitations of smart city services the authors want to address.
+Reviewer_2	Author	3	4	0	2	The authors made some efforts to streamline Section 2, and it is much easier to follow in its current form.
+					0	However some parts still appear unnecessary to me.
+					0	Table 3 just shows that medical, crime prevention, transportation, and environmental services are the most frequent, which is already said in the text, but without an explanation of what pilot city, regulatory sandbox, and smart city challenge are, it is difficult to extract anything else from this table.
+Reviewer_2	Author	3	4	0	2	Table 7 does not bring much useful insights as well in its current form.
+Reviewer_2	Author	3	4	0	2	The authors have not responded to my previous comment on this table, I thus redirect them to my review of the previous version.
+Reviewer_2	Author	3	5	0	2	Section 3.1 gives an overview of the COVID-19 and smart city systems situation in South Korea, but is not part of the novel contribution by the authors.
+Reviewer_2	Author	3	5	0	2	I would thus include it in Section 2 instead.
+Reviewer_2	Author	3	5	0	2	Section 2 would thus have a part on smart city services, a part on COVID-19 response plans, and then the current content of 3.1 which deals with the relationship between the two parts of the current Section 2.
+Reviewer_2	Author	3	5	0	2	It would allow a smoother transition between Section 2 and Section 3, as the modified Section 2 would conclude with the need for a novel smart city service structure.
+Reviewer_2	Author	3	6	0	2	From the additional explanations in the text, I understand that the idea is to track the movements of everyone and then use that information to trace back the contacts of confirmed infected patients.
+Reviewer_2	Author	3	6	0	2	I stand by my position that the feasibility/ethical aspects should be discussed, at least from a social acceptance or a legal point of view, as the reader is left skeptical about whether it can actually be done with the current explanations.
+Reviewer_2	Author	3	6	0	2	The authors bring up interesting legal considerations in their response to my comments, it would be nice to have them in the paper to show the reader under which conditions the authors' solution can be used.
+Reviewer_2	Author	3	7	0	2	Finally, and this is my biggest remaining concern, the authors have not responded to my comment regarding the lack of explanations on how the flexible adding and removal of the proposed services would be achieved.
+Reviewer_2	Author	3	7	0	2	This is still unclear to me in the paper.
+Reviewer_2	Author	3	7	0	2	This is a very important point, since it changes what is the contribution of the paper.
+Reviewer_2	Author	3	7	0	2	The current contribution seems to be the proposal of new services to handle the COVID situation, or similar situations in the future.
+Reviewer_2	Author	3	7	0	2	However, I am lacking the contribution on the more general issue of integrating and removing services in an existing smart city infrastructure.
+Reviewer_2	Author	3	7	0	2	In other terms, what can we use from the authors' paper to achieve a more flexible smart city service structure?
+Reviewer_2	Author	3	8	0	2	In brief, the authors have made major improvements on the form and good improvements to the content.
+Reviewer_2	Author	3	8	0	2	However, there are still several of my previous comments that were not answered or not answered in a sufficiently convincing way.
+					0	Regarding the form, the reference errors have been removed, but the line breaks when referring to figures are still there.
+					0	I will give a clearer example from p.15, line 345: Second, the ( Figure 4.
+					0	COVID-19 Scenario: Outbreak of COVID-19 in Korea ) scenario assumed by this study is uncertain.
+					0	should appear as Second, the Figure 4 scenario assumed by this study is uncertain.
+					0	Regarding the content, the motivation is clearer in the abstract, and this clarifies the contribution as well.
+					0	I thus find it now less essential to discuss the practical aspects of service adding and removing.
+					0	The legal and ethical aspects are still too much overlooked in my opinion, but I appreciate that the authors added a note on the legal framework of Korea.
+					0	I still encourage the authors to have a deep reflection on the legal and population acceptance of their proposal, but this can be the goal of another paper.
+					0	I was not conviced by the authors' response regarding my suggestion for putting 3.1 into Section 2, but this was a quite minor comment anyway, and there is not only one good way to structure a text, the paper is also understandable with the structure proposed by the authors.
+					0	In brief, the authors' changes and explanations are a bit light for what I expected from a major revisions recommendations, but they added some nice clarifications that, for the most part, satisfy my concerns.
+					0	So I am fine with the article being published.
+					0	1 Dear Reviewer #1, I am grateful for your suggestions regarding my paper, and my answers to your comments are provided below.
+					0	#1.
+					0	The abstract is very confusingly written and needs a lot of editing.
+					0	This is the place where the story must be told as simply and clearly as possible, and I think a lot of the abstract is confusing and hard to interpret.
+Author	Reviewer_1	2	1	1	1	The confusingly written part has been simplified again.
+Author	Reviewer_1	2	1	1	1	In addition, in order to solve the problem of awkward English, we have re-translated the entire sentence.
+					0	#2.
+					0	I have some theoretical questions about the applicability of these approaches outside of Korea.
+					0	For technical reasons (most smart cities have less capability and are less developed than Korean ones), but especially for legal and normative reasons (concerns about surveillance, governance, cybersecurity, etc.)
+					0	I think many cities and countries will not be comfortable with this approach.
+					0	I think this needs some exploration.
+Author	Reviewer_1	2	2	2	1	As your comments, Korea's smart city has technological and normative advances compared to other countries.
+Author	Reviewer_1	2	2	2	1	However, we think that the USA and China are more developed in service than Korea`s (Smart city trends: A focus on 5 countries and 15 companies, Cities, 2022).
+Author	Reviewer_1	2	2	2	1	Therefore, this paper intends to cover only general smart city technologies worldwide (Smart city trends: A focus on 5 countries and 15 companies, Cities 2022).
+Author	Reviewer_1	2	2	2	1	We fully agree with the reviewer's comments that they may feel uncomfortable in other countries.
+Author	Reviewer_1	2	2	2	1	After that, we will do more research and expand the case to other countries.
+Author	Reviewer_1	2	2	2	1	Thank you very much for your comments.
+					0	#3.
+					0	I'd argue that one of the areas in which Smart City applications (in particular) and urban automation (in general) have been most important during the COVID pandemic - the monitoring of sewage and wastewater for population level assessment of infection - isn't even mentioned.
+					0	I think that is both a big oversight, and an opportunity for critics.
+					0	I think that piece needs to be included and worked into any assessment of smart cities and pandemics.
+					0	Additionally, I've included a few other pieces on COVID and smart cities.
+Author	Reviewer_1	2	3	3	1	In this paper, the monitoring of sewage and wastewater for population level assessment of infection mentioned in smart city applications and urban automation was added as a limitation of this study.
+Author	Reviewer_1	2	3	3	1	In the opinion of reviewers, epidemics in cities are not simply spread by one factor.
+Author	Reviewer_1	2	3	3	1	Therefore, various factors should be dealt with, but in this paper, only heat and movement lines, which were mainly dealt with in Korea.
+Author	Reviewer_1	2	3	3	1	The added part is as follows.
+					0	4.
+					0	Conclusion: “… Also, epidemics in cities are not spread simply by one factor.
+					0	It is important to operate the monitoring system for sewage and wastewater for population level assessment of infection, which is considered to be the most important source of infection.
+					0	2 Therefore, they should be considered in future research.
+					0	“ 1) Confusing or awkward wording in the abstract: The text has been modified as follows: #1.
+					0	“Additionally, smart city services couldn`t respond in-time series” (is this time series in the statistical sense?
+					0	Just meaning sequential?)
+Author	Reviewer_1	2	4	4	1	Additionally, smart city services could respond neither timely nor sequentially.
+					0	#2.
+					0	“a method responding in-time sequential by flexibly combining”
+Author	Reviewer_1	2	5	5	1	This study proposes a method for timely and sequential responses, through a flexible combination of the healthcare system and smart city services
+					0	.
+					0	#3.
+Reviewer_1	Author	1	6	0	2	“Second, flexible smart city services are combined and deleted as needed to cope with COVID 19 has 17 been summarized.
+					0	Third, smart city services should only be used to cope with pandemic situations: 18 the healthcare-system data consists of personal information.
+					0	Therefore, smart city services respond- 19 ing COVID-19 must exist as a flexible.”
+Author	Reviewer_1	2	6	6	1	Second, recommendations on combining or dismissing certain smart city services, as per the needs of coping with COVID-19, are summarized.
+Author	Reviewer_1	2	6	6	1	Third, smart city services must be utilized only for addressing pandemics, as data from the healthcare system consists of personal information.
+Author	Reviewer_1	2	6	6	1	Therefore, smart city services for responding to COVID-19 must be flexible.
+					0	2) Theoretical/Substantive questions: #1.
+					0	(pg2) Does the use of police/telecom monitoring of patients translate out of the Korean context?
+					0	(i.e.
+					0	would it be constrained by laws and norms elsewhere?)
+					0	And what are the implications of this.
+Author	Reviewer_2	2	24	11	2	In the case of Korea, rather than finding the infected person in advance, the focus was on identifying and blocking the spread of the infected person.
+Author	Reviewer_2	2	24	11	2	Therefore, Smart City Service checked the movement of the infected people by time, found close contacts in the vicinity, and took measures to self-quarantine immediately.
+Author	Reviewer_2	2	24	11	2	As a result, the critical point of being identified before an infectious disease spreads was missed.
+Author	Reviewer_2	2	24	11	2	However, Korea has prevented a rapid collapse of the medical system by slowing the rate of propagation around it, and the role of smart city services has been significant in this regard.
+					0	#2.
+					0	(pg3) Tables 1 is interesting, but it’s not clear the source of the data.
+					0	Is this from the literature?
+					0	(if so, needs sourcing), or a synthesis by the authors?
+Reviewer_1	Author	1	8	0	2	This may be because of the error message 3 in sourcing in the document I received.
+Author	Reviewer_1	2	8	8	1	The source has been specified.
+Author	Reviewer_1	2	8	8	1	- (Smart city trends: A focus on 5 countries and 15 companies, Cities, 2022).
+					0	#3.
+					0	(pg4) Table 3 isn’t clear to me.
+					0	What is “EA”?
+					0	Not spelled out.
+Author	Reviewer_1	2	9	9	1	We have checked and corrected the Author's initials that you pointed out.
+Author	Reviewer_1	2	9	9	1	We also Cognized that the expression 'EA' is a unit used only in certain countries.
+Author	Reviewer_2	2	18	5	2	The 'EA' refers to the quantity, but all have been deleted.
+Author	Reviewer_2	2	18	5	2	We sincerely apologize for the basic mistake.
+Author	Reviewer_2	2	18	5	2	We will check in more detail later.
+					0	#4.
+					0	(pg5) Table 4 is very useful.
+Author	Reviewer_1	2	10	10	1	Thanks for your kind comments.
+					0	#5.
+					0	(pg14) “such services should be flexibly used only during a national crisis and removed when the service is no longer needed.” Is this likely to happen?
+					0	Are there concrete examples of such systems being built and operated, then just turned off?
+					0	Who would oppose turning them off?
+					0	(I’d imagine many stakeholders)
+Author	Reviewer_1	2	11	11	1	We also agree with reviewers that it's an ideal situation to use built-in services only when needed and turn them off when not needed.
+Author	Reviewer_1	2	11	11	1	Therefore, in Korea, it is legally required to be used only when necessary.
+Author	Reviewer_1	2	11	11	1	Ministry of Land, Infrastructure and Transport(Korea): “…… But the scope of data collected will be kept to minimum and a due procedure should be followed in acquiring the data.
+Author	Reviewer_1	2	11	11	1	First, an epidemiological surveyor should decide whether additional collection of personal information is needed.
+Author	Reviewer_1	2	11	11	1	If the answer is yes, the official should seek approval from relevant authorities to get access to the data.
+Author	Reviewer_1	2	11	11	1	For example, as for the location information, separate permission from the National Police Agency is required.” Source: http://www.molit.go.kr/english/USR/BORD0201/m_28286/DTL.jsp?id=eng_mltm_new&mode=view&idx=2931 3) Key missing components/literatures: We rechecked the paper related to “Key missing components/literatures”.
+					0	We sincerely apologize for repeating basic mistakes.
+					0	They all have been revised and reflected.
+Author	Reviewer_2	4	7	5	1	Thank you.
+					0	#1.
+					0	Smart City and COVID Webb, W., & Toh, C. K. (2020).
+					0	The smart city and COVID‐19.
+					0	IET Smart cities, 2(2), 56-57.
+Author	Reviewer_1	2	12	12	1	4 Inn, T. L. (2020).
+					0	Smart city technologies take on COVID-19.
+					0	World Health, 841.
+					0	Sharifi, A., Khavarian-Garmsir, A. R., & Kummitha, R. K. R. (2021).
+					0	Contributions of smart city solutions and technologies to resilience against the COVID-19 pandemic: a literature review.
+					0	Sustainability, 13(14), 8018.
+					0	Gusikhin, O.
+					0	(2020).
+					0	The Impact of COVID-19 Experience on Smart City and Future Mobility.
+					0	In Smart Cities, Green Technologies, and Intelligent Transport Systems (pp.
+					0	308-321).
+					0	Springer, Cham.
+					0	Kim, H. M. (2021).
+					0	Smart cities beyond COVID-19.
+					0	In Smart Cities for Technological and Social Innovation (pp.
+					0	299-308).
+					0	Academic Press.
+					0	#2.
+					0	Monitoring of sewage/wastewater for COVID case estimation Farkas, K., Hillary, L. S., Malham, S. K., McDonald, J. E., & Jones, D. L. (2020).
+					0	Wastewater and public health: the potential of wastewater surveillance for monitoring COVID-19.
+					0	Current Opinion in Environmental Science & Health, 17, 14-20.
+					0	Daughton, C. G. (2020).
+					0	Wastewater surveillance for population-wide Covid-19: the present and future.
+					0	Science of the Total Environment, 736, 139631.
+					0	Bogler, A., Packman, A., Furman, A., Gross, A., Kushmaro, A., Ronen, A., ... & Bar-Zeev, E. (2020).
+					0	Rethinking wastewater risks and monitoring in light of the COVID-19 pandemic.
+					0	Nature Sustainability, 3(12), 981-990.
+					0	Jaiswal, R., Agarwal, A., & Negi, R. (2020).
+					0	Smart solution for reducing the COVID‐19 risk using smart city technology.
+					0	IET Smart Cities, 2(2), 82-88.
+					0	Thank you again for your supportive review to improve the manuscript.
+					0	Yours sincerely, The Authors
+					0	1 Dear Reviewer #2, I am grateful for your suggestions regarding my paper, and my answers to your comments are provided below.
+					0	#1.
+					0	This article advocates for better flexibility (in the sense of adding and removing when necessary) of smart city services and better integration between them.
+					0	The authors argue that this would be precious to predict and fight against a pandemic, and as such they propose a smart city structure model.
+					0	First, I have a series of concerns regarding the form.
+					0	There are some phrasing issues and typos throughout the paper.
+Author	Reviewer_2	2	14	1	1	In order to improve the quality of the thesis, professional translation has been carried out again.
+Author	Reviewer_2	2	14	1	1	We sincerely apologize for the rudimentary mistakes related to some expressions and errors.
+					0	#2.
+					0	There are also many in-text reference errors with tables, which makes it hard to follow given the high number of tables (13!).
+					0	Also, references to figures seem to include the full caption and cause line breaks instead of the figure number only.
+					0	Please check especially the conclusion, this is hardly readable.
+Author	Reviewer_3	2	28	2	2	The reference confirmed that the error occurred when the formatting was moved.
+Author	Reviewer_3	2	28	2	2	In addition, errors in the sentences have been reviewed and corrected.
+Author	Reviewer_3	2	28	2	2	We apologize again for the rudimentary mistake.
+					0	#3.
+					0	There are referencing issues with sections as well (e.g.
+					0	line 213: “As mentioned in 0”) Finally, and most importantly, the format of the bibliography is highly problematic.
+					0	For many references (e.g.
+					0	[15], [22], [25]) it is impossible to retrieve the source.
+					0	For many other sources, the local access path of the file is provided, which again prevents the reader from retrieving the source.
+					0	All these issues could have been picked up by a simple check.
+					0	Unfortunately, they are enough for me to recommend to reject the paper, as I consider that submitting a report of scientific quality in this form is unacceptable.
+Author	Reviewer_2	2	16	3	1	References are rechecked and deleted or erroneous references are recited or deleted.
+Author	Reviewer_2	2	16	3	1	We humbly accept the reviewer's opinion that there are many references, and we have deleted references that are deemed unnecessary.
+Author	Reviewer_2	2	16	3	1	We humbly accept the reviewer's comments that there is a quality problem, and
+Author	Reviewer_3	2	32	6	1	we sincerely apologize.
+Author	Reviewer_2	2	16	3	1	We did our best to double-check, revise, and improve the quality of our papers.
+					0	#4.
+					0	The content of the paper raises major concerns as well.
+					0	In the introduction, I could not understand the motivation of the paper.
+					0	The authors argue that the smart city services failed to be flexible enough to predict and fight the pandemic.
+					0	However, I am lacking a concrete example of failure that proves the authors’ point.
+Reviewer_2	Author	1	4	0	2	It is well-known that different services are hard to integrate together (this is not specific to the smart city), but I would have liked the authors to illustrate in 2 light of the pandemic context, and maybe to the context of Korea since their contribution is specific to this geographic context in that it integrates the 12 smart city categories of Korea and the healthcare phases of Korea.
+					0	The contribution is not presented in the introduction, only the problem is.
+Author	Reviewer_2	2	17	4	1	We fully agree with the reviewer's comment that integration between services is difficult not only in smart cities but also in other fields.
+Author	Reviewer_2	2	17	4	1	As advised by the reviewer, the situation in Korea was described in Figure 5 (Outbreak of COVID-19 in Korea and the limitations of smart city services) and Table 10 (Limitations of smart city services in each phase).
+Author	Reviewer_2	2	17	4	1	The spread of COVID cannot simply be blocked by smart city services, but by simplifying the current state and proceeding with the thesis, we did not reflect Korea's medical stage with geographic characteristics.
+Author	Reviewer_2	2	17	4	1	We will conduct additional research in the future to fully reflect the reviewer's comments.
+Author	Reviewer_2	2	17	4	1	Thanks for the advice.
+					0	#5.
+					0	The literature review is very long (it represents half of the paper) and can be significantly shortened as it contains few information that is actually useful to the rest of the paper.
+					0	It is also hard to read, as it contains more tabular content than text.
+					0	In Table 3, what is an EA?
+Author	Reviewer_2	2	18	5	1	We reviewed the literature review and deleted redundant or unnecessary content.
+Author	Reviewer_2	2	18	5	1	Also, we have checked and corrected the Author's initials that you pointed out.
+Author	Reviewer_2	2	18	5	1	We also Cognized that the expression ‘EA’ is a unit used only in certain countries.
+					0	The 'EA' refers to the quantity, but all have been deleted.
+					0	We sincerely apologize for the basic mistake.
+					0	We will check in more detail later.
+					0	#6.
+					0	Table 4 presents smart city projects of several different countries.
+Reviewer_2	Author	1	6	0	2	The authors than write that hese services have a limitation in that cannot predict and prevent transmission of threats such as COVID.
+					0	It the threats concern COVID only, it does not really make sense, as many of the mentioned services simply do not have this goal (e.g.
+					0	smart grid).
+					0	If it goes beyond COVID, this is a claim that needs to be backed with a sound and transparent evaluation by the authors or literature.
+Author	Reviewer_2	4	5	3	2	We agree with the reviewer's comments.
+Author	Reviewer_2	2	19	6	1	Smart city projects are underway all over the world.
+Author	Reviewer_2	2	19	6	1	Also, although smart city services differ by country, the smart city structure has a similar framework to a certain level.
+Author	Reviewer_2	2	19	6	1	Therefore, if we can transform the structure of the smart city, we decided that it would be a great tool to cope with situations such as COVID, even a little.
+					0	#7.
+					0	Table 5 is useless in my opinion.
+					0	It is well-known that many standards exist and are not used in every service, which causes integration issues.
+					0	The authors could remove the table and mention 1-2 standards relevant for pandemics and make the same point.
+Author	Reviewer_2	2	20	7	1	Like the reviewer's comments, the rest of the table's contents other than those related to pandemic have been deleted.
+					0	3 #8.
+					0	Section 2.3 has the same title as Section 2.2.
+Author	Reviewer_2	2	21	8	1	Sections 2.2 and 2.3 have identified errors with the same title.
+Author	Reviewer_2	2	21	8	1	Accordingly, the title has been modified as follows.
+Author	Reviewer_2	2	21	8	1	We apologize once again for repeating basic mistakes.
+Author	Reviewer_2	2	21	8	1	- 2.2 Status of smart city services - 2.3 Status of Pandemic #9.
+					0	It presents phased plans for pandemics.
+					0	Several different plans are described, which is useless information for the reader.
+					0	Indeed, the phases in a Texan county are of no use to understand the authors’ contribution.
+					0	They could easily break the section down to the essential information that would be the WHO phases and the Korean healthcare phases, and mention that there are global and local plans throughout the world with different phases.
+					0	Tables 8 and 9 can thus be removed.
+					0	Table 7 is not very informative, all the phases say that actions from the previous phase should be continued or initiated.
+					0	I have checked the online source and it mentions other aspects such as treatment and isolation for the recognition phase, which have not been picked up by the authors.
+					0	A case study approach restricted to Korea would be more informative and more consistent with the contribution of the paper, which is as I mentioned specific to Korea.
+Author	Reviewer_2	2	22	9	1	We completely agree with the reviewer's sharp points.
+Author	Reviewer_2	2	22	9	1	Accordingly, the contents including Tables 8 and 9 were deleted and reorganized into World Health Organization (WHO), Control and Prevention (CDC) and Korea Centers for Disease Control (KCDC).
+					0	#10.
+					0	Section 3, named “Main discussion”, should be renamed to be more explicit regarding what the reader can expect to find.
+					0	I suggest e.g.
+					0	“Revised model of smart city service structure”.
+Author	Reviewer_2	2	23	10	1	Thanks for the reviewer's comments.
+Author	Reviewer_2	2	23	10	1	The title of this section 3 has been changed according to the comments of the reviewers.
+					0	#11.
+					0	The contribution is a proposition of services such as screening people with thermal cameras and tracking infected people through CCTV.
+					0	However, it misses a critical point of COVID.
+					0	Infected people are in the public space without knowing that they have COVID, since contagion happens before symptoms appears.
+					0	Once infected people have been identified, they are supposedly in quarantine.
+					0	Do the authors propose to track everyone and then go back to the records of infected people to retrieve their paths and contacts?
+					0	Or do the authors want to check if infected people are outside their home instead of in quarantine?
+					0	This is not clear to me.
+					0	Also, and more importantly, the integration and flexibility aspects are not really addressed in the end.
+					0	The authors do not explain how the services they propose could be integrated with existing ones (e.g.
+					0	which standards should be used) and how the services can be added or removed.
+					0	This part is only represented as clouds in the proposed structure model but not discussed further.
+					0	Therefore, it seems that the contribution breaks down to proposing strict tracking services which feasibility and acceptance by the population is not assessed.
+					0	4
+Author	Reviewer_2	2	24	11	1	We agree with the reviewers' opinion that the biggest cause of this COVID-19 transmission is the rapid spread of infected people around them by moving to public places before they show symptoms.
+					0	In the case of Korea, rather than finding the infected person in advance, the focus was on identifying and blocking the spread of the infected person.
+					0	Therefore, Smart City Service checked the movement of the infected people by time, found close contacts in the vicinity, and took measures to self-quarantine immediately.
+					0	As a result, the critical point of being identified before an infectious disease spreads was missed.
+					0	However, Korea has prevented a rapid collapse of the medical system by slowing the rate of propagation around it, and the role of smart city services has been significant in this regard.
+Author	Reviewer_2	2	24	11	1	Reflecting the reviewer's opinion that it is not clear, the entire sentence has been revised and translated clearly.
+					0	#12.
+					0	My last concern is the ethical aspects of the proposed services.
+					0	The authors acknowledge that not addressing these is a limitation of their research.
+					0	In my opinion, this is more than a limitation, this is essential to discuss given the nature of what the authors propose.
+Author	Reviewer_2	2	25	12	1	We fully agree with the reviewers' comments.
+Author	Reviewer_2	2	25	12	1	Therefore, as the limit of this paper, the limit of the ethical aspect was first specified, and in the situation where the service is not needed, the service is deleted in consideration of the ethical aspect in the structure of the smart city.
+Author	Reviewer_2	2	25	12	1	Also in Korea, it is legally required to be used only when necessary.
+					0	Ministry of Land, Infrastructure and Transport (Korea): “…… But the scope of data collected will be kept to minimum and a due procedure should be followed in acquiring the data.
+					0	First, an epidemiological surveyor should decide whether additional collection of personal information is needed.
+					0	If the answer is yes, the official should seek approval from relevant authorities to get access to the data.
+					0	For example, as for the location information, separate permission from the National Police Agency is required.” Source: http://www.molit.go.kr/english/USR/BORD0201/m_28286/DTL.jsp?id=eng_mltm_new&mode=view&idx=2931 #13.
+					0	In summary, my suggestions are to focus the paper on the Korean context, in an in-depth case study approach where authors detail more their contribution, clearly illustrate what the problem is and how their contribution helps solving it.
+Author	Reviewer_2	4	10	8	2	Many revisions have been made to this paper according to the reviewer's comments.
+Author	Reviewer_2	4	10	8	2	Although there are still many things incomplete, we did our best to reflect the opinions of the reviewers.
+Author	Reviewer_2	2	26	13	1	Also, we really appreciate the accurate comments from the reviewers.
+Author	Reviewer_2	4	10	8	2	In addition, we will use a more advanced paper by reflecting it in the ongoing research.
+					0	Thank you again for your supportive review to improve the manuscript.
+					0	Yours sincerely, The Authors
+					0	1 Dear Reviewer #3, I am grateful for your suggestions regarding my paper, and my answers to your comments are provided below.
+					0	#1.
+Reviewer_3	Author	1	1	0	2	Please always write out the full terms and than in brackets the abbreviation (lines 79-80).
+Author	Reviewer_3	2	30	4	2	The full terms of the abbreviation are reflected.
+					0	#2.
+					0	"The whole manuscript is full of ""Error!"
+					0	"reference source..."" (e.g."
+					0	line 85) The reference confirmed that the error occurred when the formatting was moved.
+					0	In addition, errors in the sentences have been reviewed and corrected.
+					0	We apologize again for the rudimentary mistake.
+					0	#3.
+					0	Line 142: lack of flexibility
+Author	Reviewer_3	2	29	3	1	In other words, the structure lacks flexibility
+					0	 #4.
+					0	Please always explain abbreviations before use - e.g.
+					0	line 149 The full terms of the abbreviation are reflected.
+					0	#5.
+Reviewer_3	Author	1	5	0	2	Line 320: according to the introduction the COVID-19 pandemic started in 2019 and here you state 2020.
+Author	Reviewer_3	2	31	5	1	The incorrect part of the year has been corrected.
+Author	Reviewer_3	2	31	5	1	Thanks for your pointing out #6.
+					0	Lines 352-354: here we have two times Figure 2.
+					0	Moreover, please bring the text together.
+Author	Reviewer_3	2	32	6	1	There were many rudimentary mistakes.
+					0	We sincerely apologize.
+Author	Reviewer_3	2	32	6	1	We corrected the errors by rechecking the paper.
+					0	#7.
+					0	In this source you can find a whole list of smart city technologies http://www.sinfonia- smartcities.eu/en/resources/d21--swot-analysis-report-of-the-refined-conceptbaseline Might be of interest for your work.
+Author	Reviewer_3	2	33	7	1	Missing or erroneous references were rechecked and corrected.
+					0	Thank you again for your supportive review to improve the manuscript.
+					0	Yours sincerely, The Authors
+					0	1 Dear Reviewer #1, I am grateful for your suggestions and kind commendation.
+					0	#1.
+					0	I think the paper, and especially the abstract, are much improved.
+					0	Both in terms of readability and accessibility, but also in terms of context and framing.
+					0	I think the paper has the ability to make a contribution to the literature in a way that the previous version may not have been able to
+Author	Reviewer_1	4	1	1	1	Thanks for your kind words.
+Author	Reviewer_1	4	1	1	1	The quality of the paper has improved on the reviewer's advice.
+Author	Reviewer_1	4	1	1	1	There are many things that need to be improved in this paper, however we will remember your sincere advices and write more advanced papers later.
+Author	Reviewer_1	4	1	1	1	Thanks again.
+					0	#2.
+					0	I think mentioning the scenario approach in the abstract might be worthwhile, but I don't think it's a huge problem if it isn't mentioned.
+					0	Either way, I think the paper is in much better shape.
+Author	Reviewer_2	4	5	3	2	As advised by the reviewer, the content of the scenario was additionally reflected in the abstract.
+Author	Reviewer_2	4	5	3	2	The contents are as follows.
+Author	Reviewer_1	4	2	2	1	- This study proposes a method for timely and sequential responses, through a flexible combination of the healthcare system and smart city services by envisioning a scenario that sequentially grafts the current status of COVID-19 in Korea.
+					0	Thank you once again for your pertinent suggestions and feedback.
+					0	Yours sincerely, The Authors
+					0	1 Dear Reviewer #2, I would like to thank Reviewer for the issues raised and for the recommendations.
+					0	In addressing the comments, I have been able to improve the clarity and content of the manuscript vastly.
+					0	I have made major revisions to the paper based on your inputs, as mentioned below.
+					0	#1.
+					0	The authors made substantial efforts to take my comments into account, and I commend them for that.
+					0	However, despite the good improvements, I have some remaining concerns.
+Author	Reviewer_2	4	3	1	1	Thank you for the reviewer's heartfelt comments.
+Author	Reviewer_2	4	3	1	1	The corrections to the reviewer's concerns are as follows: #2.
+					0	"There are still some ""Reference not found"" errors and line breaks when referring to figures in the text, but almost everything regarding the format has been fixed, which gives the revised paper a much more professional look than its previous version."
+					0	Regarding the references, my point was that there are many references *with formatting mistakes in them*, and not that there are too many references in the bibliography.
+					0	Please feel free to add them back if you feel they should be included.
+Author	Reviewer_2	4	4	2	1	We checked again that errors occurred.
+Author	Reviewer_2	4	4	2	1	After fixing the errors, we rechecked it on others PC.
+Author	Reviewer_2	4	4	2	1	We sincerely apologize for the continued errors.
+Author	Reviewer_2	4	4	2	1	References deleted in the first review were deleted because they were deemed unnecessary.
+Author	Reviewer_2	4	4	2	1	Thanks for the comments #3.
+					0	The motivation of the paper is still unclear for me in the introduction, and the reasons for the limitations of smart city services are not clear in Section 2, but is much better explained later in the paper, which is a nice improvement.
+					0	I believe that explaining standard constraints (due to the multiplicity of service providers) and coupling between services in the introduction to motivate the paper would be valuable.
+					0	Indeed, if my understanding is correct, they are the factors that cause the limitations of smart city services the authors want to address.
+					0	We agree with the reviewer's comments.
+					0	As advised by the reviewer, the content of the scenario was additionally reflected in the abstract.
+					0	The contents are as follows.
+					0	- “This study proposes a method for timely and sequential responses, through a flexible combination of the healthcare system and smart city services by envisioning a scenario that sequentially grafts the current status of COVID-19 in Korea.” #4.
+					0	The authors made some efforts to streamline Section 2, and it is much easier to follow in its current form.
+Reviewer_2	Author	3	4	0	2	However, some parts still appear unnecessary to me.
+Reviewer_2	Author	3	4	0	2	Table 3 just shows that medical, crime prevention, transportation, and environmental services are the most frequent, which is already said in the text, but without an explanation of what pilot city, regulatory sandbox, and smart city 2 challenge are, it is difficult to extract anything else from this table.
+					0	Table 7 does not bring much useful insights as well in its current form.
+					0	The authors have not responded to my previous comment on this table, I thus redirect them to my review of the previous version.
+Author	Reviewer_2	4	6	4	1	The description of the characteristics of each city shown in Table 3 was insufficient, as was the reviewer's opinion.
+Author	Reviewer_2	4	6	4	1	Accordingly, the project described in Table 3 was briefly explained and the contents of the article were also revised.
+Author	Reviewer_2	4	6	4	1	- “... As a representative smart city project in Korea, Pilot city, Regulatory sandbox and Smart City Challenge are in progress.
+Author	Reviewer_2	4	6	4	1	To summarize the smart city services used in this project, medical, crime prevention, transportation and environmental services are the most used.” Table 7 also agrees with the reviewer's advice that it does not fit the current content.
+Author	Reviewer_2	4	6	4	1	Accordingly, the contents of Table 7 were deleted and only the contents described in the text were left.
+Author	Reviewer_2	4	6	4	1	Thanks for your comments.
+					0	#5.
+					0	Section 3.1 gives an overview of the COVID-19 and smart city systems situation in South Korea, but is not part of the novel contribution by the authors.
+					0	I would thus include it in Section 2 instead.
+					0	Section 2 would thus have a part on smart city services, a part on COVID-19 response plans, and then the current content of 3.1 which deals with the relationship between the two parts of the current Section 2.
+					0	It would allow a smoother transition between Section 2 and Section 3, as the modified Section 2 would conclude with the need for a novel smart city service structure.
+Author	Reviewer_2	4	7	5	1	As commented by reviewer, the content of Section 3.1 includes the content of Section 2.
+Author	Reviewer_2	4	7	5	1	However, for the 3.2 Expansion of smart city structure that we want to present, I think it is necessary to organize the contents of Section 2 through Section 3.1 and to draw limitations.
+Author	Reviewer_2	4	7	5	1	Of course, it is also correct to understand the structure as the opinions of reviewer.
+Author	Reviewer_2	4	7	5	1	We put a lot of thought into reflecting the opinions.
+Author	Reviewer_2	4	7	5	1	We are sorry; however, we have decided that it is difficult to change the structure at the moment.
+Author	Reviewer_2	4	7	5	1	We ask for your generous understanding of the current structure.
+					0	Thank you.
+					0	#6.
+					0	From the additional explanations in the text, I understand that the idea is to track the movements of everyone and then use that information to trace back the contacts of confirmed infected patients.
+					0	I stand by my position that the feasibility/ethical aspects should be discussed, at least from a social acceptance or a legal point of view, as the reader is left skeptical about whether it can actually be done with the current explanations.
+					0	The authors bring up interesting legal considerations in their response to my comments, it would be nice to have them in the paper to show the reader under which conditions the authors' solution can be used.
+Author	Reviewer_2	4	8	6	1	Thank you for understanding a little more about our paper.
+Author	Reviewer_2	4	8	6	1	Also, I totally agree with the reviewer's comments about the skepticism of readers.
+Author	Reviewer_2	4	8	6	1	Accordingly, the legal considerations specified in the first review have been added to the text.
+Author	Reviewer_2	4	8	6	1	Its contents are as follows.
+					0	3 - “… In Korea, disease-related smart city services are legally sanctioned to be used only when necessary to protect personal information.” #7.
+					0	Finally, and this is my biggest remaining concern, the authors have not responded to my comment regarding the lack of explanations on how the flexible adding and removal of the proposed services would be achieved.
+					0	This is still unclear to me in the paper.
+					0	This is a very important point, since it changes what is the contribution of the paper.
+					0	The current contribution seems to be the proposal of new services to handle the COVID situation, or similar situations in the future.
+					0	However, I am lacking the contribution on the more general issue of integrating and removing services in an existing smart city infrastructure.
+					0	In other terms, what can we use from the authors' paper to achieve a more flexible smart city service structure?
+Author	Reviewer_2	4	9	7	1	We are sorry for not being clear on the answer to the last review.
+Author	Reviewer_2	4	9	7	1	This paper tried to present a concept for the smart city structure to cope with major situations such as COVID-19.
+Author	Reviewer_2	4	9	7	1	Therefore, it was not possible to present a specific method of adding or removing a smart city system.
+Author	Reviewer_2	4	9	7	1	Currently, smart city services in Korea are trying to implement a structure that adds and deletes when necessary, as in this paper (Reference #73).
+Author	Reviewer_2	4	9	7	1	However, we apologize for not being able to give you a clear answer on this question.
+Author	Reviewer_2	4	9	7	1	After observing the process of implementing the system, we will present a specific method in the thesis we plan to proceed later.
+					0	#8.
+					0	In brief, the authors have made major improvements on the form and good improvements to the content.
+					0	However, there are still several of my previous comments that were not answered or not answered in a sufficiently convincing way.
+					0	Many revisions have been made to this paper according to the reviewer's comments.
+					0	Although there are still many things incomplete, we did our best to reflect the opinions of the reviewers.
+Author	Reviewer_2	4	10	8	1	Also, we sincerely appreciate the accurate comments from the reviewers.
+					0	In addition, we will use a more advanced paper by reflecting it in the ongoing research.
+					0	Thank you once again for your pertinent suggestions and feedback.
+					0	Yours sincerely, The Authors

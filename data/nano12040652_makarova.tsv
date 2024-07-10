@@ -1,0 +1,240 @@
+side	opponent	round	number	attacks	ann	text
+					0	Author Response Reply to Reviewer 1 The article: «Influence of nanoparticles and metal vapors on the color of laboratory and atmospheric discharges» Authors: Victor Tarasenko, Nikita Vinogradov, Dmitry Beloplotov, Alexander Burachenko, Mikhail Lomaev, and Dmitry Sorokin Submission Date: 14 December 2021 Date of this review 29 Dec 2021 14:04:26 Comments to the Authors The article is devoted to the study of the influence of nanoparticles and metal vapors on the color of laboratory and atmospheric plasma discharges.
+					0	The article may be of interest, but for researchers in the field of plasma physics and gas discharges.
+					0	Of course, the article discusses the effect of particles, including possibly nanoparticles, on the discharge glow, but the article is not suitable for the journal's topics.
+					0	Reply:
+Author	Reviewer_3	2	13	3	2	The manuscript has been revised.
+Author	Reviewer_3	2	11	1	1	Several references was added.
+					0	We hope that the results presented in the article will also be of interest to researchers who deal with micro and nanoparticles in traditional areas of nanomaterial physics [1-8].
+					0	Edits in the text are highlighted in either yellow or red font.
+					0	In addition, there are comments on the research methodology and interpretation of research on the article itself.
+					0	Here are some of them: 1)
+Reviewer_1	Author	1	1	0	2	Of course, metal vapors, nano- and micro-particles can affect the characteristics of the discharge.
+Reviewer_1	Author	1	1	0	2	This is known from numerous studies of simpler and more understandable plasma objects such as glow discharge and arc.
+Reviewer_1	Author	1	1	0	2	Similar studies and comparisons with known experimental data could be carried out on these objects.
+Reviewer_1	Author	1	1	0	2	In this connection, the use of high-voltage pulse discharges is not justified.
+Reviewer_1	Author	1	1	0	2	The authors draw an analogy with the formation of sprites, then, in my opinion, the study would be more suitable for another journal related, for example, atmospheric research.
+					0	Reply:
+Author	Reviewer_1	2	1	1	1	Our studies have shown that the effect of metal vapors on the color of the discharge plasma is much greater in the case of a pulsed breakdown in a nonuniform electric field.
+Author	Reviewer_1	2	1	1	1	This made it possible to compare with the color of various discharges occurring in the upper atmosphere (Figure 1 in the text of the article).
+Author	Reviewer_1	2	1	1	1	Even with well-studied discharges, it is very difficult to obtain such results.
+Author	Reviewer_1	2	1	1	1	Thus, during an arc discharge, although there is a strong evaporation of the electrodes and the ejection of particles of various sizes, the voltage across the gap is low and the discharge in metal vapors outside the high-temperature arc channel is practically absent.
+Author	Reviewer_1	2	1	1	1	Under these conditions, broadband Planck radiation from the arc channel plasma is observed.
+Author	Reviewer_1	2	1	1	1	In a glow discharge, the sputtering of the electrodes has a low rate, and the emission spectra of the plasma of such discharges contain atomic and molecular transitions of the gases used.
+Author	Reviewer_1	2	1	1	1	In the investigated mode, metal vapors are produced and excited by a pulsed discharge.
+					0	2)
+Reviewer_1	Author	1	2	0	2	The article is more descriptive in nature, there is no explanation of physical laws, but which are misleading readers.
+					0	For instance:
+Reviewer_1	Author	1	3	0	2	"Lines 168, 169 ""An increase in the track brightness is apparently determined by an increase in the particle charge and size due to the evaporation of metal from the surface."""
+Reviewer_1	Author	1	3	0	2	One can agree with the influence of the particle size on the track size, but how can an increase in the particle charge affect the track glow?
+					0	Reply:
+Author	Reviewer_3	2	13	3	3	This judgment was removed from the text of the manuscript.
+Reviewer_1	Author	1	4	0	2	Lines 173-175 «Based on the brightness of the track glow, the plasma concentration at the particle surface increases with distance from the cathode.» Again, it is not clear how the plasma density on the particle surface can affect the brightness of the track glow.
+					0	Reply:
+Author	Reviewer_1	2	5	4	2	Plasma concentration discussions have been removed from the text because no such measurements have been made.
+Author	Reviewer_1	2	5	4	2	The nature of the glow of the particles in Figure 3 corresponds to the glow of a micrometeorite that burns down in the Earth's atmosphere [13] and [http://galaxy.astron.kharkov.ua/statti/meteor.htm].
+Author	Reviewer_1	2	5	4	2	The brightness of the micrometeorite (the particle) glow increases towards the track’s end.
+Author	Reviewer_1	2	5	4	2	This cannot be explained by an increase in the particle velocity, since the particle stops.
+Author	Reviewer_1	2	5	4	2	This occurs after the voltage pulse action.
+Author	Reviewer_1	2	5	4	2	We believe that an increase in the radiation intensity of the particle is due to its heating during deceleration on gas particles.
+Author	Reviewer_1	2	5	4	2	The text of the article has been revised.
+Author	Reviewer_1	2	5	4	2	Such inaccuracies are found throughout the text.
+Reviewer_1	Author	1	5	0	2	In this regard, I would recommend that the authors revise the article (taking into account their colossal authority in the scientific community and the possibility of conducting more thorough experimental research) and send the article to a more specialized journal.
+					0	Reply:
+Author	Reviewer_1	2	6	5	1	The text of the article was finalized and the English was improved.
+					0	We hope for a positive decision regarding the publication of this article in this journal.
+					0	From authors: Victor F. Tarasenko and Dmitry A. Sorokin Institute of High Current Electronics E-mail: [email protected] Author Response File: Author Response.docx
+					0	Author Response Reply to Reviewer 2 The article: «Influence of nanoparticles and metal vapors on the color of laboratory and atmospheric discharges» Authors: Victor Tarasenko, Nikita Vinogradov, Dmitry Beloplotov, Alexander Burachenko, Mikhail Lomaev, and Dmitry Sorokin Submission Date: 14 December 2021 Date of this review: 19 Jan 2022 07:18:39 Comments and Suggestions for Authors
+Reviewer_2	Author	1	1	0	2	The introduction section could be improved.
+Reviewer_2	Author	1	1	0	2	Some sentences are not well written or convey obvious ideas.
+Reviewer_2	Author	1	1	0	2	Moreover, the aim of this work is to present an overview about the discharge behavior.
+					0	The introduction would benefit from adding more content and detailed review overview to this research, such as particle lifting in electrostatic discharge, Turbulence effect, Mist-containing environment, Electrode materials.
+					0	Reply:
+Author	Reviewer_2	2	7	1	1	The introduction of the manuscript and its text have been revised.
+Author	Reviewer_2	2	7	1	1	In addition, new references have been added to the article.
+Author	Reviewer_2	2	7	1	1	All changes in the text are highlighted in either yellow or red font.
+Author	Reviewer_2	2	7	1	1	First of all, data describing the characteristics of the pulsed nanosecond discharge used were added and the influence of the electrode material was described in more detail.
+Author	Reviewer_2	2	7	1	1	On the other hand, we should note that with a voltage pulse duration from ones to tens of nanoseconds, the experimental conditions differ significantly from the conditions of an electrostatic discharge and the creation of a foggy environment.
+Reviewer_2	Author	1	2	0	2	Please describe better your experimental system, such as ignition energy.
+					0	Reply:
+Author	Reviewer_2	2	8	2	1	The experimental system was described in more detail, and various modes of discharge ignition were analyzed.
+Reviewer_2	Author	1	3	0	2	The choice of the electrode material should be clearly explained in the present paper.
+					0	Reply:
+Author	Reviewer_2	2	9	3	1	In our preliminary studies, as well as in the papers of other authors, it was found that during pulsed discharges of short duration, the electrode material determines the composition of the vapors that evaporate from the electrodes and diffuse into the gap, including due to shock waves and turbulence.
+Author	Reviewer_2	2	9	3	1	Since under these conditions diffuse discharges, at which the voltage across the gap remains high are formed, metal vapors are excited and ionized together with gas molecules in the discharge gap.
+Author	Reviewer_2	2	9	3	1	This leads to the emission of radiation at various spectral transitions of metal atoms.
+Author	Reviewer_2	2	9	3	1	Only a part of these transitions has a high radiation intensity in the region of interest to researchers.
+Author	Reviewer_2	2	9	3	1	Also, to obtain a high intensity of radiation, transitions of atoms in metal vapors can be used, which are populated as a result of the efficient transfer of energy from excited gas molecules and atoms.
+Author	Reviewer_2	2	9	3	1	Metals, the color of the emission of vapors of which, when excited in the plasma of nanosecond discharges, corresponds to the color of high-altitude atmospheric discharges, were chosen as the material of the electrodes.
+					0	Please, explain the mechanism of different color arcs produced by electrodes of different materials.
+					0	Reply:
+Author	Reviewer_2	2	10	4	1	The color of the glow of the discharge plasma at electrodes made of various metals is associated with excitation certain energy levels of particles in the vapors of these metals.
+Author	Reviewer_2	2	10	4	1	So, when using electrodes made of aluminum, steel and copper, we observed the glow of red, blue and green colors, respectively.
+Author	Reviewer_2	2	10	4	1	The different colors of the discharge when changing the material of the electrodes are determined not by the spark or arc stages, but by bright spots on the electrodes, which are formed due to the explosive emission of electrons [Mesyats, G.A.
+Author	Reviewer_2	2	10	4	1	Ecton mechanism of the vacuum arc cathode spot.
+Author	Reviewer_2	2	10	4	1	IEEE transactions on plasma science, 1995, 23(6), pp.
+Author	Reviewer_2	2	10	4	1	879-883.
+Author	Reviewer_2	2	10	4	1	(DOI: 10.1109/27.476469)].
+Author	Reviewer_2	2	10	4	1	These areas in the photographs have a bright white color (see, for example, the photographs in Figures 3, 6, 7).
+Author	Reviewer_2	2	10	4	1	In spark or arc discharge, as well as in bright spots the electrodes are locally heated to a high temperature, which leads to the evaporation of the electrode material.
+Author	Reviewer_2	2	10	4	1	High-temperature zones on the electrodes also supply micro- and nanoparticles into a discharge gap.
+Author	Reviewer_2	2	10	4	1	However, emission of individual particles is determined by their temperature, it corresponds to the Planck radiation and is broadband.
+Author	Reviewer_2	2	10	4	1	We note once again that in this work, to obtain metal vapors, as well as metal nano- and microparticles, a pulsed nanosecond discharge in a non-uniform electric field was used.
+					0	From authors: Victor F. Tarasenko and Dmitry A. Sorokin Institute of High Current Electronics E-mail: [email protected] Author Response File: Author Response.docx
+					0	Author Response Reply to Reviewer 3 The article: «Influence of nanoparticles and metal vapors on the color of laboratory and atmospheric discharges» Authors: Victor Tarasenko, Nikita Vinogradov, Dmitry Beloplotov, Alexander Burachenko, Mikhail Lomaev, and Dmitry Sorokin Submission Date: 14 December 2021 Date of this review: 01 Feb 2022 Comments and Suggestions for Authors The paper provides interesting data concerning the colors of some specific kinds of plasma discharges in different gases and compares them to atmospheric discharges, considering the presence of metal vapors and nanoparticles coming from the electrodes.
+Reviewer_3	Author	1	1	0	2	The topic is timely and the results provided are interesting.
+Reviewer_3	Author	1	1	0	2	However, most of the results provided consist in photographs of the discharges: while these are clear and descriptive, they provide a qualitative information only.
+Reviewer_3	Author	1	1	0	2	A spectral analysis is given for one discharge only (discharge in air with a copper electrode): more quantitative results, such as a spectral analysis of the other discharges also, would be helpful for the comparison between the discharges produced in the lab and the ones observed in the atmosphere.
+					0	Reply: The manuscript has been revised.
+					0	Several references was added.
+Reviewer_3	Author	1	2	0	2	A point that should be clarified is the choice of the gases used for the discharges.
+Reviewer_3	Author	1	2	0	2	One would expect a comparison between discharges that happen in gas mixtures of similar composition.
+Reviewer_3	Author	1	2	0	2	Is there any relationship between the specific choice of gases made by the authors and the composition of the atmosphere at the altitudes where the atmospheric discharges take place?
+					0	Reply:
+Author	Reviewer_3	2	12	2	1	The main experiments were carried out with discharges in air, and the air pressure was chosen close to the pressures of high-altitude discharges.
+Author	Reviewer_3	2	12	2	1	Other gases, such as argon, were chosen to better demonstrate the discoloration of the discharge.
+					0	A couple of requests of clarification about specific parts of the text are also provided in the following.
+Reviewer_3	Author	1	3	0	2	Page 5, line 168 The authors state: “An increase in the track brightness is apparently determined by an increase in the particle charge and size due to the evaporation of metal from the surface.” The sense of this sentence is not completely clear to me.
+Reviewer_3	Author	1	3	0	2	Where does the evaporation of the metal take place?
+Reviewer_3	Author	1	3	0	2	It it took place on the particle surface, it should produce a reduction of its size, rather than an increase.
+					0	Reply: This judgment was removed from the text of the manuscript.
+					0	The manuscript has been revised.
+Reviewer_3	Author	1	4	0	2	Page 6, line 218 The authors state: “Particles of metal and its compounds with oxygen and nitrogen with a size of 500 nm and less are nonuniformly distributed on the surface of the slide”.
+Reviewer_3	Author	1	4	0	2	Some data should be provided to show the elemental composition of the particles.
+					0	Reply:
+Author	Reviewer_3	2	14	4	1	Thanks for the advice.
+Author	Reviewer_3	2	14	4	1	We plan to do this in our next work.
+					0	From authors: Victor F. Tarasenko and Dmitry A. Sorokin Institute of High Current Electronics E-mail: [email protected] Author Response File: Author Response.docx
+					0	Review of the article «Influence of nanoparticles and metal vapors on the color of la- 2 boratory and atmospheric discharges» Authors: Victor Tarasenko, Nikita Vinogradov, Dmitry Beloplotov, Alexander Burachenko, Mikhail Lomaev, and Dmitry Sorokin The article is devoted to the study of the influence of nanoparticles and metal vapors on the color of laboratory and atmospheric plasma discharges.
+					0	The article may be of interest, but for researchers in the field of plasma physics and gas discharges.
+					0	Of course, the article discusses the effect of particles, including possibly nanoparticles, on the discharge glow, but the article is not suitable for the journal's topics.
+					0	In addition, there are comments on the research methodology and interpretation of research on the article itself.
+					0	Here are some of them: 1) Of course, metal vapors, nano- and micro-particles can affect the characteristics of the discharge.
+					0	This is known from numerous studies of simpler and more understandable plasma objects such as glow discharge and arc.
+					0	Similar studies and comparisons with known experimental data could be carried out on these objects.
+					0	In this connection, the use of high-voltage pulse discharges is not justified.
+					0	The authors draw an analogy with the formation of sprites, then, in my opinion, the study would be more suitable for another journal related, for example, atmospheric research.
+					0	2) The article is more descriptive in nature, there is no explanation of physical laws, but which are misleading readers.
+					0	"For instance: Lines 168, 169 ""An increase in the track brightness is apparently determined by an increase in the particle charge and size due to the evaporation of metal from the surface."""
+					0	One can agree with the influence of the particle size on the track size, but how can an increase in the particle charge affect the track glow?
+					0	Lines 173-175 «Based on the brightness of the track glow, the plasma concentration at the particle surface increases with distance from the cathode.» Again, it is not clear how the plasma density on the particle surface can affect the brightness of the track glow.
+					0	Such inaccuracies are found throughout the text.
+					0	In this regard, I would recommend that the authors revise the article (taking into account their colossal authority in the scientific community and the possibility of conducting more thorough experimental research) and send the article to a more specialized journal.
+					0	The introduction section could be improved.
+					0	Some sentences are not well written or convey obvious ideas.
+					0	Moreover, the aim of this work is to present an overview about the discharge behavior.
+Reviewer_2	Author	1	1	0	2	The introduction would benefit from adding more content and detailed review overview to this research, such as particle lifting in electrostatic discharge , Turbulence effect, Mist-containing environment, Electrode materials.
+					0	Please describe better your experimental system, such as ignition energy.
+					0	The choice of the electrode material should be clearly explained in the present paper.
+Reviewer_2	Author	1	4	0	2	Please explain the mechanism of different color arcs produced by electrodes of different materials.
+					0	The paper provides interesting data concerning the colors of some specific kinds of plasma discharges in different gases and compares them to atmospheric discharges, considering the presence of metal vapors and nanoparticles coming from the electrodes.
+					0	The topic is timely and the results provided are interesting.
+					0	However, most of the results provided consist in photographs of the discharges: while these are clear and descriptive, they provide a qualitative information only.
+					0	A spectral analysis is given for one discharge only (discharge in air with a copper electrode): more quantitative results, such as a spectral analysis of the other discharges also, would be helpful for the comparison between the discharges produced in the lab and the ones observed in the atmosphere.
+					0	A point that should be clarified is the choice of the gases used for the discharges.
+					0	One would expect a comparison between discharges that happen in gas mixtures of similar composition.
+					0	Is there any relationship between the specific choice of gases made by the authors and the composition of the atmosphere at the altitudes where the atmospheric discharges take place?
+					0	A couple of requests of clarification about specific parts of the text are also provided in the following.
+					0	Page 5, line 168 The authors state: “An increase in the track brightness is apparently determined by an increase in the particle charge and size due to the evaporation of metal from the surface.” The sense of this sentence is not completely clear to me.
+					0	Where does the evaporation of the metal take place?
+					0	It it took place on the particle surface, it should produce a reduction of its size, rather than an increase.
+					0	Page 6, line 218 The authors state: “Particles of metal and its compounds with oxygen and nitrogen with a size of 500 nm and less are nonuniformly distributed on the surface of the slide”.
+					0	Some data should be provided to show the elemental composition of the particles.
+Reviewer_1	Author	3	1	0	2	The authors have revised the article.
+Reviewer_1	Author	3	1	0	2	It can be accepted for publication.
+Reviewer_2	Author	3	1	0	2	According to the comments of the first time, the author has made good supplement and modification.
+					0	Reply to Reviewer 1 The article: «Influence of nanoparticles and metal vapors on the color of laboratory and atmospheric discharges» Authors: Victor Tarasenko, Nikita Vinogradov, Dmitry Beloplotov, Alexander Burachenko, Mikhail Lomaev, and Dmitry Sorokin Submission Date: 14 December 2021 Date of this review 29 Dec 2021 14:04:26 Comments to the Authors The article is devoted to the study of the influence of nanoparticles and metal vapors on the color of laboratory and atmospheric plasma discharges.
+					0	The article may be of interest, but for researchers in the field of plasma physics and gas discharges.
+					0	Of course, the article discusses the effect of particles, including possibly nanoparticles, on the discharge glow, but the article is not suitable for the journal's topics.
+					0	Reply: The manuscript has been revised.
+					0	Several references was added.
+					0	We hope that the results presented in the article will also be of interest to researchers who deal with micro and nanoparticles in traditional areas of nanomaterial physics [1-8].
+					0	Edits in the text are highlighted in either yellow or red font.
+					0	In addition, there are comments on the research methodology and interpretation of research on the article itself.
+					0	Here are some of them: 1) Of course, metal vapors, nano- and micro-particles can affect the characteristics of the discharge.
+					0	This is known from numerous studies of simpler and more understandable plasma objects such as glow discharge and arc.
+					0	Similar studies and comparisons with known experimental data could be carried out on these objects.
+					0	In this connection, the use of high-voltage pulse discharges is not justified.
+					0	The authors draw an analogy with the formation of sprites, then, in my opinion, the study would be more suitable for another journal related, for example, atmospheric research.
+					0	Reply: Our studies have shown that the effect of metal vapors on the color of the discharge plasma is much greater in the case of a pulsed breakdown in a nonuniform electric field.
+					0	This made it possible to compare with the color of various discharges occurring in the upper atmosphere (Figure 1 in the text of the article).
+					0	Even with well-studied discharges, it is very difficult to obtain such results.
+					0	Thus, during an arc discharge, although there is a strong evaporation of the electrodes and the ejection of particles of various sizes, the voltage across the gap is low and the discharge in metal vapors outside the high-temperature arc channel is practically absent.
+					0	Under these conditions, broadband Planck radiation from the arc channel plasma is observed.
+					0	In a glow discharge, the sputtering of the electrodes has a low rate, and the emission spectra of the plasma of such discharges contain atomic and molecular transitions of the gases used.
+					0	In the investigated mode, metal vapors are produced and excited by a pulsed discharge.
+					0	2) The article is more descriptive in nature, there is no explanation of physical laws, but which are misleading readers.
+					0	"For instance: Lines 168, 169 ""An increase in the track brightness is apparently determined by an increase in the particle charge and size due to the evaporation of metal from the surface."""
+					0	One can agree with the influence of the particle size on the track size, but how can an increase in the particle charge affect the track glow?
+					0	Reply: This judgment was removed from the text of the manuscript.
+					0	Lines 173-175 «Based on the brightness of the track glow, the plasma concentration at the particle surface increases with distance from the cathode.» Again, it is not clear how the plasma density on the particle surface can affect the brightness of the track glow.
+					0	Reply: Plasma concentration discussions have been removed from the text because no such measurements have been made.
+					0	The nature of the glow of the particles in Figure 3 corresponds to the glow of a micrometeorite that burns down in the Earth's atmosphere [13] and [http://galaxy.astron.kharkov.ua/statti/meteor.htm].
+					0	The brightness of the micrometeorite (the particle) glow increases towards the track’s end.
+					0	This cannot be explained by an increase in the particle velocity, since the particle stops.
+					0	This occurs after the voltage pulse action.
+					0	We believe that an increase in the ra-diation intensity of the particle is due to its heating during deceleration on gas particles.
+					0	The text of the article has been revised.
+					0	Such inaccuracies are found throughout the text.
+					0	In this regard, I would recommend that the authors revise the article (taking into account their colossal authority in the scientific community and the possibility of conducting more thorough experimental research) and send the article to a more specialized journal.
+					0	Reply: The text of the article was finalized and the English was improved.
+					0	We hope for a positive decision regarding the publication of this article in this journal.
+					0	From authors: Victor F. Tarasenko and Dmitry A. Sorokin Institute of High Current Electronics E-mail: VFT@loi.hcei.tsc.ru
+					0	Reply to Reviewer 2 The article: «Influence of nanoparticles and metal vapors on the color of laboratory and atmospheric discharges» Authors: Victor Tarasenko, Nikita Vinogradov, Dmitry Beloplotov, Alexander Burachenko, Mikhail Lomaev, and Dmitry Sorokin Submission Date: 14 December 2021 Date of this review: 19 Jan 2022 07:18:39 Comments and Suggestions for Authors 1.
+					0	The introduction section could be improved.
+					0	Some sentences are not well written or convey obvious ideas.
+					0	Moreover, the aim of this work is to present an overview about the discharge behavior.
+					0	The introduction would benefit from adding more content and detailed review overview to this research, such as particle lifting in electrostatic discharge, Turbulence effect, Mist-containing environment, Electrode materials.
+					0	Reply: The introduction of the manuscript and its text have been revised.
+					0	In addition, new references have been added to the article.
+					0	All changes in the text are highlighted in either yellow or red font.
+					0	First of all, data describing the characteristics of the pulsed nanosecond discharge used were added and the influence of the electrode material was described in more detail.
+					0	On the other hand, we should note that with a voltage pulse duration from ones to tens of nanoseconds, the experimental conditions differ significantly from the conditions of an electrostatic discharge and the creation of a foggy environment.
+					0	2.
+					0	Please describe better your experimental system, such as ignition energy.
+					0	Reply: The experimental system was described in more detail, and various modes of discharge ignition were analyzed.
+					0	3.
+					0	The choice of the electrode material should be clearly explained in the present paper.
+					0	Reply: In our preliminary studies, as well as in the papers of other authors, it was found that during pulsed discharges of short duration, the electrode material determines the composition of the vapors that evaporate from the electrodes and diffuse into the gap, including due to shock waves and turbulence.
+					0	Since under these conditions diffuse discharges, at which the voltage across the gap remains high are formed, metal vapors are excited and ionized together with gas molecules in the discharge gap.
+					0	This leads to the emission of radiation at various spectral transitions of metal atoms.
+					0	Only a part of these transitions has a high radiation intensity in the region of interest to researchers.
+					0	Also, to obtain a high intensity of radiation, transitions of atoms in metal vapors can be used, which are populated as a result of the efficient transfer of energy from excited gas molecules and atoms.
+					0	Metals, the color of the emission of vapors of which, when excited in the plasma of nanosecond discharges, corresponds to the color of high-altitude atmospheric discharges, were chosen as the material of the electrodes.
+					0	4.
+					0	Please, explain the mechanism of different color arcs produced by electrodes of different materials.
+					0	Reply: The color of the glow of the discharge plasma at electrodes made of various metals is associated with excitation certain energy levels of particles in the vapors of these metals.
+					0	So, when using electrodes made of aluminum, steel and copper, we observed the glow of red, blue and green colors, respectively.
+					0	The different colors of the discharge when changing the material of the electrodes are determined not by the spark or arc stages, but by bright spots on the electrodes, which are formed due to the explosive emission of electrons [Mesyats, G.A.
+					0	Ecton mechanism of the vacuum arc cathode spot.
+					0	IEEE transactions on plasma science, 1995, 23(6), pp.
+					0	879-883.
+					0	(DOI: 10.1109/27.476469)].
+					0	These areas in the photographs have a bright white color (see, for example, the photographs in Figures 3, 6, 7).
+					0	In spark or arc discharge, as well as in bright spots the electrodes are locally heated to a high temperature, which leads to the evaporation of the electrode material.
+					0	High-temperature zones on the electrodes also supply micro- and nanoparticles into a discharge gap.
+					0	However, emission of individual particles is determined by their temperature, it corresponds to the Planck radiation and is broadband.
+					0	We note once again that in this work, to obtain metal vapors, as well as metal nano- and microparticles, a pulsed nanosecond discharge in a non-uniform electric field was used.
+					0	From authors: Victor F. Tarasenko and Dmitry A. Sorokin Institute of High Current Electronics E-mail: VFT@loi.hcei.tsc.ru
+					0	Reply to Reviewer 3 The article: «Influence of nanoparticles and metal vapors on the color of laboratory and atmospheric discharges» Authors: Victor Tarasenko, Nikita Vinogradov, Dmitry Beloplotov, Alexander Burachenko, Mikhail Lomaev, and Dmitry Sorokin Submission Date: 14 December 2021 Date of this review: 01 Feb 2022 Comments and Suggestions for Authors The paper provides interesting data concerning the colors of some specific kinds of plasma discharges in different gases and compares them to atmospheric discharges, considering the presence of metal vapors and nanoparticles coming from the electrodes.
+					0	The topic is timely and the results provided are interesting.
+					0	However, most of the results provided consist in photographs of the discharges: while these are clear and descriptive, they provide a qualitative information only.
+					0	A spectral analysis is given for one discharge only (discharge in air with a copper electrode): more quantitative results, such as a spectral analysis of the other discharges also, would be helpful for the comparison between the discharges produced in the lab and the ones observed in the atmosphere.
+					0	Reply: The manuscript has been revised.
+					0	Several references was added.
+					0	A point that should be clarified is the choice of the gases used for the discharges.
+					0	One would expect a comparison between discharges that happen in gas mixtures of similar composition.
+					0	Is there any relationship between the specific choice of gases made by the authors and the composition of the atmosphere at the altitudes where the atmospheric discharges take place?
+					0	Reply: The main experiments were carried out with discharges in air, and the air pressure was chosen close to the pressures of high-altitude discharges.
+					0	Other gases, such as argon, were chosen to better demonstrate the discoloration of the discharge.
+					0	A couple of requests of clarification about specific parts of the text are also provided in the following.
+					0	Page 5, line 168 The authors state: “An increase in the track brightness is apparently determined by an increase in the particle charge and size due to the evaporation of metal from the surface.” The sense of this sentence is not completely clear to me.
+					0	Where does the evaporation of the metal take place?
+					0	It it took place on the particle surface, it should produce a reduction of its size, rather than an increase.
+					0	Reply: This judgment was removed from the text of the manuscript.
+					0	The manuscript has been revised.
+					0	Page 6, line 218 The authors state: “Particles of metal and its compounds with oxygen and nitrogen with a size of 500 nm and less are nonuniformly distributed on the surface of the slide”.
+					0	Some data should be provided to show the elemental composition of the particles.
+					0	Reply: Thanks for the advice.
+					0	We plan to do this in our next work.
+					0	From authors: Victor F. Tarasenko and Dmitry A. Sorokin Institute of High Current Electronics E-mail: VFT@loi.hcei.tsc.ru

@@ -1,0 +1,78 @@
+Author Response Author Response File: Author Response.docx
+Author Response Please see the attachment Author Response File: Author Response.docx
+This work presented the method for multiple metal ions detection using a carbon quantum dots (CQDs) based chemosensor array by functionalization with different amino acids.
+Although the method of preparation of these sensors is not new, the implementation to chemosensor array is well presented.
+The CQDs with and without metal ions were systematically characterized (TEM, IR, XRD, XPS, etc).
+It is also impressive that all 11 metal ions were successfully identified by LDA with 100% classification rate.
+The manuscript is well written.
+So, I suggest to accept this paper to Molecule with only minor revision: 1.
+In page 2, you write the heading “2.
+Results”, but the content of that paragraph belong to the introduction part.
+So, please remove the heading “2.
+Results”.
+The manuscript is an interesting research about developing a chemosensor array for metals ions detection simultaneously.
+It is very well written and presented.
+A detailed supllementary material is very helfup and useful for readers.Here are some comments:line.
+57-58.
+It seems that Figure 1 should be placed in other section, namely Section 3.1. , where it is mentioned for the first time (line 176).
+Line 59.
+Remove "2.
+Results" line 148.
+What does NAA mean?
+line 251.
+Write "On TEM images " instead of "Transmission electrone microscopy can be observed..." line 284.
+Remove the word "that"
+Responses to Reviewers’ comments and the description of revisions in the revised manuscript We would sincerely thank the Review for the time and effort in carefully reading the manuscript and in preparing the review reports.
+We truly appreciate your positive comments on our work, as well as for raising interesting points, which lead to the improvement of the manuscript.
+We have revised the manuscript accordingly.
+The point-by-point responses to the comments are enclosed.
+We hope we have satisfactorily addressed all the concerns and questions.
+Reviewer's comments and authors' replies: [Reviewer comments in black; Author response in blue.]
+-------------------------------------------------------------------- Response to Reviewer 1 This work presented the method for multiple metal ions detection using a carbon quantum dots (CQDs) based chemosensor array by functionalization with different amino acids.
+Although the method of preparation of these sensors is not new, the implementation to chemosensor array is well presented.
+The CQDs with and without metal ions were systematically characterized (TEM, IR, XRD, XPS, etc).
+It is also impressive that all 11 metal ions were successfully identified by LDA with 100% classification rate.
+The manuscript is well written.
+So, I suggest to accept this paper to Molecule with only minor revision: Comments 1: In page 2, you write the heading “2.
+Results”, but the content of that paragraph belong to the introduction part.
+So, please remove the heading “2.
+Results”.
+Reply: Thanks for the valuable comment.
+We have removed the heading “2.
+Results” in the revised manuscript.
+Responses to Reviwers’ comments and the description of revisions in the revised manuscript We would sincerely thank the Review for the time and effort in carefully reading the manuscript and in preparing the review reports.
+We truly appreciate your positive comments on our work, as well as for raising interesting points, which lead to the improvement of the manuscript.
+We have revised our manuscript accordingly.
+The point-by-point responses to the comments are enclosed.
+We hope we have satisfactorily addressed all Referees’ concerns and questions.
+Reviewer's comments and authors' replies: [Reviewer comments in black; Author response in blue.]
+-------------------------------------------------------------------- Response to Reviewer 2 The manuscript is interesting research about developing a chemosensor array for metals ions detection simultaneously.
+It is very well written and presented.
+A detailed supplementary material is very helpful and useful for readers.
+Here are some comments: 1.
+Comments: line.
+57-58.
+It seems that Figure 1 should be placed in other section, namely Section 3.1. , where it is mentioned for the first time (line 176).
+Reply: Thanks for the valuable comment.
+We have changed the position of Figure 1 to line 182, and adjusted the arrangement of the figures in the article.
+2.
+Comments: line 59.
+Remove "2.
+Results".
+Reply: Thanks for the valuable comment.
+We have removed the heading “2.
+Results” in the revised manuscript.
+3.
+Comments: line 148.
+What does NAA mean?
+Reply: Thank you for your valuable opinion.
+NAA is an abbreviation for amino acid, and we have added the description of NAA in the section of “2.3 Construction of sensor array”.
+4.
+Comments: line 251.
+Write "On TEM images " instead of "Transmission electrone microscopy can be observed..." Reply: Thanks for the valuable comment.
+We have made the appropriate changes in the text to make the sentences more concise and highlighted them in red (line 248).
+5.
+Comments: line 284.
+Remove the word "that".
+Reply: Thanks for the valuable comment.
+We have removed the word “that” in the revised manuscript.
