@@ -86,8 +86,8 @@ Reviewer_3	Author	1	4	0	2	This does not look professional in scientific papers.
 					0	Root cause versus root-cause.
 					0	Please read the whole paper again and make sure there are not inconsistencies like these in the paper.
 					0	2)
-Reviewer_3	Author	1	5	0	2	There are some typos, punctuations and grammatical errors in the paper
-					0	, such as: Some grammatical errors such as the following sentence in the abstract: “This work will mainly benefit practitioners… by providing a new approach to risk manage human factors…”.
+Reviewer_3	Author	1	5	0	2	There are some typos, punctuations and grammatical errors in the paper,
+					0	such as: Some grammatical errors such as the following sentence in the abstract: “This work will mainly benefit practitioners… by providing a new approach to risk manage human factors…”.
 					0	This should change to “to manage the risk of human factors or to risk management of human factors”.
 					0	“et.
 					0	al.” rather than “et al.”, page 3 “Editor” rather than “editor” “E.g.” rather than “e.g.” Some commas are needed; e.g.
