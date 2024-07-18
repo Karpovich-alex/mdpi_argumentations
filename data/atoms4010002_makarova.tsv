@@ -35,7 +35,7 @@ Reviewer_2	Author	1	3	0	2	(3) The authors claim there should be no backaction of
 Reviewer_2	Author	1	4	0	2	Also the BEC will lead to an effective change of the cavity length and lattice constant, which should renormalize the wavelength and thus om_recoil.
 Author	Reviewer_2	2	8	3	1	Actually, we do not claim that oscillation frequencies in general will be unaffected by the backaction.
 Author	Reviewer_2	2	8	3	1	Rather, we claim that one particular frequency, the Bloch frequency, will be unaffected.
-					0	The Horak paper shows that Bloch energies (i. e. eigenmodes for a particle in a periodic potential…not to be confused with the Bloch oscillation frequency) will be changed by the backaction.
+					0	The Horak paper shows that Bloch energies (i.e. eigenmodes for a particle in a periodic potential…not to be confused with the Bloch oscillation frequency) will be changed by the backaction.
 					0	This is because the presence of atoms in the cavity shifts the cavity resonance and hence the depth of the intracavity lattice: the Bloch energies are dependent on the potential depth.
 					0	This change in potential depth due to backaction is fully included in our treatment.
 					0	However, a change in the depth of a periodic potential does not change the Bloch frequency because this depends on the lattice’s spatial period, not the depth.
@@ -58,12 +58,12 @@ Author	Reviewer_2	2	10	6	1	Yes we agree that there will be extra noise due to th
 Author	Reviewer_2	2	10	6	1	Rev. A 2013, 88, 013848] where we directlycalculated the heating effect for Bloch oscillating atoms in a cavity within the Bogoliubov approximation.
 					0	Following the referee’s suggestion we have added the reference to Mekhov’s paper.
 Author	Reviewer_2	2	11	7	1	The coherence time for the many-particle Bloch oscillating state is in fact very hard to calculate (mainly because even the coherent part is time-dependent rather than stationary).
-					0	It can, however, be estimated and so we have added in the following sentences on p3:“\textcolor{red}{The coherence time is particularly hard to calculate in the Bloch oscillating case \cite{Ven13} due to the time dependence introduced by the Bloch oscillations, especially in the presence of many particles, but it can be roughly estimated to be $\tau=\tau_{\mathrm{sp}}/(1+C)$ \cite{Ven09} at cavity resonance, where$\tau_{\mathrm{sp}}^{-1}=2 \gamma \vert \alpha \vert^2 \Omega_{0}^2/\Delta_{a}^2$ is the spontaneous emission rate at an antinode.
-					0	The factors $\vert \alpha \vert^2$ and$\Delta_{a}$ are the mean number of cavity photons and the detuning of the laser from atomic resonance, respectively, and will be properly defined in the next section.
-					0	The numerical value of $\tau$ for the parameters considered in this paper will be given in Section \ref{sec:metrology}.
-					0	Of course, Bose-Einstein condensates can be continuously measured and used for sensingwithout a cavity, e.g.\ \cite{Ruostekoski98,Dalvit02,Saba05,Lee12,Java13}, but the cavity case is particularly interesting because it allows for a strong atom-light interaction even in the quantum regime.}
-					0	“In addition, in Section 6 (paragraph 4, Pg 18) we have provided further details required to estimate the coherence time for the parameters used in the paper.
-					0	We find thatcoherence times of up to a couple of seconds (many thousands of Bloch oscillation periods) are possible
+Author	Reviewer_2	2	11	7	1	It can, however, be estimated and so we have added in the following sentences on p3:“\textcolor{red}{The coherence time is particularly hard to calculate in the Bloch oscillating case \cite{Ven13} due to the time dependence introduced by the Bloch oscillations, especially in the presence of many particles, but it can be roughly estimated to be $\tau=\tau_{\mathrm{sp}}/(1+C)$ \cite{Ven09} at cavity resonance, where$\tau_{\mathrm{sp}}^{-1}=2 \gamma \vert \alpha \vert^2 \Omega_{0}^2/\Delta_{a}^2$ is the spontaneous emission rate at an antinode.
+Author	Reviewer_2	2	11	7	1	The factors $\vert \alpha \vert^2$ and$\Delta_{a}$ are the mean number of cavity photons and the detuning of the laser from atomic resonance, respectively, and will be properly defined in the next section.
+Author	Reviewer_2	2	11	7	1	The numerical value of $\tau$ for the parameters considered in this paper will be given in Section \ref{sec:metrology}.
+Author	Reviewer_2	2	11	7	1	Of course, Bose-Einstein condensates can be continuously measured and used for sensingwithout a cavity, e.g.\ \cite{Ruostekoski98,Dalvit02,Saba05,Lee12,Java13}, but the cavity case is particularly interesting because it allows for a strong atom-light interaction even in the quantum regime.}
+Author	Reviewer_2	2	11	7	1	“In addition, in Section 6 (paragraph 4, Pg 18) we have provided further details required to estimate the coherence time for the parameters used in the paper.
+Author	Reviewer_2	2	11	7	1	We find thatcoherence times of up to a couple of seconds (many thousands of Bloch oscillation periods) are possible
 					0	This is a nice contribution to the special issue of cold atoms in optical cavities.
 					0	The auhtors investigate the motion of atoms in a periodic potential inside he cavity taking into account the effect of continuous measurement of photons leaking out of the cavity.
 					0	I support publication, but I have a few comments that the authors hopefully can address before publication.
@@ -76,17 +76,7 @@ Reviewer_1	Author	1	4	0	2	The role of sensing may in the end be less important a
 Reviewer_1	Author	1	5	0	2	There are several other theoretical studies of the continuous quantum measurement of many-atom/cavity systems and condensate systems more generally that could be cited.
 Reviewer_1	Author	1	5	0	2	A condenste-cavity optomechanical study with continuous observation http://dx.doi.org/10.1103/PhysRevA.90.023628
 Reviewer_1	Author	1	6	0	2	Other examples of many-atom-cavity continuous observation papers: W. Niedenzu, S. Schütz, H. Habibian, G. Morigi, and H. Ritsch, Phys. Rev.  88, 033830 (2013). I. B. Mekhov and H. Ritsch, Phys. Rev. Lett. 102, 020403 (2009). J. F. Corney and G. J. Milburn, Phys. Rev. A 58, 2399 (1998). I. D. Leroux, M. H. Schleier-Smith, and V. Vuletić, Phys. Rev. Lett. 104, 073602 (2010).
-					0	There are other papers that link BECs, sensing and continuous quantum measurement process (in the absence of a cavity) M. Saba, T. A. Pasquini, C. Sanner, Y. Shin, W. Ketterle, and D. E. Pritchard, Science 307, 1945 (2005).
-					0	M. D. Lee, S. Rist, and J. Ruostekoski, New J. Phys.
-					0	14, 073057 (2012).
-					0	The effect of continuous measument process of scattered light on condensate dynamics: J. Ruostekoski and D. F. Walls, Phys.
-					0	Rev.
-					0	A 58, R50 (1998).
-					0	D. A. R. Dalvit, J. Dziarmaga, and R. Onofrio, Phys.
-					0	Rev.
-					0	A 65, 053604 (2002).
-					0	J. Javanainen and J. Ruostekoski, New J. Phys.
-					0	15, 013005 (2013).
+Reviewer_1	Author	1	7	0	2	There are other papers that link BECs, sensing and continuous quantum measurement process (in the absence of a cavity) M. Saba, T. A. Pasquini, C. Sanner, Y. Shin, W. Ketterle, and D. E. Pritchard, Science 307, 1945 (2005). M. D. Lee, S. Rist, and J. Ruostekoski, New J. Phys. 14, 073057 (2012). The effect of continuous measument process of scattered light on condensate dynamics: J. Ruostekoski and D. F. Walls, Phys. Rev. A 58, R50 (1998). D. A. R. Dalvit, J. Dziarmaga, and R. Onofrio, Phys. Rev. A 65, 053604 (2002). J. Javanainen and J. Ruostekoski, New J. Phys. 15, 013005 (2013).
 					0	The authors present a new interpretation to study Bloch oscillations in a cavity sustained optical lattice and the potential use of this system for very sensitive force measurement.
 					0	The idea is closely related to previous work as Ref.
 					0	33/34 and the results are similar.

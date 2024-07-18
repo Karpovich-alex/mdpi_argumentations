@@ -1,8 +1,8 @@
 side	opponent	round	number	attacks	ann	text
 					0	Author Response 1.
 Author	Reviewer_1	2	1	1	1	line 76 and 79: Sentence about two farms with financial support is deleted from the aim.
-					0	"2.
-Author	Reviewer_1	2	2	2	1   Line 78: ""designed to meet behavioural needs...."" is deleted Overall, the objective now is focused on the hypotheses."
+					0	2.
+Author	Reviewer_1	2	2	2	1	"Line 78: ""designed to meet behavioural needs...."" is deleted Overall, the objective now is focused on the hypotheses."
 					0	The reviewer is completely right in adressing this point.
 					0	3.
 Author	Reviewer_1	2	3	3	1	l 80-83 is now deleted from the objectives 4.
@@ -23,7 +23,7 @@ Author	Reviewer_1	2	8	8	1	Insted of inserting P-values in the text when reportin
 Author	Reviewer_2	2	9	1	1	This is now included.
 Author	Reviewer_2	2	10	2	1	Stillborn piglets vs piglets with no milk: more details are included about this in the description of the M/M
 Author	Reviewer_2	2	11	3	1	224-225: confusion about parity is corrected,
-					0   same comment as reviewer one
+					0	same comment as reviewer one
 Author	Reviewer_2	2	12	4	1	Figure 5 and 7.
 Author	Reviewer_2	2	12	4	1	There is always effects of batches in these types of studies.
 Author	Reviewer_2	2	12	4	1	This is also why we prefer to have several batches, but the main effect should not be biased by the batch effect in the present study, as the main finding are quite clear even in our small data set.

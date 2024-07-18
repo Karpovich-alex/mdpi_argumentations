@@ -30,8 +30,7 @@ Reviewer_3	Author	1	1	0	2	The authors should write the complete terms of all abb
 Reviewer_3	Author	1	1	0	2	FT-IR and SEM in abstract section et al.
 Reviewer_3	Author	1	2	0	2	The authors should clearly explain the innovation and importance of their work on the introduction of the manuscript.
 Reviewer_3	Author	1	2	0	2	They should justify the value of the work and compare their work with previously similar published papers.
-Reviewer_3	Author	1	3	0	2	Fig.
-Reviewer_3	Author	1	3	0	2	1 - for a more effective visual comparison, authors recommended to provide SEM images of the same scale.
+Reviewer_3	Author	1	3	0	2	Fig. 1 - for a more effective visual comparison, authors recommended to provide SEM images of the same scale.
 Reviewer_3	Author	1	3	0	2	In such form is rather difficult to make adequate comparison.
 					0	EDX analysis (Fig 3) - a very conditional (not specific) type of analysis of the chemical composition of the surface.
 					0	Often, spectra with different atomic abundances of elements can be obtained even from the same sample.
@@ -51,27 +50,26 @@ Reviewer_3	Author	1	9	0	2	The author should bring specific conclusions in accord
 					0	Our decision on this manuscript – Major revision.
 					0	After making all required minor changes in article it could be recommended for publication.
 Reviewer_1	Author	3	1	0	2	The paper now can be accpeted for publication.
-					0	Authors respond for all my queries and in present for this manuscript could be recommended for publication
-					0	Page 1 of 2 catalysts Ms. Ref.
-					0	No.
+Reviewer_3	Author	3	1	0	2	Authors respond for all my queries and in present for this manuscript could be recommended for publication
+					0	Page 1 of 2 catalysts Ms. Ref. No.
 					0	: catalysts-1584262 Title: Bio-stimulated adsorption of Cr(VI) from aqueous solution by Groundnut Shell Activated Carbon@Al embedded material Response to Reviewer-1 Comments We appreciate the efforts of the reviewers for their detailed and insightful comments, which have helped us to improve the quality of our manuscript.
 					0	A point-by-point response to the reviewer-1 comments is appended below for your convenience.
 					0	Comment 1: Some FT-IR peaks shift with adsorption of Cr, and some not.
 					0	Please add the discussion which peak shift is related to Cr, the authors can combine these with the discussion of the mechanism.
 					0	Response:
-Author	Reviewer_3	2	20	10	21	We acknowledge the reviewer’s opinion.
+Author	Reviewer_3	2	20	10	1	We acknowledge the reviewer’s opinion.
 Author	Reviewer_1	2	1	1	1	According to the reviewer suggestion, FT-IR peaks shift related to chromium ion adsorption are discussed in the mechanism section and is incorporated in the revised manuscript.
-Author	Reviewer_3	2	19	9	13	Thank you for your valuable suggestion.
+Author	Reviewer_3	2	19	9	1	Thank you for your valuable suggestion.
 					0	Comment 2: The porosity of the sample should be measured.
 					0	Response: We acknowledge the reviewer’s opinion.
-Author	Reviewer_2	2	10	4	2	However, we regret that we were not able to investigate the BET analysis due to pandemic situation, which could definitely give us additional information.
-Author	Reviewer_3	2	14	4	3	We hope the reviewer understand the experimental deficiencies at the stage of the present experiments.
-Author	Reviewer_3	2	14	4	3	We deeply appreciate the comment raised by the reviewer.
-Author	Reviewer_3	2	14	4	3	Thank you very much.
+Author	Reviewer_2	2	10	4	1	However, we regret that we were not able to investigate the BET analysis due to pandemic situation, which could definitely give us additional information.
+Author	Reviewer_3	2	14	4	1	We hope the reviewer understand the experimental deficiencies at the stage of the present experiments.
+Author	Reviewer_3	2	14	4	1	We deeply appreciate the comment raised by the reviewer.
+Author	Reviewer_3	2	14	4	1	Thank you very much.
 					0	Comment 3: It is better to show the SEM images using the same scale.
 					0	The magnified images can be shown separately or as inset.
 					0	Response: We acknowledge the reviewer’s opinion.
-Author	Reviewer_3	2	13	3	2	According to the reviewer suggestion, the SEM images with same scale are provided in the revised manuscript.
+Author	Reviewer_3	2	13	3	1	According to the reviewer suggestion, the SEM images with same scale are provided in the revised manuscript.
 					0	Thank you for your valuable suggestion.
 					0	Comment 4: In Figure 3, what is the origin of the increase concentration of Al and S?
 					0	Response: We acknowledge the reviewer’s opinion.
@@ -97,8 +95,7 @@ Author	Reviewer_1	2	6	6	1	Since the prepared adsorbent (Al-GNSC) is successfully
 					0	The authors are very thankful to the Reviewer for their valuable suggestions for the improvement of the manuscript.
 					0	All the modifications are shown in yellow color in the revised manuscript.
 					0	With regards Ravindranadh Koutavarapu, Ph.D.
-					0	Page 1 of 2 catalysts Ms. Ref.
-					0	No.
+					0	Page 1 of 2 catalysts Ms. Ref. No.
 					0	: catalysts-1584262 Title: Bio-stimulated adsorption of Cr(VI) from aqueous solution by Groundnut Shell Activated Carbon@Al embedded material Response to Reviewer-2 Comments We appreciate the efforts of the reviewers for their detailed and insightful comments, which have helped us to improve the quality of our manuscript.
 					0	A point-by-point response to the reviewer-2 comments is appended below for your convenience.
 					0	Comment 1:
@@ -110,25 +107,22 @@ Author	Reviewer_2	2	7	1	1	From this various desorption agents it was identified 
 Author	Reviewer_2	2	7	1	1	Hence, the reuse of Al-GNSC from Cr(VI)-loaded material was studied for sorption and desorption cycles using sodium hydroxide as a regenerated agent.
 					0	Thank you for your valuable suggestion.
 Author	Reviewer_2	2	7	1	1	Relevant references are quoted in the revised manuscript.
-					0	Reference: Sujitha Ravulapalli and Ravindhranath Kunta reported that sodium hydroxide was used as a regenerating agent for the sorption and desorption of Cr(VI) by activated carbon derived from Lantana camara plant.
-					0	[Enhanced removal of chromium (VI) from wastewater using active carbon derived from Lantana camara plant as adsorbent.
-					0	Water Sci Technol (2018) 78 (6): 1377–1389.
-					0	https://doi.org/10.2166/wst.2018.413] Reference: M.A.
-					0	Tandal and B.N.OZA.
-					0	reported that Sodium hydroxide as a regenerating agent for the sorption and desorption of Cr(VI) by Granular activated carbon.
-					0	[Adsorption and regeneration studies for the removal of Chromium (VI) from the waste water of electroplating industry using Granular activated carbon.
-					0	Asian Journal of chemistry.
-					0	Vol.
-					0	17, No.4 (2005), 2524-2530] Page 2 of 2 Comment 2:
+Author	Reviewer_2	2	7	1	1	Reference: Sujitha Ravulapalli and Ravindhranath Kunta reported that sodium hydroxide was used as a regenerating agent for the sorption and desorption of Cr(VI) by activated carbon derived from Lantana camara plant.
+Author	Reviewer_2	2	7	1	1	[Enhanced removal of chromium (VI) from wastewater using active carbon derived from Lantana camara plant as adsorbent.
+Author	Reviewer_2	2	7	1	1	Water Sci Technol (2018) 78 (6): 1377–1389. https://doi.org/10.2166/wst.2018.413] Reference: M.A. Tandal and B.N.OZA.
+Author	Reviewer_2	2	7	1	1	reported that Sodium hydroxide as a regenerating agent for the sorption and desorption of Cr(VI) by Granular activated carbon.
+Author	Reviewer_2	2	7	1	1	[Adsorption and regeneration studies for the removal of Chromium (VI) from the waste water of electroplating industry using Granular activated carbon.
+Author	Reviewer_2	2	7	1	1	Asian Journal of chemistry. Vol. 17, No.4 (2005), 2524-2530] Page 2 of 2 Comment 2:
 Reviewer_2	Author	1	2	0	2	It was also not clear to me how much hydrochloric acid was eventually added during the preparation of the adsorbent.
-					0	Response: We acknowledge the reviewer’s opinion.
-					0	For the preparation of 1kg of Al-GNSC adsorbent, approximately 150 to 200 mL of hydrochloric acid was added in order to blend the aluminum in to the ground nut shell carbon.
-					0	Thank you for your valuable comment.
+					0	Response:
+Author	Reviewer_2	2	8	2	1	We acknowledge the reviewer’s opinion.
+Author	Reviewer_2	2	8	2	1	For the preparation of 1kg of Al-GNSC adsorbent, approximately 150 to 200 mL of hydrochloric acid was added in order to blend the aluminum in to the ground nut shell carbon.
+Author	Reviewer_2	2	8	2	1	Thank you for your valuable comment.
 					0	Comment 3:
 Reviewer_2	Author	1	3	0	2	The authors did not indicate how the “separation factor ‘RL’ is calculated and did not give a link to the equation for its calculation, and if the readers are not quite in the subject, then what kind of factor they do not understand.
 					0	Response: We acknowledge the reviewer’s opinion.
-					0	According to the reviewer suggestion, the expression of separation factor is mentioned in the revised manuscript.
-					0	𝑅𝐿= 1 1+𝑏𝐶𝑖, where “Ci” is the initial concentration of Cr(VI) and “b” is the Langmuir constant.
+Author	Reviewer_2	2	9	3	1	According to the reviewer suggestion, the expression of separation factor is mentioned in the revised manuscript.
+Author	Reviewer_2	2	9	3	1	𝑅𝐿= 1 1+𝑏𝐶𝑖, where “Ci” is the initial concentration of Cr(VI) and “b” is the Langmuir constant.
 					0	Thank you for your valuable comment.
 					0	Comment 4:
 Reviewer_2	Author	1	4	0	2	One could also estimate the specific surface area and porosity.
@@ -142,8 +136,7 @@ Reviewer_2	Author	1	4	0	2	So, the paper can be published after revision.
 					0	The authors are very thankful to the Reviewer for their valuable suggestions for the improvement of the manuscript.
 					0	All the modifications are shown in yellow color in the revised manuscript.
 					0	With regards Ravindranadh Koutavarapu, Ph.D.
-					0	Page 1 of 4 catalysts Ms. Ref.
-					0	No.
+					0	Page 1 of 4 catalysts Ms. Ref. No.
 					0	: catalysts-1584262 Title: Bio-stimulated adsorption of Cr(VI) from aqueous solution by Groundnut Shell Activated Carbon@Al embedded material Response to Reviewer-3 Comments We appreciate the efforts of the reviewers for their detailed and insightful comments, which have helped us to improve the quality of our manuscript.
 					0	A point-by-point response to the reviewer-3 comments is appended below for your convenience.
 					0	The manuscript entitled ‘Bio-stimulated adsorption of Cr(VI) from aqueous solution by Groundnut Shell Activated Carbon@Al embedded material’ by Rao et al focuses on the synthesis of bioadsorbent aluminum metal blended with groundnut shell activated carbon material (Al- GNSC) and it practical application for Cr(VI) adsorption from waste aqueous solutions.
@@ -162,7 +155,7 @@ Author	Reviewer_3	2	11	1	1	According to the reviewer suggestion, the complete te
 					0	Comment 2: The authors should clearly explain the innovation and importance of their work on the introduction of the manuscript.
 					0	They should justify the value of the work and compare their work with previously similar published papers.
 					0	Response: We acknowledge the reviewer’s opinion.
-					0	As suggested, the novelty of the research work is explained in the introduction part of the revised manuscript, and the Page 2 of 4 obtained results are compared with the recent literature.
+Author	Reviewer_3	2	12	2	1	As suggested, the novelty of the research work is explained in the introduction part of the revised manuscript, and the Page 2 of 4 obtained results are compared with the recent literature.
 					0	Thank you for your valuable suggestion.
 					0	Comment 3: Fig.
 					0	1 - for a more effective visual comparison, authors recommended to provide SEM images of the same scale.

@@ -29,12 +29,10 @@ Reviewer_1	Author	1	8	0	2	Can you report the F value and effect size?
 Author	Reviewer_1	2	8	8	1	We have revised the statistical analysis given the Reviewer’s comment below.
 Author	Reviewer_1	2	8	8	1	Thanks to the Reviewer, we found out that there was a duplicate value in the dataset for MEP amplitude (hence the issue with 20 subjects in Figure 3).
 Author	Reviewer_1	2	8	8	1	The error has been corrected and the analysis re
-Author	Reviewer_2	2	21	8	3	done
-					0	.
+Author	Reviewer_2	2	21	8	3	done.
 Author	Reviewer_1	2	8	8	1	Note that the correction did not change the results or the conclusions.
 Author	Reviewer_1	2	8	8	1	We now report for the ANOVA’s the F value and the partial eta squared to indicate the size of the intervention.
-Reviewer_1	Author	1	8	0	2	Would it be interesting if the present data can give the same effect size (0.71) as those reported by Chung et al.
-Reviewer_1	Author	1	8	0	2	(2016)?
+Reviewer_1	Author	1	8	0	2	Would it be interesting if the present data can give the same effect size (0.71) as those reported by Chung et al. (2016)?
 Author	Reviewer_1	2	9	8	1	Indeed, it would be interesting.
 Author	Reviewer_1	2	9	8	1	The size of the intervention for variations in MEP amplitude, as reflected in eta squared, is 0.19, which appears smaller than that reported by Chung et al.
 Author	Reviewer_1	2	9	8	1	However, such an effect size could hardly be compared with the “standardized mean difference’ computed by Chung et al.
@@ -51,8 +49,7 @@ Author	Reviewer_1	2	11	10	1	We agree it does seem arbitrary but this approach ha
 Author	Reviewer_1	2	11	10	1	In this respect, the ±10% cutoff provides a reasonable criterion to classify responders given the variability of responses to rTMS interventions.
 Author	Reviewer_1	2	11	10	1	Hinder, M. R., E. L. Goss, H. Fujiyama, A. J. Canty, M. I. Garry, J. Rodger, and J. J. Summers.
 Author	Reviewer_1	2	11	10	1	"""Inter- and Intra-Individual Variability Following Intermittent Theta Burst Stimulation: Implications for Rehabilitation and Recovery."""
-Author	Reviewer_1	2	11	10	1	Brain Stimulation 7, no.
-Author	Reviewer_1	2	11	10	1	3 (2014): 365-71.
+Author	Reviewer_1	2	11	10	1	Brain Stimulation 7, no. 3 (2014): 365-71.
 Author	Reviewer_1	2	11	10	1	Perellon-Alfonso, R., M. Kralik, I. Pileckyte, M. Princic, J. Bon, C. Matzhold, et al.
 Author	Reviewer_1	2	11	10	1	"""Similar Effect of Intermittent Theta Burst and Sham Stimulation on Corticospinal Excitability: A 5-Day Repeated Sessions Study."""
 Author	Reviewer_1	2	11	10	1	European Journal of Neuroscience 48, no.
@@ -139,8 +136,7 @@ Author	Reviewer_2	4	5	5	1	Actually, we did, but it seems that the new figure leg
 					0	Line 89-90: edit this part.
 					0	Line 145 - Edit the subheading Results Are there differences in stimulation intensities taken from the two devices (Magstim Rapid and BiStim2)?
 					0	Can you report the F value and effect size?
-					0	Would it be interesting if the present data can give the same effect size (0.71) as those reported by Chung et al.
-					0	(2016)?
+					0	Would it be interesting if the present data can give the same effect size (0.71) as those reported by Chung et al. (2016)?
 					0	In line 209, the authors reported that “Of 21 participants, 19 (13 females) completed the protocol without any issues.
 					0	Two female participants had to be excluded….”.
 					0	However, looking at Figure 3, it is obvious that plotted data were from 20 participants.
@@ -174,7 +170,5 @@ Author	Reviewer_2	4	5	5	1	Actually, we did, but it seems that the new figure leg
 					0	"In line 119, the capital ""a"" changes lower case."
 					0	In line 226, notice the format of the comma.
 					0	In line 253, where is the F value?
-					0	In line 282, the result showed r2 = 0.24, p = 0.03 but it is a difference in Fig.
-					0	5.
-					0	Although you state you defined the rMT in Fig.
-					0	1 you did not.
+					0	In line 282, the result showed r2 = 0.24, p = 0.03 but it is a difference in Fig. 5.
+					0	Although you state you defined the rMT in Fig. 1 you did not.

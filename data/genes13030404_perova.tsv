@@ -1,8 +1,7 @@
 side	opponent	round	number	attacks	ann	text
 					0	Author Response Please see the attachment Author Response File: Author Response.docx
 					0	Author Response Please see the attachment Author Response File: Author Response.docx
-					0	Ren et al.
-					0	's study focus on the characterization of IbmiR319 based on its effect on plant architecture and drought response.
+					0	Ren et al.'s study focus on the characterization of IbmiR319 based on its effect on plant architecture and drought response.
 					0	While congratulating the authors on this interesting study, I have the following comments.
 					0	Major comments
 Reviewer_1	Author	1	1	0	2	The authors look at the expression of IbTCP11/17 (targets of miR319) from lines 418-424.
@@ -34,13 +33,7 @@ Reviewer_2	Author	1	4	0	2	Please clarify and rephrase.
 					0	The authors addressed some of the suggestions made.
 					0	However,
 Reviewer_1	Author	3	1	3	4	Comments #1 (gene expression assay) and #3 (proper discussion on RNA-Seq data) aren't properly addressed.
-					0	Genes 2022, 13, x. https://doi.org/10.3390/xxxxx www.mdpi.com/journal/genes Article 1 Blocking IbmiR319 impacts plant architecture and reduces 2 drought tolerance in sweet potato 3 Lei Ren 1, 2, #, Tingting Zhang 1, 2, #, Haixia Wu 1, 2, Xinyu Ge 1, 2, Huihui Wan 1, 2, Shengyong Chen 4, Zongyun Li 1, 2 *, 4 Daifu Ma 3 *, Aimin Wang 1, 2 * 5 1 Institute of Integrative Plant Biology, School of Life Science, Jiangsu Normal University, Xuzhou 221116, 6 Jiangsu Province, People’s Republic of China 7 2 Jiangsu Key Laboratory of Phylogenomics & Comparative Genomics, School of Life Science, Jiangsu Nor- 8 mal University, Xuzhou 221116, Jiangsu Province, People’s Republic of China 9 3 Xuzhou Institute of Agricultural Sciences in Jiangsu Xuhuai District, Key Laboratory for Biology and Ge- 10 netic Breeding of Sweetpotato (Xuzhou), Ministry of Agriculture/Jiangsu Xuzhou Sweetpotato Research 11 Center, 221131, People's Republic of China 12 4 Zhanjiang Academy of Agricultural Sciences, Zhanjiang Guangdong 524094, People's Republic of China 13 # These authors contributed equally to this paper 14 * Correspondence: aiminwang@jsnu.edu.cn (A.W.
-					0	), daifuma@163.com (D.M.
-					0	), zongyunli@jsnu.edu.cn (Z.L.
-					0	); 15 Tel.
-					0	: +86 516 83400033 (A.W.
-					0	), +86 516 82189200 (D.M.
-					0	), +86 516 83400033 (Z.L.)
+					0	Genes 2022, 13, x. https://doi.org/10.3390/xxxxx www.mdpi.com/journal/genes Article 1 Blocking IbmiR319 impacts plant architecture and reduces 2 drought tolerance in sweet potato 3 Lei Ren 1, 2, #, Tingting Zhang 1, 2, #, Haixia Wu 1, 2, Xinyu Ge 1, 2, Huihui Wan 1, 2, Shengyong Chen 4, Zongyun Li 1, 2 *, 4 Daifu Ma 3 *, Aimin Wang 1, 2 * 5 1 Institute of Integrative Plant Biology, School of Life Science, Jiangsu Normal University, Xuzhou 221116, 6 Jiangsu Province, People’s Republic of China 7 2 Jiangsu Key Laboratory of Phylogenomics & Comparative Genomics, School of Life Science, Jiangsu Nor- 8 mal University, Xuzhou 221116, Jiangsu Province, People’s Republic of China 9 3 Xuzhou Institute of Agricultural Sciences in Jiangsu Xuhuai District, Key Laboratory for Biology and Ge- 10 netic Breeding of Sweetpotato (Xuzhou), Ministry of Agriculture/Jiangsu Xuzhou Sweetpotato Research 11 Center, 221131, People's Republic of China 12 4 Zhanjiang Academy of Agricultural Sciences, Zhanjiang Guangdong 524094, People's Republic of China 13 # These authors contributed equally to this paper 14 * Correspondence: aiminwang@jsnu.edu.cn (A.W.), daifuma@163.com (D.M.), zongyunli@jsnu.edu.cn (Z.L.); 15 Tel.: +86 516 83400033 (A.W.), +86 516 82189200 (D.M.), +86 516 83400033 (Z.L.)
 					0	16 Abstract: MicroRNA319 (miR319) plays a key role in plant growth, development, and multiple re- 17 sistance by repressing the expression of targeted TEOSINTE BRANCHED/CYCLOIDEA/PCF (TCP) 18 genes.
 					0	Two members, IbmiR319a and IbmiR319c, were discovered in the miR319 gene family in sweet 19 potato (Ipomoea batatas [L.] Lam).
 					0	Here, we focused on the biological function and potential molec- 20 ular mechanism of the response of IbmiR319a to drought stress in sweet potato.
@@ -54,17 +47,11 @@ Reviewer_1	Author	3	1	3	4	Comments #1 (gene expression assay) and #3 (proper dis
 					0	Taken together, our findings suggest that IbmiR319a affects plant architecture 32 by targeting IbTCP11/17 to control the response to drought stress in sweet potato.
 					0	33 Keywords: sweet potato; microRNA319; TCP transcription factor; drought stress.
 					0	34 35 1.
-					0	Introduction 36 Drought is a major environmental factor causing abiotic stress (Pearce and RS 2001, 37 Xie, Wang et al.
-					0	2017, Meng, Li et al.
-					0	2018).
-					0	Severe drought restricts crop growth and sig- 38 nificantly reduces yield worldwide (Burke, Lobell et al.
-					0	2009), (Hu and Xiong 2014).
+					0	Introduction 36 Drought is a major environmental factor causing abiotic stress (Pearce and RS 2001, 37 Xie, Wang et al. 2017, Meng, Li et al. 2018).
+					0	Severe drought restricts crop growth and sig- 38 nificantly reduces yield worldwide (Burke, Lobell et al. 2009), (Hu and Xiong 2014).
 					0	It is 39 therefore essential that crops with drought tolerance traits are produced.
-					0	Generally, the 40 responses of plants to abiotic stress are similar, especially in the first phase—a rapid, os- 41 motic phase that inhibits shoot growth (Zhou, Li et al.
-					0	2014).
-					0	At the physiological level, 42 the symptoms of drought damage include wilting, growth retardation through reduced 43 photosynthetic capacity (especially the lost function of PSII) (Lin, Chiang et al.
-					0	2011), dis- 44 coloration, abnormal ripening, and so on (Sato, Murakami et al.
-					0	2001).
+					0	Generally, the 40 responses of plants to abiotic stress are similar, especially in the first phase—a rapid, os- 41 motic phase that inhibits shoot growth (Zhou, Li et al. 2014).
+					0	At the physiological level, 42 the symptoms of drought damage include wilting, growth retardation through reduced 43 photosynthetic capacity (especially the lost function of PSII) (Lin, Chiang et al. 2011), dis- 44 coloration, abnormal ripening, and so on (Sato, Murakami et al. 2001).
 					0	45 Citation: Lastname, F.; Lastname, F.; Lastname, F. Title.
 					0	Genes 2022, 13, x. https://doi.org/10.3390/xxxxx Academic Editor: Firstname Last- name Received: date Accepted: date Published: date Publisher’s Note: MDPI stays neu- tral with regard to jurisdictional claims in published maps and institu- tional affiliations.
 					0	Copyright:

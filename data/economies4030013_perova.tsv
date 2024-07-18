@@ -14,17 +14,17 @@ Author	Reviewer_1	2	1	1	1	We better specify the required items on agricultural l
 Author	Reviewer_1	2	1	1	1	Sorry for the unclearness.
 Author	Reviewer_1	2	1	1	1	The index is actually the measure of agricultural labor productivity, which is calculated by the agricultural output and labor.
 Author	Reviewer_1	2	1	1	1	We now clarify this part with another way of expression.
-Author	Reviewer_2	2	12	2	2	The agricultural output is deflated with the base year 2000.
-Author	Reviewer_2	2	12	2	2	There is no price index at the prefectural level.
-Author	Reviewer_2	2	12	2	2	For this reason we use the provincial price indices to deflate the nominal series.
-Author	Reviewer_2	2	12	2	2	Hence, all the prefectures within each province are deflated by the same index.
-Author	Reviewer_2	2	12	2	2	Although suboptimal, this helps to preserve the comparability in the two estimations.
+Author	Reviewer_2	2	12	2	1	The agricultural output is deflated with the base year 2000.
+Author	Reviewer_2	2	12	2	1	There is no price index at the prefectural level.
+Author	Reviewer_2	2	12	2	1	For this reason we use the provincial price indices to deflate the nominal series.
+Author	Reviewer_2	2	12	2	1	Hence, all the prefectures within each province are deflated by the same index.
+Author	Reviewer_2	2	12	2	1	Although suboptimal, this helps to preserve the comparability in the two estimations.
 Reviewer_1	Author	1	2	0	2	Literature discussion: Most of the literature cited in the Introduction section and Discussion section are published five years ago.
 Reviewer_1	Author	1	2	0	2	The authors may want to have some brief discussion on more recent literature regarding China’s productivity estimates and policy related issues.
 					0	-
-Author	Reviewer_2	2	16	6	2	The Reviewer raises a very valuable point.
-Author	Reviewer_2	2	21	11	3	We would like to thank the Reviewer to recommend us to develop this part.
-Author	Reviewer_2	2	16	6	2	We now include more recent literature in the introduction, as well as the government movements of the relevant policies in recent years.
+Author	Reviewer_2	2	16	6	1	The Reviewer raises a very valuable point.
+Author	Reviewer_2	2	21	11	1	We would like to thank the Reviewer to recommend us to develop this part.
+Author	Reviewer_2	2	16	6	1	We now include more recent literature in the introduction, as well as the government movements of the relevant policies in recent years.
 Reviewer_1	Author	1	3	0	2	Measurement issue: The authors rely on the Latent Growth Curve Modeling technique to study the trend growth of China’s agricultural labor productivity.
 Reviewer_1	Author	1	3	0	2	It is not clear, however, why the authors rely on a dataset with only 10-year period to discuss labor productivity trend growth issue instead of using a dataset with longer time period if data is available.
 Reviewer_1	Author	1	3	0	2	In addition, the authors may want to justify their approach by briefly discussing the advantage or shortcomings of their method comparing to other approaches in identifying the growth trend of China’s agricultural labor productivity.
@@ -36,7 +36,7 @@ Author	Reviewer_1	2	3	3	1	We take the reviewer’s advice, to extend the time pe
 Reviewer_1	Author	1	4	0	2	Please double check the citations and the references list as some citations are not included in the references.
 Reviewer_1	Author	1	5	0	2	Table 1: The title of column 2 is not clear.
 Reviewer_1	Author	1	5	0	2	The numbers in that column seem to be cumulative proportions of total changes over time.
-Reviewer_1	Author	1	10	0	4	Please be more specific.
+Reviewer_1	Author	1	10	0	1	Please be more specific.
 Reviewer_1	Author	1	6	0	2	Table 3: Each column title needs to be more specific.
 Reviewer_1	Author	1	7	0	2	Figure 3: It is not clear what the axis labels represent in figure 3.
 Reviewer_1	Author	1	7	0	2	It needs to be noted.
@@ -46,11 +46,11 @@ Reviewer_1	Author	1	10	0	2	Appendix Figure A2: The figure presents the chain-lin
 Reviewer_1	Author	1	10	0	2	It is not clear whether the output is measured in real value (at constant price) or nominal value (at current price).
 					0	Please be more specific.
 					0	-
-Author	Reviewer_2	2	11	1	8	We would like to thank the reviewer’s scrutiny.
-Author	Reviewer_1	2	10	10	7	We now correct all the issues in citations and tables and figures in the text.
-Author	Reviewer_1	2	10	10	7	Figure 3 (now is Figure 4), the vertical axis indicates the growth rate of agricultural labor productivity; we now put it in the note.
-Author	Reviewer_1	2	10	10	7	In Appendix A1, the “absolute value” means real value; we now change it to the better expression.
-Author	Reviewer_1	2	10	10	7	In Appendix A2, they are measured in real value at constant price; we now better specify it in the text.
+Author	Reviewer_2	2	11	1	1	We would like to thank the reviewer’s scrutiny.
+Author	Reviewer_1	2	10	10	1	We now correct all the issues in citations and tables and figures in the text.
+Author	Reviewer_1	2	10	10	1	Figure 3 (now is Figure 4), the vertical axis indicates the growth rate of agricultural labor productivity; we now put it in the note.
+Author	Reviewer_1	2	10	10	1	In Appendix A1, the “absolute value” means real value; we now change it to the better expression.
+Author	Reviewer_1	2	10	10	1	In Appendix A2, they are measured in real value at constant price; we now better specify it in the text.
 					0	Author Response We would like to thank the Reviewers for a very careful reading of the paper and a number of interesting, though challenging, suggestions and comments.
 					0	Thanks to their remarks, the paper has improved under many important aspects.
 					0	We summarize below our reactions to the points raised by the Reviewers following the same order in their lists of comments.
@@ -90,8 +90,8 @@ Author	Reviewer_2	2	13	3	1	Meanwhile, they are the only available data on the pr
 Author	Reviewer_2	2	13	3	1	Therefore, we think this calculation is still helpful.
 Reviewer_2	Author	1	4	0	2	It is necessary to concrete more the definition of the data, output and labor, that the authors used in this measurement, because this has strong implications.
 					0	-
-Author	Reviewer_2	2	19	9	4	Yes, the Reviewer is correct.
-Author	Reviewer_2	2	17	7	3	We now specify this better in the text.
+Author	Reviewer_2	2	19	9	1	Yes, the Reviewer is correct.
+Author	Reviewer_2	2	17	7	1	We now specify this better in the text.
 Reviewer_2	Author	1	5	0	2	In the map of agricultural labor growth in Chinese region, the legend must include which is considered a high growth, medium and low growth of this variable.
 					0	- Yes, the Reviewer is correct.
 					0	We now specify this better in the text.

@@ -24,8 +24,7 @@ Reviewer_1	Author	1	4	0	2	It can thus be removed from the analysis, or moved to 
 Reviewer_1	Author	1	4	0	2	If the author(s) wish to pursue the approach of testing other potentially relevant variables, see Shelton 2007.
 Reviewer_1	Author	1	5	0	2	Figure 1 tends to hide co-movements between the variables by mixing of scales.
 Reviewer_1	Author	1	5	0	2	I suggest the graphs are re-done using two y-axes and preferably logs.
-					0	The correlations in Table 4 are by definition not valid in the cases where the variables are non- stationary.
-					0	Even high correlations are uninformative in this case.
+Reviewer_1	Author	1	6	0	2	The correlations in Table 4 are by definition not valid in the cases where the variables are non-stationary. Even high correlations are uninformative in this case.
 					0	Moreover, most studies that add variables to the models, such as the dependency ratio, argue that Wagner’s law holds conditional on it.
 					0	This makes the unconditional correlations uninteresting.
 Reviewer_1	Author	1	7	0	2	The static regressions in Table 5 are used when testing for cointegration (Engle-Granger approach), when the variables have a unit root.
@@ -75,11 +74,11 @@ Reviewer_1	Author	1	17	0	2	149-150) has explained, considerations of “nonstati
 					0	University of Copenhagen Dept.
 					0	of Economics Discussion Paper, (01-02).
 					0	Round 1: Author Response to Reviewer 1 1.
-Author	Reviewer_1	2	2	2	2	Following the reviewer’s comments, we have now focused on one detailed analysis based on adequate tests and a discussion of the results.
-Author	Reviewer_1	2	2	2	2	The revised version drops Descriptive statistics in old Table 2, rates of increase given in the old Table 3, correlations reported in old Table 4, the regressions in old Table 5, and pooled regressions of old Table 6.
-Author	Reviewer_1	2	2	2	2	The discussion based on these Tables has consequently been omitted from the revision.
-Author	Reviewer_1	2	2	2	2	The unit-root-test Tables have been moved from the Appendix to the text as Table 2, and in view of the evidence in favor of unit roots, rates of growth of GDP and government variables have been shown in Table 3 somewhat like the old Table 3.
-Author	Reviewer_1	2	2	2	2	These are the most major changes.
+Author	Reviewer_1	2	2	2	1	Following the reviewer’s comments, we have now focused on one detailed analysis based on adequate tests and a discussion of the results.
+Author	Reviewer_1	2	2	2	1	The revised version drops Descriptive statistics in old Table 2, rates of increase given in the old Table 3, correlations reported in old Table 4, the regressions in old Table 5, and pooled regressions of old Table 6.
+Author	Reviewer_1	2	2	2	1	The discussion based on these Tables has consequently been omitted from the revision.
+Author	Reviewer_1	2	2	2	1	The unit-root-test Tables have been moved from the Appendix to the text as Table 2, and in view of the evidence in favor of unit roots, rates of growth of GDP and government variables have been shown in Table 3 somewhat like the old Table 3.
+Author	Reviewer_1	2	2	2	1	These are the most major changes.
 					0	2.
 Author	Reviewer_1	2	3	3	1	The authors are aware of the Johnson et al.
 Author	Reviewer_1	2	3	3	1	paper (JME 2013) and other critiques of the PWT data.
@@ -90,11 +89,11 @@ Author	Reviewer_1	2	4	4	1	The dependency variable has been removed from the anal
 					0	4.
 Author	Reviewer_1	2	5	5	1	Figure 1 has been redone with separate scales for logarithms of real GDP per capita and government share.
 					0	5.
-Author	Reviewer_1	2	8	8	3	The correlations of old Table 4, the static regressions of Table 5, and the discussion of endogeneity have been omitted.
+Author	Reviewer_1	2	8	8	1	The correlations of old Table 4, the static regressions of Table 5, and the discussion of endogeneity have been omitted.
 					0	6.
-Author	Reviewer_1	2	12	12	4	Since our data cover a long period of nearly 50 years, we are inclined to rely on Johansen tests although the number of data points is smaller than 100.
-Author	Reviewer_1	2	12	12	4	The Gregory-Hansen test is done for Japan and Korea also just for completeness, and might be of some methodological interest since it does not show cointegration even for Japan and Korea.
-Author	Reviewer_1	2	12	12	4	The reviewer’s observation has been acknowledged in note 2.
+Author	Reviewer_1	2	12	12	1	Since our data cover a long period of nearly 50 years, we are inclined to rely on Johansen tests although the number of data points is smaller than 100.
+Author	Reviewer_1	2	12	12	1	The Gregory-Hansen test is done for Japan and Korea also just for completeness, and might be of some methodological interest since it does not show cointegration even for Japan and Korea.
+Author	Reviewer_1	2	12	12	1	The reviewer’s observation has been acknowledged in note 2.
 					0	7.
 Author	Reviewer_1	2	13	13	1	We agree with the reviewer about the limited usefulness of MTAR in small samples and for Japan and Korea.
 Author	Reviewer_1	2	13	13	1	However, it is included in the hope it would indicate whether lack of cointegration for Malaysia, Philippines, Singapore and Thailand might be due to asymmetric adjustment.
@@ -131,7 +130,7 @@ Reviewer_2	Author	1	5	0	2	Why are there 3 graphs for the Philippines in Figure 1
 Reviewer_2	Author	1	5	0	2	By the way, if the variables were measured in either current prices or utilizing the same base year, these graphs would likely be quite different (same goes for all statistical analysis, it is likely to vary when the two variables are measured the same way) 6.
 Reviewer_2	Author	1	6	0	2	What is the point of the dependency rate?
 Reviewer_2	Author	1	6	0	2	The authors should expand on the need to add this variable and what exactly is it trying to capture.
-					0	In the same vein, what do the authors mean by “however, it seems that the fall in young-dependency ratio was greater than the rise in the old- dependency rate” on p. 4?
+Reviewer_2	Author	1	6	0	2	In the same vein, what do the authors mean by “however, it seems that the fall in young-dependency ratio was greater than the rise in the old-dependency rate” on p. 4?
 Reviewer_2	Author	1	7	0	2	In Table 4, delete the “generated by SAS” note.
 					0	Round 1: Author Response to Reviewer 2 1.
 Author	Reviewer_2	2	17	1	1	Several new references, including those kindly mentioned by the reviewer, have been added, and there is a concise description of these in note 1.
@@ -162,6 +161,6 @@ Reviewer_1	Author	3	2	0	2	It is obvious for Japan, where there is no discernible
 Reviewer_1	Author	3	2	0	2	With proper scaling, the lines should cross each other four times, providing some (but weak) evidence for cointegration.
 Reviewer_1	Author	3	3	0	2	The x-axes in Figure 1 should have years.
 					0	Round 2: Author Response to Reviewer 1 Please note the following changes in revised version:
-Author	Reviewer_1	4	3	3	3	(a) the plots in Figure 1 have been rescaled and now there are cross-overs in the plot for Japan, (b) years have been shown on the horizontal axis in Figure 1, (c) a sizable addition has been made toward the end of Section 3 to address the reviewer’s observations about possible reasons for lack of cointegration in most countries, and (d) a few minor editorial alterations have been made.
+Author	Reviewer_1	4	3	3	1	(a) the plots in Figure 1 have been rescaled and now there are cross-overs in the plot for Japan, (b) years have been shown on the horizontal axis in Figure 1, (c) a sizable addition has been made toward the end of Section 3 to address the reviewer’s observations about possible reasons for lack of cointegration in most countries, and (d) a few minor editorial alterations have been made.
 					0	Round 2: My recommendation is to accept the paper for publication.
 					0	Round 2: Author Response to Reviewer 2 Thank you.

@@ -55,11 +55,10 @@ Author	Reviewer_1	2	1	1	1	We added the following sentences to the discussion sec
 					0	Response 2:
 Author	Reviewer_1	2	2	2	1	We agree with the reviewer that it would be interesting to see how NR2F1 levels would change with endocrine therapy.
 Author	Reviewer_1	2	2	2	1	However, we do not have access to cohorts that include tumor samples before and after neoadjuvant endocrine therapy at this point.
-					0	What we do have access to regarding endocrine therapy is a cohort comparing responders and non- responders to neoadjuvant endocrine therapy (GSE145325).
-					0	We found that NR2F1 expression between responders and non-responders to endocrine therapy was not different.
-					0	We added this to the results section as follows.
-					0	Results section (Page 11, line 346): There was no difference in NR2F1 expression between responder and non-responder to neoadjuvant endocrine therapy (Supplementary Fig.
-					0	9).
+Author	Reviewer_1	2	2	2	1	What we do have access to regarding endocrine therapy is a cohort comparing responders and non- responders to neoadjuvant endocrine therapy (GSE145325).
+Author	Reviewer_1	2	2	2	1	We found that NR2F1 expression between responders and non-responders to endocrine therapy was not different.
+Author	Reviewer_1	2	2	2	1	We added this to the results section as follows.
+					0	Results section (Page 11, line 346): There was no difference in NR2F1 expression between responder and non-responder to neoadjuvant endocrine therapy (Supplementary Fig. 9).
 					0	Supplementary Figure 9.
 					0	Expression of NR2F1 between endocrine therapy responder and non-responder in hormone-positive primary breast cancer.
 					0	Boxplots showing NR2F1 expression in responder and non-responder to neoadjuvant endocrine therapy in GSE145325.
@@ -72,8 +71,8 @@ Author	Reviewer_1	2	3	3	1	We agree with the reviewer that breast cancer is a het
 Author	Reviewer_1	2	3	3	1	We analyzed survival outcomes and the cell fraction in TME by each immunohistological subtype.
 Author	Reviewer_1	2	3	3	1	We did not observe any validated difference in survival outcomes.
 Author	Reviewer_1	2	3	3	1	Cell fractionation of immune cells and stromal cells showed almost similar trends for the scores such as intratumor heterogeneity, HRD, mutation rate, and neoantigens across all subtypes.
-					0	The results for each immunohistological subtype of single- cell Cohort 2 are shown in Supplementary Figure 7, and each subtype showed the same trend.
-					0	We have revised the results section and added supplementary data as follows.
+Author	Reviewer_1	2	3	3	1	The results for each immunohistological subtype of single-cell Cohort 2 are shown in Supplementary Figure 7, and each subtype showed the same trend.
+Author	Reviewer_1	2	3	3	1	We have revised the results section and added supplementary data as follows.
 					0	Results section (Page 6, line 215): Given that breast cancer is a heterogenous disease, it was of interest to investigate the survival outcome by NR2F1 expression of each subtype.
 					0	The OS of NR2F1 high triple- negative and ER-positive/HER2-negative subtypes were associated with better survival in GSE96058, and DSS of NR2F1 high HER2-positive subtypes was associated with worse survival in METABRIC.
 					0	But none of these results were validated by the other breast cancer cohorts (Supplementary Figure 1-3).
@@ -163,10 +162,11 @@ Author	Reviewer_2	2	5	1	1	Given these results, we revised the results section as
 					0	The authors need to analyze the single cell sequencing data and show whether the late recurrence in other organs, such as lung, bone, and brain, other than lymph node, is correlated with NR2F1 expression in the CAFs.
 					0	Otherwise, the authors cannot make a conclusion that CAF-expressed NR2F1 regulates breast tumor dormancy.
 					0	Moreover, the authors need to provide some, at least minimum, evidence or clues that CAF-expressed NR2F1 is responsible for tumor dormancy regulation.
-					0	Response 2: We completely agree with the reviewer that NR2F1 expression in cancer cells and CAFs should be investigated not only in primary but also in metastatic breast cancer using single- cell sequence in order to prove that NR2F1 expression in CAFs affects late recurrence.
-					0	The main finding of this study is that NR2F1 is predominantly expressed in CAFs rather than in all other cell types in the TME, and we do not intend to claim that CAF-expressed NR2F1 regulates dormancy.
-					0	Further, we do not have access to single-cell sequence cohorts of metastatic breast cancer tumors, but it is of our interest, and this will be our future direction.
-					0	In response to the reviewer, we added the following sentences in the discussion section.
+					0	Response 2:
+Author	Reviewer_2	2	7	3	1	We completely agree with the reviewer that NR2F1 expression in cancer cells and CAFs should be investigated not only in primary but also in metastatic breast cancer using single-cell sequence in order to prove that NR2F1 expression in CAFs affects late recurrence.
+Author	Reviewer_2	2	7	3	1	The main finding of this study is that NR2F1 is predominantly expressed in CAFs rather than in all other cell types in the TME, and we do not intend to claim that CAF-expressed NR2F1 regulates dormancy.
+Author	Reviewer_2	2	7	3	1	Further, we do not have access to single-cell sequence cohorts of metastatic breast cancer tumors, but it is of our interest, and this will be our future direction.
+Author	Reviewer_2	2	7	3	1	In response to the reviewer, we added the following sentences in the discussion section.
 					0	Discussion section (Page 13, line 427): The current study demonstrated that NR2F1 expression in the bulk tumor of primary breast cancer is associated with decreased cell proliferation and cancer stem cell-like characteristics.
 					0	Previous studies mentioned that NR2F1 was highly expressed in DTCs [67].
 					0	We found that NR2F1 is most predominantly expressed in CAFs in the TME of primary breast cancer.

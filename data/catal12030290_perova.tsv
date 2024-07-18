@@ -59,19 +59,19 @@ Reviewer_3	Author	1	9	0	2	The author should bring specific conclusions in accord
 					0	Comment 1: Some FT-IR peaks shift with adsorption of Cr, and some not.
 					0	Please add the discussion which peak shift is related to Cr, the authors can combine these with the discussion of the mechanism.
 					0	Response:
-Author	Reviewer_3	2	20	10	21	We acknowledge the reviewer’s opinion.
+Author	Reviewer_3	2	20	10	1	We acknowledge the reviewer’s opinion.
 Author	Reviewer_1	2	1	1	1	According to the reviewer suggestion, FT-IR peaks shift related to chromium ion adsorption are discussed in the mechanism section and is incorporated in the revised manuscript.
 Author	Reviewer_3	2	19	9	13	Thank you for your valuable suggestion.
 					0	Comment 2: The porosity of the sample should be measured.
 					0	Response: We acknowledge the reviewer’s opinion.
-Author	Reviewer_2	2	10	4	2	However, we regret that we were not able to investigate the BET analysis due to pandemic situation, which could definitely give us additional information.
-Author	Reviewer_3	2	14	4	3	We hope the reviewer understand the experimental deficiencies at the stage of the present experiments.
-Author	Reviewer_3	2	14	4	3	We deeply appreciate the comment raised by the reviewer.
-Author	Reviewer_3	2	14	4	3	Thank you very much.
+Author	Reviewer_2	2	10	4	1	However, we regret that we were not able to investigate the BET analysis due to pandemic situation, which could definitely give us additional information.
+Author	Reviewer_3	2	14	4	1	We hope the reviewer understand the experimental deficiencies at the stage of the present experiments.
+Author	Reviewer_3	2	14	4	1	We deeply appreciate the comment raised by the reviewer.
+Author	Reviewer_3	2	14	4	1	Thank you very much.
 					0	Comment 3: It is better to show the SEM images using the same scale.
 					0	The magnified images can be shown separately or as inset.
 					0	Response: We acknowledge the reviewer’s opinion.
-Author	Reviewer_3	2	13	3	2	According to the reviewer suggestion, the SEM images with same scale are provided in the revised manuscript.
+Author	Reviewer_3	2	13	3	1	According to the reviewer suggestion, the SEM images with same scale are provided in the revised manuscript.
 					0	Thank you for your valuable suggestion.
 					0	Comment 4: In Figure 3, what is the origin of the increase concentration of Al and S?
 					0	Response: We acknowledge the reviewer’s opinion.
@@ -128,7 +128,7 @@ Author	Reviewer_2	2	8	2	1	Thank you for your valuable comment.
 Reviewer_2	Author	1	3	0	2	The authors did not indicate how the “separation factor ‘RL’ is calculated and did not give a link to the equation for its calculation, and if the readers are not quite in the subject, then what kind of factor they do not understand.
 					0	Response: We acknowledge the reviewer’s opinion.
 Author	Reviewer_2	2	9	3	1	According to the reviewer suggestion, the expression of separation factor is mentioned in the revised manuscript.
-					0	𝑅𝐿= 1 1+𝑏𝐶𝑖, where “Ci” is the initial concentration of Cr(VI) and “b” is the Langmuir constant.
+Author	Reviewer_2	2	9	3	1	𝑅𝐿= 1 1+𝑏𝐶𝑖, where “Ci” is the initial concentration of Cr(VI) and “b” is the Langmuir constant.
 					0	Thank you for your valuable comment.
 					0	Comment 4:
 Reviewer_2	Author	1	4	0	2	One could also estimate the specific surface area and porosity.
@@ -162,7 +162,7 @@ Author	Reviewer_3	2	11	1	1	According to the reviewer suggestion, the complete te
 					0	Comment 2: The authors should clearly explain the innovation and importance of their work on the introduction of the manuscript.
 					0	They should justify the value of the work and compare their work with previously similar published papers.
 					0	Response: We acknowledge the reviewer’s opinion.
-					0	As suggested, the novelty of the research work is explained in the introduction part of the revised manuscript, and the Page 2 of 4 obtained results are compared with the recent literature.
+Author	Reviewer_3	2	12	2	1	As suggested, the novelty of the research work is explained in the introduction part of the revised manuscript, and the Page 2 of 4 obtained results are compared with the recent literature.
 					0	Thank you for your valuable suggestion.
 					0	Comment 3: Fig.
 					0	1 - for a more effective visual comparison, authors recommended to provide SEM images of the same scale.

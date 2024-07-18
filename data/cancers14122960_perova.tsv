@@ -4,7 +4,7 @@ side	opponent	round	number	attacks	ann	text
 Reviewer_1	Author	1	1	0	2	Line 156 – the authors refer to “ad-hoc rules” that they have developed for consideration of the different coding transcripts associated with the same spliceogenic variant in variant interpretation and classification.
 Reviewer_1	Author	1	1	0	2	Although a reference is provided so that the reader can look up what these ad-hoc rules are, it would also be helpful to briefly describe these in the current manuscript.
 					0	-
-Author	Reviewer_3	2	8	1	4	Acknowledge this comment.
+Author	Reviewer_3	2	1	1	1	Acknowledge this comment.
 Author	Reviewer_1	2	1	1	1	We have introduced new several sentences in this paragraph of Materials and Methods, which define these ad-hoc rules.
 Author	Reviewer_1	2	1	1	1	Lines 154-155: “mgR51C read-outs have been introduced into the classification system as PVS1_O or BP7_O codes of variable evidence strength depending on the splicing outcome [P, Sup-porting (±1 point); M, Moderate (±2); Strong (±4); Very Strong (±8)].” Lines 163-179: “we have developed some ad-hoc rules that take into consideration the coding potential of each individual transcript and its relative contribution to the overall expression to reach the appropriate PVS1_O or BP/_O evidence strength.
 Author	Reviewer_1	2	1	1	1	In brief, for each complex read-out we have applied the following algorithm: (i) De-convolute mgR51C read-outs in-to individual transcripts; (ii) apply ACMG/AMP evidences to each individual transcript; (iii) produce an overall PVS1_O (or BP7_O) code strength based on the relative contribu-tion of individual transcripts/evidences to the overall expression.
@@ -16,7 +16,8 @@ Reviewer_1	Author	1	2	0	2	Lines 250-251 and 263-265– In these lines the author
 Reviewer_1	Author	1	2	0	2	The lack of these protein structures are used as evidence to support pathogenicity.
 Reviewer_1	Author	1	2	0	2	It is not clear from the text how lack of these beta strands is predicted to impact protein function.
 Reviewer_1	Author	1	2	0	2	Is there evidence from another source that these beta strands are critical to protein function and that their loss is deleterious (rather than resulting in normal or slightly reduced protein activity)?
-					0	- Acknowledge this comment.
+					0	-
+Author	Reviewer_3	2	2	2	1	Acknowledge this comment.
 Author	Reviewer_1	2	2	2	1	The five RAD51 paralogs are known to be required for homologous recombination and maintenance of genomic stability.
 Author	Reviewer_1	2	2	2	1	Indeed, RAD51C interacts with RAD51B, RAD51D, XRCC2 and XRCC3 in two different complexes that play a role in homologous recombination.
 Author	Reviewer_1	2	2	2	1	Miller et al studied the interaction between RAD51B and D (and also XRCC3) with deletion mutants.
@@ -49,7 +50,6 @@ Author	Reviewer_1	2	4	4	1	- So, we have modified this paragraph to introduce thi
 Author	Reviewer_1	2	4	4	1	Unfortunately, it is not known the minimal amount of RAD51C expression to confer tumor suppressor haplosufficiency so, these splicing assays were not considered informative (PVS1_O_N/A).” Note that leaky variants generate complex minigene read-outs (two or more transcripts), and are therefore classified accordingly (see methods).
 					0	Author Response Thank you very much for the positive comments 1-
 Reviewer_2	Author	1	1	0	2	in the Introduction in the sentence 61-69 the authors do not mention anything about BRCA1 (they mention MLH1 though);
-					0	
 Reviewer_2	Author	1	2	0	2	I would expect that as BRCA1 splice variants are deeply studied.
 					0	-
 Author	Reviewer_2	2	5	1	1	Acknowledge this suggestion.
@@ -57,7 +57,8 @@ Author	Reviewer_2	2	5	1	1	We have added two references of BRCA1 and BRCA2 studie
 					0	2-
 Reviewer_2	Author	1	2	0	2	In the Materials and Methods, the section 2.6 is not actually a section that described some methodology.
 Reviewer_2	Author	1	2	0	2	It appears to be more appropriate as results and maybe some information could be in the introduction.
-					0	- Acknowledge this comment.
+					0	-
+Author	Reviewer_2	2	6	2	1	Acknowledge this comment.
 Author	Reviewer_2	2	6	2	1	In this section we have tried to describe the classification approach and the rules we have followed to classify the variants.
 Author	Reviewer_2	2	6	2	1	Certainly, we agree with the referee as sometimes the method is mixed with some results.
 Author	Reviewer_2	2	6	2	1	So, we have moved some sentences of the last paragraph of Materials and Methods to Results.
@@ -74,7 +75,7 @@ Author	Reviewer_2	2	7	3	1	“ - We have modified the sentence of the Fl-transcri
 					0	Author Response Thank you very much for the positive comments 1)
 Reviewer_3	Author	1	1	0	2	Splicing variants are called solely based on the size difference.
 Reviewer_3	Author	1	1	0	2	It is good to look into Sanger sequence of splice variants after gel elution of the band and sequencing.
-					0	Acknowledge this comment.
+Author	Reviewer_3	2	8	1	1	Acknowledge this comment.
 Author	Reviewer_3	2	8	1	1	We have sequenced the RT-PCR products of all variant assays (indicated in Materials and Methods, section 2.5.
 Author	Reviewer_3	2	8	1	1	Minigene Splicing Assays).
 Author	Reviewer_3	2	8	1	1	In fact, all the *.ab1 sequence and*.fsa fragment analysis files of RT-PCR products will be freely available at http://hdl.handle.net/10261/270934; https://doi.org/10.20350/digitalCSIC/14662 upon manuscript acceptance (links indicated in the manuscript section “Data Availability Statement”).

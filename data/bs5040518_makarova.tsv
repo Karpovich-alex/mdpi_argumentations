@@ -22,10 +22,10 @@ Reviewer_2	Author	1	3	0	2	Second, the manuscript should be carefully edited as t
 					0	First, it is recommended that the authors provide more information about the selection of the cluster solution.
 					0	That is, no information is available in the present manuscript about alternative cluster solutions from the analysis, for example, the extent to which BIC and the silhouette coefficient differed for other solutions and so forth.
 					0	It would help the reader to have some information available as a way of arguing more strongly that the accepted solution (which does make theoretical and empirical sense) is the strongest grouping.
-Author	Reviewer_2	2	3	2	2	This is now provided in the results section.
+Author	Reviewer_2	2	3	2	1	This is now provided in the results section.
 					0	Second, the manuscript should be carefully edited as there are a fair number of grammatical and typographical errors, including lack of subject-verb agreement in places (e.g., using “were” and “was” in the same sentence, both referring to the same measure - CU traits), omitted words, and so forth.
-Author	Reviewer_2	2	5	3	2	Thank you!
-Author	Reviewer_2	2	5	3	2	I have now carefully read and edited the paper.
+Author	Reviewer_2	2	5	3	1	Thank you!
+Author	Reviewer_2	2	5	3	1	I have now carefully read and edited the paper.
 					0	Round 1: and Author Response The goal of this study was to distinguish subgroups of relationally aggressive females (i.e., reactively aggressive-only subgroup, reactively-and-proactively aggressive-combined subgroup, non-aggressive subgroup), on the basis of nine factors reflecting individual characteristics, peer-related variables and R3 parental control.
 					0	Despite the use of a relatively large sample and of sound measures, this study falls short of making an important contribution to the current literature for several reasons.
 					0	1.
@@ -41,7 +41,7 @@ Reviewer_3	Author	1	4	0	2	Given the severe limitations of their cross-sectional 
 					0	All the measures are self-reported.
 					0	This artificially inflates the link between the study variables.
 					0	Acknowledging this problem in the limitations does not solve it.
-					0	Some measures such as self- reports of peers’ delinquency are also flawed because of a possible projection bias.
+Reviewer_3	Author	1	5	0	2	Some measures such as self-reports of peers’ delinquency are also flawed because of a possible projection bias.
 					0	4.
 					0	Creating groups based on a cluster analysis may have created unnecessary problems.
 					0	In particular, and contrary to what the authors seem to believe, it is not possible to know whether differences between the two aggressive groups reflect differences in levels of relational aggression or in type of relational aggression (reactive only vs. combined), given that the combined group is obviously much more aggressive than the reactive-only group.
@@ -52,12 +52,12 @@ Reviewer_3	Author	1	7	0	2	For example, how to explain that the combined group is
 					0	6.
 Reviewer_3	Author	1	8	0	2	There are a number of grammatical and lexical problems throughout the manuscript that need to be taken care of.
 					0	Round 1: Author Response to Reviewer 3 First, some factors (i.e., CU traits) may be predictors whereas others (i.e., delinquency) may be correlates or consequences of relational aggression.
-Author	Reviewer_3	2	7	2	2	True that we do not know the direction of effects.
-Author	Reviewer_3	2	7	2	2	Here, we use predictor in the statistical sense not causal sense.
+Author	Reviewer_3	2	7	2	1	True that we do not know the direction of effects.
+Author	Reviewer_3	2	7	2	1	Here, we use predictor in the statistical sense not causal sense.
 					0	Second, the authors do not mention why they implicitly selected an additive model (i.e., each factor makes a unique and independent contribution) instead of, for example, an interactional model.
 					0	R4
-Author	Reviewer_3	2	9	3	2	We agree this would be useful but it was not our aim to look at interactions.
-Author	Reviewer_3	2	9	3	2	We also believe interactions such as suggested are better done in longitudinal studies where one can examine moderators.
+Author	Reviewer_3	2	9	3	1	We agree this would be useful but it was not our aim to look at interactions.
+Author	Reviewer_3	2	9	3	1	We also believe interactions such as suggested are better done in longitudinal studies where one can examine moderators.
 					0	Given the severe limitations of their cross-sectional design, the authors need to revise their comments with respect to directionality and their use of causality terms throughout the manuscript.
 Author	Reviewer_3	2	10	4	1	We have attempted to be mindful of causal language and only use it where prior research indicates a direction.
 					0	Some measures such as self-reports of peers’ delinquency are also flawed because of a possible projection bias.
@@ -87,8 +87,8 @@ Reviewer_4	Author	1	3	0	2	As it is, this reviewer had difficulty following the v
 Reviewer_4	Author	1	4	0	2	There are enough variables that I hard a hard time following the analyses.
 Reviewer_4	Author	1	4	0	2	A tighter focus in the intro and matching of analyses to hypotheses may help here.
 					0	Round 1: Author Response to Reviewer 4
-Author	Reviewer_4	2	18	4	4	The manuscript has been edited for grammar problems and for clarity.
-Author	Reviewer_4	2	18	4	4	We have also added Table 1 to assist with understanding our predictors and the broader factors they represent in this study.
+Author	Reviewer_4	2	18	4	1	The manuscript has been edited for grammar problems and for clarity.
+Author	Reviewer_4	2	18	4	1	We have also added Table 1 to assist with understanding our predictors and the broader factors they represent in this study.
 					0	Second Round of Evaluation Round 2:
 Reviewer_4	Author	3	1	0	2	I think the paper is improved.
 Reviewer_4	Author	3	1	0	2	But I do not feel that the authors responded in great detail to my comments.

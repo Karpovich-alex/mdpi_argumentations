@@ -166,23 +166,23 @@ Author	Reviewer_1	2	2	2	1	In the TTFields-sorafenib combination group (n = 16), 
 					0	It is not so trustworthy that the only expression of LC3B indicate the treated condition have increased autophagy in the tumor tissue.
 					0	Other important autophagy and degradation markers like Beclin1 and P62 need to be shown to reflect the regulatory mechanism of TTFields, as well as for the combined treatment with Sorafenib.
 					0	Response 3:
-Author	Reviewer_4	2	29	3	2	We sincerely appreciate this well-taken comment.
+Author	Reviewer_4	2	29	3	1	We sincerely appreciate this well-taken comment.
 Author	Reviewer_1	2	3	3	1	First, we would like to emphasize that indications of autophagy were diverse and determined from increased cellular granularity, amplified lipidation of LC3 (from LC3-I to LC3-II) detected by Western blot, and elevated levels of LC3 foci observed by fluorescent staining.
 Author	Reviewer_1	2	3	3	1	Nevertheless, to better explain the correlation between autophagy and apoptosis we have performed additional examinations to include more markers and additional time points.
 Author	Reviewer_1	2	3	3	1	As per the reviewer’s request,
-Author	Reviewer_4	2	29	3	1	these examinations were performed for the combined treatment as compared to TTFields and sorafenib alone.
-Author	Reviewer_4	2	29	3	3	We thank the reviewer for this comment, as these additions add much clarity to the mechanism of action of TTFields in combination with sorafenib and provide a more coherent explanation for the in vivo results.
-Author	Reviewer_4	2	29	3	3	These additions may be seen in Figure 3 and are described in results sub-section 3.4, Autophagy-apoptosis Interplay For Treatment with Concomitant TTFields and Sorafenib: “In order to investigate the mechanism of action of TTFields-sorafenib co-application, HepG2 and Huh-7D12 cells were treated for 6, 24, or 48 hours with TTFields, sorafenib (3µM), or the two modalities together, and then examined for expression levels of various proteins.
-Author	Reviewer_4	2	29	3	3	For HepG2 cells, the autophagy marker beclin-1 demonstrated elevation after 6 hours of treatment, which was later replaced with diminished expression levels (Figure 3d).
-Author	Reviewer_4	2	29	3	3	This type of behavior was seen in all treatment groups, but was most pronounced for TTFields-sorafenib co-application.
-Author	Reviewer_4	2	29	3	3	The autophagy marker LC3 also displayed such bi-phasic characteristics, but with a somewhat slower kinetics, showing some elevation at 6 hours of treatment, but higher elevation at the 24 hours time point (Figure 3d).
-Author	Reviewer_4	2	29	3	3	As in the case of beclin-1, the magnitude of the effect was higher for co-treatment of TTFields and sorafenib relative to the monotherapies.
-Author	Reviewer_4	2	29	3	3	GRP78, a marker of ER stress, remained low in all treatment groups for 6 and 24 hours of treatment, but demonstrated elevated levels at the later, 48-hours time point (Figure 3e).
-Author	Reviewer_4	2	29	3	3	The apoptosis marker cleaved PARP displayed increased expression in the combined group already after 24 hours, elevating even further after 48 hours of treatment.
-Author	Reviewer_4	2	29	3	3	For the monotherapies, cleaved PARP increase was only evident at 48 hours of treatment, and to a lower extent than that in the co-treatment group (Figure 3f).
-Author	Reviewer_4	2	29	3	3	The slower kinetics of the autophagy-apoptosis path in the Huh-7D12 cells, as seen from the elevation of LC3 after as much as 48 hours (Figure 2c and d), prevented from detecting such changes in the levels of these markers in this cell line (Figure S1).” And in the discussion part “Kinetic examination in the HepG2 cells revealed elevation in autophagy levels as early as 6 hours of TTFields or sorafenib treatment, which diminished and were replaced with ER stress and apoptosis for 48 hours of treatment.
-Author	Reviewer_4	2	29	3	3	These results are in line with a previous study that focused on the effects of sorafenib on such markers in HepG2 cells [32].
-					0	The higher changes in expression levels and faster kinetics when TTFields and sorafenib were applied together rather than alone indicate higher stress levels imposed on the cells in the former case.” Figure 3.
+Author	Reviewer_1	2	3	3	1	these examinations were performed for the combined treatment as compared to TTFields and sorafenib alone.
+Author	Reviewer_1	2	3	3	1	We thank the reviewer for this comment, as these additions add much clarity to the mechanism of action of TTFields in combination with sorafenib and provide a more coherent explanation for the in vivo results.
+Author	Reviewer_1	2	3	3	1	These additions may be seen in Figure 3 and are described in results sub-section 3.4, Autophagy-apoptosis Interplay For Treatment with Concomitant TTFields and Sorafenib: “In order to investigate the mechanism of action of TTFields-sorafenib co-application, HepG2 and Huh-7D12 cells were treated for 6, 24, or 48 hours with TTFields, sorafenib (3µM), or the two modalities together, and then examined for expression levels of various proteins.
+Author	Reviewer_1	2	3	3	1	For HepG2 cells, the autophagy marker beclin-1 demonstrated elevation after 6 hours of treatment, which was later replaced with diminished expression levels (Figure 3d).
+Author	Reviewer_1	2	3	3	1	This type of behavior was seen in all treatment groups, but was most pronounced for TTFields-sorafenib co-application.
+Author	Reviewer_1	2	3	3	1	The autophagy marker LC3 also displayed such bi-phasic characteristics, but with a somewhat slower kinetics, showing some elevation at 6 hours of treatment, but higher elevation at the 24 hours time point (Figure 3d).
+Author	Reviewer_1	2	3	3	1	As in the case of beclin-1, the magnitude of the effect was higher for co-treatment of TTFields and sorafenib relative to the monotherapies.
+Author	Reviewer_1	2	3	3	1	GRP78, a marker of ER stress, remained low in all treatment groups for 6 and 24 hours of treatment, but demonstrated elevated levels at the later, 48-hours time point (Figure 3e).
+Author	Reviewer_1	2	3	3	1	The apoptosis marker cleaved PARP displayed increased expression in the combined group already after 24 hours, elevating even further after 48 hours of treatment.
+Author	Reviewer_1	2	3	3	1	For the monotherapies, cleaved PARP increase was only evident at 48 hours of treatment, and to a lower extent than that in the co-treatment group (Figure 3f).
+Author	Reviewer_1	2	3	3	1	The slower kinetics of the autophagy-apoptosis path in the Huh-7D12 cells, as seen from the elevation of LC3 after as much as 48 hours (Figure 2c and d), prevented from detecting such changes in the levels of these markers in this cell line (Figure S1).” And in the discussion part “Kinetic examination in the HepG2 cells revealed elevation in autophagy levels as early as 6 hours of TTFields or sorafenib treatment, which diminished and were replaced with ER stress and apoptosis for 48 hours of treatment.
+Author	Reviewer_1	2	3	3	1	These results are in line with a previous study that focused on the effects of sorafenib on such markers in HepG2 cells [32].
+Author	Reviewer_1	2	3	3	1	The higher changes in expression levels and faster kinetics when TTFields and sorafenib were applied together rather than alone indicate higher stress levels imposed on the cells in the former case.” Figure 3.
 					0	HepG2 cells were treated for 6, 24, or 48 hours with 150 kHz TTFields, 3 µM sorafenib, or the two treatments combined, followed by Western blot examination of the autophagy markers beclin-1 and LC3 (d), the ER stress marker GRP78 (e), and the apoptosis marker cleaved PARP (f).
 					0	Values are mean (N ≥ 3) ± SEM.
 					0	*p < 0.05, **p < 0.01, ***p < 0.001, and ****p < 0.0001 relative to time-respective control; two-way ANOVA.
@@ -197,10 +197,10 @@ Author	Reviewer_4	2	29	3	3	These results are in line with a previous study that 
 					0	Please update the images of whole liver showing tumors on it, or at least pictures of tumors which were removed after sacrifice, if applicable.
 					0	Several data have shown very high error bars in each group (especially Fig Can the author provide the tumor images which were harvested from mice?
 					0	Response 4:
-Author	Reviewer_1	2	5	5	2	Per the reviewer’s request we show below images of the tumors within the liver, which we have also provided now in the supporting material of the paper.
-Author	Reviewer_1	2	5	5	2	As may be seen, the liver itself is much larger than the tumor, and so we did not see value in measuring total liver weight, and hence cannot provide these values.
-Author	Reviewer_1	2	5	5	2	While we tried to reduce variability between the animals by excluding those that at treatment initiation had tumor volumes not within the range 30–100 mm3, there was still divergence between the animals that resulted in the standard deviation bars depicted in the figure.
-Author	Reviewer_1	2	5	5	2	It is however important to mention that there was a very good correlation between tumor volume (as measured by MRI) versus tumor weight at the end of the study, as may be seen in the graph below.
+Author	Reviewer_1	2	5	5	1	Per the reviewer’s request we show below images of the tumors within the liver, which we have also provided now in the supporting material of the paper.
+Author	Reviewer_1	2	5	5	1	As may be seen, the liver itself is much larger than the tumor, and so we did not see value in measuring total liver weight, and hence cannot provide these values.
+Author	Reviewer_1	2	5	5	1	While we tried to reduce variability between the animals by excluding those that at treatment initiation had tumor volumes not within the range 30–100 mm3, there was still divergence between the animals that resulted in the standard deviation bars depicted in the figure.
+Author	Reviewer_1	2	5	5	1	It is however important to mention that there was a very good correlation between tumor volume (as measured by MRI) versus tumor weight at the end of the study, as may be seen in the graph below.
 					0	Figure S3.
 					0	Images of tumors within the livers of the rats treated with sham heat (control rats), TTFields, sorafenib, or TTFields plus sorafenib.
 					0	Point 5: In the IHC experiment for PARP, the authors have incubated with primary antibody only for 30 min?
@@ -208,7 +208,7 @@ Author	Reviewer_1	2	5	5	2	It is however important to mention that there was a ve
 					0	What source of secondary antibody was used?
 					0	In addition to IHC, I suggest performing western blot using PARP antibody where the full length and cleaved bands are observed in the same blot.
 					0	Response 5:
-Author	Reviewer_4	2	27	1	6	We thank the reviewer for this question.
+Author	Reviewer_4	2	27	1	1	We thank the reviewer for this question.
 Author	Reviewer_1	2	6	6	1	IHC tests the presence of a protein already expressed in the tissue, and 30 min are sufficient to allow recognition and binding of the antibody to the target protein.
 Author	Reviewer_1	2	6	6	1	The secondary antibody is an HRP conjugated goat anti rabbit, that is a part of the Leica HRP-refine detection kit (Cat # DS9800).
 Author	Reviewer_1	2	6	6	1	We have added the missing antibody information to section 2.10.
@@ -219,7 +219,7 @@ Author	Reviewer_1	2	7	7	1	We thank the reviewer for identifying this mistake, an
 					0	 Point 7: Why there is no error bar in the control group of all bar graphs?
 					0	Please include error bars and re-calculate the statistical analysis for all the data wherever missing.
 					0	Response 7:
-Author	Reviewer_3	2	24	12	2	We appreciate this question.
+Author	Reviewer_3	2	24	12	1	We appreciate this question.
 Author	Reviewer_1	2	8	8	1	Error bars are not missing for the control groups, rather they are null, as the values displayed in these figures are relative to control, and so per definition all control experiments have the exact same value of 100 or 1 (for percentage or fold change, respectively).
 					0	Point 8: Figure legends of Fig2D is missing.
 					0	Fig C is repeated in the legend.
@@ -260,7 +260,7 @@ Author	Reviewer_2	2	13	1	1	We thank the reviewer for the positive review.
 					0	A very important missing is not showing the actual number of rats included in the final analyses (the ones who successfully received therapy for more than 18 hours/day).
 					0	This must be added.
 					0	Response 1:
-Author	Reviewer_4	2	32	6	4	We thank the reviewer for this comment.
+Author	Reviewer_4	2	32	6	1	We thank the reviewer for this comment.
 Author	Reviewer_3	2	14	2	1	For the in vitro experiments with TTFields (sub-section 2.3) we tried not to elaborate too much and referenced previous work describing all details.
 Author	Reviewer_3	2	14	2	1	We understand that we have cut off too many details, and are happy to add them “HepG2 and Huh-7D12 cell suspensions (500 µl, 25 x 103 cells/plate) were placed as a drop in the center of 35-mm inovitro™ dishes composed of high dielectric constant ceramic (lead magnesium niobate–lead titanate [PMN-PT]), with two perpendicularly pairs of transducer arrays printed on their outer walls.
 Author	Reviewer_3	2	14	2	1	Cells were incubated overnight at 37 °C to allow attachment to the dish, and then 2 ml of fresh media were added.” Regarding the number of rats included in the final analysis, we apologize this information was not clear.
@@ -270,16 +270,16 @@ Author	Reviewer_3	2	14	2	1	The 52 rats mentioned in the text were in fact the ac
 					0	What are the p53 status and the apoptosis signaling pathway function in N1S1 cells?
 					0	Maybe the cytotoxicity data will reveal a different better frequency.
 					0	Response 2:
-Author	Reviewer_3	2	16	4	2	We thank the reviewer for raising this important issue.
-Author	Reviewer_3	2	16	4	2	Using a xerograph model is indeed a good suggestion, however it would require working in immunosuppressed mice.
-Author	Reviewer_3	2	16	4	2	It is currently not feasible for us to perform studies in which we apply TTFields to immunosuppressed animals, as these animals are of smaller weight thus the burden of wearing the electrodes may induce too much stress.
-Author	Reviewer_3	2	16	4	2	Furthermore, these animals are more prone to contract infections during the process of electrodes placement and replacement on the animals.
-Author	Reviewer_3	2	16	4	2	On the other hand, using the rat cells for in vitro experiments in the inovitro dishes turned out to be very technically challenging, as the cells were non-adherent, and so we could not pursue this important avenue.
-Author	Reviewer_3	2	16	4	2	Nevertheless, we agree with the reviewer that there is a possibility that the optimal frequency may differ in the N1S1 relative to the human cell lines.
-Author	Reviewer_3	2	16	4	2	Therefore, we have addressed this issue by including results of an additional frequency scan experiments done with N1S1 cells.
-Author	Reviewer_3	2	16	4	2	We now mention this in the text, results sub-section 3.4: “The efficacy of combining TTFields with sorafenib relative to each modality alone was examined in the N1S1 HCC rat orthotopic model (timeline in Figure 4a).
-Author	Reviewer_3	2	16	4	2	In vitro experiments confirmed that the 150 kHz TTFields frequency found optimal for treatment of the human cell lines was also optimal for treatment of the murine N1S1 cells used for the in vivo study (Figure S2).” We provide the relevant frequency scan figure in the supplementary material.
-Author	Reviewer_3	2	16	4	2	Per the good question by the reviewer regarding the p53 status of the N1S1 cells we added: “It is also worth mentioning that the N1S1 murine cells used for this study, like the HepG2 cells, are p53 wild type.” Figure S2.
+Author	Reviewer_3	2	16	4	1	We thank the reviewer for raising this important issue.
+Author	Reviewer_3	2	16	4	1	Using a xerograph model is indeed a good suggestion, however it would require working in immunosuppressed mice.
+Author	Reviewer_3	2	16	4	1	It is currently not feasible for us to perform studies in which we apply TTFields to immunosuppressed animals, as these animals are of smaller weight thus the burden of wearing the electrodes may induce too much stress.
+Author	Reviewer_3	2	16	4	1	Furthermore, these animals are more prone to contract infections during the process of electrodes placement and replacement on the animals.
+Author	Reviewer_3	2	16	4	1	On the other hand, using the rat cells for in vitro experiments in the inovitro dishes turned out to be very technically challenging, as the cells were non-adherent, and so we could not pursue this important avenue.
+Author	Reviewer_3	2	16	4	1	Nevertheless, we agree with the reviewer that there is a possibility that the optimal frequency may differ in the N1S1 relative to the human cell lines.
+Author	Reviewer_3	2	16	4	1	Therefore, we have addressed this issue by including results of an additional frequency scan experiments done with N1S1 cells.
+Author	Reviewer_3	2	16	4	1	We now mention this in the text, results sub-section 3.4: “The efficacy of combining TTFields with sorafenib relative to each modality alone was examined in the N1S1 HCC rat orthotopic model (timeline in Figure 4a).
+Author	Reviewer_3	2	16	4	1	In vitro experiments confirmed that the 150 kHz TTFields frequency found optimal for treatment of the human cell lines was also optimal for treatment of the murine N1S1 cells used for the in vivo study (Figure S2).” We provide the relevant frequency scan figure in the supplementary material.
+Author	Reviewer_3	2	16	4	1	Per the good question by the reviewer regarding the p53 status of the N1S1 cells we added: “It is also worth mentioning that the N1S1 murine cells used for this study, like the HepG2 cells, are p53 wild type.” Figure S2.
 					0	TTFields frequency scan in rat N1S1 HCC cells.
 					0	N1S1 cells were treated with TTFields (1.7 V/cm RMS) across a frequency range of 100–400 kHz, and cell count were determined following 24 hours of treatment.
 					0	Values are mean (N ≥ 3) ± SEM.
@@ -361,18 +361,18 @@ Author	Reviewer_3	2	24	12	1	To clarify we have added a few sentences to the text
 Author	Reviewer_3	2	24	12	1	In results sub-section 3.2: “However, autophagy kinetics seems to be faster in the HepG2 cells, in which LC3 markers are lower at 48 versus 24 hours, whereas elevation is seen from 24 to 48 hours for the Huh-7D12 cells.” In the discussion “While autophagy serves as a survival strategy of cells, when stress levels continue raising it may be over-activated and mediate cell death [9].
 Author	Reviewer_3	2	24	12	1	The faster autophagy kinetics seen for the HepG2 relative to Huh-7D12 cells following application of TTFields is in agreement with the higher apoptosis levels displayed by this cell line, and may serve as an additional rational for the higher efficacy of TTFields against it.
 Author	Reviewer_3	2	24	12	1	Examination of the reasons for faster autophagy in HepG2 relative to Huh-7D12 cells is out of the scope of this work.” For more clarity we have also added a more in-depth kinetic study, including additional relevant markers and additional time points, examinations that were performed for the combined treatment as compared to TTFields and sorafenib alone.
-					0	We thank the reviewer for this comment, as these additions add much clarity to the mechanism of action of TTFields in combination with sorafenib and provide a more coherent explanation for the in vivo results.
-					0	These additions may be seen in Figure 3 and are described in results sub-section 3.4, Autophagy-apoptosis Interplay For Treatment with Concomitant TTFields and Sorafenib: “In order to investigate the mechanism of action of TTFields-sorafenib co-application, HepG2 and Huh-7D12 cells were treated for 6, 24, or 48 hours with TTFields, sorafenib (3µM), or the two modalities together, and then examined for expression levels of various proteins.
-					0	For HepG2 cells, the autophagy marker beclin-1 demonstrated elevation after 6 hours of treatment, which was later replaced with diminished expression levels (Figure 3d).
-					0	This type of behavior was seen in all treatment groups, but was most pronounced for TTFields-sorafenib co-application.
-					0	The autophagy marker LC3 also displayed such bi-phasic characteristics, but with a somewhat slower kinetics, showing some elevation at 6 hours of treatment, but higher elevation at the 24 hours time point (Figure 3d).
-					0	As in the case of beclin-1, the magnitude of the effect was higher for co-treatment of TTFields and sorafenib relative to the monotherapies.
-					0	GRP78, a marker of ER stress, remained low in all treatment groups for 6 and 24 hours of treatment, but demonstrated elevated levels at the later, 48-hours time point (Figure 3e).
-					0	The apoptosis marker cleaved PARP displayed increased expression in the combined group already after 24 hours, elevating even further after 48 hours of treatment.
-					0	For the monotherapies, cleaved PARP increase was only evident at 48 hours of treatment, and to a lower extent than that in the co-treatment group (Figure 3f).
-					0	The slower kinetics of the autophagy-apoptosis path in the Huh-7D12 cells, as seen from the elevation of LC3 after as much as 48 hours (Figure 2c and d), prevented from detecting such changes in the levels of these markers in this cell line (Figure S1).” And in the discussion part “Kinetic examination in the HepG2 cells revealed elevation in autophagy levels as early as 6 hours of TTFields or sorafenib treatment, which diminished and were replaced with ER stress and apoptosis for 48 hours of treatment.
-					0	These results are in line with a previous study that focused on the effects of sorafenib on such markers in HepG2 cells [32].
-					0	The higher changes in expression levels and faster kinetics when TTFields and sorafenib were applied together rather than alone indicate higher stress levels imposed on the cells in the former case” Figure 3.
+Author	Reviewer_3	2	24	12	1	We thank the reviewer for this comment, as these additions add much clarity to the mechanism of action of TTFields in combination with sorafenib and provide a more coherent explanation for the in vivo results.
+Author	Reviewer_3	2	24	12	1	These additions may be seen in Figure 3 and are described in results sub-section 3.4, Autophagy-apoptosis Interplay For Treatment with Concomitant TTFields and Sorafenib: “In order to investigate the mechanism of action of TTFields-sorafenib co-application, HepG2 and Huh-7D12 cells were treated for 6, 24, or 48 hours with TTFields, sorafenib (3µM), or the two modalities together, and then examined for expression levels of various proteins.
+Author	Reviewer_3	2	24	12	1	For HepG2 cells, the autophagy marker beclin-1 demonstrated elevation after 6 hours of treatment, which was later replaced with diminished expression levels (Figure 3d).
+Author	Reviewer_3	2	24	12	1	This type of behavior was seen in all treatment groups, but was most pronounced for TTFields-sorafenib co-application.
+Author	Reviewer_3	2	24	12	1	The autophagy marker LC3 also displayed such bi-phasic characteristics, but with a somewhat slower kinetics, showing some elevation at 6 hours of treatment, but higher elevation at the 24 hours time point (Figure 3d).
+Author	Reviewer_3	2	24	12	1	As in the case of beclin-1, the magnitude of the effect was higher for co-treatment of TTFields and sorafenib relative to the monotherapies.
+Author	Reviewer_3	2	24	12	1	GRP78, a marker of ER stress, remained low in all treatment groups for 6 and 24 hours of treatment, but demonstrated elevated levels at the later, 48-hours time point (Figure 3e).
+Author	Reviewer_3	2	24	12	1	The apoptosis marker cleaved PARP displayed increased expression in the combined group already after 24 hours, elevating even further after 48 hours of treatment.
+Author	Reviewer_3	2	24	12	1	For the monotherapies, cleaved PARP increase was only evident at 48 hours of treatment, and to a lower extent than that in the co-treatment group (Figure 3f).
+Author	Reviewer_3	2	24	12	1	The slower kinetics of the autophagy-apoptosis path in the Huh-7D12 cells, as seen from the elevation of LC3 after as much as 48 hours (Figure 2c and d), prevented from detecting such changes in the levels of these markers in this cell line (Figure S1).” And in the discussion part “Kinetic examination in the HepG2 cells revealed elevation in autophagy levels as early as 6 hours of TTFields or sorafenib treatment, which diminished and were replaced with ER stress and apoptosis for 48 hours of treatment.
+Author	Reviewer_3	2	24	12	1	These results are in line with a previous study that focused on the effects of sorafenib on such markers in HepG2 cells [32].
+Author	Reviewer_3	2	24	12	1	The higher changes in expression levels and faster kinetics when TTFields and sorafenib were applied together rather than alone indicate higher stress levels imposed on the cells in the former case” Figure 3.
 					0	HepG2 cells were treated for 6, 24, or 48 hours with 150 kHz TTFields, 3 µM sorafenib, or the two treatments combined, followed by Western blot examination of the autophagy markers beclin-1 and LC3 (d), the ER stress marker GRP78 (e), and the apoptosis marker cleaved PARP (f).
 					0	Values are mean (N ≥ 3) ± SEM.
 					0	*p < 0.05, **p < 0.01, ***p < 0.001, and ****p < 0.0001 relative to time-respective control; two-way ANOVA.
@@ -423,19 +423,19 @@ Author	Reviewer_4	2	28	2	1	As the reviewer pointed out, the high magnification i
 					0	Point 3: It will be much better to provide the data to explain the mechanisms illustrating why the monotherapy of TTFields or sorafenib induced autophagy, whereas the tumors treated with combination developed the substantial apoptotic death of tumor cells.
 					0	Response 3: We sincerely appreciate this well-taken comment.
 Author	Reviewer_4	2	29	3	1	To better explain the correlation between autophagy and apoptosis we have performed additional examinations to include more markers and at additional time points.
-					0	These examinations were performed for the combined treatment as compared to TTFields and sorafenib alone.
-					0	We thank the reviewer for this comment, as these additions add much clarity to the mechanism of action of TTFields in combination with sorafenib and provide a more coherent explanation for the in vivo results.
-					0	These additions may be seen in Figure 3 and are described in results sub-section 3.4, Autophagy-apoptosis Interplay For Treatment with Concomitant TTFields and Sorafenib: “In order to investigate the mechanism of action of TTFields-sorafenib co-application, HepG2 and Huh-7D12 cells were treated for 6, 24, or 48 hours with TTFields, sorafenib (3µM), or the two modalities together, and then examined for expression levels of various proteins.
-					0	For HepG2 cells, the autophagy marker beclin-1 demonstrated elevation after 6 hours of treatment, which was later replaced with diminished expression levels (Figure 3d).
-					0	This type of behavior was seen in all treatment groups, but was most pronounced for TTFields-sorafenib co-application.
-					0	The autophagy marker LC3 also displayed such bi-phasic characteristics, but with a somewhat slower kinetics, showing some elevation at 6 hours of treatment, but higher elevation at the 24 hours time point (Figure 3d).
-					0	As in the case of beclin-1, the magnitude of the effect was higher for co-treatment of TTFields and sorafenib relative to the monotherapies.
-					0	GRP78, a marker of ER stress, remained low in all treatment groups for 6 and 24 hours of treatment, but demonstrated elevated levels at the later, 48-hours time point (Figure 3e).
-					0	The apoptosis marker cleaved PARP displayed increased expression in the combined group already after 24 hours, elevating even further after 48 hours of treatment.
-					0	For the monotherapies, cleaved PARP increase was only evident at 48 hours of treatment, and to a lower extent than that in the co-treatment group (Figure 3f).
-					0	The slower kinetics of the autophagy-apoptosis path in the Huh-7D12 cells, as seen from the elevation of LC3 after as much as 48 hours (Figure 2c and d), prevented from detecting such changes in the levels of these markers in this cell line (Figure S1).” And in the discussion part “Kinetic examination in the HepG2 cells revealed elevation in autophagy levels as early as 6 hours of TTFields or sorafenib treatment, which diminished and were replaced with ER stress and apoptosis for 48 hours of treatment.
-					0	These results are in line with a previous study that focused on the effects of sorafenib on such markers in HepG2 cells [32].
-					0	The higher changes in expression levels and faster kinetics when TTFields and sorafenib were applied together rather than alone indicate higher stress levels imposed on the cells in the former case.” Figure 3.
+Author	Reviewer_4	2	29	3	1	These examinations were performed for the combined treatment as compared to TTFields and sorafenib alone.
+Author	Reviewer_4	2	29	3	1	We thank the reviewer for this comment, as these additions add much clarity to the mechanism of action of TTFields in combination with sorafenib and provide a more coherent explanation for the in vivo results.
+Author	Reviewer_4	2	29	3	1	These additions may be seen in Figure 3 and are described in results sub-section 3.4, Autophagy-apoptosis Interplay For Treatment with Concomitant TTFields and Sorafenib: “In order to investigate the mechanism of action of TTFields-sorafenib co-application, HepG2 and Huh-7D12 cells were treated for 6, 24, or 48 hours with TTFields, sorafenib (3µM), or the two modalities together, and then examined for expression levels of various proteins.
+Author	Reviewer_4	2	29	3	1	For HepG2 cells, the autophagy marker beclin-1 demonstrated elevation after 6 hours of treatment, which was later replaced with diminished expression levels (Figure 3d).
+Author	Reviewer_4	2	29	3	1	This type of behavior was seen in all treatment groups, but was most pronounced for TTFields-sorafenib co-application.
+Author	Reviewer_4	2	29	3	1	The autophagy marker LC3 also displayed such bi-phasic characteristics, but with a somewhat slower kinetics, showing some elevation at 6 hours of treatment, but higher elevation at the 24 hours time point (Figure 3d).
+Author	Reviewer_4	2	29	3	1	As in the case of beclin-1, the magnitude of the effect was higher for co-treatment of TTFields and sorafenib relative to the monotherapies.
+Author	Reviewer_4	2	29	3	1	GRP78, a marker of ER stress, remained low in all treatment groups for 6 and 24 hours of treatment, but demonstrated elevated levels at the later, 48-hours time point (Figure 3e).
+Author	Reviewer_4	2	29	3	1	The apoptosis marker cleaved PARP displayed increased expression in the combined group already after 24 hours, elevating even further after 48 hours of treatment.
+Author	Reviewer_4	2	29	3	1	For the monotherapies, cleaved PARP increase was only evident at 48 hours of treatment, and to a lower extent than that in the co-treatment group (Figure 3f).
+Author	Reviewer_4	2	29	3	1	The slower kinetics of the autophagy-apoptosis path in the Huh-7D12 cells, as seen from the elevation of LC3 after as much as 48 hours (Figure 2c and d), prevented from detecting such changes in the levels of these markers in this cell line (Figure S1).” And in the discussion part “Kinetic examination in the HepG2 cells revealed elevation in autophagy levels as early as 6 hours of TTFields or sorafenib treatment, which diminished and were replaced with ER stress and apoptosis for 48 hours of treatment.
+Author	Reviewer_4	2	29	3	1	These results are in line with a previous study that focused on the effects of sorafenib on such markers in HepG2 cells [32].
+Author	Reviewer_4	2	29	3	1	The higher changes in expression levels and faster kinetics when TTFields and sorafenib were applied together rather than alone indicate higher stress levels imposed on the cells in the former case.” Figure 3.
 					0	HepG2 cells were treated for 6, 24, or 48 hours with 150 kHz TTFields, 3 µM sorafenib, or the two treatments combined, followed by Western blot examination of the autophagy markers beclin-1 and LC3 (d), the ER stress marker GRP78 (e), and the apoptosis marker cleaved PARP (f).
 					0	Values are mean (N ≥ 3) ± SEM.
 					0	*p < 0.05, **p < 0.01, ***p < 0.001, and ****p < 0.0001 relative to time-respective control; two-way ANOVA.

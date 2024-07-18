@@ -75,7 +75,7 @@ Author	Reviewer_3	2	27	2	2	; Shi, X.L.
 Author	Reviewer_3	2	27	2	2	; Wu, K.S.
 Author	Reviewer_3	2	27	2	2	Human Body Burden of Heavy Metals and Health Consequences of Pb Exposure in Guiyu, an E-Waste Recycling Town in China.
 Author	Reviewer_2	2	13	2	1	International Journal of Environmental Research and Public Health, 2021, 18(23):12428. https://doi.org/10.3390/ijerph182312428 Point 3.
-Reviewer_2	Author	1	3	0	2	Sample Preparation and Instrumental Analysis -Why were the food samples microwaved?
+Reviewer_2	Author	1	3	0	2	Sample Preparation and Instrumental Analysis - Why were the food samples microwaved?
 Reviewer_2	Author	1	5	0	4	Better explanation needed
 Reviewer_2	Author	1	4	0	2	- why were the feces samples not microwaved?
 Reviewer_2	Author	1	5	0	2	- why different processing for different samples?
@@ -94,8 +94,8 @@ Author	Reviewer_3	2	32	7	6	And then samples were microwaved with HNO3‒H2O2.
 Author	Reviewer_3	2	32	7	6	The supernatant was analyzed for Al, Ba, Mn, Ti, and V by Inductively Coupled Plasma Optical Emission Spectroscopy (ICP‒OES, Spectra Arcos SOP, German) which is a method for atomic emission spectroscopy analysis using a light source that generates plasma discharge through high-frequency inductive coupling and by ICP‒MS for Ce, Sc, and Y.
 Author	Reviewer_3	2	32	7	6	In addition, dried soil samples from living spaces (0.5 g) were digested with the same pre-treated and analyzed by ICP‒MS for Pb, As, Cr, Cu, Ni, Cd, and Zn.
 Author	Reviewer_3	2	32	7	6	The standard curve of concentration was used to determine the sample concentration was established by heavy metal standard (all standards were from The Nonferrous Metals Society of China).” Point 4.
-Reviewer_2	Author	1	6	0	2	Line190 – why was 350d/y taken?
-					0	Explain for better understanding Answer:
+Reviewer_2	Author	1	6	0	2	Line190 – why was 350d/y taken? Explain for better understanding
+					0	Answer:
 Author	Reviewer_2	2	17	6	1	For this question, our answer is following: this data is from the Technical Guidelines for Soil Pollution Risk Assessment of Construction Land in China.
 Author	Reviewer_2	2	17	6	1	The website address of the guidelines is https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/trhj/201912/W020191224560850148092.pdf
 Reviewer_2	Author	1	7	0	2	Will like to see ethical approval for the project/research?
@@ -243,12 +243,14 @@ Author	Reviewer_3	2	33	8	1	S4 Frequency distribution histogram and outlier box o
 					0	Title: Estimation of Children’s Soil and Dust Ingestion Rates and Health Risk in E Waste Dismantling Area Authors: Yan Yang * , Mengdi Zhang , Haojia Chen , Zenghua Qi , Chengcheng Liu , Qiang Chen , Tao Long Revisions Need:Title- ‘in’ should be used for larger areas, can you add the study locations?
 					0	Otherwise replace ‘in’ with ‘at’Rephrase title so as not to repeat ‘and’
 Reviewer_2	Author	1	2	0	2	Materials and Methods:I would like to see a better description of the study location.
-					0	It was only mentioned towards the end – Discussion Sample Preparation and Instrumental Analysis-Why were the food samples microwaved?
+					0	It was only mentioned towards the end – Discussion Sample Preparation and Instrumental Analysis - Why were the food samples microwaved?
 					0	Better explanation needed- why were the feces samples not microwaved?- why different processing for different samples?
 					0	Better explanation neededLine190 – why was 350d/y taken?
 					0	Explain for better understandingWill like to see ethical approval for the project/research?
 					0	Ethical approval from which institution?
-					0	Were Consent/assent from participants obtained?Results and DiscussionTable 1 – is it possible to list/ summarise the data for each day?Line 294 – what is meaning of BTMWould prefer re-introduction of the full meaning of acronyms in each sub-sectionLine 320 -Also descript the study location in the method sectionLine 342- Describe with references the values for carcinogenic risk and non-carcinogenic risks in the methos sections before mentioning it in the discussion section.Line 346 – What is HQ?
+					0	Were Consent/assent from participants obtained?
+Reviewer_2	Author	1	8	0	2	Results and Discussion: Table 1 – is it possible to list/ summarise the data for each day?
+					0	Line 294 – what is meaning of BTM Would prefer re-introduction of the full meaning of acronyms in each sub-section Line 320 -Also descript the study location in the method section Line 342- Describe with references the values for carcinogenic risk and non-carcinogenic risks in the methos sections before mentioning it in the discussion section. Line 346 – What is HQ?
 					0	Also describe in the methods sectionLine 368 – what is the meaning of ‘Whatever’?
 					0	please rephraseWill like to see references on the metal concentrations at the e-waste recycling site.
 					0	Dear Authors and Editor, the work presents interesting results on estimation of the soil ingestion of selected children from e‒waste disassembly areas by collecting and analyzing selected tracer metals in matched samples of their consumed food, feces, and urine, as well as soil samples from their play areas.
@@ -341,7 +343,7 @@ Reviewer_1	Author	3	1	0	2	I am satisfied with the revision made on the manuscrip
 					0	; Wu, K.S.
 					0	Human Body Burden of Heavy Metals and Health Consequences of Pb Exposure in Guiyu, an E-Waste Recycling Town in China.
 					0	International Journal of Environmental Research and Public Health, 2021, 18(23):12428. https://doi.org/10.3390/ijerph182312428 Point 3.
-					0	Sample Preparation and Instrumental Analysis -Why were the food samples microwaved?
+					0	Sample Preparation and Instrumental Analysis - Why were the food samples microwaved?
 					0	Better explanation needed - why were the feces samples not microwaved?
 					0	- why different processing for different samples?
 					0	Better explanation needed Answer: Thanks for your suggestion, we have sorted out the method part again, and now the modification is as follows: “Feces samples and food samples were pretreated in the same way.
@@ -438,7 +440,7 @@ Reviewer_1	Author	3	1	0	2	I am satisfied with the revision made on the manuscrip
 					0	Freeze-drying conditions of feces.
 					0	Answer: Thanks for your advice, we have added the specific parameters and modified them as follows:” When the collection was completed, the samples were taken back to the laboratory and stored first in the refrigerator (‒20°C).
 					0	Then, the feces were freeze‒dried (under vacuum conditions, the vacuum freeze drier temperature is ‒40°C to ‒50°C for 48 h) after measuring the weight with a vacuum freeze dryer.” Point 4.
-					0	Page 3, lines 121-124:Please, add some information: How did you collect dust samples?How much soil (kg) did you collect for each sample?
+					0	Page 3, lines 121-124:Please, add some information: How did you collect dust samples? How much soil (kg) did you collect for each sample?
 					0	Was the soil quartered?
 					0	Answer: Thank you for your suggestion.
 					0	We have added the content we did not mention in this part, but the soil was not quartered, so there is no supplement.
@@ -447,7 +449,7 @@ Reviewer_1	Author	3	1	0	2	I am satisfied with the revision made on the manuscrip
 					0	Page 3, lines 131-151: Please, add some information:How many millilitres of HNO3, H2O2, HF, HClO4 did you use for the digestion procedures (food samples, faces samples, soil and dust samples)?
 					0	Please, use element symbols not the entire name in all the manuscript.
 					0	Temperature of the heating plate for faces sample digestion.
-					0	Specify the mixed standards and certified reference materials used for calculating accuracy of the digestion procedure.Which reference solutions were used to evaluate accuracy and precision of ICP-OES and ICP-MS analysis?
+					0	Specify the mixed standards and certified reference materials used for calculating accuracy of the digestion procedure. Which reference solutions were used to evaluate accuracy and precision of ICP-OES and ICP-MS analysis?
 					0	Please, add the instrument model.
 					0	Answer: Thanks for your advice!
 					0	In view of the imperfection of the method and the defects of expression, we have added and improved this part, and the modification is as follows: “Feces samples and food samples were pre-treated in the same way.

@@ -7,8 +7,7 @@ Author	Reviewer_1	2	1	1	1	Corrected the legend of Figure 4 (EM/HPHYT/BHT, EM/HPH
 					0	2.
 Reviewer_1	Author	1	2	0	2	In Figure 4, the results is represented in three times or signal one or other times.
 Reviewer_1	Author	1	2	0	2	Therefore, you must rewritten the legend of Figure 4.
-					0	Response: The errors were corrected in text on page 09.
-					0	(EM/HPHYT/BHT, EM/HPHYT, ET/HPHYT).
+Author	Reviewer_1	2	2	2	1	Response: The errors were corrected in text on page 09. (EM/HPHYT/BHT, EM/HPHYT, ET/HPHYT).
 					0	Round 1: and Author Response
 Reviewer_2	Author	1	1	0	2	We recommend “galenic” can be changed to herbaceous, because galenic is not usually to see for non-professional fields or general cosmetics reader.
 					0	Response:
@@ -21,16 +20,14 @@ Author	Reviewer_2	2	4	2	1	Inserted parenthesis at line 132 (Tpeak = 48.17 °C).
 					0	R2
 Reviewer_2	Author	1	3	0	2	At line 160, “Figureure” should be “Figure.”
 					0	Response:
-Author	Reviewer_2	2	5	3	1	Corrected at line 160 “Figureure” to “Figure”
-					0	.
+Author	Reviewer_2	2	5	3	1	Corrected at line 160 “Figureure” to “Figure”.
 Reviewer_2	Author	1	4	0	2	At line 161 mentioned Tonset DCS, but does not explain what this word mean.
 					0	Response:
 Author	Reviewer_2	2	6	4	1	This abbreviation is widely use in Thermal analysis.
 Author	Reviewer_2	2	6	4	1	We specified in the text (the extrapolated peak onset temperature (TonsetDSC).
 Reviewer_2	Author	1	5	0	2	In Table II, Tonset DCS is a units of temperature, it should be used comma instead of decimal point.
 					0	Response:
-Author	Reviewer_2	2	7	5	1	We removed the units of temperature from the Table
-					0	.
+Author	Reviewer_2	2	7	5	1	We removed the units of temperature from the Table.
 Reviewer_2	Author	1	6	0	2	At line 167, “donateis” is typically used to represent donate money, we proposed change to be “provide”, in additional, this sentence is not fluent at grammar.
 					0	Response:
 Author	Reviewer_2	2	8	6	1	We changed “donate” to provide and the other word donor to provider.
@@ -45,8 +42,7 @@ Reviewer_2	Author	1	9	0	2	For the antioxidant capacity of phytic acid only do th
 Reviewer_2	Author	1	9	0	2	Lot of grammatical errors is found in sentences.
 Reviewer_2	Author	1	9	0	2	So we suggested to big modifications, then returned for review.
 					0	Response:
-Author	Reviewer_2	2	11	9	1	We integrated all the problems and correct he errors
-					0	.
+Author	Reviewer_2	2	11	9	1	We integrated all the problems and correct he errors.
 					0	Round 1: and Author Response The article titled “Thermal behavior and free-radical-scavenging activity of phytic acid alone and incorporated in galenic emulsions” is focused on the characterization of phytic acid stability and use in cosmetic formulas.
 					0	The article is well written, and the overall study was well planned and professionally conducted.
 					0	All the experiments shown are necessary and sufficient to support the conclusions.

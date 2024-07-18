@@ -16,12 +16,12 @@ Author	Reviewer_1	2	1	1	1	In this study, texture profile analysis was investigat
 					0	Point 3:
 Reviewer_1	Author	1	2	0	2	Describe the emulsion blank gel.
 					0	Response 3:
-Author	Reviewer_2	2	20	17	6	Thanks for your comment.
+Author	Reviewer_2	2	20	17	1	Thanks for your comment.
 Author	Reviewer_1	2	2	2	1	The gel without the emulsion was taken as the emulsion blank gel, which was the gel formed only by gel continuous phase.
 					0	Point 4:
 Reviewer_1	Author	1	3	0	2	"What does the term ""wet gel"" mean?"
 					0	Response 4:
-Author	Reviewer_2	2	19	16	3	Thanks for your question.
+Author	Reviewer_2	2	19	16	1	Thanks for your question.
 Author	Reviewer_1	2	3	3	1	Wet gel were the emulsion gels we obtained, which had a three-dimensional network structure that can hold a large amount of water.
 Author	Reviewer_1	2	3	3	1	The corresponding Line 570 in the manuscript has been revised to a more accurate expression, emulsion gels.
 					0	Thanks again for your careful review.
@@ -33,39 +33,34 @@ Author	Reviewer_2	2	4	1	1	It is our great pleasure to get your professional comm
 Author	Reviewer_2	2	4	1	1	Thanks very much for your contribution to our manuscript.
 Author	Reviewer_2	2	4	1	1	We take the concerns seriously and comments have been carefully addressed.
 					0	Point 2:
-Reviewer_2	Author	1	2	0	2	Line 60: define WPI at first use
-					0	.
+Reviewer_2	Author	1	2	0	2	Line 60: define WPI at first use.
 					0	Response 2:
 Author	Reviewer_2	2	5	2	1	Thanks for carefully checking.
 Author	Reviewer_2	2	5	2	1	Whey protein isolate (WPI) has been added in Line 60-61 in the manuscript.
 					0	Point 3:
-Reviewer_2	Author	1	3	0	2	Line 84-88: This is a summary of what was carried out and not a discussion, please remove
-					0	.
+Reviewer_2	Author	1	3	0	2	Line 84-88: This is a summary of what was carried out and not a discussion, please remove.
 					0	Response 3:
 Author	Reviewer_2	2	6	3	1	Thanks for your constructive comment.
 Author	Reviewer_2	2	6	3	1	Line 84-88 has been removed and it made the manuscript more logically.
 Author	Reviewer_2	2	6	3	1	Thank you again for the good comment.
 					0	Point 4:
-Reviewer_2	Author	1	4	0	2	Figure 1: Include in Fig.1c what was the the % of WPI used
-					0	.
+Reviewer_2	Author	1	4	0	2	Figure 1: Include in Fig.1c what was the the % of WPI used.
 					0	Response 4: Thanks for your comment.
 Author	Reviewer_2	2	7	4	1	The emulsions of different droplet size was prepared at WPI concentration of 1.5 wt% and this information has been added in Line 102.
 Author	Reviewer_2	2	7	4	1	This concentration was selected as a suitable emulsifier concentration based on the results in Figure 1a and 1b, and more details can be found in the manuscript.
 					0	Point 5:
-Reviewer_2	Author	1	5	0	2	Figure 2: Increase the font of the legend
-					0	.
+Reviewer_2	Author	1	5	0	2	Figure 2: Increase the font of the legend.
 					0	Response 5:
 Author	Reviewer_2	2	8	5	1	Thanks for your good comment.
 Author	Reviewer_2	2	8	5	1	Figure 2 has been modified accordingly to make the legend clearer.
 					0	Point 6:
-Reviewer_2	Author	1	6	0	2	Line 166: English check
-					0	.
+Reviewer_2	Author	1	6	0	2	Line 166: English check.
 					0	Response 6:
-Author	Reviewer_2	2	21	18	3	Thanks for your carefully check.
+Author	Reviewer_2	2	21	18	1	Thanks for your carefully check.
 Author	Reviewer_2	2	9	6	1	The manuscript has been revised accordingly in Line 159-161.
 					0	Point 7:
 Reviewer_2	Author	1	7	0	2	Figure 3: rename using latin alphabet
-					0	 Response 7: Thanks for your carefully check.
+					0	Response 7: Thanks for your carefully check.
 Author	Reviewer_2	2	10	7	1	Figure 3 has been revised accordingly.
 					0	Point 8:
 Reviewer_2	Author	1	8	0	2	Figure 4: Increase legend as it is not visible.
@@ -76,8 +71,7 @@ Author	Reviewer_2	2	11	8	1	In fact, B1, B2 and B3 were in a relatively homogeneo
 Author	Reviewer_2	2	11	8	1	The shadow in the middle part of the apparent image of the heat-induced gels was because the texture test was carried out before shooting.
 Author	Reviewer_2	2	11	8	1	Unlike TGase-induced emulsion gel had very good elastic texture, the structure of heat-induced gels did not fully recover to its original state due to its soft and less elastic texture after compression.
 					0	Point 9:
-Reviewer_2	Author	1	9	0	2	Figure 7-B: I suggest choosing just one shear rate, instead of providing both graphs one can provide the numerical values at a fixed shear rate
-					0	.
+Reviewer_2	Author	1	9	0	2	Figure 7-B: I suggest choosing just one shear rate, instead of providing both graphs one can provide the numerical values at a fixed shear rate.
 					0	Response 9:
 Author	Reviewer_2	2	12	9	1	Thanks for your constructive suggestion.
 Author	Reviewer_2	2	12	9	1	Figure 7B has been revised accordingly, that is, a graph was added which displayed the apparent viscosity of all emulsion gels at a fixed shear rate of 0.25/s, showing the differences between groups very visually.
@@ -110,7 +104,7 @@ Author	Reviewer_2	2	16	13	1	The characterization of emulsions was investigated b
 Author	Reviewer_2	2	16	13	1	This expression has been revised in the manuscript.
 					0	Point 14:
 Reviewer_2	Author	1	14	0	2	Line 500: Define PDI at first use
-					0	 Response 14: Thanks for your comment.
+					0	Response 14: Thanks for your comment.
 Author	Reviewer_2	2	17	14	1	PDI was the polydispersity index and the manuscript has been revised in Line 501.
 					0	Point 15:
 Reviewer_2	Author	1	15	0	2	Line 507: Clearance height or gap`?
@@ -123,11 +117,11 @@ Reviewer_2	Author	1	16	0	2	Line 512: Was 1% found to be within the viscoelastic 
 Author	Reviewer_2	2	19	16	1	1% strain was within the linear viscoelastic region in our pre-experiment so it was chosen for other tests.
 					0	Point 17:
 Reviewer_2	Author	1	17	0	2	Line 516: rephase
-					0	 Response 17: Thanks for your comment.
+					0	Response 17: Thanks for your comment.
 Author	Reviewer_2	2	20	17	1	The statement in 4.2.5 has been revised in the manuscript.
 					0	Point 18:
 Reviewer_2	Author	1	18	0	2	Line 530: English check
-					0	 Response 18: Thanks for your carefully check.
+					0	Response 18: Thanks for your carefully check.
 Author	Reviewer_2	2	21	18	1	Line 533 has been modified which corresponding to the line of revised manuscript.
 					0	The aim of this work is to prepare emulsion gels based on whey protein isolate and gelatin by two different methods: an enzymatic and a physical method.
 					0	The obtained emulsion gels are well characterized in terms of their structure and rheological and mechanical properties.

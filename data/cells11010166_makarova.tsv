@@ -91,13 +91,13 @@ Author	Reviewer_1	2	4	4	1	In the current work we do not intend to reveal new neu
 					0	6.
 					0	6.
 					0	In my opinion, differential inhibition of the SLS activity in GGS supernatant by the liposome preparations is interesting, and may provide new insights, if explored in more detail.
-Author	Reviewer_1	2	6	6	2	Streptolysin S (SLS) is a small, non-immunogenic, peptide.
-Author	Reviewer_1	2	6	6	2	This means that no commercial antibody against it is available and the peptide is too small for reliable mass spectrometry detection.
-Author	Reviewer_1	2	6	6	2	It is heavily post-translationally modified and is the product of a complex operon.
-Author	Reviewer_1	2	6	6	2	Its exact mode-of-action is still not yet fully clarified.
-					0	In a previous publication, we were able to show that SLS is neutralized by phosphatidylcholine as well as sphingomyelin liposomes [1].
-					0	However, given the poor characterization of SLS, its unavailability from commercial providers and its extremely tedious purification, the mechanistic details of the SLS neutralization will require an extensive a project of its own and are beyond the scope of the current study.
-					0	We added a paragraph in the discussion section (line 378-382) to summarize those points.
+Author	Reviewer_1	2	6	6	1	Streptolysin S (SLS) is a small, non-immunogenic, peptide.
+Author	Reviewer_1	2	6	6	1	This means that no commercial antibody against it is available and the peptide is too small for reliable mass spectrometry detection.
+Author	Reviewer_1	2	6	6	1	It is heavily post-translationally modified and is the product of a complex operon.
+Author	Reviewer_1	2	6	6	1	Its exact mode-of-action is still not yet fully clarified.
+Author	Reviewer_1	2	6	6	1	In a previous publication, we were able to show that SLS is neutralized by phosphatidylcholine as well as sphingomyelin liposomes [1].
+Author	Reviewer_1	2	6	6	1	However, given the poor characterization of SLS, its unavailability from commercial providers and its extremely tedious purification, the mechanistic details of the SLS neutralization will require an extensive a project of its own and are beyond the scope of the current study.
+Author	Reviewer_1	2	6	6	1	We added a paragraph in the discussion section (line 378-382) to summarize those points.
 					0	Reviewer 2 comments 1.
 					0	Although the sensitivity of immune cells to GAS or GGS supernatants is shown in the first section of the results, were any controls used in the neutralization assays with liposomes?
 Author	Reviewer_2	2	7	3	1	We used two controls in the protection experiments.
@@ -113,13 +113,13 @@ Author	Reviewer_2	2	7	3	1	A control challenged by bacterial supernatant without 
 					0	What is the reason for using different amounts of supernatant with cytolysins depending on its source or the type of cell line it is tested against in figures 2 and 3?
 					0	This should be explained.
 					0	Furthermore, it should be justified why this difference does not influence the comparison of the results with the different cell lines (THP1, Jurkat, Raji).
-Author	Reviewer_2	2	10	6	3	We selected the specific supernatant volumes used to reach a similar lethal dose to compare the protection capability and efficiency of the liposomal nanotraps.
-Author	Reviewer_2	2	10	6	3	However, as the immune cell lines have different sensitivities depending on the toxin profile of the tested strain, a similar lethal dose corresponds to different supernatant volumes.
-Author	Reviewer_2	2	10	6	3	We used the results displayed in Figure 1 of the manuscript to determine which volume to use.
-					0	We agree that the way we presented it can lead to confusion and we replaced the supernatant volume values by LD% values.
-					0	The following text was added to the material and method section: The added supernatant volume was determined based on the toxicity assay results and was used either at saturating dose (lethal dose >90, LD>90) or at non-saturating dose (LD60-90) to study minor toxin activities.
-					0	We agree that the distinction between saturating (LD>90) and non-saturating (LD60-90) was confusing.
-					0	To clarify our process we did add clarifications throughout the results part and we added a panel in figure 2 to include results obtained after challenge of LD>90 of GGS 5804 supernatant.
+Author	Reviewer_2	2	10	6	1	We selected the specific supernatant volumes used to reach a similar lethal dose to compare the protection capability and efficiency of the liposomal nanotraps.
+Author	Reviewer_2	2	10	6	1	However, as the immune cell lines have different sensitivities depending on the toxin profile of the tested strain, a similar lethal dose corresponds to different supernatant volumes.
+Author	Reviewer_2	2	10	6	1	We used the results displayed in Figure 1 of the manuscript to determine which volume to use.
+Author	Reviewer_2	2	10	6	1	We agree that the way we presented it can lead to confusion and we replaced the supernatant volume values by LD% values.
+Author	Reviewer_2	2	10	6	1	The following text was added to the material and method section: The added supernatant volume was determined based on the toxicity assay results and was used either at saturating dose (lethal dose >90, LD>90) or at non-saturating dose (LD60-90) to study minor toxin activities.
+Author	Reviewer_2	2	10	6	1	We agree that the distinction between saturating (LD>90) and non-saturating (LD60-90) was confusing.
+Author	Reviewer_2	2	10	6	1	To clarify our process we did add clarifications throughout the results part and we added a panel in figure 2 to include results obtained after challenge of LD>90 of GGS 5804 supernatant.
 					0	Academic Editor’s comments The reference to nanotraps was removed from the title.
 					0	Further, please refer to our comments to reviewers.
 					0	We hope that with these changes our manuscript will be considered for publication and we are looking forward to hearing from you.

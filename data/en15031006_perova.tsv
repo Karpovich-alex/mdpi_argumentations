@@ -1,7 +1,5 @@
 side	opponent	round	number	attacks	ann	text
-					0	Author Re
-Reviewer_1	Author	1	2	0	2	s
-					0	ponse Please see the attachment Author Response File: Author Response.docx
+					0	Author Response Please see the attachment Author Response File: Author Response.docx
 					0	Author Response Please see the attachment Author Response File: Author Response.docx
 					0	In this paper, a demand-side management system for a renewable-based isolated residential community is proposed.
 					0	The proposed load scheduling algorithm is developed with the help of Kmean clustering and linear integer programming.
@@ -23,7 +21,6 @@ Reviewer_2	Author	1	1	0	2	Authors should avoid using the Subjective pronoun “ 
 Reviewer_2	Author	1	2	0	2	In such a study an experimental case must be presented in a specified region.
 					0	-
 Reviewer_2	Author	1	3	0	2	The authors should carefully distinguish the new contributions of their work from the new existing studies.for example: DOI: 10.1016/j.est.2020.101221
-					0	
 Reviewer_2	Author	1	4	0	2	A comprehensive deeper literature review is necessary to address the research issue.
 Reviewer_2	Author	1	4	0	2	Also, authors need to provide a literature survey in an organized way.-
 Reviewer_2	Author	1	5	0	2	All the figures need to be improved.
@@ -34,20 +31,17 @@ Reviewer_2	Author	1	5	0	2	All the figures need to be improved.
 					0	Response to Reviewer 1 Comments Point 1: More recent related work should be referred.
 					0	There is no reference from 2021.
 					0	Response 1:
-Author	Reviewer_2	2	11	4	2	According to your suggestion, we have modified the literature review and included some latest references i.e., [22][29][30][32].
+Author	Reviewer_2	2	11	4	1	According to your suggestion, we have modified the literature review and included some latest references i.e., [22][29][30][32].
 					0	Point 2: In the proposed system solar PV, wind generator and battery are the main generating system.
 					0	As the proposed system is in isolated mode, how continuity of power supply be maintained?
 					0	Response 2:
-Author	Reviewer_1	2	2	2	1	The diesel generator equal to the rating of base load is kept as backup to avoid total black out situation of the system
-					0	.
+Author	Reviewer_1	2	2	2	1	The diesel generator equal to the rating of base load is kept as backup to avoid total black out situation of the system.
 					0	Point 3: The quality of the figures needs to be improved.
 					0	Response 3:
-Author	Reviewer_1	2	3	3	1	According to your suggestion, we have improved the quality of Figures as can see Figure 1 and Figure2
-					0	.
+Author	Reviewer_1	2	3	3	1	According to your suggestion, we have improved the quality of Figures as can see Figure 1 and Figure2.
 					0	Point 4: Equations 4, 9, and 12 include some corrections and need to be modified.
 					0	Response 4:
-Author	Reviewer_1	2	4	4	1	According to your suggestion, we have modified the Equations 4, 9 and 12 in the revised version of the manuscript as fellows
-					0	.
+Author	Reviewer_1	2	4	4	1	According to your suggestion, we have modified the Equations 4, 9 and 12 in the revised version of the manuscript as fellows.
 					0	Point 5: It could be better to include base load ratings in the results section (Fig: 10) Response 5:
 Author	Reviewer_1	2	5	5	1	According to your suggestion the baseload is added in the result section as follows: In addition, to further validate the proposed system, the appliance schedule pattern for Monday is drawn in Figure 10 and Figure 9 represents the appliance weightage given by consumers for Monday.
 Author	Reviewer_1	2	5	5	1	In addition, Figure 8 represents the power generated graph for the same day.
@@ -56,7 +50,7 @@ Author	Reviewer_1	2	5	5	1	As there are 5 houses in the community the total base 
 Author	Reviewer_1	2	5	5	1	The excess power is utilize to turn ON the schedulable appliances on Monday.
 					0	Point 6: Sizing of renewable energy sources and battery systems were not properly explored.
 					0	Response 6:
-Author	Reviewer_2	2	9	2	2	Thank you for your comment.
+Author	Reviewer_2	2	9	2	1	Thank you for your comment.
 Author	Reviewer_1	2	6	6	1	As Sizing of the grid system is not the main goal of the article, but as per your suggestion, it is briefly discuss in the subsections of Mathematical modelling of the Energy sources.
 Author	Reviewer_1	2	6	6	1	Both solar and wind systems are designed for output power equal to the consumer’s load whose annual load curve peak is maximum out of all the consumer’s in the community.
 Author	Reviewer_1	2	6	6	1	Battery storage systems have the capability to supply uninterrupted power equal to the base load of the system up to 6 hours.
@@ -67,13 +61,13 @@ Author	Reviewer_1	2	6	6	1	In time-varying tariff based system, the sizing of the
 					0	Response 7:
 Author	Reviewer_1	2	7	7	1	According to your suggestion the consumer comfortability is discussed from line 144-160.
 Author	Reviewer_1	2	7	7	1	In this work, a DSM algorithm is proposed by using renewable resources PV and wind turbines for those houses that are located far away from the main city.
-Author	Reviewer_2	2	10	3	2	Battery storage bank is included in the system to provide the baseload power in the time when renewable sources are not suffice to meet the baseload power demand.
-Author	Reviewer_2	2	10	3	2	Diesel generators equal to the rating of base load is kept as backup to avoid total black out in worse conditions.
-Author	Reviewer_2	2	10	3	2	Our objective is to schedule and shift the controllable appliances by estimating hourly power generation and considering consumer demand as a variable function.
-Author	Reviewer_2	2	10	3	2	The appliances are prioritized based on their need and demand to achieve optimum energy utilization.
-					0	The main contribution of this paper include: A demand side management algorithm is proposed to fulfil the energy gap between generation and consumer’s demand for standalone renewable energy system.
-					0	K-mean clustering is used to make clusters of the data based on two factors: probability of turning ON a specific appliance at time t and priority number given by consumer to that specific appliance.
-					0	Linear integer programming is used to schedule the appliances clusters based on the available power and state of charge of the battery system.
+Author	Reviewer_2	2	10	3	1	Battery storage bank is included in the system to provide the baseload power in the time when renewable sources are not suffice to meet the baseload power demand.
+Author	Reviewer_2	2	10	3	1	Diesel generators equal to the rating of base load is kept as backup to avoid total black out in worse conditions.
+Author	Reviewer_2	2	10	3	1	Our objective is to schedule and shift the controllable appliances by estimating hourly power generation and considering consumer demand as a variable function.
+Author	Reviewer_2	2	10	3	1	The appliances are prioritized based on their need and demand to achieve optimum energy utilization.
+Author	Reviewer_2	2	10	3	1	The main contribution of this paper include: A demand side management algorithm is proposed to fulfil the energy gap between generation and consumer’s demand for standalone renewable energy system.
+Author	Reviewer_2	2	10	3	1	K-mean clustering is used to make clusters of the data based on two factors: probability of turning ON a specific appliance at time t and priority number given by consumer to that specific appliance.
+Author	Reviewer_2	2	10	3	1	Linear integer programming is used to schedule the appliances clusters based on the available power and state of charge of the battery system.
 					0	Response to Reviewer 2 Comments Point 1: Authors should avoid using the subjective pronoun “we” in academic works Response 1:
 Author	Reviewer_2	2	8	1	1	According to your suggestion, in the revised version of the manuscript, the unnecessary use of subjective pronoun is removed and overall writing of the paper is improved.
 					0	Point 2: In such a study an experimental case must be presented in a specified region Response 2: Thank you for your comment.

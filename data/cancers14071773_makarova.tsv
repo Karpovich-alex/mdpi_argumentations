@@ -5,7 +5,7 @@ Reviewer_1	Author	1	1	0	2	Based on the cell line RNA and protein data the expres
 Reviewer_1	Author	1	1	0	2	Is there a similar variability present among the tissue samples?
 Reviewer_1	Author	1	1	0	2	Please provide the distribution of the IRS scores of the patient cohort and explain how was IRS 5 chosen as cut off?
 					0	Answer:
-Author	Reviewer_1	4	1	1	2	We thank the reviewer for this comment.
+Author	Reviewer_1	4	1	1	1	We thank the reviewer for this comment.
 Author	Reviewer_1	2	1	1	1	As suggested, we analyzed the distribution of IRS (immunoreactivity score) across the cohort.
 Author	Reviewer_1	2	1	1	1	In Figure 1 it can be clearly seen that there are two groups forming here, those with 0-4 and those with 6-12 IRS.
 Author	Reviewer_1	2	1	1	1	In addition, we calculated the survival probability depending on the IRS (Figure 2).
@@ -14,7 +14,7 @@ Author	Reviewer_1	2	1	1	1	A better survival correlates with lower MACC1 IRS.
 Author	Reviewer_1	2	1	1	1	Patients with an IRS of 0 have the best prognosis.
 Author	Reviewer_1	2	1	1	1	Based on these two analyses, the decision for cut-off value of 5 was made.
 Author	Reviewer_1	2	1	1	1	Additionally, ROC curve analysis showed, that the IRS value of 5 has the highest Youden Index and is therefore the most suitable cut-off value.
-Author	Reviewer_1	4	1	1	2	The IRS cut-off value 5 reaches a sensitivity of 76.6% and a specificity of 64.2% (Youden Index.
+Author	Reviewer_1	4	1	1	1	The IRS cut-off value 5 reaches a sensitivity of 76.6% and a specificity of 64.2% (Youden Index.
 Author	Reviewer_1	2	1	1	1	0.408) (Figure 3 and Table 1).
 Author	Reviewer_1	2	1	1	1	Looking at MACC1 expression in cell lines and tissue samples, the variability looks similar.
 Author	Reviewer_1	2	1	1	1	Nevertheless, it must be considered that the investigation of the homogeneous cell lines is a purely quantitative analysis of the expression by Western plot and RT-PCR.

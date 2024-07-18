@@ -3,13 +3,12 @@ side	opponent	round	number	attacks	ann	text
 					0	This is the list of corrections of our manuscript entitled ‘Study on the Antioxidant Properties Enhancement of Rice Bran by Mixed Bacteria Solid-state Fermentation (No.
 					0	1703121)’ for publication in the Fermentation.
 					0	For your suggestion we have dealt with the comments as follows: Comments to the Author The article is a fair enough approach,
-Reviewer_1	Author	1	1	0	2	please include a more specific section about the statistical methods
-					0	.
+Reviewer_1	Author	1	1	0	2	please include a more specific section about the statistical methods.
 Reviewer_1	Author	1	2	0	2	English language should be improved.
 					0	Response:
-Author	Reviewer_3	2	24	2	22	Thanks for your comment.
+Author	Reviewer_3	2	24	2	1	Thanks for your comment.
 Author	Reviewer_1	2	1	1	1	We have taken your advice and changed statistical methods in the manuscript.
-Author	Reviewer_2	2	3	1	2	We have improved English language.
+Author	Reviewer_2	2	3	1		We have improved English language.
 					0	Author Response Honored reviewers, Thank you for your contribution to reviewing work.
 					0	This is the list of corrections of our manuscript entitled ‘Study on the Antioxidant Properties Enhancement of Rice Bran by Mixed Bacteria Solid-state Fermentation (No.
 					0	1703121)’ for publication in the Fermentation.
@@ -88,7 +87,7 @@ Author	Reviewer_2	2	14	12	1	In summary, the DPPH radical radical scavenging abil
 					0	Minor comments
 Reviewer_2	Author	1	13	0	2	"Page 1, Line 9: Change ""tastea"" to ""taste""."
 					0	Response: Thanks for your comment.
-Author	Reviewer_2	2	21	19	7	I have changed.
+Author	Reviewer_2	2	21	19	1	I have changed.
 Reviewer_2	Author	1	14	0	2	Page 2, Lines 66 and 67: Write the microorganisms' names in italic.
 					0	Response: Thanks for your comment.
 					0	I have changed.

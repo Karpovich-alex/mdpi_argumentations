@@ -91,12 +91,12 @@ Author	Reviewer_1	2	4	4	1	In the current work we do not intend to reveal new neu
 					0	6.
 					0	6.
 					0	In my opinion, differential inhibition of the SLS activity in GGS supernatant by the liposome preparations is interesting, and may provide new insights, if explored in more detail.
-Author	Reviewer_1	2	6	6	2	Streptolysin S (SLS) is a small, non-immunogenic, peptide.
-Author	Reviewer_1	2	6	6	2	This means that no commercial antibody against it is available and the peptide is too small for reliable mass spectrometry detection.
-Author	Reviewer_1	2	6	6	2	It is heavily post-translationally modified and is the product of a complex operon.
-Author	Reviewer_1	2	6	6	2	Its exact mode-of-action is still not yet fully clarified.
-Author	Reviewer_1	2	6	6	2	In a previous publication, we were able to show that SLS is neutralized by phosphatidylcholine as well as sphingomyelin liposomes [1].
-Author	Reviewer_1	2	6	6	2	However, given the poor characterization of SLS, its unavailability from commercial providers and its extremely tedious purification, the mechanistic details of the SLS neutralization will require an extensive a project of its own and are beyond the scope of the current study.
+Author	Reviewer_1	2	6	6	1	Streptolysin S (SLS) is a small, non-immunogenic, peptide.
+Author	Reviewer_1	2	6	6	1	This means that no commercial antibody against it is available and the peptide is too small for reliable mass spectrometry detection.
+Author	Reviewer_1	2	6	6	1	It is heavily post-translationally modified and is the product of a complex operon.
+Author	Reviewer_1	2	6	6	1	Its exact mode-of-action is still not yet fully clarified.
+Author	Reviewer_1	2	6	6	1	In a previous publication, we were able to show that SLS is neutralized by phosphatidylcholine as well as sphingomyelin liposomes [1].
+Author	Reviewer_1	2	6	6	1	However, given the poor characterization of SLS, its unavailability from commercial providers and its extremely tedious purification, the mechanistic details of the SLS neutralization will require an extensive a project of its own and are beyond the scope of the current study.
 					0	We added a paragraph in the discussion section (line 378-382) to summarize those points.
 					0	Reviewer 2 comments 1.
 					0	Although the sensitivity of immune cells to GAS or GGS supernatants is shown in the first section of the results, were any controls used in the neutralization assays with liposomes?

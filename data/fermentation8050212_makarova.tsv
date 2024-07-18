@@ -6,9 +6,9 @@ side	opponent	round	number	attacks	ann	text
 Reviewer_1	Author	1	1	0	2	The article is a fair enough approach, please include a more specific section about the statistical methods.
 Reviewer_1	Author	1	2	0	2	English language should be improved.
 					0	Response:
-Author	Reviewer_3	2	24	2	24	Thanks for your comment.
-Author	Reviewer_1	2	2	2	2	We have taken your advice and changed statistical methods in the manuscript.
-Author	Reviewer_2	2	3	1	3	We have improved English language.
+Author	Reviewer_3	2	24	2	1	Thanks for your comment.
+Author	Reviewer_1	2	2	2	1	We have taken your advice and changed statistical methods in the manuscript.
+Author	Reviewer_2	2	3	1	1	We have improved English language.
 					0	Author Response Honored reviewers, Thank you for your contribution to reviewing work.
 					0	This is the list of corrections of our manuscript entitled ‘Study on the Antioxidant Properties Enhancement of Rice Bran by Mixed Bacteria Solid-state Fermentation (No.
 					0	1703121)’ for publication in the Fermentation.
@@ -30,7 +30,7 @@ Author	Reviewer_2	2	5	3	1	Dong, C.L.
 Author	Reviewer_2	2	5	3	1	; Liu, N.; Wang, Y.; Song, M.; Wang, R.F.
 Author	Reviewer_2	2	5	3	1	; Yang, Y.P.
 Author	Reviewer_2	2	5	3	1	; An, X.P.
-Author	Reviewer_2	2	8	6	2	; Qi, J.W.
+Author	Reviewer_2	2	8	6	1	; Qi, J.W.
 Author	Reviewer_2	2	5	3	1	Study on Antioxidant Activity of Fermented Rice Bran Water Extract.
 Author	Reviewer_2	2	5	3	1	Feed Industry 2021, 42(24), 8-13.
 Author	Reviewer_2	2	5	3	1	DOI:10.13302/j.cnki.fi.2021.24.002.
@@ -87,7 +87,7 @@ Author	Reviewer_2	2	14	12	1	In summary, the DPPH radical radical scavenging abil
 					0	Minor comments
 Reviewer_2	Author	1	13	0	2	"Page 1, Line 9: Change ""tastea"" to ""taste""."
 					0	Response: Thanks for your comment.
-Author	Reviewer_2	2	21	19	7	I have changed.
+Author	Reviewer_2	2	21	19	1	I have changed.
 Reviewer_2	Author	1	14	0	2	Page 2, Lines 66 and 67: Write the microorganisms' names in italic.
 					0	Response: Thanks for your comment.
 					0	I have changed.

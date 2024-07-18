@@ -22,8 +22,9 @@ Reviewer_1	Author	1	8	0	2	The paper contains only one figure with 28 panels pres
 Reviewer_1	Author	1	8	0	2	I think that this figure is very difficult to read!
 Reviewer_1	Author	1	8	0	2	I do not understand clearly why results are plotted with y < y_min if this not physical: please explain!
 Reviewer_1	Author	1	9	0	2	A figure explaining the geometry of the experiment would also help.
-					0	Scientific Soundness There are several approximations which are not discussed, all of them related to atom diffraction (see for example Equation (32)):  The process is calculated as if the gravitational forces can be neglected during the diffraction laser pulses.
-					0	This is probably an excellent approximation but please comment it!
+					0	Scientific Soundness
+Reviewer_1	Author	1	10	0	2	There are several approximations which are not discussed, all of them related to atom diffraction (see for example Equation (32)):  The process is calculated as if the gravitational forces can be neglected during the diffraction laser pulses.
+Reviewer_1	Author	1	10	0	2	This is probably an excellent approximation but please comment it!
 					0	
 Reviewer_1	Author	1	11	0	2	The diffraction probability is assumed to be exactly ½ for the pi/2 pulses, with no dependence with x or p. Is this justified?
 					0	2 
@@ -33,9 +34,8 @@ Reviewer_1	Author	1	13	0	2	I noted an error after Equation (1): ... the gravitat
 Reviewer_1	Author	1	13	0	2	I assume that the authors meant acceleration g, not the potential.
 					0	Authors’ response We would like to thank the referee for his/her careful reading of the manuscript and the helpful comments.
 					0	The response to these comments and changes to the manuscript in response to these comments is given below: 1.
-Author	Reviewer_1	2	1	2	1	We added references to the Wolf and Tourrencin and A. Peters, K.Y.
-Author	Reviewer_1	2	1	2	1	Chung and S. Chu articles.
-					0	The latter of these articles does not address the quantum corrections 2.
+Author	Reviewer_1	2	1	2	1	We added references to the Wolf and Tourrencin and A. Peters, K.Y. Chung and S. Chu articles.
+Author	Reviewer_1	2	1	2	1	The latter of these articles does not address the quantum corrections 2.
 Author	Reviewer_1	2	2	3	1	The referee implies that the leading term is not a quantum correction owing to the cancellation of a numerator proportional to hbar and a denominator in the spatial phase factor that is also proportional to hbar.
 Author	Reviewer_1	2	2	3	1	This is, is some respect, a question of semantics, and has a long history in discussions of quantum effects in atom interferometry.
 Author	Reviewer_1	2	2	3	1	Basically this term is a Doppler shift, which is clearly of classical origin, with no need to impose arguments related to cancellations of hbars in numerators and denominators.
@@ -62,15 +62,14 @@ Author	Reviewer_1	2	7	6	1	For the stationary atom case, the limits on y_{m0} are
 Author	Reviewer_1	2	7	6	1	The manner in which we arrived at the regions of validity of the approximations is now described in more detail.
 					0	8.
 Author	Reviewer_1	2	8	8	1	In the article we obtained results that are specific for the parameters of the atom interferometer and test mass’ shape and trajectory.
-					0	We think for the each case one should generate one figure 3 to answer all questions regarding the validity and role of different parts of the phase and approximate expressions for them.
-					0	Instead of using a lot of dashed curves, we decided to use a panel of figures.
+Author	Reviewer_1	2	8	8	1	We think for the each case one should generate one figure 3 to answer all questions regarding the validity and role of different parts of the phase and approximate expressions for them. Instead of using a lot of dashed curves, we decided to use a panel of figures.
 					0	Although each plot is difficult to read at “normal” magnification, the online reader can easily magnify any plot when accessing the article in PDF format.
 					0	We have added a note to this effect.
 					0	9.
 Author	Reviewer_1	2	9	9	1	We added a schematic figure of the geometry of our problem.
 					0	10.
 Author	Reviewer_1	2	10	11	1	In the paragraph after Equation (30) we added a list of requirements that will insure that the signal does not depend critically on the initial atomic state phase space distribution.
-					0	These requirements minimize the corrections arising from diffraction to which the referee refers 11.
+Author	Reviewer_1	2	10	11	1	These requirements minimize the corrections arising from diffraction to which the referee refers 11.
 Author	Reviewer_1	2	11	12	1	Difficulties related to stray interferometers exist and are important, but are not addressed in our paper, as the referee points out.
 Author	Reviewer_1	2	11	12	1	We are assuming that the effects can be minimized in a fountain geometry using a variety of experimental techniques.
 Author	Reviewer_1	2	11	12	1	In any event, a discussion of these effects is beyond what we are able to discuss in this article.

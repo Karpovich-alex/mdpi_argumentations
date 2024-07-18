@@ -22,7 +22,7 @@ Author	Reviewer_1	2	6	6	1	We consulted with each physician with respect to type 
 Author	Reviewer_1	2	6	6	1	We also double-checked each medication and dose with the Physician’s Desk Reference (60th-65th editions).
 Author	Reviewer_1	2	6	6	1	We have added the following information to the methods section “Medication information and dosage were supplied by the patient and their physician and dosage levels (low, moderate, high) were determined through both physician consultation and use of the Physician’s Desk Reference (65th edition).
 					0	“ Each temperature was applied twice so I assume averages were used, but the authors should clarify.
-Author	Reviewer_1	2	8	8	2	This addition has been made.
+Author	Reviewer_1	2	8	8	1	This addition has been made.
 					0	The time post-exercise before scanning was provided, but not the time post-quiet rest.
 					0	This addition has been made.
 					0	Elevations should be revised to higher so that readers do not erroneously believe that a pre-scan application of heat stimuli was administered.
@@ -81,7 +81,8 @@ Reviewer_2	Author	1	1	0	2	Changes in pain sensitivity after exercise versus rest
 					0	However, in the latter case the authors need to address the issue of multiple correlations.
 Reviewer_2	Author	1	2	0	2	Nine individuals in each group were included in neuroimaging analyses, this should be indicated in the abstract.
 Reviewer_2	Author	1	3	0	2	"In table 3 the subheading ""Peak X, Y, X"" needs correction."
-					0	Consider discussing the results in relation to previous studies on exercise and neuroimaging The results are clearly reported and adequately discussed.
+Reviewer_2	Author	1	4	0	2	Consider discussing the results in relation to previous studies on exercise and neuroimaging
+					0	The results are clearly reported and adequately discussed.
 Reviewer_2	Author	1	5	0	2	The findings are novel and may be compared to previous studies of exercise and neuroimaging in fibromyalgia.
 					0	I will be happy to read the revised version of the manuscript.
 Reviewer_1	Author	3	1	0	2	The authors have adequately addressed my concerns.

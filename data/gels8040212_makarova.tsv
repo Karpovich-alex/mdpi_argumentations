@@ -16,12 +16,12 @@ Author	Reviewer_1	2	1	1	1	In this study, texture profile analysis was investigat
 					0	Point 3:
 Reviewer_1	Author	1	2	0	2	Describe the emulsion blank gel.
 					0	Response 3:
-Author	Reviewer_2	2	19	16	7	Thanks for your comment.
+Author	Reviewer_2	2	19	16	1	Thanks for your comment.
 Author	Reviewer_1	2	2	2	1	The gel without the emulsion was taken as the emulsion blank gel, which was the gel formed only by gel continuous phase.
 					0	Point 4:
 Reviewer_1	Author	1	3	0	2	"What does the term ""wet gel"" mean?"
 					0	Response 4:
-Author	Reviewer_2	2	18	15	3	Thanks for your question.
+Author	Reviewer_2	2	18	15	1	Thanks for your question.
 Author	Reviewer_1	2	3	3	1	Wet gel were the emulsion gels we obtained, which had a three-dimensional network structure that can hold a large amount of water.
 Author	Reviewer_1	2	3	3	1	The corresponding Line 570 in the manuscript has been revised to a more accurate expression, emulsion gels.
 Author	Reviewer_1	2	3	3	1	Thanks again for your careful review.
@@ -32,8 +32,7 @@ Author	Reviewer_1	2	3	3	1	Thanks again for your careful review.
 					0	Thanks very much for your contribution to our manuscript.
 					0	We take the concerns seriously and comments have been carefully addressed.
 					0	Point 2:
-Reviewer_2	Author	1	1	0	2	Line 60: define WPI at first use
-					0	.
+Reviewer_2	Author	1	1	0	2	Line 60: define WPI at first use.
 					0	Response 2:
 Author	Reviewer_2	2	4	1	1	Thanks for carefully checking.
 Author	Reviewer_2	2	4	1	1	Whey protein isolate (WPI) has been added in Line 60-61 in the manuscript.
@@ -44,25 +43,22 @@ Author	Reviewer_2	2	5	2	1	Thanks for your constructive comment.
 Author	Reviewer_2	2	5	2	1	Line 84-88 has been removed and it made the manuscript more logically.
 Author	Reviewer_2	2	5	2	1	Thank you again for the good comment.
 					0	Point 4:
-Reviewer_2	Author	1	3	0	2	Figure 1: Include in Fig.1c what was the the % of WPI used
-					0	.
+Reviewer_2	Author	1	3	0	2	Figure 1: Include in Fig.1c what was the the % of WPI used.
 					0	Response 4: Thanks for your comment.
-Author	Reviewer_2	2	7	4	2	The emulsions of different droplet size was prepared at WPI concentration of 1.5 wt% and this information has been added in Line 102.
-Author	Reviewer_2	2	7	4	2	This concentration was selected as a suitable emulsifier concentration based on the results in Figure 1a and 1b, and more details can be found in the manuscript.
+Author	Reviewer_2	2	7	4	1	The emulsions of different droplet size was prepared at WPI concentration of 1.5 wt% and this information has been added in Line 102.
+Author	Reviewer_2	2	7	4	1	This concentration was selected as a suitable emulsifier concentration based on the results in Figure 1a and 1b, and more details can be found in the manuscript.
 					0	Point 5:
-Reviewer_2	Author	1	4	0	2	Figure 2: Increase the font of the legend
-					0	.
+Reviewer_2	Author	1	4	0	2	Figure 2: Increase the font of the legend.
 					0	Response 5: Thanks for your good comment.
 					0	Figure 2 has been modified accordingly to make the legend clearer.
 					0	Point 6:
-Reviewer_2	Author	1	5	0	2	Line 166: English check
-					0	.
+Reviewer_2	Author	1	5	0	2	Line 166: English check.
 					0	Response 6:
-Author	Reviewer_2	2	20	17	3	Thanks for your carefully check.
+Author	Reviewer_2	2	20	17	1	Thanks for your carefully check.
 Author	Reviewer_2	2	8	5	1	The manuscript has been revised accordingly in Line 159-161.
 					0	Point 7:
 Reviewer_2	Author	1	6	0	2	Figure 3: rename using latin alphabet
-					0	 Response 7: Thanks for your carefully check.
+					0	Response 7: Thanks for your carefully check.
 Author	Reviewer_2	2	9	6	1	Figure 3 has been revised accordingly.
 					0	Point 8:
 Reviewer_2	Author	1	7	0	2	Figure 4: Increase legend as it is not visible.
@@ -104,8 +100,7 @@ Reviewer_2	Author	1	12	0	2	Characteristics or characterization?
 Author	Reviewer_2	2	15	12	1	Thanks for your carefully review.
 Author	Reviewer_2	2	15	12	1	The characterization of emulsions was investigated by the droplet size, polydispersity index (PDI) and zeta potential.
 Author	Reviewer_2	2	15	12	1	This expression has been revised in the manuscript.
-					0	Point 14:
-Reviewer_2	Author	1	13	0	2	Line 500: Define PDI at first use
+Author	Reviewer_2	2	15	12	1	Point 14: Line 500: Define PDI at first use
 					0	 Response 14: Thanks for your comment.
 Author	Reviewer_2	2	16	13	1	PDI was the polydispersity index and the manuscript has been revised in Line 501.
 					0	Point 15:
@@ -119,11 +114,11 @@ Reviewer_2	Author	1	15	0	2	Line 512: Was 1% found to be within the viscoelastic 
 Author	Reviewer_2	2	18	15	1	1% strain was within the linear viscoelastic region in our pre-experiment so it was chosen for other tests.
 					0	Point 17:
 Reviewer_2	Author	1	16	0	2	Line 516: rephase
-					0	 Response 17: Thanks for your comment.
+					0	Response 17: Thanks for your comment.
 Author	Reviewer_2	2	19	16	1	The statement in 4.2.5 has been revised in the manuscript.
 					0	Point 18:
 Reviewer_2	Author	1	17	0	2	Line 530: English check
-					0	 Response 18: Thanks for your carefully check.
+					0	Response 18: Thanks for your carefully check.
 Author	Reviewer_2	2	20	17	1	Line 533 has been modified which corresponding to the line of revised manuscript.
 					0	The aim of this work is to prepare emulsion gels based on whey protein isolate and gelatin by two different methods: an enzymatic and a physical method.
 					0	The obtained emulsion gels are well characterized in terms of their structure and rheological and mechanical properties.
@@ -144,6 +139,6 @@ Author	Reviewer_2	2	20	17	1	Line 533 has been modified which corresponding to th
 					0	This section is a bit confusing so I would suggest authors include a Table with all the sample formulations/conditions tested.
 					0	Line 496: remove respectively Line 499.
 					0	Characteristics or characterization?
-					0	Line 500: Define PDI at first use Line 507: Clearance height or gap`?
+Reviewer_2	Author	1	13	0	2	Line 500: Define PDI at first use Line 507: Clearance height or gap`?
 					0	Line 512: Was 1% found to be within the viscoelastic region?
 					0	Line 516: rephase Line 530: English check

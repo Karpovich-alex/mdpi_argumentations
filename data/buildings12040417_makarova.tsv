@@ -9,37 +9,19 @@ Author	Reviewer_1	2	1	1	1	"Revision in Page 1 Line 28:“The term ""Biophilia"" 
 Reviewer_1	Author	1	2	0	2	P1, L39-41: Please provide references to these frameworks.
 Reviewer_1	Author	1	2	0	2	Reading further to page 3, I believe these are the 24 biophilic design attributes [ref.
 Reviewer_1	Author	1	2	0	2	25,39], and the 14 patterns of biophilic design [ref.40].
-Reviewer_1	Author	1	2	0	2	Further references around the biophilic concept could also be provided, e.g.
-					0	: žBjørn et al., 2009.
-Author	Reviewer_1	2	2	2	3	Biophilia: Does Visual Contact with Nature Impact on Health and Well-Being?
-Author	Reviewer_1	2	2	2	3	International Journal of Environmental Research and Public Health.
-					0	ž
-Reviewer_1	Author	1	2	0	2	Ulrich, 199
-Author	Reviewer_1	2	14	14	1	3.
-Author	Reviewer_1	2	2	2	3	Biophilia, biophobia, and natural landscapes.
-					0	ž
-Reviewer_1	Author	1	2	0	2	Ko et al., 2020.
-Author	Reviewer_1	2	2	2	3	A window view quality assessment framework.
-Author	Reviewer_1	2	2	2	3	LEUKOS.
+Reviewer_1	Author	1	2	0	2	Further references around the biophilic concept could also be provided, e.g.: Bjørn et al., 2009.
+Reviewer_1	Author	1	2	0	2	Biophilia: Does Visual Contact with Nature Impact on Health and Well-Being?
+Reviewer_1	Author	1	2	0	2	International Journal of Environmental Research and Public Health. Ulrich, 1993. Biophilia, biophobia, and natural landscapes.
+Reviewer_1	Author	1	2	0	2	Ko et al., 2020. A window view quality assessment framework. LEUKOS.
 Reviewer_1	Author	1	2	0	2	The latter reference reviewed many international standards that advocate nature and biophilic design for view and building spaces, with examples given to the Singapore context.
 Reviewer_1	Author	1	2	0	2	This somewhat overlaps with my next comment.
 					0	Response 2:
 Author	Reviewer_3	4	5	3	3	Thank you for your suggestions.
 Author	Reviewer_3	4	5	3	2	The references are added in the manuscript.
-Author	Reviewer_1	2	2	2	1	In-text citation in Page 1 Line 44: “Some scholars summarized and classified the natural design features into biophilic design frameworks to guide design activities [25, 39, 40, 50, 51, 52].” Three references are added in the References List: Ulrich, 1993.
-					0	Biophilia, biophobia, and natural landscapes.
+Author	Reviewer_1	2	2	2	1	In-text citation in Page 1 Line 44: “Some scholars summarized and classified the natural design features into biophilic design frameworks to guide design activities [25, 39, 40, 50, 51, 52].” Three references are added in the References List: Ulrich, 1993. Biophilia, biophobia, and natural landscapes.
 Author	Reviewer_1	2	2	2	1	The Biophilia hypothesis.
-Author	Reviewer_1	2	2	2	1	USA: Island Press: Washington, D.C. Bjørn et al., 2009.
-					0	Biophilia: Does Visual Contact with Nature Impact on Health and Well-Being?
-					0	International Journal of Environmental Research and Public Health.
-Author	Reviewer_1	2	2	2	1	6, 2332-2343.
-					0	Ko et al.,
-Author	Reviewer_3	4	5	3	4	2021.
-					0	A Window View Quality Assessment Framework.
-					0	Leukos.
-Author	Reviewer_1	2	2	2	1	1-2
-Author	Reviewer_1	2	14	14	1	6.
-Author	Reviewer_1	2	2	2	1	DOI: 10.1080/15502724.2021.1965889.
+Author	Reviewer_1	2	2	2	1	USA: Island Press: Washington, D.C. Bjørn et al., 2009. Biophilia: Does Visual Contact with Nature Impact on Health and Well-Being?
+Author	Reviewer_1	2	2	2	1	International Journal of Environmental Research and Public Health. 6, 2332-2343. Ko et al., 2021. A Window View Quality Assessment Framework. Leukos. 1-26. DOI: 10.1080/15502724.2021.1965889.
 					0	Point 3:
 Reviewer_1	Author	1	3	0	2	P2, 47-53: Although in the past there were few guidelines, nowadays, there may be more standards that focus on nature integration within the built environment.
 Reviewer_1	Author	1	3	0	2	WELL v2 has several features for Nature and Mind, and Biophilia – Parts I and II, with quantitative assessment methods provided.
@@ -48,7 +30,7 @@ Reviewer_1	Author	1	3	0	2	Similarly, the Green Mark system uses the green plot r
 					0	The general issue raised by the authors do not necessarily imply a lack of guidelines for biophilic design, since there are several readily available, but may point toward prioritization or emphasis of criteria to meet certain varying expectations, which was alluded to on lines 52-53.
 Reviewer_1	Author	1	3	0	2	If the authors agree with this, perhaps this could be revised here to reflect this.
 					0	Response 3:
-Author	Reviewer_3	2	29	10	3	We agree with the comment.
+Author	Reviewer_3	2	29	10	1	We agree with the comment.
 Author	Reviewer_1	2	3	3	1	There are general biophilic design frameworks (e.g., the 24 Biophilic Design Attributes and the 14 Patterns of Biophilic Design) and green building, healthy building standards (e.g., WELL v2 and Singapore Green Mark) that include biophilia into the certification systems in nowadays.
 Author	Reviewer_1	2	3	3	1	And the issue raised by the authors is that these biophilic design frameworks (design guidelines or standards) are general design frameworks (design guidelines or standards) which can be applied to all building typologies (i.e., residential buildings, workplaces, retails, etc).
 Author	Reviewer_1	2	3	3	1	Further research needs to be conducted to develop the design guideline specific for workplace.
@@ -58,16 +40,11 @@ Author	Reviewer_1	2	3	3	1	However, further research on developing building typol
 Reviewer_1	Author	1	4	0	2	P2, L63: Although I wouldn’t completely rule this out, POE surveys may not always provide feedback to the architect, since they are implemented post design-stage and the building would be operated by facility management or the owner.
 Reviewer_1	Author	1	4	0	2	In my view, POE information had more utility diagnosing operation problems, which can be solved when running the building, identifying prominent sources of dissatisfaction that can prompt action to resolve these issues.
 					0	Recently POE studies, also using office data, advocate this as benefit to their implementation, albeit not necessarily being the only reason: žGraham et al., 2020.
-Author	Reviewer_1	2	4	4	3	Lessons learned from 20 years of CBE’s occupant surveys.
+Reviewer_1	Author	1	4	0	2	Lessons learned from 20 years of CBE’s occupant surveys.
 Reviewer_1	Author	1	4	0	2	Building & Cities.
-					0	ž
-Reviewer_1	Author	1	4	0	2	Kent et al., 2021.
-Author	Reviewer_1	2	4	4	3	A data-driven analysis of occupant workspace dissatisfaction.
+Reviewer_1	Author	1	4	0	2	Kent et al., 2021. A data-driven analysis of occupant workspace dissatisfaction.
 Reviewer_1	Author	1	4	0	4	Building and Environment.
-					0	ž
-Reviewer_1	Author	1	4	0	2	Cheung et al.
-					0	2021.
-Author	Reviewer_1	2	4	4	3	Occupant satisfaction with the indoor environment in seven commercial buildings in Singapore.
+Reviewer_1	Author	1	4	0	2	Cheung et al. 2021. Occupant satisfaction with the indoor environment in seven commercial buildings in Singapore.
 					0	Building and Environment.
 					0	Response 4:
 Author	Reviewer_1	2	4	4	1	We agree with this comment.
@@ -75,18 +52,18 @@ Author	Reviewer_1	2	4	4	1	Apart from the design evaluation, POE is also one of t
 Author	Reviewer_1	2	4	4	1	The description and citations were inserted in the updated manuscript.
 Author	Reviewer_1	2	4	4	1	Revision in Page 2 Line 77 ~ 80: “Moreover, from the perspective of building operation, the POE results also provide evaluation and feedback from occupants to the stakeholders and building managers on workplace biophilic design.
 Author	Reviewer_1	2	4	4	1	Since POE is one of the mainstream research methods that can effectively diagnosing operation problems [54, 55, 56].” Citations are added in the Reference list: Graham, L.T., Parkinson, T., Schiavon, S., 2021.
-					0	Lessons Learned from 20 years of CBE’s Occupant Surveys.
+Author	Reviewer_1	2	4	4	1	Lessons Learned from 20 years of CBE’s Occupant Surveys.
 Author	Reviewer_1	2	4	4	1	Buildings and Cities 2(1):166-184.
 Author	Reviewer_1	2	4	4	1	DOI: 10.5334/bc.76 Kent, M., Parkinson, T., Kim, J., Schiavon, S., 2021.
-					0	A Data-Driven Analysis of Occupant Workspace Dissatisfaction.
+Author	Reviewer_1	2	4	4	1	A Data-Driven Analysis of Occupant Workspace Dissatisfaction.
 Author	Reviewer_1	2	4	4	1	Building and Environment 205, 108270 Cheung, T., Schiavon, S., Graham, L.T., Tham, K.W., 2021.
-					0	Occupant satisfaction with the indoor environment in seven commercial buildings in Singapore.
+Author	Reviewer_1	2	4	4	1	Occupant satisfaction with the indoor environment in seven commercial buildings in Singapore.
 Author	Reviewer_1	2	4	4	1	Building and environment (188).
 Author	Reviewer_1	2	4	4	1	DOI：10.1016/j.buildenv.2020.107443 Point 5:
 Reviewer_1	Author	1	5	0	2	P3, L92: I think refers to “has helped” given the five decades predating this.
 					0	Response 5:
-Author	Reviewer_1	2	5	5	1	The sentence was rewritten in the updated version.
-Author	Reviewer_1	2	5	5	1	Revision in Page 3 Line 109: “It has helped experts to obtain user’s feedbacks over the last five decades [31,32].” Point 6:
+					0	The sentence was rewritten in the updated version.
+					0	Revision in Page 3 Line 109: “It has helped experts to obtain user’s feedbacks over the last five decades [31,32].” Point 6:
 Reviewer_1	Author	1	6	0	2	P3, L106: While I generally agree with, questions could be raised to whether POE scales should be used to evaluate biophilic design evaluation.
 Reviewer_1	Author	1	6	0	2	Biophilic design is known to elicit mental and physical health benefits, as stated by the authors on page 1, lines 29-32.
 Reviewer_1	Author	1	6	0	2	Therefore, it would be more appropriate to use psychological scales (e.g.,
@@ -156,11 +133,7 @@ Author	Reviewer_1	2	11	11	1	Revision in Page 6 Line 215-220: “Table 2 made a c
 Author	Reviewer_1	2	11	11	1	These overlapped factors highlight the nine biophilic design at-tributes that are critical to the office design.
 Author	Reviewer_1	2	11	11	1	The validation of the selection of the nine biophilic attributes are proofed by the previous literature [37].” Point 12:
 Reviewer_1	Author	1	12	0	2	P8, L245: Please specify why these two offices were of interest (e.g., were they comparable or had specify architectural features worthy of study).
-Reviewer_1	Author	1	12	0	2	If possible, please provide more characteristics (e.g.,
-Reviewer_1	Author	1	12	0	2	size, floor area, furniture layout (e.g.
-					0	,
-Reviewer_1	Author	1	12	0	2	open-plan or enclosed), etc.)
-Reviewer_1	Author	1	12	0	2	for each office.
+Reviewer_1	Author	1	12	0	2	If possible, please provide more characteristics (e.g., size, floor area, furniture layout (e.g., open-plan or enclosed), etc.) for each office.
 Reviewer_1	Author	1	12	0	2	Later (P10, L299), it says 201 questionnaires were collected, with 161 occupants taking part in the Singaporean office.
 Reviewer_1	Author	1	12	0	2	This led me to believe that this office was much larger than the building studied in China.
 Reviewer_1	Author	1	12	0	2	An image showing the indoor conditions and outdoor façade for each might be beneficial.
@@ -186,24 +159,16 @@ Author	Reviewer_1	2	13	13	1	The means (SD) are only applied when the assumption 
 Author	Reviewer_3	2	22	3	2	Hence, all the means (SD) are replaced as medians (IQR).
 Author	Reviewer_3	2	22	3	2	And the corresponding figures (Figure 1 in Page 13 Line 359-361 and Figure 4 in Page 16-17 of the original manuscript) are removed in the revised version.
 Author	Reviewer_3	2	22	3	2	Revision in Page 13 Line 381-394: The Cronbach’s α coefficient value of the main scale is 0.72, while those of the subscales GH, NR, and BDE in order are obtained as 0.68, 0.79, and 0.63, indicating that the questionnaire is reliable (i.e., an acceptable reliability: Cronbach's α>0.6) [57, 58] (Table 8).
-Author	Reviewer_3	2	22	3	2	According to the quantitative results presented in Table 8, the medians (Interquartile Range, IQR) of the assessment show moderately high opinions toward the health and wellbeing of biophilic offices (HWBO), at 71.00 (8.00) (the score range from min.
-Author	Reviewer_3	2	22	3	2	20 to max.
-Author	Reviewer_3	2	22	3	2	100).
+Author	Reviewer_3	2	22	3	2	According to the quantitative results presented in Table 8, the medians (Interquartile Range, IQR) of the assessment show moderately high opinions toward the health and wellbeing of biophilic offices (HWBO), at 71.00 (8.00) (the score range from min. 20 to max. 100).
 Author	Reviewer_3	2	22	3	2	Concerning the self-related evaluation scales GH and NR, the score range of GH and HR are minimum 4 to maximum 20, and the obtained results illustrate moderately high opinions, the values of 15.00 (2.00) and 14.00 (3.00) for GH and NR.
-Author	Reviewer_3	2	22	3	2	The median (IQR) value of the POE scale BDE is evaluated as 42.00 (5.00) (range of total value: min.
-Author	Reviewer_3	2	22	3	2	12 to max.
-Author	Reviewer_3	2	22	3	2	60).
-Author	Reviewer_3	2	22	3	2	Table 8.
+Author	Reviewer_3	2	22	3	2	The median (IQR) value of the POE scale BDE is evaluated as 42.00 (5.00) (range of total value: min. 12 to max. 60). Table 8.
 Author	Reviewer_3	2	22	3	2	Medians, Interquartile Range (IQR), Mean, standard deviation, and α coefficient values of workers’ evaluation based on HWBO, GH, NR, and BDE.
 Author	Reviewer_1	2	13	13	1	Revision in Page 18-20 Table 9: Table 9.
 Author	Reviewer_3	2	22	3	2	Comparison of independent variables (Gender, Age, Educational Levels, Weekly Work Hours, Daily Sedentary Time, Work Desk Locations, Working Years, Office Locations) on self-reported GH, NR, and BDE.
 					0	Point 14:
-Reviewer_1	Author	1	14	0	2	Table 8: Please consider applying benchmarks for what constitute reasonable levels for internal consistency, when using the Cronbach’s Alpha (e.g.
-					0	,
-Reviewer_1	Author	1	14	0	2	α>0.7): Please see, for example: Taber, 2018.
+Reviewer_1	Author	1	14	0	2	Table 8: Please consider applying benchmarks for what constitute reasonable levels for internal consistency, when using the Cronbach’s Alpha (e.g., α>0.7): Please see, for example: Taber, 2018.
 Reviewer_1	Author	1	14	0	2	The use of Cronbach’s Alpha when developing and reporting research instruments in science education.
-Reviewer_1	Author	1	14	0	2	Research in Science Education.
-Reviewer_1	Author	1	14	0	2	Tavakol et al.
+Reviewer_1	Author	1	14	0	2	Research in Science Education. Tavakol et al.
 Reviewer_1	Author	1	14	0	2	Making sense of Cronbach’s Alpha.
 Reviewer_1	Author	1	14	0	2	International Journal of Medical Education.
 					0	Response 14: Thank you for your suggestion.
@@ -211,24 +176,17 @@ Author	Reviewer_1	2	14	14	1	The Cronbach’s Alpha with an Alpha>0.6 considered 
 Author	Reviewer_1	2	14	14	1	The statement and the references are added in the revised version.
 Author	Reviewer_1	2	14	14	1	Revision in Page 13 Line 381-383: “The Cronbach’s α coefficient value of the main scale is 0.72, while those of the sub-scales GH, NR, and BDE in order are obtained as 0.68, 0.79, and 0.63, indicating that the questionnaire is reliable (i.e., an acceptable reliability: Cronbach's α>0.6) [57, 58] (Table 8).” Citations are added in the Reference list: Morgan, P. J., Cleave‐Hogg, D., DeSousa, S., Tarshis, J., 2004.
 Author	Reviewer_1	2	14	14	1	High‐fidelity patient simulation: validation of performance checklists.
-Author	Reviewer_1	2	14	14	1	British Journal of Anesthesia, Volume 92, (3) 388–392.
-Author	Reviewer_1	2	14	14	1	Cronbach, L.J., 1951.
-Author	Reviewer_1	2	14	14	1	Coefficient Alpha and the Internal Structure of tests, Psychometrika.
-Author	Reviewer_1	2	14	14	1	Vol.
-					0	6.
-					0	3.
-Author	Reviewer_1	2	14	14	1	297-334.
+Author	Reviewer_1	2	14	14	1	British Journal of Anesthesia, Volume 92, (3) 388–392. Cronbach, L.J., 1951.
+Author	Reviewer_1	2	14	14	1	Coefficient Alpha and the Internal Structure of tests, Psychometrika. Vol. 6. 3. 297-334.
 					0	Point 15:
-Reviewer_1	Author	1	15	0	2	Figure 3.
-Reviewer_1	Author	1	15	0	2	The plot is well presented.
-Reviewer_1	Author	1	15	0	2	A few minor notes for improvement: 1) Please consider adding short or abbreviated labels referring to the actual question, instead of codes (e.g.,
-Reviewer_1	Author	1	15	0	2	GH3-Q10).
+Reviewer_1	Author	1	15	0	2	Figure 3. The plot is well presented. A few minor notes for improvement: 1) Please consider adding short or abbreviated labels referring to the actual question, instead of codes (e.g., GH3-Q10).
 Reviewer_1	Author	1	15	0	2	This would make it easier for the reader; 2) Round the percentages to the nearest whole number.
 					0	Response 15:
 Author	Reviewer_1	2	15	15	1	1) Abbreviated labels referring to the actual questions are added in the Figure 3 (Figure 2 in the revision).
 Author	Reviewer_1	2	15	15	1	But 2) we keep the original percentages (round to one decimal place).
 Author	Reviewer_1	2	15	15	1	We think it is not hard for the readers to understand, and the original percentages (round to one decimal place) is more accurate.
-Author	Reviewer_1	2	15	15	1	Revision in Page 17 Line 431: Point 16:
+Author	Reviewer_1	2	15	15	1	Revision in Page 17 Line 431:
+					0	Point 16:
 Reviewer_1	Author	1	16	0	2	P17, L434: Please correct the unfortunate citation error on this line.
 					0	Response 16:
 Author	Reviewer_1	2	16	16	1	Thanks for the reminder, the error has been corrected in the revised version.
@@ -255,16 +213,16 @@ Author	Reviewer_1	2	18	18	1	Point 19: While the conclusions were well structured
 Author	Reviewer_1	2	18	18	1	This seems to be a core aspect of their work but did really emerge from the final section of their work in the same way it was emphasized in the abstract.
 					0	Response 19:
 Author	Reviewer_1	2	19	19	1	The Conclusion is rewritten to highlight the relationship between biophilic design and occupant health and wellbeing: Revision in Page 23 Line 514-540: “The significant research outputs from the present scrutiny are shown as following: a) The authors develop a POE questionnaire for evaluating the biophilic design for workplace health and wellbeing.
-Author	Reviewer_3	2	27	8	3	The investigation explains that combined literature review and POE results are one of the practical methodologies to establish biophilic design frameworks for specific workplace typology.
-Author	Reviewer_3	2	27	8	3	And the questionnaire can be applied in future biophilic design research for investigation.
-Author	Reviewer_3	2	26	7	2	b) Additionally, the study provides novel design guidelines for designers with emphasizing on weight for workplace design practices.
-Author	Reviewer_3	2	26	7	2	The weighting results of this study would be especially applicable to the workplace typology.
-Author	Reviewer_3	2	26	7	2	The 14 Patterns of Biophilic Design has a broader range of usage for all building typologies and is more suitable for general design applications.
-Author	Reviewer_3	2	26	7	2	Therefore, the weighting results of this experiment are not employed to deny the ranking in the 14 Patterns of Biophilic Design.
-Author	Reviewer_3	2	26	7	2	These are exploited to show a new biophilic design framework for the workplace according to the users’ points of view (based on the POE results).
-Author	Reviewer_3	2	26	7	2	c) Furthermore, the questionnaire results enhance our knowledge on the practical ap-plication of biophilic design frameworks for the workplace and contributed to more framework design consideration.
-Author	Reviewer_3	2	26	7	2	d) The correlation results support the importance of biophilic design from the user perspectives.
-Author	Reviewer_3	2	26	7	2	There is a significant correlation between office biophilic design and self-reported health of employees (r=.270**, p < .01).
+Author	Reviewer_3	2	27	8	1	The investigation explains that combined literature review and POE results are one of the practical methodologies to establish biophilic design frameworks for specific workplace typology.
+Author	Reviewer_3	2	27	8	1	And the questionnaire can be applied in future biophilic design research for investigation.
+Author	Reviewer_3	2	26	7	1	b) Additionally, the study provides novel design guidelines for designers with emphasizing on weight for workplace design practices.
+Author	Reviewer_3	2	26	7	1	The weighting results of this study would be especially applicable to the workplace typology.
+Author	Reviewer_3	2	26	7	1	The 14 Patterns of Biophilic Design has a broader range of usage for all building typologies and is more suitable for general design applications.
+Author	Reviewer_3	2	26	7	1	Therefore, the weighting results of this experiment are not employed to deny the ranking in the 14 Patterns of Biophilic Design.
+Author	Reviewer_3	2	26	7	1	These are exploited to show a new biophilic design framework for the workplace according to the users’ points of view (based on the POE results).
+Author	Reviewer_3	2	26	7	1	c) Furthermore, the questionnaire results enhance our knowledge on the practical ap-plication of biophilic design frameworks for the workplace and contributed to more framework design consideration.
+Author	Reviewer_3	2	26	7	1	d) The correlation results support the importance of biophilic design from the user perspectives.
+Author	Reviewer_3	2	26	7	1	There is a significant correlation between office biophilic design and self-reported health of employees (r=.270**, p < .01).
 Author	Reviewer_1	2	19	19	1	e) The study results contribute to provide designers with evidence-based design at-tributes for workplace design (i.e., the nine selected workplace biophilic design attributes).” Author Response File: Author Response.docx
 					0	Author Response Point 1: The study about the evaluation of biophilic attributes in the workplace for improving health and wellbeing is actual and interesting and therefore the paper is fulfilling the scientific criteria to be published.
 					0	Practical methodologies to establish biophilic design frameworks for specific workplace typology.
@@ -282,28 +240,16 @@ Author	Reviewer_3	2	20	1	1	Revision in Page 2 Line 48-53: “Workplace is one of
 Author	Reviewer_3	2	20	1	1	Scholars who research the relationship between the built environment and health found that the environment not merely directly or indirectly affects human health but also affects their work and study performance [59].
 Author	Reviewer_3	2	20	1	1	Studies proofed that biophilic design benefits workers’ health and productivity in an office environment [60, 61, 62, 63].” Citations are added in the Reference list: Derek, C. C., 2003.
 Author	Reviewer_3	2	20	1	1	Environmental Quality and the Productive Workplace.
-Author	Reviewer_3	2	20	1	1	In C. J. Anumba (Ed.
-Author	Reviewer_3	2	20	1	1	), Innovative Developments in Architecture, Engineering and Construction.
-Author	Reviewer_3	2	20	1	1	Rotterdam: Millpress Science Publishers.
-Author	Reviewer_3	2	20	1	1	Lei, Q.H., Yuan, C., Lau, S.S.Y., 2021.
-Author	Reviewer_3	2	29	10	2	A quantitative study for indoor workplace biophilic design to improve health and productivity performance.
-Author	Reviewer_3	2	29	10	2	Journal of Cleaner Production.
-Author	Reviewer_3	2	29	10	2	324, 129168.
-Author	Reviewer_3	2	29	10	2	Yin, J., Zhua, S., MacNaughton, P., Joseph, G., Allen, J.G., Spengler, J.D., 2018.
-Author	Reviewer_3	2	29	10	2	Physiological and cognitive performance of exposure to biophilic indoor environment.
-Author	Reviewer_3	2	29	10	2	Build.
-Author	Reviewer_3	2	29	10	4	Environ.
-Author	Reviewer_3	2	29	10	2	132, 255–262.
-Author	Reviewer_3	2	29	10	2	Yin, J., Arfaei, N., MacNaughton, P., Catalano, P.J., Allen, J.G., Spengler, J.D., 2019.
-Author	Reviewer_3	2	29	10	2	Effects of biophilic interventions in office on stress reaction and cognitive function: a randomized crossover study in virtual reality.
-Author	Reviewer_3	2	29	10	2	Indoor Air 29, 1028–1039.
-Author	Reviewer_3	2	29	10	2	https:// doi.org/10.1111/ina.12593.
-Author	Reviewer_3	2	29	10	2	Yin, J., Yuan, J., Arfaei, N., Catalano, P.J., Allen, G.J., Spengler, J.D., 2020.
-Author	Reviewer_3	2	29	10	2	Effects of biophilic indoor environment on stress and anxiety recovery: a between-subjects experiment in virtual reality.
-					0	Environ.
-Author	Reviewer_3	2	29	10	2	Int.
-Author	Reviewer_3	2	29	10	2	136, 105427. https://doi.org/10.1016/j.
-Author	Reviewer_3	2	29	10	2	envint.2019.105427.
+Author	Reviewer_3	2	20	1	1	In C. J. Anumba (Ed.), Innovative Developments in Architecture, Engineering and Construction.
+Author	Reviewer_3	2	20	1	1	Rotterdam: Millpress Science Publishers. Lei, Q.H., Yuan, C., Lau, S.S.Y., 2021.
+Author	Reviewer_3	2	29	10	1	A quantitative study for indoor workplace biophilic design to improve health and productivity performance.
+Author	Reviewer_3	2	29	10	1	Journal of Cleaner Production. 324, 129168. Yin, J., Zhua, S., MacNaughton, P., Joseph, G., Allen, J.G., Spengler, J.D., 2018.
+Author	Reviewer_3	2	29	10	1	Physiological and cognitive performance of exposure to biophilic indoor environment.
+Author	Reviewer_3	2	29	10	1	Build. Environ. 132, 255–262. Yin, J., Arfaei, N., MacNaughton, P., Catalano, P.J., Allen, J.G., Spengler, J.D., 2019.
+Author	Reviewer_3	2	29	10	1	Effects of biophilic interventions in office on stress reaction and cognitive function: a randomized crossover study in virtual reality. Indoor Air 29, 1028–1039.
+Author	Reviewer_3	2	29	10	1	https:// doi.org/10.1111/ina.12593.
+Author	Reviewer_3	2	29	10	1	Yin, J., Yuan, J., Arfaei, N., Catalano, P.J., Allen, G.J., Spengler, J.D., 2020.
+Author	Reviewer_3	2	29	10	1	Effects of biophilic indoor environment on stress and anxiety recovery: a between-subjects experiment in virtual reality. Environ. Int. 136, 105427. https://doi.org/10.1016/j. envint.2019.105427.
 					0	Point 2: The illustrations in the article are small and a bit vague, some pictures can shrink a little, not to the top to the border, these can be optimized.
 					0	Response 2:
 Author	Reviewer_3	2	22	3	2	Thanks for your suggestion.
@@ -323,20 +269,13 @@ Author	Reviewer_3	2	22	3	1	Quantitative Results of Impacts of Biophilic Design f
 					0	Hence, all the means (SD) are replaced as medians (IQR).
 					0	And the corresponding figures (Figure 1 in Page 13 Line 359-361 and Figure 4 in Page 16-17 of the original manuscript) are removed in the revised version.
 					0	Revision in Page 13 Line 381-394: The Cronbach’s α coefficient value of the main scale is 0.72, while those of the subscales GH, NR, and BDE in order are obtained as 0.68, 0.79, and 0.63, indicating that the questionnaire is reliable (i.e., an acceptable reliability: Cronbach's α>0.6) [57, 58] (Table 8).
-					0	According to the quantitative results presented in Table 8, the medians (Interquartile Range, IQR) of the assessment show moderately high opinions toward the health and wellbeing of biophilic offices (HWBO), at 71.00 (8.00) (the score range from min.
-					0	20 to max.
-					0	100).
+					0	According to the quantitative results presented in Table 8, the medians (Interquartile Range, IQR) of the assessment show moderately high opinions toward the health and wellbeing of biophilic offices (HWBO), at 71.00 (8.00) (the score range from min. 20 to max. 100).
 					0	Concerning the self-related evaluation scales GH and NR, the score range of GH and HR are minimum 4 to maximum 20, and the obtained results illustrate moderately high opinions, the values of 15.00 (2.00) and 14.00 (3.00) for GH and NR.
-					0	The median (IQR) value of the POE scale BDE is evaluated as 42.00 (5.00) (range of total value: min.
-					0	12 to max.
-					0	60).
-					0	Table 8.
+					0	The median (IQR) value of the POE scale BDE is evaluated as 42.00 (5.00) (range of total value: min. 12 to max. 60). Table 8.
 					0	Medians, Interquartile Range (IQR), Mean, standard deviation, and α coefficient values of workers’ evaluation based on HWBO, GH, NR, and BDE.
 Author	Reviewer_3	2	22	3	1	Revision in Page 18 Table 9: Table 9.
 					0	Comparison of independent variables (Gender, Age, Educational Levels, Weekly Work Hours, Daily Sedentary Time, Work Desk Locations, Working Years, Office Locations) on self-reported GH, NR, and BDE.
-Author	Reviewer_3	2	22	3	1	*p<.05, The significance level is .05.
-Author	Reviewer_3	2	22	3	1	3) Elaboration for the
-Author	Reviewer_3	2	22	3	1	Figure 2.
+Author	Reviewer_3	2	22	3	1	*p<.05, The significance level is .05.3) Elaboration for the Figure 2.
 Author	Reviewer_3	2	22	3	1	Stacked graph with percentage responses for individually arranged items (from the bottom with a high percentage of disagreement to the top with high percentage of agreement) is reduced, because the illustrations are obvious in the figure.
 Author	Reviewer_3	2	22	3	1	Revision in Page 15-17 Line 399-433: The analysis of individual items provides more details into the works' responses.
 Author	Reviewer_3	2	22	3	1	"As can be seen in percentage responses for individual items (Figure 2 in revision), most of the responses are distributed in the items ""Neutral"" and ""Agree""."
@@ -404,8 +343,7 @@ Author	Reviewer_3	2	26	7	1	Further studies could include more offices and locati
 					0	The objective of the study is to evaluate the typical biophilic design attributes in office environment and the correlation between biophilic design and office health.
 					0	Hence, the research scope is relatively extensive.
 Author	Reviewer_3	2	26	7	1	In the future study, the research scope should be narrow down for intensive investigation.” Point 8:
-Reviewer_3	Author	1	8	0	2	The theoretical part of the presentation is extensive, but the application part is relatively poorly described
-					0	.
+Reviewer_3	Author	1	8	0	2	The theoretical part of the presentation is extensive, but the application part is relatively poorly described.
 					0	Response 8:
 Author	Reviewer_3	2	27	8	1	The applications of the results are highlighted in Section 1.4.
 Author	Reviewer_3	2	27	8	1	Objectives and in Section 5 Conclusion: In Section 1.4.
@@ -428,23 +366,15 @@ Author	Reviewer_3	2	29	10	1	This study is a questionnaire survey that focus on i
 Author	Reviewer_3	2	29	10	1	Physiological measurements will be included in the future study to investigate the impacts of the psychological factors on physiological comfort.
 Author	Reviewer_3	2	29	10	1	References: Lei, Q.H., Yuan, C., Lau, S.S.Y., 2021.
 					0	A quantitative study for indoor workplace biophilic design to improve health and productivity performance.
-					0	Journal of Cleaner Production.
-					0	324, 129168.
-					0	Yin, J., Zhua, S., MacNaughton, P., Joseph, G., Allen, J.G., Spengler, J.D., 2018.
+					0	Journal of Cleaner Production. 324, 129168. Yin, J., Zhua, S., MacNaughton, P., Joseph, G., Allen, J.G., Spengler, J.D., 2018.
 					0	Physiological and cognitive performance of exposure to biophilic indoor environment.
-					0	Build.
-					0	Environ.
-					0	132, 255–262.
-					0	Yin, J., Arfaei, N., MacNaughton, P., Catalano, P.J., Allen, J.G., Spengler, J.D., 2019.
+					0	Build. Environ. 132, 255–262. Yin, J., Arfaei, N., MacNaughton, P., Catalano, P.J., Allen, J.G., Spengler, J.D., 2019.
 					0	Effects of biophilic interventions in office on stress reaction and cognitive function: a randomized crossover study in virtual reality.
 					0	Indoor Air 29, 1028–1039.
 					0	https:// doi.org/10.1111/ina.12593.
 					0	Yin, J., Yuan, J., Arfaei, N., Catalano, P.J., Allen, G.J., Spengler, J.D., 2020.
 					0	Effects of biophilic indoor environment on stress and anxiety recovery: a between-subjects experiment in virtual reality.
-					0	Environ.
-					0	Int.
-					0	136, 105427. https://doi.org/10.1016/j.
-					0	envint.2019.105427.
+					0	Environ. Int. 136, 105427. https://doi.org/10.1016/j. envint.2019.105427.
 					0	Author Response File: Author Response.docx
 					0	Author Response Response to Reviewer 1 Comments I would like to thank the authors for taking all my comments into full consideration.
 					0	After reviewing their revised manuscript, I felt that their responses were on-point and addressed my earlier thoughts.
@@ -455,9 +385,7 @@ Author	Reviewer_3	2	29	10	1	References: Lei, Q.H., Yuan, C., Lau, S.S.Y., 2021.
 					0	These are not significant remarks, but nonetheless, might provide further improvements and clarity: Point 1:
 Reviewer_1	Author	3	1	0	2	For their response to comment #6, while I generally agreed with the authors, I felt that it didn’t quite address what I tried to originally convey.
 Reviewer_1	Author	3	1	0	2	POE scales do not likely target biophilic elements in architectural designs directly, since a direct question (e.g.,
-Reviewer_1	Author	3	1	0	2	how satisfied are you with the biophilic features) may not accurately depict every beneficial nuance they offer (e.g.
-					0	,
-Reviewer_1	Author	3	1	0	2	psychological recovery).
+Reviewer_1	Author	3	1	0	2	how satisfied are you with the biophilic features) may not accurately depict every beneficial nuance they offer (e.g., psychological recovery).
 					0	Instead, studies may elect to use, for example, other relatable scales, which may not have originally been designed for POE surveys (e.g.,
 Reviewer_1	Author	3	1	0	2	Mayer’s connectedness to nature scale) to help measure them.
 Reviewer_1	Author	3	1	0	2	My generally feeling is that scales, from other domains (i.e.,
@@ -486,10 +414,8 @@ Author	Reviewer_3	4	4	2	1	And we added an annotation under Table 6.
 Reviewer_3	Author	3	3	0	2	"Please bring strong relevance to the scope of journal ""Buildings"" by investigating most recent literature."
 					0	Response 3: Thank you for your suggestions.
 					0	The references are added in the manuscript.
-Author	Reviewer_3	4	5	3	1	"In-text citations in Page 1 Line 27-28: “The term ""Biophilia"" is evolved from human evolution research and is coined to de-scribe humans' inherent love affinity for the living things in the natural world [1,2,64].” In-text citations in Page 1 Line 40: “…the modern built environment' as 'Biophilic Design' [24,25,65].” In-text citations in Page 2 Line 69-70: “…occupant satisfaction, health, and wellbeing after occupancy of buildings [27, 28, 67].” Citations are added in the Reference list: Parsaee, M., Demers, M. H. C., Potvin, A., Hébert, M., Lalonde, J.F., Window View Access in Architecture: Spatial Visualization and Probability Evaluations Based on Human Vision Fields and Biophilia."
-					0	2021.
-Author	Reviewer_3	4	5	3	1	Buildings, 11(12), 627. https://doi.org/10.3390/buildings11120627 Mollazadeh, M., Zhu, YM., Application of Virtual Environments for Biophilic Design: A Critical Review.
-					0	2021.
+Author	Reviewer_3	4	5	3	1	"In-text citations in Page 1 Line 27-28: “The term ""Biophilia"" is evolved from human evolution research and is coined to de-scribe humans' inherent love affinity for the living things in the natural world [1,2,64].” In-text citations in Page 1 Line 40: “…the modern built environment' as 'Biophilic Design' [24,25,65].” In-text citations in Page 2 Line 69-70: “…occupant satisfaction, health, and wellbeing after occupancy of buildings [27, 28, 67].” Citations are added in the Reference list: Parsaee, M., Demers, M. H. C., Potvin, A., Hébert, M., Lalonde, J.F., Window View Access in Architecture: Spatial Visualization and Probability Evaluations Based on Human Vision Fields and Biophilia." 2021.
+Author	Reviewer_3	4	5	3	1	Buildings, 11(12), 627. https://doi.org/10.3390/buildings11120627 Mollazadeh, M., Zhu, YM., Application of Virtual Environments for Biophilic Design: A Critical Review. 2021.
 Author	Reviewer_3	4	5	3	1	Buildings, 11(4), 148; https://doi.org/10.3390/buildings11040148 Gillis, K., Gatersleben, B., 2015.
 Author	Reviewer_3	4	5	3	1	A Review of Psychological Literature on the Health and Wellbeing Benefits of Biophilic Design.
 Author	Reviewer_3	4	5	3	2	Buildings.
@@ -514,17 +440,11 @@ Author	Reviewer_3	4	5	3	1	9(4), 100. https://doi.org/10.3390/buildings9040100 Au
 					0	Introduction #1: The definition of biophilia is described as an “inherent love” toward nature.
 					0	While this is somewhat accurate, it might be more appropriate to elucidate this as an “inherent affinity”.
 					0	#2: P1, L39-41: Please provide references to these frameworks.
-					0	Reading further to page 3, I believe these are the 24 biophilic design attributes [ref.
-					0	25,39], and the 14 patterns of biophilic design [ref.40].
-					0	Further references around the biophilic concept could also be provided, e.g.
-Reviewer_1	Author	1	2	0	2	: Bjørn et al., 2009.
+					0	Reading further to page 3, I believe these are the 24 biophilic design attributes [ref. 25,39], and the 14 patterns of biophilic design [ref.40].
+					0	Further references around the biophilic concept could also be provided, e.g.: Bjørn et al., 2009.
 					0	Biophilia: Does Visual Contact with Nature Impact on Health and Well-Being?
-					0	International Journal of Environmental Research and Public Health.
-					0	Ulrich, 1993.
-					0	Biophilia, biophobia, and natural landscapes.
-					0	Ko et al., 2020.
-					0	A window view quality assessment framework.
-					0	LEUKOS.
+					0	International Journal of Environmental Research and Public Health. Ulrich, 1993. Biophilia, biophobia, and natural landscapes. Ko et al., 2020.
+					0	A window view quality assessment framework. LEUKOS.
 					0	The latter reference reviewed many international standards that advocate nature and biophilic design for view and building spaces, with examples given to the Singapore context.
 					0	This somewhat overlaps with my next comment.
 					0	#3: P2, 47-53: Although in the past there were few guidelines, nowadays, there may be more standards that focus on nature integration within the built environment.
@@ -727,8 +647,10 @@ Author	Reviewer_1	2	2	2	1	Ko et al., 2021.
 					0	Occupant satisfaction with the indoor environment in seven commercial buildings in Singapore.
 					0	Building and environment (188).
 					0	DOI：10.1016/j.buildenv.2020.107443 Point 5: P3, L92: I think refers to “has helped” given the five decades predating this.
-					0	Response 5: The sentence was rewritten in the updated version.
-					0	Revision in Page 3 Line 109: “It has helped experts to obtain user’s feedbacks over the last five decades [31,32].” Point 6: P3, L106: While I generally agree with, questions could be raised to whether POE scales should be used to evaluate biophilic design evaluation.
+					0	Response 5:
+Author	Reviewer_1	2	5	5	1	The sentence was rewritten in the updated version.
+Author	Reviewer_1	2	5	5	1	Revision in Page 3 Line 109: “It has helped experts to obtain user’s feedbacks over the last five decades [31,32].”
+					0	Point 6: P3, L106: While I generally agree with, questions could be raised to whether POE scales should be used to evaluate biophilic design evaluation.
 					0	Biophilic design is known to elicit mental and physical health benefits, as stated by the authors on page 1, lines 29-32.
 					0	Therefore, it would be more appropriate to use psychological scales (e.g., PANAS or psychological restoration), instead of design orientated question or survey.
 					0	If the authors agree with this, this aspect could be revised.

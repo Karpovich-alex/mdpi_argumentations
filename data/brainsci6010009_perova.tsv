@@ -12,10 +12,9 @@ Reviewer_1	Author	1	2	0	2	If so, how many and what would happen to the analysis 
 Author	Reviewer_1	2	2	2	1	Both cases and controls could have been diagnosed with autism, but it should have been a relative minority.
 Author	Reviewer_1	2	2	2	1	Autism is relatively rare compared to a 314 diagnosis.
 Author	Reviewer_1	2	2	2	1	This issue was added to the study limitations in the revised manuscript.
-					0	“In the present study, neurodevelopmental diagnoses other than 31
-Reviewer_1	Author	1	4	0	2	4.
-					0	xx were not examined among cases and controls.
-					0	This limitation of the present study should have had a limited impact on the results observed because of the rarity of other neurodevelopmental diagnoses as compared to a 314.xx diagnosis, but future studies could further evaluate this phenomenon.” Comment
+Author	Reviewer_1	2	2	2	1	“In the present study, neurodevelopmental diagnoses other than 314.xx were not examined among cases and controls.
+Author	Reviewer_1	2	2	2	1	This limitation of the present study should have had a limited impact on the results observed because of the rarity of other neurodevelopmental diagnoses as compared to a 314.xx diagnosis, but future studies could further evaluate this phenomenon.”
+					0	Comment
 Reviewer_1	Author	1	3	0	2	3.
 Reviewer_1	Author	1	3	0	2	On page 3 line 22, they describe children with the diagnosis before the exposure.
 Reviewer_1	Author	1	3	0	2	How many were there that fit in this category?

@@ -12,9 +12,9 @@ Reviewer_1	Author	1	6	0	2	in Fig.
 					0	1 and an (angular) frequency axis in Fig.2.
 					0	(3)
 Reviewer_1	Author	1	3	0	2	"In Section I the authors write: ""The mechanism is similar to the ones exploited in the creation of artificial potentials in optical lattices [17]""."
-					0	This statement is a bit misleading since [17] OPEN ACCESS R2 uses coherent (quantum-mechanical) tunnelling with complex tunnel amplitudes, whereas the present manuscript deals with classical trajectories and classical jump probabilities.
+Reviewer_1	Author	1	3	0	2	This statement is a bit misleading since [17] uses coherent (quantum-mechanical) tunnelling with complex tunnel amplitudes, whereas the present manuscript deals with classical trajectories and classical jump probabilities.
 					0	(4)
-Reviewer_1	Author	1	4	0	2	"""This is similar to previous works on implementation of the quantum random walk with photons [18], atoms in optical lattices [19], ions in traps [20] or on a one-dimensional lattice of superconducting qubits [21]"": This statement is also misleading, because the cited references have reached the coherent quantum walk regime, while the present manuscript only hypothesizes about an (unspecified) possibility to enter the quantum regime."
+Reviewer_1	Author	1	4	0	2	"This is similar to previous works on implementation of the quantum random walk with photons [18], atoms in optical lattices [19], ions in traps [20] or on a one-dimensional lattice of superconducting qubits [21]"": This statement is also misleading, because the cited references have reached the coherent quantum walk regime, while the present manuscript only hypothesizes about an (unspecified) possibility to enter the quantum regime."
 					0	(5)
 Reviewer_1	Author	1	5	0	2	In Section II it should be clearly stated that this is a one-dimensional model, transverse forces or motion are not considered.
 					0	(6) In Fig.
@@ -31,16 +31,17 @@ Reviewer_1	Author	1	9	0	2	3, and which enables the effective random walk motion,
 Reviewer_1	Author	1	10	0	2	In describing the action of the optical potential as quasi-random potential kicks, is there some long-term heating effect (i.e.
 Reviewer_1	Author	1	10	0	2	an increase of the average energy of the atom)?
 Reviewer_1	Author	1	10	0	2	Does cavity cooling play a role to counteract this in the numerical simulations?Response Response We thank the referee for an extremely careful reading of the manuscript, his/her appreciation of it and for the very constructive criticism expressed in this report.
-					0	Detailed comments: (1) We agree with the referee that in any open system as we have here , information will leak out and a corresponding backaction on the wavefunction cannot be avoided.
-					0	However, by operating with ultra-cold quantum particles far of any internal resonance, the coherence time can be pretty long.
-					0	This was shown with BEC’S trapped in cavities (see e.g.
-					0	Ref 9).
-					0	The effect of localization via cavity transmission can be reduced by working at higher cavity photon numbers.
-					0	Ultimately the interplay between measurement induced localization and coherence spreading by unitary evolution could be one of the most interesting points in setting up such an experiment.
-					0	One should study a transition from classical to quantum behavior depending on the degree of observation of the system.
+					0	Detailed comments: (1)
+Author	Reviewer_1	2	1	1	1	We agree with the referee that in any open system as we have here , information will leak out and a corresponding backaction on the wavefunction cannot be avoided.
+Author	Reviewer_1	2	1	1	1	However, by operating with ultra-cold quantum particles far of any internal resonance, the coherence time can be pretty long.
+Author	Reviewer_1	2	1	1	1	This was shown with BEC’S trapped in cavities (see e.g. Ref 9). The effect of localization via cavity transmission can be reduced by working at higher cavity photon numbers.
+Author	Reviewer_1	2	1	1	1	Ultimately the interplay between measurement induced localization and coherence spreading by unitary evolution could be one of the most interesting points in setting up such an experiment.
+Author	Reviewer_1	2	1	1	1	One should study a transition from classical to quantum behavior depending on the degree of observation of the system.
 					0	(2)
 Author	Reviewer_1	2	2	2	1	Axes added.
-					0	(3) We have reformulated to avoid confusion and unsubstantiated claims: “The mechanism is reminiscent of the one exploited in the creation of artificial potentials in optical lattices~\cite{Struck2012Tunable} applied here to the classical regime” R3 (4)
+					0	(3)
+Author	Reviewer_1	2	3	3	1	We have reformulated to avoid confusion and unsubstantiated claims: “The mechanism is reminiscent of the one exploited in the creation of artificial potentials in optical lattices~\cite{Struck2012Tunable} applied here to the classical regime”
+					0	R3 (4)
 Author	Reviewer_1	2	4	4	1	We have rephrased: “In this sense, this work is a stepping stones towards a proposal for implementing a quantum random walk mirroring progress already achieved with photons…”.
 					0	(5)
 Author	Reviewer_1	2	5	5	1	We have added a clarifying statement in the beginning of section 2: “We consider an effective one-dimensional model”.
@@ -148,8 +149,8 @@ Author	Reviewer_2	2	13	4	1	Indeed all the above mentioned expressions were missi
 					0	How does this analytical result compare with the numerical simulations?”
 Author	Reviewer_2	2	14	5	1	The analytical considerations fit very well with numerical results.
 Author	Reviewer_2	2	14	5	1	Indeed, in this regime, we have performed the simulations by choosing parameters derived from analytical considerations.
-					0	The R6 emergence of the jump regime is directly connected with the increase of the LT force to the value of the longitudinally-induced force but the fine tuning of the parameters is a bit tricky in order to insure that only jumps to neighbouring sites occur.
-					0	Therefore we have restricted our presentation to the other regime where the jumps are strictly occurring owing to the transverse-longitudinal time modulation of the potential.
+Author	Reviewer_2	2	14	5	1	The R6 emergence of the jump regime is directly connected with the increase of the LT force to the value of the longitudinally-induced force but the fine tuning of the parameters is a bit tricky in order to insure that only jumps to neighbouring sites occur.
+Author	Reviewer_2	2	14	5	1	Therefore we have restricted our presentation to the other regime where the jumps are strictly occurring owing to the transverse-longitudinal time modulation of the potential.
 					0	“Finally, some stylistic considerations: Please, be consistent with the choice of subscripts and superscripts: in the first column of page 2 the Pauli operator is denoted as sigma^z (superscript), whereas in the second column becomes sigma_z (subscript).”
 Author	Reviewer_2	2	15	6	1	We have fixed this mistake.
 					0	“Figure 4 is mentioned in the main text AFTER Fig.

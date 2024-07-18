@@ -53,10 +53,9 @@ Reviewer_2	Author	3	2	0	2	Discussion Section: The authors did not respond accura
 					0	Answer)
 Author	Reviewer_1	2	1	1	1	According to reviewer’s comment, we added Equation (14), and Tables 3 and 4 on the number of additions for the VVC inverse transforms.
 					0	We included the following sentence and Equation (14) on page 4: “For an (n×m) transform block which has N non-zero coefficients, the total number of additions in the proposed inverse transform using linearity is computed in Equation (14), even though Equation (14) is not used in the proposed method: We included the following Table 3 and 4 and sentences on page 6: Table 3.
-					0	The number of additions when the horizontal and vertical transforms are both DCT-II in the VTM-8.
-Author	Reviewer_2	2	13	12	5	2.
+					0	The number of additions when the horizontal and vertical transforms are both DCT-II in the VTM-8.2.
 					0	Width (m) 1 2 4 8 16 32 64 Height (n) 1 N/A 2 8 28 100 372 802 2 2 8 24 72 232 808 1668 4 8 24 64 176 528 1744 3464 8 28 72 176 448 1248 3872 7312 16 100 232 528 1248 3200 9152 16032 32 372 808 1744 3872 9152 23808 37568 (N −1) × (n × m) (14) 64 802 1732 3720 8208 19232 49472 76992 Table
-Author	Reviewer_2	4	2	2	2	4.
+					0	4.
 					0	The number of additions when the horizontal and vertical transforms are combination of DST-VII and DCT-VIII in the VTM-8.2.
 					0	Width (m) 4 8 16 32 Height (n) 4 88 344 796 3048 8 344 1024 2264 6768 16 796 2264 4960 13968 32 3224 7792 16448 34464 “As a reference, Table 3 lists the number of additions computed in the VTM-8.2 source code in each (n  m) block size when the horizontal kernel and vertical transforms are both DCT-II.
 					0	Table 4 presents the number of additions computed in the VTM-8.2 source code in each (n  m) block size when the horizontal and vertical transforms are a combination of DST-VII and DCT-VIII.
@@ -70,7 +69,8 @@ Reviewer_2	Author	1	1	0	2	Keywords : We suggest that the authors should replace 
 					0	It is better that they replace them with other keywords to increase the reach of the manuscript.
 					0	Answer)
 Author	Reviewer_2	2	2	1	1	According to the reviewer’s comment, we modified and added some keywords as follows: We replaced “Keywords: VVC; HEVC; video coding; transform; computational complexity” With “Keywords: VVC (Versatile Video Coding), HEVC (High Efficiency Video Coding, Linear Inverse Transform, computational complexity, DCT (Discrete Cosine Transform), Discrete Sine Transform (DST), BD-rate”
-					0	 Comment) Introduction: The authors should add the main contribution s briefly at the end of the introduction.
+					0	Comment)
+Reviewer_2	Author	1	2	0	2	Introduction: The authors should add the main contribution s briefly at the end of the introduction.
 					0	Answer)
 Author	Reviewer_2	2	3	2	1	According to the reviewer's comments, we updated the last paragraph of Section 1 as follows: We replaced “Section 2 presents a proposed inverse transform using linearity to reduce the computational complexity.” With “In Section 2.1, we introduce the transforms used in VVC.
 Author	Reviewer_2	2	3	2	1	And we propose a fast inverse transform using linearity to reduce the computational complexity in Section 2.2.” Comment) Methodology Section: It should be structured, sub-headings should be added to facilitate tracking and understanding.
@@ -83,10 +83,10 @@ Author	Reviewer_2	2	4	3	1	Propose Fast Inverse Transform Using Linearity Comment
 					0	There is a lot of recent research out there that can be used for comparison.
 					0	As this discussion and comparison can clarify the fairness and rationality of the results of the proposed method.
 					0	Answer)
-Author	Reviewer_2	2	6	5	2	According to the reviewer’s comment, we included the following sentence in the end of 3.
-Author	Reviewer_2	2	6	5	2	Experimental Results section on page 11: ~~ “Fast encoding methods only in the encoder side were proposed to reduce the encoding complexity of VVC but all the fast encoding methods increased the BD-rates [29][30][31] in terms of the bit-rate reduction so that the proposed inverse transform using linearity in the decoder side differs from those approaches in that it keeps the BD-rate in VVC while reducing the decoding complexity.
-Author	Reviewer_2	2	6	5	2	If the proposed inverse transform is applied to the VVC standard, the inverse transform of the VVC standard should be changed to include the proposed method.
-Author	Reviewer_2	2	6	5	2	Therefore, the proposed method can be considered in the next-generation video coding standards because it reduces the decoding complexity while the BD-rate is maintained.” ~~ And three new references [29],[30], and [31] in Reference section were included.
+Author	Reviewer_2	2	6	5	1	According to the reviewer’s comment, we included the following sentence in the end of 3.
+Author	Reviewer_2	2	6	5	1	Experimental Results section on page 11: ~~ “Fast encoding methods only in the encoder side were proposed to reduce the encoding complexity of VVC but all the fast encoding methods increased the BD-rates [29][30][31] in terms of the bit-rate reduction so that the proposed inverse transform using linearity in the decoder side differs from those approaches in that it keeps the BD-rate in VVC while reducing the decoding complexity.
+Author	Reviewer_2	2	6	5	1	If the proposed inverse transform is applied to the VVC standard, the inverse transform of the VVC standard should be changed to include the proposed method.
+Author	Reviewer_2	2	6	5	1	Therefore, the proposed method can be considered in the next-generation video coding standards because it reduces the decoding complexity while the BD-rate is maintained.” ~~ And three new references [29],[30], and [31] in Reference section were included.
 					0	Comment) Conclusions: Future directions should be added to the Conclusion Section.
 					0	Answer)
 Author	Reviewer_2	2	7	6	1	According to the reviewer’s comment, we added the future directions in the conclusion section as follows: “The proposed method can be considered in the next-generation video coding standards because it reduces the decoding complexity while the BD-rate is maintained.”
@@ -104,15 +104,13 @@ Author	Reviewer_2	2	8	7	1	“Table 3 lists the percentages of horizontal and ver
 					0	Some references do not contain enough information such as [16], [18] … etc.
 					0	Some links do not work in the reference list like [22] … etc.
 					0	The list of references requires an extensive check Answer)
-Author	Reviewer_2	2	13	12	5	Thank you for pointing out our mistake.
-Author	Reviewer_2	2	13	12	5	According to the reviewer’s comment, we completely updated the list of references as follows: 1.
-Author	Reviewer_2	2	13	12	5	Advanced Video Coding (AVC), Standard ITU-T Recommendation H.264 and ISO/IEC 14496-10, May 2003.
+Author	Reviewer_2	2	13	12	1	Thank you for pointing out our mistake.
+Author	Reviewer_2	2	13	12	1	According to the reviewer’s comment, we completely updated the list of references as follows: 1.
+Author	Reviewer_2	2	13	12	1	Advanced Video Coding (AVC), Standard ITU-T Recommendation H.264 and ISO/IEC 14496-10, May 2003.
 					0	2.
-Author	Reviewer_2	2	13	12	5	Wiegand, T.; Sullivan, G. J.; Bjontegaard, G.; Luthra, A. Overview of the H.264/AVC Video Coding Standard, In IEEE Transactions on Circuits and Systems for Video Technology, 2003, vol.
-Author	Reviewer_2	2	13	12	5	13, pp.
-Author	Reviewer_2	2	9	8	1	560-576, doi: 10.1109/TCSVT.2003.81516
-Author	Reviewer_2	2	9	8	1	5.
-					0	. 3.
+Author	Reviewer_2	2	13	12	1	Wiegand, T.; Sullivan, G. J.; Bjontegaard, G.; Luthra, A. Overview of the H.264/AVC Video Coding Standard, In IEEE Transactions on Circuits and Systems for Video Technology, 2003, vol.
+Author	Reviewer_2	2	13	12	1	13, pp. 560-576, doi: 10.1109/TCSVT.2003.815165..
+					0	3.
 Author	Reviewer_2	2	9	8	1	High Efficient Video Coding (HEVC), Standard ITU-T Recommendation H.265 and ISO/IEC 23008-2, Apr.
 Author	Reviewer_2	2	9	8	1	2013.
 					0	4.
@@ -122,11 +120,8 @@ Author	Reviewer_2	2	9	8	1	1649-1668, doi: 10.1109/TCSVT.2012.2221191.
 					0	5.
 Author	Reviewer_2	2	9	8	1	Bross, B.; Chen, J.; Liu, S.; Wang, Y.-K. Versatile Video Coding (Draft 10).
 Author	Reviewer_2	2	9	8	1	In Proceedings of the 19th Meeting Joint Video Experts Team (JVET) of ITU-T SG 16 WP 3 and ISO/IEC JTC 1/SC 29/WG 11, Teleconference (Online), 22 June-1 July 2020; 6.
-Author	Reviewer_2	2	9	8	1	Bross, B.; Wang, Y.-K; Ye, Y,; Liu, S.; Sullivan, G. J.; Ohm, J. Overview of the Versatile Video Coding (VVC) Standard and its Applications, In IEEE Transactions on Circuits and Systems for Video Technology, 2021, vol.
-Author	Reviewer_2	2	9	8	1	31, pp.
-Author	Reviewer_2	2	9	8	1	3736-3764, doi: 10.1109/TCSVT.2021.3101953 7.
-					0	Karhunen, K. Über Lineare Methoden in der Wahrscheinlichkeitsrechnung, Soumalainen Tiedeakatemia, 1947; pp.
-					0	1-79.
+Author	Reviewer_2	2	9	8	1	Bross, B.; Wang, Y.-K; Ye, Y,; Liu, S.; Sullivan, G. J.; Ohm, J. Overview of the Versatile Video Coding (VVC) Standard and its Applications, In IEEE Transactions on Circuits and Systems for Video Technology, 2021, vol. 31, pp. 3736-3764, doi: 10.1109/TCSVT.2021.3101953 7.
+Author	Reviewer_2	2	9	8	1	Karhunen, K. Über Lineare Methoden in der Wahrscheinlichkeitsrechnung, Soumalainen Tiedeakatemia, 1947; pp. 1-79.
 					0	8.
 					0	Ahmed, N.; Natarajan, T.; Rao, K. R. Discrete Cosine Transform, In IEEE Transactions on Computers, 1974, vol.
 					0	C-23, pp.
@@ -219,8 +214,7 @@ Author	Reviewer_2	2	9	8	1	3736-3764, doi: 10.1109/TCSVT.2021.3101953 7.
 					0	Comment) This article requires extensive proofreading.
 					0	Authors should check the entire article to remove all extensive mistakes (grammatical and typos) and to improve English writing quality.
 					0	Answer)
-Author	Reviewer_2	2	14	13	1	According to the reviewer’s comment, the revised manuscript was reviewed and substantially modified by an English native speaker
-					0	.
+Author	Reviewer_2	2	14	13	1	According to the reviewer’s comment, the revised manuscript was reviewed and substantially modified by an English native speaker.
 					0	Inverse Transform Using Linearity Hyeonju Song*, and Yung-Lyul Lee* *Digital Media System Laboratory, Department of Computer Engineering, Sejong University, Seoul, Korea.
 					0	<Reviewer 2> The authors should accurately address the below comments.
 					0	• Introduction Section: This comment still requires a response.

@@ -14,8 +14,8 @@ Reviewer_1	Author	1	3	0	2	What means Pathology 0 in table 4?
 Author	Reviewer_1	2	1	1	1	Subtotal resection is usually defined as a resection of 95-90%, with <90% defined as partial.
 Author	Reviewer_1	2	1	1	1	We addended the submission in line 93-95 as well as table 4 as recommended.
 					0	2- and 3- :
-Author	Reviewer_1	2	3	3	2	We are grateful to the reviewer for catching these mistakes.
-Author	Reviewer_1	2	3	3	2	Both volume reduction and pathology associated numbers are formatting errors and we addended the table to correct these mistakes.
+Author	Reviewer_1	2	3	3	1	We are grateful to the reviewer for catching these mistakes.
+Author	Reviewer_1	2	3	3	1	Both volume reduction and pathology associated numbers are formatting errors and we addended the table to correct these mistakes.
 					0	Author Response Reviewer 2 Multi-modality intraoperative imaging is an important adjunct for the neurosurgeon and in this regard, the paper is valuable.
 					0	The authors are to be commended for pursing this approach in a small series of patients with difficult diagnoses.
 					0	I have several concerns about the paper.
@@ -35,15 +35,15 @@ Reviewer_2	Author	1	8	0	2	It is therefore difficult to state that the results we
 					0	With these caveats clarified in a modified version, the paper is valuable and could be published.
 					0	Response We are grateful to the reviewer for their favorable review and constructive comments.
 					0	We addended our submission according to the suggestions as follows:
-Author	Reviewer_2	2	8	5	5	We agree with the reviewer that useful tools and techniques are available in different modalities and certainly surgeons dealing with various tumors utilize these as needed.
-Author	Reviewer_2	2	8	5	5	We are fortunate to have access to this multi-modality image guided operating suite, and here we report on its use in specific rare tumors, chordomas and chondrosarcomas.
-Author	Reviewer_2	2	8	5	5	We agree that the use of the PET-CT has no use in these cases, and we mentioned it only as part of the general introduction of the AMIGO suite.
-Author	Reviewer_2	2	8	5	5	We addended the manuscript (line 260-264) as recommended
+Author	Reviewer_2	2	8	5	1	We agree with the reviewer that useful tools and techniques are available in different modalities and certainly surgeons dealing with various tumors utilize these as needed.
+Author	Reviewer_2	2	8	5	1	We are fortunate to have access to this multi-modality image guided operating suite, and here we report on its use in specific rare tumors, chordomas and chondrosarcomas.
+Author	Reviewer_2	2	8	5	1	We agree that the use of the PET-CT has no use in these cases, and we mentioned it only as part of the general introduction of the AMIGO suite.
+Author	Reviewer_2	2	8	5	1	We addended the manuscript (line 260-264) as recommended
 Author	Reviewer_2	2	9	6	1	We agree with the reviewer that it is the acquisition of multimodality (CT and MRI), with registration of preoperative imaging then intraoperative co-registration.
 Author	Reviewer_2	2	9	6	1	We shared these steps in the “Operative and perioperative management” section (line 60).
-Author	Reviewer_2	2	11	8	2	As acknowledged in the limitation section and noted by the reviewer, the rarity of these tumors and the small number of patients in most series, including ours, limits analysis.
-Author	Reviewer_2	2	11	8	2	Hence, we did not aim to generalize our outcome.
-Author	Reviewer_2	2	11	8	2	Our focus was on how the use of these modern tools can facilitate maximum safe tumor removal which is considered a pivotal factor in the management of chordoma and chondrosarcoma.
+Author	Reviewer_2	2	11	8	1	As acknowledged in the limitation section and noted by the reviewer, the rarity of these tumors and the small number of patients in most series, including ours, limits analysis.
+Author	Reviewer_2	2	11	8	1	Hence, we did not aim to generalize our outcome.
+Author	Reviewer_2	2	11	8	1	Our focus was on how the use of these modern tools can facilitate maximum safe tumor removal which is considered a pivotal factor in the management of chordoma and chondrosarcoma.
 					0	The authors report a series of nine patients undergoing 11 surgeries for newly diagnosed or recurrent chordoma.
 					0	The authors describe their surgical approach using a multimodality image guided operating suite.
 					0	As we all know surgery of chordomas, especially of recurrent chordomas, is challenging and the authors should be congratulated for their thoroughly surgical planning and approaches, using elaborate pre- and intraoperative imaging, which is well described throughout the manuscript.

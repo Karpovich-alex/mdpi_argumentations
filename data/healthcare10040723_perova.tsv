@@ -59,8 +59,8 @@ Reviewer_2	Author	1	3	0	2	In the abstract, lines 23-27, I suggest to use the fol
 					0	2
 Reviewer_2	Author	1	3	0	2	Around 38% of the students felt ill-prepared and could not answer AI-related questions because digitization in medicine and AI are not a formal part of the medical curriculum.
 					0	4.
-Reviewer_2	Author	1	5	0	4	Page 2, line 42, ‘the computation of compounding factors,’ I did not understand what it means.
-Reviewer_2	Author	1	5	0	4	I suggest the authors to replace this with appropriate phrase.
+Reviewer_2	Author	1	5	0	2	Page 2, line 42, ‘the computation of compounding factors,’ I did not understand what it means.
+Reviewer_2	Author	1	5	0	2	I suggest the authors to replace this with appropriate phrase.
 					0	5.
 					0	The aim of the study was not stated clearly.
 					0	For example, the first sentence should describe the general aim or the overall objective of the study in a more general term.
@@ -99,7 +99,7 @@ Reviewer_2	Author	1	13	0	2	Re-write this sentence clearly.
 Reviewer_2	Author	1	14	0	2	I suggest the authors to include a short section including the implications of the study after the conclusions.
 					0	I think, the manuscript benefits from a minor language editing.
 					0	I hope these suggestions are of use to the authors.
-					0	Rebuttal for Reviewer 2: Clarity whether or not the study design was “exploratory mixed methods design” or mere a “convergent parallel design”:
+					0	Rebuttal for Reviewer 2: Clarity whether or not the study design was “exploratory mixed methods design” or mere a “convergent parallel design” :
 Author	Reviewer_2	2	8	1	1	The reviewer discussed in much detail which design might better describe the method used in our study.
 Author	Reviewer_2	2	8	1	1	In the sequential exploratory strategy a qualitative component is followed by a quantitative component (Creswell, JW.
 Author	Reviewer_2	2	8	1	1	; Plano Clark, VL.
@@ -119,7 +119,7 @@ Author	Reviewer_2	2	8	1	1	Cardiovasc, Qual.
 Author	Reviewer_2	2	8	1	1	Outcomes 2013, 6:119-123).
 Author	Reviewer_2	2	8	1	1	As suggested by the reviewer, the authors specified in the method section that we used an additive rather than a parallel integrative strategy.
 					0	Please, use male undergraduate students or undergraduate male students instead of ‘male and undergraduate students’ in the abstract or simply throughout the paper.
-Author	Reviewer_2	2	10	3	2	The manuscript has been changed accordingly.
+Author	Reviewer_2	2	10	3	1	The manuscript has been changed accordingly.
 					0	In the abstract, lines 23-27, I suggest to use the following expression or something like that.
 					0	Around 38% of the students felt ill-prepared and could not answer AI-related questions because digitization in medicine and AI are not a formal part of the medical curriculum.
 					0	The manuscript has been changed accordingly.
