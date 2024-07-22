@@ -71,8 +71,8 @@ Author	Reviewer_1	2	8	9	1	Although each plot is difficult to read at â€œnormalâ€
 					0	9.
 Author	Reviewer_1	2	9	10	1	We added a schematic figure of the geometry of our problem.
 					0	10.
-Author	Reviewer_1	2	11	12	2	In the paragraph after Equation (30) we added a list of requirements that will insure that the signal does not depend critically on the initial atomic state phase space distribution.
-Author	Reviewer_1	2	11	12	2	These requirements minimize the corrections arising from diffraction to which the referee refers 11.
+Author	Reviewer_1	2	11	12	1	In the paragraph after Equation (30) we added a list of requirements that will insure that the signal does not depend critically on the initial atomic state phase space distribution.
+Author	Reviewer_1	2	11	12	1	These requirements minimize the corrections arising from diffraction to which the referee refers 11.
 Author	Reviewer_1	2	12	14	1	Difficulties related to stray interferometers exist and are important, but are not addressed in our paper, as the referee points out.
 Author	Reviewer_1	2	12	14	1	We are assuming that the effects can be minimized in a fountain geometry using a variety of experimental techniques.
 Author	Reviewer_1	2	12	14	1	In any event, a discussion of these effects is beyond what we are able to discuss in this article.

@@ -16,10 +16,10 @@ Author	Reviewer_1	2	3	3	1	As it was explained in the text our experimental metho
 Author	Reviewer_1	2	3	3	1	Vesicles with diameters between 20 and 40 micrometers were considered, whose deviations from spherical shape (fluctuation of the radius) were small in comparison with the mean sphere radius.
 Author	Reviewer_1	2	3	3	1	We added the information concerning the shape and the size of the studied objects and added pictures of the equatorial cross section of a fluctuating vesicle (new Figure 3), as seen under the phase contrast microscope.
 					0	R2
-Reviewer_1	Author	3	1	0	1	It is also not clear about the “thermally induced shape fluctuations”, such as the temperatures and incubation length and etc., especially this is a hyperthermophilic archaeal membrane vesicle, which would be expected to be more thermostable than those eukaryotic ones.
+Reviewer_1	Author	3	1	0	2	It is also not clear about the “thermally induced shape fluctuations”, such as the temperatures and incubation length and etc., especially this is a hyperthermophilic archaeal membrane vesicle, which would be expected to be more thermostable than those eukaryotic ones.
 					0	Response:
-Reviewer_1	Author	3	1	0	1	The observed fluctuations of the membrane do not destabilize it.
-Reviewer_1	Author	3	1	0	1	However, the comment of the reviewer is notable and we state in the conclusion of the manuscript (Lines 229–232) that at room temperature the thermophilicity is not necessarily related to the bending elasticity.
+Reviewer_1	Author	3	1	0	2	The observed fluctuations of the membrane do not destabilize it.
+Reviewer_1	Author	3	1	0	2	However, the comment of the reviewer is notable and we state in the conclusion of the manuscript (Lines 229–232) that at room temperature the thermophilicity is not necessarily related to the bending elasticity.
 Author	Reviewer_1	2	5	5	1	It would also be helpful to clarify/expand the description about the drug delivery system using the archaeal vesicle.
 Author	Reviewer_1	2	5	5	1	The first sentence in the introduction section should be corrected as cell should not be considered to be “the building block of life”.
 Author	Reviewer_1	2	5	5	1	It’s better to re-write the “basic motivation” for the study.

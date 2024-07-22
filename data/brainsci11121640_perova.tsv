@@ -21,7 +21,7 @@ Reviewer_1	Author	1	5	0	2	Line 89-90: edit this part.
 Author	Reviewer_1	2	5	5	1	The statement has been revised.
 Author	Reviewer_1	2	5	5	1	We think it is important for readers to know that participants wore masks during testing because of the pandemic.
 Reviewer_1	Author	1	6	0	2	Line 145 - Edit the subheading
-Author	Reviewer_2	2	20	7	2	Correction made.
+Author	Reviewer_2	2	20	7	1	Correction made.
 					0	Results
 Reviewer_1	Author	1	7	0	2	Are there differences in stimulation intensities taken from the two devices (Magstim Rapid and BiStim2)?
 Author	Reviewer_1	2	7	7	1	Yes, there are some differences given the difference in pulse configuration and coil output, However, rMT and aMT with the two stimulators were highly correlated at the individual level (r2=0.55).
@@ -29,7 +29,7 @@ Reviewer_1	Author	1	8	0	2	Can you report the F value and effect size?
 Author	Reviewer_1	2	8	8	1	We have revised the statistical analysis given the Reviewer’s comment below.
 Author	Reviewer_1	2	8	8	1	Thanks to the Reviewer, we found out that there was a duplicate value in the dataset for MEP amplitude (hence the issue with 20 subjects in Figure 3).
 Author	Reviewer_1	2	8	8	1	The error has been corrected and the analysis re
-Author	Reviewer_2	2	21	8	3	done.
+Author	Reviewer_2	2	21	8	1	done.
 Author	Reviewer_1	2	8	8	1	Note that the correction did not change the results or the conclusions.
 Author	Reviewer_1	2	8	8	1	We now report for the ANOVA’s the F value and the partial eta squared to indicate the size of the intervention.
 Reviewer_1	Author	1	8	0	2	Would it be interesting if the present data can give the same effect size (0.71) as those reported by Chung et al. (2016)?
@@ -90,13 +90,13 @@ Reviewer_2	Author	1	4	0	2	In figure 1, the rMT needs to be defined.
 Reviewer_2	Author	1	5	0	2	In line 125, MT needs to be defined.
 Author	Reviewer_2	2	18	5	1	We have revised the sentence so that abbreviations are defined.
 Reviewer_2	Author	1	6	0	2	Please do not define aMT the second time in line 134.
-Author	Reviewer_2	4	3	3	4	Correction done.
+Author	Reviewer_2	4	3	3	1	Correction done.
 Reviewer_2	Author	1	7	0	2	In line 145, full stop marked an error.
 					0	Correction made.
 Reviewer_2	Author	1	8	0	2	In line 28, please define rTMS.
 					0	Done
 Reviewer_2	Author	1	9	0	2	How do you test the aMT and rMT?
-Reviewer_2	Author	1	10	0	4	Please give the detailed process.
+Reviewer_2	Author	1	10	0	2	Please give the detailed process.
 Author	Reviewer_2	2	22	9	1	We have provided more explanations in the text as to how we used the MTAS software to estimate MT.
 Reviewer_2	Author	1	10	0	2	How do you get the hotspot?
 					0	Please give the detailed process.

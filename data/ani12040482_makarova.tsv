@@ -228,9 +228,9 @@ Author	Reviewer_2	2	18	13	1	We have rephrased this section now.
 					0	I felt the discussion about changes in greeting behaviour as an early indicator was interesting and could be expanded.
 					0	Some more detail on the application of the findings to practitioners/owners would be beneficial.
 					0	I do think this is of interest to a range of stakeholders.
-Author	Reviewer_2	2	21	16	3	Thank you for your review.
-Author	Reviewer_2	2	21	16	3	We have expanded the discussion to address these points, however due to another reviewer saying the paper was already too long, we have kept this brief.
-Author	Reviewer_2	2	21	16	3	A section detailing relevance to practitioners has been added to lines 545-551.
+Author	Reviewer_2	2	21	16	1	Thank you for your review.
+Author	Reviewer_2	2	21	16	1	We have expanded the discussion to address these points, however due to another reviewer saying the paper was already too long, we have kept this brief.
+Author	Reviewer_2	2	21	16	1	A section detailing relevance to practitioners has been added to lines 545-551.
 					0	The article, “Impact of Changes in Owner Leaving Pattern on Separation-Related Behaviour in Pet Dogs in the UK” investigated whether the prevalence of SRB in dogs changed with changes in dog management during and after COVID lockdowns.
 					0	The authors found that owners reported that nearly 10% of dogs that did not show SRB behaviors prior to lockdown were reported to show SRB after lockdown, and the greater the change in the dog’s routine, the greater chance they had of showing new SRB.
 					0	I have minor comments below and a few larger comments:
@@ -259,7 +259,7 @@ Reviewer_3	Author	1	6	0	2	I would suggest highlighting and discussing this outco
 					0	The authors found that owners reported that nearly 10% of dogs that did not show SRB behaviors prior to lockdown were reported to show SRB after lockdown, and the greater the change in the dog’s routine, the greater chance they had of showing new SRB.
 					0	I have minor comments below and a few larger comments: P1 L29 and P3 L112 the present tense “reduce” sounds strange to me here.
 					0	I would suggest “reduced” since you are looking at changes that have already occurred.
-Author	Reviewer_4	2	33	6	5	Thank you, this edit has been applied.
+Author	Reviewer_4	2	33	6	1	Thank you, this edit has been applied.
 					0	P6 L176 I am assuming you excluded dogs that were not left alone in February (or were there none?)
 Author	Reviewer_3	2	23	2	1	Yes, this is correct.
 Author	Reviewer_3	2	23	2	1	This is stated in line 232-233 or the original submission, but it seems we omitted it from the Methods section.
@@ -340,10 +340,10 @@ Author	Reviewer_4	2	40	12	1	For some reason I was convinced I’d read it was op
 Author	Reviewer_4	2	40	12	1	Thank you.
 Author	Reviewer_4	2	40	12	1	A brief conclusion section has now been added.
 					0	Minor issues: Line 35: insert “of” after 9.9%
-Author	Reviewer_4	2	42	14	2	Thank you, we have corrected the typo.
+Author	Reviewer_4	2	42	14	1	Thank you, we have corrected the typo.
 					0	Line 100: insert “the” after “in” Thank you, we have corrected the typo.
 					0	An error message occurred in several places (e.g., line 131, line 246, line 265)
-Author	Reviewer_5	2	59	13	2	Thank you, this seemed ok until the manuscript was uploaded but we’ve corrected it now.
+Author	Reviewer_5	2	59	13	1	Thank you, this seemed ok until the manuscript was uploaded but we’ve corrected it now.
 					0	Line 148: change “focusses” to “focuses”
 Author	Reviewer_5	2	55	9	1	Thank you, we’ve corrected the typo.
 					0	Line 355: delete the first “the”
@@ -371,7 +371,7 @@ Author	Reviewer_5	2	50	4	1	Discussion around this has been added now to lines 52
 Author	Reviewer_5	2	51	5	1	Agreed, we have altered this part of the simple summary and abstract and included discussion of this in lines 539-544 now as well as into the conclusions, thank you.
 					0	L22 and elsewhere: dogs’ “leaving time” or “leaving hours” I think this expression is misleading because it is not the dogs that have left home, but the owners.
 					0	But this is the opinion of a person using English as a second language.
-Author	Reviewer_5	2	75	29	2	Thank you!
+Author	Reviewer_5	2	75	29	1	Thank you!
 Author	Reviewer_5	2	52	6	1	Leaving time has been changed throughout to ‘time left alone’ L33 10th instead of “10th” Thank you, we’ve corrected the typo.
 					0	L45 Separation behaviour, separation-related behaviour, separation distress, separation anxiety terms are used interchangeably throughout the text, although these terms do not necessarily describe the same behaviours.
 					0	Please provide a clear definition of the behaviour aimed to study and stick to one term.
@@ -421,11 +421,11 @@ Author	Reviewer_5	2	64	18	1	This has now been done.
 					0	It is perfectly feasible that some owners did not leave their homes because they were for example, ill, but they did so during the pandemic.
 					0	What was the proportion of owners who indicated that they would like to participate in the follow-up study?
 					0	Among them, what was the proportion of owners who has not responded to the request afterward?
-Author	Reviewer_5	2	69	23	5	For the purpose of this study it was required that we had baseline data on the dogs’ leaving behaviour so that we could classify them as SRB+ or – before the pandemic began.
-Author	Reviewer_5	2	69	23	5	Owners of dogs who were not left alone in a typical week in February, were not asked about their dogs’ separation-related behaviour, so we did not have these data for them which is why they were excluded.
-Author	Reviewer_5	2	69	23	5	New text has been added to the Subjects section of the methodology to explain how many owners answered the follow up questionnaire, the response rate and what percentage and number of dogs were not left home alone before the pandemic.
-Author	Reviewer_5	2	69	23	5	The new section beginning at line 146 now reads: “A total of 2,425 people completed the follow-up survey for the same dog they scored in the original survey (a 51.9% response rate), of which 2,285 had previously provided data to indicate whether their dog was left alone or not in February 2020.
-Author	Reviewer_5	2	69	23	5	Of these, 15.3% dogs (n=305) were not left alone at all in an average week in February, and as such, these dogs did not have baseline data for their behaviour when left so were excluded from further analysis.” Additionally, the number of people we emailed the invitation to (n=4,670) has been added to line 139.
+Author	Reviewer_5	2	69	23	1	For the purpose of this study it was required that we had baseline data on the dogs’ leaving behaviour so that we could classify them as SRB+ or – before the pandemic began.
+Author	Reviewer_5	2	69	23	1	Owners of dogs who were not left alone in a typical week in February, were not asked about their dogs’ separation-related behaviour, so we did not have these data for them which is why they were excluded.
+Author	Reviewer_5	2	69	23	1	New text has been added to the Subjects section of the methodology to explain how many owners answered the follow up questionnaire, the response rate and what percentage and number of dogs were not left home alone before the pandemic.
+Author	Reviewer_5	2	69	23	1	The new section beginning at line 146 now reads: “A total of 2,425 people completed the follow-up survey for the same dog they scored in the original survey (a 51.9% response rate), of which 2,285 had previously provided data to indicate whether their dog was left alone or not in February 2020.
+Author	Reviewer_5	2	69	23	1	Of these, 15.3% dogs (n=305) were not left alone at all in an average week in February, and as such, these dogs did not have baseline data for their behaviour when left so were excluded from further analysis.” Additionally, the number of people we emailed the invitation to (n=4,670) has been added to line 139.
 					0	L278-280 “There were 1,407 dogs who were clear of SRB at baseline in February 2020.
 					0	When looking at SRB status in October, of 1,187 dogs who were left alone in October, 117 (9.9%) were reported to have shown at least one SRB”.
 					0	In other words, 1407/1807 (78%) of dogs were clear of SRB in February and 90.1% in October.

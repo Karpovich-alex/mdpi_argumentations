@@ -1,6 +1,6 @@
 side	opponent	round	number	attacks	ann	text
 					0	Author Response Responses to Reviewer 1 We appreciate your review of our manuscript and constructive comments and suggestions.
-Author	Reviewer_1	8	2	2	2	Our responses to your comments are as follows.
+Author	Reviewer_1	8	2	2	1	Our responses to your comments are as follows.
 					0	1)
 Reviewer_1	Author	1	1	0	2	In general, the manuscript refers often to PGRMC1 expression or downregulation.
 Reviewer_1	Author	1	1	0	2	These are fuzzy terms for proteins.
@@ -209,7 +209,7 @@ Author	Reviewer_1	2	25	25	1	The error has been corrected.
 Reviewer_1	Author	1	26	0	2	Lines 261-262.
 Reviewer_1	Author	1	26	0	2	“In the present study, we showed that microRNA-mediated PGRMC1 regulation during the process of decidualization.” This is confusingly worded.
 Reviewer_1	Author	1	26	0	2	Suggest change to “In the present study, we showed that microRNA-mediated the regulation of PGRMC1 abundance during the process of decidualization.” (if this is what is meant) >>
-Author	Reviewer_1	4	4	4	2	Thank you for correcting the sentence.
+Author	Reviewer_1	4	4	4	1	Thank you for correcting the sentence.
 Author	Reviewer_1	2	26	26	1	Your correction is what we meant to mention.
 Author	Reviewer_1	2	26	26	1	We have replaced this sentence in the revised manuscript.
 Author	Reviewer_1	2	26	26	1	(page9, line 284-286) 27)
@@ -268,15 +268,15 @@ Reviewer_1	Author	3	3	0	2	This may be only correlation.
 					0	Before such a claim is published in the scientific literature, it must be supported by convincing evidence.
 					0	Aspiration to clarify this in future papers does not merit publication of the present paper.
 					0	>>
-Author	Reviewer_1	4	3	3	3	As you pointed out, we infer that downregulation of PGRMC1 may be necessary for decidualization to proceed.
-Author	Reviewer_1	4	3	3	3	To clarify this point, we further attempted to overexpress PGRMC1 by introducing expression vectors into primary ESCs under various conditions using lipofection and calcium phosphate transfection methods, as you suggested.
-Author	Reviewer_1	4	3	3	3	Unfortunately, for reasons unknown, we were unable to establish ESCs overexpressing PGRMC1.
-Author	Reviewer_1	4	3	3	3	In the present study, we found that not only knockdown of PGRMC1 but also functional inhibition with inhibitors promotes ESC decidualization in vitro.
-Author	Reviewer_1	4	3	3	3	Furthermore, in a previous report, overexpression of PGRMC1 suppressed ESCs differentiation (Ref.
-Author	Reviewer_1	4	3	3	3	19).
-Author	Reviewer_1	4	3	3	3	These results indicate that decreased PGRMC1 in the endometrium may be associated with accelerated dedifferentiation.
-Author	Reviewer_1	4	3	3	3	As you suggested, we have changed the title significantly because further evidence was not available.
-Author	Reviewer_1	4	3	3	3	We plan to establish a model of miR-resistant PGRMC1 overexpression using several ESCs cell lines to investigate the role of PGRMC1 in decidualization, and if possible, we would be happy to make this our next research topic.
+Author	Reviewer_1	4	3	3	1	As you pointed out, we infer that downregulation of PGRMC1 may be necessary for decidualization to proceed.
+Author	Reviewer_1	4	3	3	1	To clarify this point, we further attempted to overexpress PGRMC1 by introducing expression vectors into primary ESCs under various conditions using lipofection and calcium phosphate transfection methods, as you suggested.
+Author	Reviewer_1	4	3	3	1	Unfortunately, for reasons unknown, we were unable to establish ESCs overexpressing PGRMC1.
+Author	Reviewer_1	4	3	3	1	In the present study, we found that not only knockdown of PGRMC1 but also functional inhibition with inhibitors promotes ESC decidualization in vitro.
+Author	Reviewer_1	4	3	3	1	Furthermore, in a previous report, overexpression of PGRMC1 suppressed ESCs differentiation (Ref.
+Author	Reviewer_1	4	3	3	1	19).
+Author	Reviewer_1	4	3	3	1	These results indicate that decreased PGRMC1 in the endometrium may be associated with accelerated dedifferentiation.
+Author	Reviewer_1	4	3	3	1	As you suggested, we have changed the title significantly because further evidence was not available.
+Author	Reviewer_1	4	3	3	1	We plan to establish a model of miR-resistant PGRMC1 overexpression using several ESCs cell lines to investigate the role of PGRMC1 in decidualization, and if possible, we would be happy to make this our next research topic.
 					0	2)
 Reviewer_1	Author	3	4	0	2	Lines 142-3.
 Reviewer_1	Author	3	4	0	2	“Data of cell culture are expressed as the mean ± SD from three independent experiments with at least repeated two times.” Change to: Data of cell culture are expressed as the mean ± SD from three independent experiments.
@@ -321,21 +321,21 @@ Reviewer_1	Author	5	2	0	2	It would be possible to introduce an expression casset
 Reviewer_1	Author	5	2	0	2	An inducible vector may be advisable, such as tetracycline, IPTG, or other available systems.
 Reviewer_1	Author	5	2	0	2	Such vectors typically include fluorescent protein reporters, enabling discrimination between infected and non-infected cells in one plate, or population separation by FACS.
 					0	Responses to the Reviewer's comments:
-Author	Reviewer_1	6	3	3	3	We appreciate your review of our revised manuscript, constructive comments, and suggestions for improving the manuscript.
-Author	Reviewer_1	6	3	3	3	We deeply understand the significance of the experiments using miR-98-resistant PGRMC stably expressing ESCs to directly prove the implication of the miR-mediated PGRMC1 regulation in decidualization.
-Author	Reviewer_1	6	3	3	3	We are transfecting the miR-resistant PGRMC1 expression vector into ESCs cell lines to explore the role of PGRMC1 in decidualization but is not going well.
-Author	Reviewer_1	6	3	3	3	As you advised, lentiviral transduction of the PGRMC1 along with fluorescent protein may enable us to effectively select the overexpressing cells without losing differentiation status in response to decidual stimuli.
-Author	Reviewer_1	6	3	3	3	We have acknowledged this and suggested it as a topic for further research in the “Limitation” section of the revised manuscript following editor’s comment (page 10, lines 336-348).
-Author	Reviewer_1	6	3	3	3	“Limitations: In this study, we proposed that miR-98-mediated PGRMC1 downregulation may be involved in decidualization, but were unable to examine the effects of miR-98-resistant PGRMC1 on differentiation due to technical difficulties establishing PGRMC1-overexpressing ESCs.
-Author	Reviewer_1	6	3	3	3	miR-98 may not be the only miRNA that modulates PGRMC1 expression; therefore, comprehensive analysis of transcriptional, post-transcriptional, and post-translational regulation of endometrial PGRMC1 during decidualization is required.
-Author	Reviewer_1	6	3	3	3	In addition, PGRMC1 can bind to various proteins, including receptors for epidermal growth factor [46] and insulin [47], cytochrome P450 [48], and serpine mRNA-binding protein 1 (SERBP1) [19].
-Author	Reviewer_1	6	3	3	3	Further, PGRMC1 may interact with proteins associated with endomembrane trafficking/cytoskeleton and mitochondrial functions in decidualizing ESCs [49].
-Author	Reviewer_1	6	3	3	3	Thus, we plan to investigate the modulation of endometrial PGRMC1 expression and the interaction between PGRMC1 and intracellular proteins during decidualization in the future.”
+Author	Reviewer_1	6	3	3	1	We appreciate your review of our revised manuscript, constructive comments, and suggestions for improving the manuscript.
+Author	Reviewer_1	6	3	3	1	We deeply understand the significance of the experiments using miR-98-resistant PGRMC stably expressing ESCs to directly prove the implication of the miR-mediated PGRMC1 regulation in decidualization.
+Author	Reviewer_1	6	3	3	1	We are transfecting the miR-resistant PGRMC1 expression vector into ESCs cell lines to explore the role of PGRMC1 in decidualization but is not going well.
+Author	Reviewer_1	6	3	3	1	As you advised, lentiviral transduction of the PGRMC1 along with fluorescent protein may enable us to effectively select the overexpressing cells without losing differentiation status in response to decidual stimuli.
+Author	Reviewer_1	6	3	3	1	We have acknowledged this and suggested it as a topic for further research in the “Limitation” section of the revised manuscript following editor’s comment (page 10, lines 336-348).
+Author	Reviewer_1	6	3	3	1	“Limitations: In this study, we proposed that miR-98-mediated PGRMC1 downregulation may be involved in decidualization, but were unable to examine the effects of miR-98-resistant PGRMC1 on differentiation due to technical difficulties establishing PGRMC1-overexpressing ESCs.
+Author	Reviewer_1	6	3	3	1	miR-98 may not be the only miRNA that modulates PGRMC1 expression; therefore, comprehensive analysis of transcriptional, post-transcriptional, and post-translational regulation of endometrial PGRMC1 during decidualization is required.
+Author	Reviewer_1	6	3	3	1	In addition, PGRMC1 can bind to various proteins, including receptors for epidermal growth factor [46] and insulin [47], cytochrome P450 [48], and serpine mRNA-binding protein 1 (SERBP1) [19].
+Author	Reviewer_1	6	3	3	1	Further, PGRMC1 may interact with proteins associated with endomembrane trafficking/cytoskeleton and mitochondrial functions in decidualizing ESCs [49].
+Author	Reviewer_1	6	3	3	1	Thus, we plan to investigate the modulation of endometrial PGRMC1 expression and the interaction between PGRMC1 and intracellular proteins during decidualization in the future.”
 					0	Author Response
-Author	Reviewer_1	8	2	2	2	We appreciate your review of our revised manuscript, constructive comments, and suggestions.
+Author	Reviewer_1	8	2	2	1	We appreciate your review of our revised manuscript, constructive comments, and suggestions.
 					0	Our responses to your comments are as follows.
-Author	Reviewer_1	8	2	2	2	As you pointed out, we have deleted the proposed model of the study (Figure 6).
-Author	Reviewer_1	8	2	2	2	We have added the “Strength and limitation of this study” and “Conclusions” in the revised manuscript in accordance with the academic editor’s comments.
+Author	Reviewer_1	8	2	2	1	As you pointed out, we have deleted the proposed model of the study (Figure 6).
+Author	Reviewer_1	8	2	2	1	We have added the “Strength and limitation of this study” and “Conclusions” in the revised manuscript in accordance with the academic editor’s comments.
 					0	Tsuru et al.
 					0	demonstrate that PGRMC1 abundance levels are higher in proliferative phase versus secretory phase endometrial patient biopsies (fig.1).
 					0	In primary endometrial stem cell (ESC) culture they demonstrate that chemical induction (by db-cAMP/P4) of pseudo-decidualization in culture is accompanied by decreased PGRMC1 protein levels (fig.2).

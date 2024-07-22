@@ -23,7 +23,7 @@ Author	Reviewer_1	2	2	2	1	Am.
 Author	Reviewer_1	2	2	2	1	Chem.
 Author	Reviewer_1	2	2	2	1	Soc.
 Author	Reviewer_1	2	2	2	1	97: 6609-6615.
-Author	Reviewer_1	2	2	2	3	The values obtained of I DW and steric hindrance are not explained.
+Author	Reviewer_1	2	2	2	1	The values obtained of I DW and steric hindrance are not explained.
 					0	R:
 Author	Reviewer_1	2	3	3	1	Accepted and revised in L157-160.
 Author	Reviewer_1	2	3	3	1	Common topological indices, such as κ shape indices and information indices were also calculated by Molconn-Z (version 4.12S, eduSoft, La Jolla, CA).
@@ -42,25 +42,25 @@ Reviewer_1	Author	1	5	0	2	For example, look at peaks 4, 5, and 6.
 Reviewer_1	Author	1	5	0	2	There is no resolution among the isomers, the same for NP 7 and 8 and NP 8 and 10; thus, it is impossible to quantify them.
 Reviewer_1	Author	1	6	0	2	If correct quantification is not assessed, then figure 1 and table 1 and 2 are not valid.
 					0	R:
-Author	Reviewer_1	2	6	6	3	The analytical methodology of isomers quantification has been studied and published in former study (Wang et al., 2013).
-Author	Reviewer_1	2	6	6	3	From Figure1 in Supporting Information, it seems that the isomers were not separated, but actually it does not affect the quantification of the isomers.
-Author	Reviewer_1	2	6	6	3	Because the main quantitative ions were used for quantification and the main quantitative ion of each isomer were separated absolutely (Figure 1).
-Author	Reviewer_1	2	6	6	3	Table 1 and Figure 1 were cited from Wang et al (2013).
-Author	Reviewer_1	2	6	6	3	Moreover, series of research about the NP isomers were conducted and published afterwards.
-Author	Reviewer_1	2	6	6	3	The following are the publications.
-Author	Reviewer_2	2	8	2	4	Shiyu Wang, Wenyong Wu*, Fei Liu, Shiyang Yin, Zhe Bao, Honglu Liu.
-Author	Reviewer_2	2	8	2	4	Spatial distribution and migration of nonylphenol in groundwater following long-term wastewater irrigation.
-Author	Reviewer_2	2	8	2	4	Journal of Contaminant Hydrology,2015,177-178（June–July）:85-92.
-Author	Reviewer_1	2	6	6	3	Shiyu Wang, Fei Liu*, Wenyong Wu*, Yaqi Hu, Renkuan Liao, Gaoting Chen, Jiulong Wang, Jialin Li.
-Author	Reviewer_1	2	6	6	3	Migration and health risks of nonylphenol and bisphenol A in soil-winter wheat systems with long-term reclaimed water irrigation.
-Author	Reviewer_1	2	6	6	3	Ecotoxicology and Environmental Safety 158 (2018) 28–36.
-Author	Reviewer_1	2	6	6	3	Shiyu Wang，Wenyong Wu*，Fei Liu, Xiaoou Li.
-Author	Reviewer_1	2	6	6	3	Sorption and desorption behaviours of 4-nonylphenol on reclaimed water-irrigated soils.
-Author	Reviewer_1	2	6	6	3	Environmental Engineering Science.
-Author	Reviewer_1	2	6	6	3	(2019) 36 (9) : 1100-1111。 王世玉，刘菲*，刘玉龙，陈亮.
-Author	Reviewer_1	2	6	6	3	气相色谱-质谱法检测地下水中12种对壬基酚同分异构体.分析化学，2013，41（11）：1699-1703.
-Author	Reviewer_1	2	6	6	3	王世玉，刘菲*，吴文勇，尹世洋，刘玉龙，陈亮，张伟，陈会会.影响12种壬基酚同分异构体液液萃取效率的因素研究.
-Author	Reviewer_1	2	6	6	3	岩矿测试，2014，33（4）：570-577.
+Author	Reviewer_1	2	6	6	1	The analytical methodology of isomers quantification has been studied and published in former study (Wang et al., 2013).
+Author	Reviewer_1	2	6	6	1	From Figure1 in Supporting Information, it seems that the isomers were not separated, but actually it does not affect the quantification of the isomers.
+Author	Reviewer_1	2	6	6	1	Because the main quantitative ions were used for quantification and the main quantitative ion of each isomer were separated absolutely (Figure 1).
+Author	Reviewer_1	2	6	6	1	Table 1 and Figure 1 were cited from Wang et al (2013).
+Author	Reviewer_1	2	6	6	1	Moreover, series of research about the NP isomers were conducted and published afterwards.
+Author	Reviewer_1	2	6	6	1	The following are the publications.
+Author	Reviewer_2	2	8	2	1	Shiyu Wang, Wenyong Wu*, Fei Liu, Shiyang Yin, Zhe Bao, Honglu Liu.
+Author	Reviewer_2	2	8	2	1	Spatial distribution and migration of nonylphenol in groundwater following long-term wastewater irrigation.
+Author	Reviewer_2	2	8	2	1	Journal of Contaminant Hydrology,2015,177-178（June–July）:85-92.
+Author	Reviewer_1	2	6	6	1	Shiyu Wang, Fei Liu*, Wenyong Wu*, Yaqi Hu, Renkuan Liao, Gaoting Chen, Jiulong Wang, Jialin Li.
+Author	Reviewer_1	2	6	6	1	Migration and health risks of nonylphenol and bisphenol A in soil-winter wheat systems with long-term reclaimed water irrigation.
+Author	Reviewer_1	2	6	6	1	Ecotoxicology and Environmental Safety 158 (2018) 28–36.
+Author	Reviewer_1	2	6	6	1	Shiyu Wang，Wenyong Wu*，Fei Liu, Xiaoou Li.
+Author	Reviewer_1	2	6	6	1	Sorption and desorption behaviours of 4-nonylphenol on reclaimed water-irrigated soils.
+Author	Reviewer_1	2	6	6	1	Environmental Engineering Science.
+Author	Reviewer_1	2	6	6	1	(2019) 36 (9) : 1100-1111。 王世玉，刘菲*，刘玉龙，陈亮.
+Author	Reviewer_1	2	6	6	1	气相色谱-质谱法检测地下水中12种对壬基酚同分异构体.分析化学，2013，41（11）：1699-1703.
+Author	Reviewer_1	2	6	6	1	王世玉，刘菲*，吴文勇，尹世洋，刘玉龙，陈亮，张伟，陈会会.影响12种壬基酚同分异构体液液萃取效率的因素研究.
+Author	Reviewer_1	2	6	6	1	岩矿测试，2014，33（4）：570-577.
 					0	Your careful review of this manuscript is highly appreciated.
 					0	I am looking forward to the good news.
 					0	Please feel free to contact me if any questions.
@@ -70,10 +70,10 @@ Reviewer_2	Author	1	1	0	2	The basic physi-chemical parameters of soils should be
 					0	R:
 Author	Reviewer_2	2	7	1	1	It has been given in Supporting Information 2.
 Author	Reviewer_2	2	7	1	1	Indeed, the characteristics of the soil are too limited.
-Author	Reviewer_2	2	11	5	2	The main reason is that this experiment was conducted during my being in University of Florida, USA as a visiting scholar.
+Author	Reviewer_2	2	11	5	1	The main reason is that this experiment was conducted during my being in University of Florida, USA as a visiting scholar.
 Author	Reviewer_2	2	7	1	1	My visiting time was only one year.
 Author	Reviewer_2	2	7	1	1	At the end of the visiting time, I had no time to complete the microbiological test and the soil properties detection and was going to leave the United States.
-Author	Reviewer_2	2	11	5	2	Worse more, the soil can not be brought to China.
+Author	Reviewer_2	2	11	5	1	Worse more, the soil can not be brought to China.
 Author	Reviewer_2	2	7	1	1	So I had to acquire the Florida soil properties information by website.
 Author	Reviewer_2	2	7	1	1	However, the information I can acquire from the website was limited, which were shown in Supporting Information 2.
 Reviewer_2	Author	1	2	0	2	The irrigation water physi-chemical parameters should be given.

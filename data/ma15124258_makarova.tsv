@@ -155,9 +155,9 @@ Author	Reviewer_1	2	10	10	1	On line 173, we gave a conclusion “the number of p
 					0	What do you mean by “are calculated” on line 199?
 					0	What are the basic equations and assumptions for this calculation?
 					0	Response:
-Author	Reviewer_3	2	17	4	2	In our previous work (Molecules 2020, 25, 443.
-Author	Reviewer_3	2	17	4	2	), we described in detail how to calculate the specific surface area and volume fraction.
-Author	Reviewer_3	2	17	4	2	In this paper, the same method was used to calculate the specific surface area and volume fraction, so we did not repeat how to calculator, just added the reference in the manuscript.
+Author	Reviewer_3	2	17	4	1	In our previous work (Molecules 2020, 25, 443.
+Author	Reviewer_3	2	17	4	1	), we described in detail how to calculate the specific surface area and volume fraction.
+Author	Reviewer_3	2	17	4	1	In this paper, the same method was used to calculate the specific surface area and volume fraction, so we did not repeat how to calculator, just added the reference in the manuscript.
 					0	Question 12.
 					0	Again, what is happening?
 					0	Are the number of pores increasing or is the existing pores increasing in volume?
@@ -176,8 +176,8 @@ Author	Reviewer_1	2	13	13	1	Thanks for your comments, we added three reference a
 					0	Therefore, I suggest include some comments on this and, probably, provide some discussion of how to avoid the increase of such defects, which increase sensitivity of energetic crystals, in particular CL-20.
 					0	Response:
 Author	Reviewer_2	2	14	1	1	Thanks for you comment, I have supplemented with a forecast about the change in the performance of the CL-20 in terms of safety after thermal treatment in the conclusion.
-Author	Reviewer_3	2	18	5	2	“During the thermal treatment, the nano-scale pores increase obviously, which will seriously increase the sensitivity of CL-20, and make a dangerous to the explosive charges with CL-20.
-Author	Reviewer_3	2	18	5	2	To improve the application performance of CL-20, we should try to avoid the increase of such defects, such as storing in an constant low temperature to avoid the thermal expansion, and avoid any phase transition.”
+Author	Reviewer_3	2	18	5	1	“During the thermal treatment, the nano-scale pores increase obviously, which will seriously increase the sensitivity of CL-20, and make a dangerous to the explosive charges with CL-20.
+Author	Reviewer_3	2	18	5	1	To improve the application performance of CL-20, we should try to avoid the increase of such defects, such as storing in an constant low temperature to avoid the thermal expansion, and avoid any phase transition.”
 					0	Review of the manuscript Investigation on the Evolution of Nano-scale Defects of CL-20 Crystals under Thermal Treatment by Wide/Small-Angle X-ray Scattering, Haobin Zhang, Hongfan Wang … The manuscript is devoted to research on the phase transformations of CL-20 at various temperatures.
 					0	The nano-scale defects were studied by using Wide Angle X-ray Scattering (WAXS) and Small Angle X-ray Scattering (SAXS), during the temperature range from 30 °C to 200 °C .
 					0	I recommend publishing the manuscript after minor the revision.

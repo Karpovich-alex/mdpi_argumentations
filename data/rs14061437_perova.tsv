@@ -51,8 +51,8 @@ Reviewer_1	Author	1	6	0	2	Could you please comment on the effects you introduce 
 					0	Point 1:
 Reviewer_1	Author	1	1	0	2	Page 2, Line 60.
 Reviewer_1	Author	1	1	0	2	Change “,” to “.”
-Author	Reviewer_2	2	8	2	4	Thank you.
-Author	Reviewer_2	2	8	2	4	Done.
+Author	Reviewer_2	2	8	2	1	Thank you.
+Author	Reviewer_2	2	8	2	1	Done.
 Author	Reviewer_1	2	1	1	1	Please refer to page 2, Line 60.
 					0	Point 2:
 Reviewer_1	Author	1	2	0	2	Page 2, Line 62.
@@ -73,7 +73,7 @@ Author	Reviewer_1	2	4	4	1	Please refer to page 16, Line 496.
 					0	Point 5: What is the main difference (except of the terrestrial data over China) to other combined GFMs, such as XGM2016 or XGM2019?
 					0	What is the main methodological difference and advantage of your method?
 					0	Please comment on that question quantitatifely and qualitatively.
-Author	Reviewer_1	2	6	6	2	Thank you for your good question and advice.
+Author	Reviewer_1	2	6	6	1	Thank you for your good question and advice.
 Author	Reviewer_1	2	5	5	1	The XGM2016 model is parameterized as a spherical harmonic series expansion resolved to degree and order (d/o) 719, which is the maximum resolution supported by the 15′ terrestrial gravity grid and a satellite-only model GOCO05s.
 Author	Reviewer_1	2	5	5	1	For XGM2016, a signiﬁcant focus is the optimal combination of the new terrestrial data with the latest satellite gravity information.
 Author	Reviewer_1	2	5	5	1	The combination is based on the rigorous solution of a full normal equation system up to the maximum d/o 719.
@@ -82,9 +82,9 @@ Author	Reviewer_1	2	5	5	1	The XGM2016 and XGM2019 models used the 15′ NGA grou
 Author	Reviewer_1	2	5	5	1	In addition, to consider the influence of higher frequency gravity field signals caused by topography, the RTM is utilized to further compensate for the omission errors in the refined GGMs.
 Author	Reviewer_1	2	5	5	1	In this study, the combination of the satellite-only GGM with the EGM2008 is based on a pure complementation of the spherical harmonic coefﬁcients at a speciﬁc degree,
 Author	Reviewer_1	2	6	6	1	the high-quality GNSS/levelling-based height anomalies are used to check the refined GGMs for obtaining the optimal combination degrees.
-Author	Reviewer_1	2	6	6	2	Thus, the refined GGMs provide better local quasi-geoid results.
+Author	Reviewer_1	2	6	6	1	Thus, the refined GGMs provide better local quasi-geoid results.
 Author	Reviewer_1	2	5	5	1	We added comparisons for XGM2016 or XGM2019 models in Table 4, we can find that the refined GFMs outperform XGM2016 and XGM2019 as well, the major improvement of the refined GFMs can be attributed to the GOCE data and topography signals.
-Author	Reviewer_1	2	6	6	2	We have added descriptions and contents in the revised manuscript.
+Author	Reviewer_1	2	6	6	1	We have added descriptions and contents in the revised manuscript.
 Author	Reviewer_1	2	5	5	1	Please refer to page 14, Line 435-457.
 Author	Reviewer_1	2	5	5	1	Table 4.
 Author	Reviewer_1	2	5	5	1	Statistics of the height anomaly differences between GNSS/levelling and six higher-degree GFMs.

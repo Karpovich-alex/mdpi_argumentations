@@ -1,7 +1,7 @@
 side	opponent	round	number	attacks	ann	text
 					0	Author Response
-Author	Reviewer_1	2	2	6	2	We have added all the new references suggested by Referee 2 on page 3 of the new manuscript.
-Author	Reviewer_1	2	2	6	2	These includethe ones mentioned in our reply to Referee 1’s point 4 above, and all also the references: Corney98,Mekhov09,leroux10,Mekhov12,Niedenzu13,Lee14.
+Author	Reviewer_1	2	2	6	1	We have added all the new references suggested by Referee 2 on page 3 of the new manuscript.
+Author	Reviewer_1	2	2	6	1	These includethe ones mentioned in our reply to Referee 1’s point 4 above, and all also the references: Corney98,Mekhov09,leroux10,Mekhov12,Niedenzu13,Lee14.
 Author	Reviewer_1	2	3	1	1	Concerning the referee’s other point, about the suitability of this system to measure weak forces, we first note that the use of Bloch oscillations without a cavity is proving to be an excellent way to measure gravity (e.g.
 Author	Reviewer_1	2	3	1	1	the experiments by G.M.
 Author	Reviewer_1	2	3	1	1	Tino’s group).

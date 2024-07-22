@@ -1,7 +1,7 @@
 side	opponent	round	number	attacks	ann	text
 					0	Author Response Please see the attachment Author Response File: Author Response.docx
 					0	Author Response
-Author	Reviewer_4	4	9	7	17	Thank you very much for your kind reminder.
+Author	Reviewer_4	4	9	7	1	Thank you very much for your kind reminder.
 Author	Reviewer_2	2	10	3	1	We agree with the suggestion and comments of the reviewer.
 Author	Reviewer_2	2	10	3	1	All comments have been revised one by one, and the modifications are highlighted in yellow in the marked revised manuscript.
 Author	Reviewer_3	2	27	17	1	Two native English-speaking colleagues help us verify the manuscript.
@@ -196,14 +196,14 @@ Author	Reviewer_1	2	1	1	1	The innovation of this research has been clarified in 
 					0	Study and evaluation of the characteristics of saline wastewater (brine) produced by desalination and industrial plants.
 					0	Environmental Science and Pollution Research, 1-14.
 					0	Response 2:
-Author	Reviewer_3	2	12	2	2	We agree with the suggestion of this reviewer.
+Author	Reviewer_3	2	12	2	1	We agree with the suggestion of this reviewer.
 					0	Thank you very much for your kind reminder.
 Author	Reviewer_1	2	2	2	1	Three references have been cited.
 Author	Reviewer_1	2	2	2	1	Please see lines 40-41 in the revised manuscript.
 					0	Point 3: How many replications you performed for your experiments?
 					0	Response 3: Thank you very much for your kind reminder.
-Author	Reviewer_3	2	21	11	2	These three GAC-UF systems were operated in parallel.
-Author	Reviewer_3	2	21	11	2	Samples of the feedwater and effluent from three systems were taken simultaneously and measured once.
+Author	Reviewer_3	2	21	11	1	These three GAC-UF systems were operated in parallel.
+Author	Reviewer_3	2	21	11	1	Samples of the feedwater and effluent from three systems were taken simultaneously and measured once.
 					0	Point 4: Conclusion: Discuss the applicability of your findings/results and future study in this field.
 					0	Response 4:
 Author	Reviewer_1	2	4	4	1	Thanks very much for the reviewer.
@@ -219,8 +219,8 @@ Author	Reviewer_1	2	5	5	1	The conclusion has been revised and integrated into tw
 Author	Reviewer_1	2	5	5	1	The first paragraph mainly includes important findings, and the second paragraph mainly includes the outlook for the future in this field.
 					0	Point 6: Language editing is recommended.
 					0	Response 6:
-Author	Reviewer_3	2	27	17	2	We are so sorry to make reviewer’s reading uncomfortable.
-Author	Reviewer_3	2	27	17	2	We have used an English Language Editing service to correct the grammatical and spelling errors and to make the expressions conform to correct scientific English (the Language Editing Certification is attached below).
+Author	Reviewer_3	2	27	17	1	We are so sorry to make reviewer’s reading uncomfortable.
+Author	Reviewer_3	2	27	17	1	We have used an English Language Editing service to correct the grammatical and spelling errors and to make the expressions conform to correct scientific English (the Language Editing Certification is attached below).
 					0	Two native English-speaking colleagues help us verify the manuscript.
 					0	Hope the revised manuscript would be more satisfactory.
 					0	Point 7: Table 1: What is the salinity (in mg/L) of the samples ?
@@ -279,7 +279,7 @@ Author	Reviewer_3	2	14	4	1	Please see line 38 in the revised manuscript.
 					0	As far as we investigated, the lack of enough attention to long-term pilot study exists.
 					0	Therefore, in this study, a BAC-UF system was carried out for several months with pilot scale to access the long-term removal performances and the respective contributions of BAC and UF.
 Author	Reviewer_3	2	15	5	1	The relevant content has been supplemented and revised in the abstract to highlight the innovative points.
-Author	Reviewer_3	2	25	15	2	The comparison of previous research with existing research findings was added in the final part of the results and discussion.
+Author	Reviewer_3	2	25	15	1	The comparison of previous research with existing research findings was added in the final part of the results and discussion.
 					0	Point 6: What is the main challenge?
 					0	Why author choose this material?
 					0	Please highlight in the introduction part.
@@ -370,7 +370,7 @@ Author	Reviewer_3	2	28	18	1	Thanks very much for the patient review again.
 					0	2 1
 					0	Response to Reviewer 4 Comments Point 1: Authors should avoid abbreviations in the title and the abstract.
 					0	Response 1:
-Author	Reviewer_4	4	10	8	5	Thanks for the kind reminder.
+Author	Reviewer_4	4	10	8	1	Thanks for the kind reminder.
 Author	Reviewer_4	2	29	1	1	Full names of BAC, UF, and PPCPs are used in the title and the abstract to show the results briefly.
 Author	Reviewer_4	2	29	1	1	As for NH4+-N, NO2−-N, and NO3—N, the full names have been used instead of abbreviations in the abstract.
 					0	Point 2: Authors may revise the title to include river water instead of surface water.

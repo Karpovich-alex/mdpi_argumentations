@@ -47,9 +47,9 @@ Reviewer_2	Author	1	2	0	2	In addition, I do believe that several figures could b
 					0	My overall recommendation is that after the listed items are addressed the manuscript be accepted for publication without further review.
 					0	------------------------------- Answer of authors ------------------------------- - First of all, we would like to thank you very much for this relevant and detailed report.
 					0	-
-Author	Reviewer_2	2	5	2	2	As you requested, we have made all necessary changes in our manuscript.
-Author	Reviewer_2	2	5	2	2	A major revision of the paper has been carried out to take all the comments, suggestions and english corrections into account.
-Author	Reviewer_2	2	5	2	2	We believe that the paper has been significantly improved.
+Author	Reviewer_2	2	5	2	1	As you requested, we have made all necessary changes in our manuscript.
+Author	Reviewer_2	2	5	2	1	A major revision of the paper has been carried out to take all the comments, suggestions and english corrections into account.
+Author	Reviewer_2	2	5	2	1	We believe that the paper has been significantly improved.
 					0	- We are very grateful to you for your sound and relevant corrections.
 					0	Author Response %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Answer to the third referee’s report of the Manuscript ID atoms-114670 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% The article presents triple differential cross sections (tdcs) calculations of hydrogen ionization by positron and electron impact, in the relativistic and non-relativistic limit, using relativistic plane-wave Born approximation and non relativistic approximations.
 					0	The results confirm predictions of other theories.
@@ -59,7 +59,7 @@ Author	Reviewer_2	2	5	2	2	We believe that the paper has been significantly impro
 					0	-------------------------------------------------------------------------------------------------------------------------- Page 1: * Line 7: it is referenced to the recent theories given in [2] and [3] which are from years 1994 and 2002 respectively.
 Reviewer_3	Author	1	1	0	2	"Maybe the word ""recent"" is not adequate here."
 Reviewer_3	Author	1	1	0	2	"* Line 19: ""Coulomb system"" -> ""Coulomb systems"" ------------------------------------------- Answer of authors -------------------------------------------"
-Author	Reviewer_3	2	11	6	6	The changes is made in the text.
+Author	Reviewer_3	2	11	6	1	The changes is made in the text.
 					0	"------------------------------------------- Page 2: * Line 36: ""describes the probability"": actually it is the flux ratio, and it could be divergent in some cases."
 Reviewer_3	Author	1	2	0	2	I think one should be careful.
 Reviewer_3	Author	1	2	0	2	"Maybe the authors could use ""is related to the probability"" or something like that."

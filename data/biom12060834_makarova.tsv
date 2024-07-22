@@ -30,7 +30,7 @@ Reviewer_1	Author	3	1	0	2	The English language was improved, but there are still
 Reviewer_1	Author	3	2	0	2	Why was linkage analysis not performed?
 					0	(I was referring to the chemical method by methylation.)
 Reviewer_1	Author	3	2	0	2	Bacterial EPSs are normally composed of repeating units.
-Reviewer_1	Author	3	2	0	4	Based on the 1H NMR spectrum, the purity and/or heterogeneity of the EPS is questioned.
+Reviewer_1	Author	3	2	0	2	Based on the 1H NMR spectrum, the purity and/or heterogeneity of the EPS is questioned.
 Reviewer_1	Author	3	2	0	2	(I was referring to peak intensities that are not uniform.
 Reviewer_1	Author	3	2	0	2	The new spectra emphasize this even more: for example, I count at least 10 H1/H2 cross peaks of different intensities on the COSY.)
 Reviewer_1	Author	3	2	0	2	The authors added a COSY spectrum but did not analyze it.
@@ -54,7 +54,7 @@ Reviewer_1	Author	1	8	0	2	Articles (mostly definite, but also indefinite) are of
 Reviewer_1	Author	1	9	0	2	EPS vs. EPSs in plural form should be consistent throughout.
 Reviewer_1	Author	1	10	0	2	Use a consistent abbreviation (l or L) for liter (including milliliter and microliter) throughout.
 					0	Specific comments and corrections:
-Reviewer_1	Author	1	41	0	14	ll.
+Reviewer_1	Author	1	41	0	2	ll.
 Reviewer_1	Author	1	11	0	2	50-51 improvement of rheological
 Reviewer_1	Author	1	12	0	2	l. 57 stabilizing
 Reviewer_1	Author	1	13	0	2	l. 133 in nutrient
@@ -111,10 +111,10 @@ Reviewer_1	Author	1	49	0	2	l. 725 possibility of future
 					0	In this manuscript, the exopolysaccharide from Bacillus haynesii CamB6 was exhaustively characterized.
 					0	Comment 1: Unfortunately, its structure was not fully determined.
 					0	Answer 1:
-Author	Reviewer_2	2	53	1	2	To better understand EPS chemical structure, further 2D NMR experiments were performed and results are presented inside the manuscript.
-Author	Reviewer_2	2	53	1	2	In short, they allow to clearly identify the D-mannose α-(1→2) and α-(1→4) linkages in EPS.
-Author	Reviewer_2	2	53	1	2	These results suggest they are the prevailing units of the EPS backbone making it a branched one.
-Author	Reviewer_2	2	53	1	2	Also, β-glucopyranose and β-galactopyranose structures were identified and the acetylation was confirmed.
+Author	Reviewer_2	2	53	1	1	To better understand EPS chemical structure, further 2D NMR experiments were performed and results are presented inside the manuscript.
+Author	Reviewer_2	2	53	1	1	In short, they allow to clearly identify the D-mannose α-(1→2) and α-(1→4) linkages in EPS.
+Author	Reviewer_2	2	53	1	1	These results suggest they are the prevailing units of the EPS backbone making it a branched one.
+Author	Reviewer_2	2	53	1	1	Also, β-glucopyranose and β-galactopyranose structures were identified and the acetylation was confirmed.
 					0	Comment 2: The manuscript is very long: it contains a lot of information and many references not always pertinent to EPS characterization.
 					0	Answer 2:
 Author	Reviewer_1	2	2	2	1	As suggested by the reviewer, the non-pertinent references has been checked throughout the manuscript and unnecessary references are removed too.
@@ -129,7 +129,7 @@ Author	Reviewer_1	2	4	4	1	As suggested by the reviewer, the acceptability for fo
 					0	Verb tenses should be checked.
 					0	Articles (mostly definite, but also indefinite) are often missing and sometimes superfluous.
 					0	Answer 5:
-Author	Reviewer_1	2	8	8	4	According to reviewer´s suggestion, the language of the manuscript is thoroughly revised.
+Author	Reviewer_1	2	8	8	1	According to reviewer´s suggestion, the language of the manuscript is thoroughly revised.
 					0	Comment 6: EPS vs. EPSs in plural form should be consistent throughout.
 					0	Answer 6:
 Author	Reviewer_1	2	9	9	1	As suggested by the reviewer, the consistent of the word had been checked throughout.
@@ -138,7 +138,7 @@ Author	Reviewer_1	2	9	9	1	As suggested by the reviewer, the consistent of the wo
 Author	Reviewer_1	2	10	10	1	Constant abbreviation had been checked throughout in the revised version of the manuscript.
 					0	Comment 8: ll.
 					0	50-51: “improvement of rheological” Answer 8:
-Author	Reviewer_1	2	52	49	15	Suggestion has been included in the revised version of the manuscript
+Author	Reviewer_1	2	52	49	1	Suggestion has been included in the revised version of the manuscript
 					0	Comment 9: l. 57: “stabilizing” Answer 9: Suggestion has been included in the revised version of the manuscript Comment 10: l. 133: “in nutrient” Answer 10: Suggestion has been included in the revised version of the manuscript Comment 11: l. 143: “min” instead of “mins” Answer 11: Suggestion has been included in the revised version of the manuscript Comment 12: l. 145: “volume of chilled acetone was added” Answer 12: Suggestion has been included in the revised version of the manuscript Comment 13: l. 160: There is no coded value in Table 1.
 					0	(RSM) Answer 13:
 Author	Reviewer_1	2	16	16	1	Accoding to the suggestion of the reviewer, Table 1 is revised and both coded – noncoded values are now included.
@@ -161,7 +161,7 @@ Author	Reviewer_1	2	22	22	1	The volume is now added in the revised version of th
 					0	255, 286, and 441: “et al.” Answer 20:
 Author	Reviewer_1	2	23	23	1	Suggestion has been included in the revised version of the manuscript throughout.
 					0	Comment 21: l. 284: No section 2.6.3 Answer 21:
-Author	Reviewer_1	2	34	34	2	As per the suggestion given by the reviewer, section numbering has been checked thoroughly in the revised version of the manuscript
+Author	Reviewer_1	2	34	34	1	As per the suggestion given by the reviewer, section numbering has been checked thoroughly in the revised version of the manuscript
 					0	Comment 22: Figure 1: What is the significance of the tick mark labels on the maps?
 					0	Are these maps really necessary?
 					0	Answer 22:
@@ -175,7 +175,7 @@ Author	Reviewer_1	2	27	27	1	Figure 2 has been modified as suggested by the revie
 Author	Reviewer_1	2	29	29	1	As suggested by the reviewer, Figure 3 is now modified with specified units of the axes and also in the figure legend.
 					0	Comment 27: l. 414, Delete “(“before “C. pH”. ll. 416 and 432 , Add “C.” before “pH=” . ll. 417 and 432 , “30.0” instead of “3.0” ?
 					0	Answer 27:
-Author	Reviewer_1	2	32	32	3	All the Suggestion has been included in the figure legend of revised version of the manuscript
+Author	Reviewer_1	2	32	32	1	All the Suggestion has been included in the figure legend of revised version of the manuscript
 					0	Comment 28: Figure 4; This figure is redundant as it gives the same information as Figure 3.
 					0	Tick label values for glucose and yeast extract are different.
 					0	Units are not specified on the axes labels or in the legend.
@@ -253,7 +253,7 @@ Author	Reviewer_2	2	55	3	1	As suggested by the reviewer, this keyword is removed
 					0	According to Figure 7. the activity of the ascorbic acid is higher than the activity of EPS produced by CamB6.
 					0	Answer 4:
 Author	Reviewer_2	2	56	4	1	Thank you so much dear reviewer for mentioning this po
-Author	Reviewer_1	4	2	2	2	int.
+Author	Reviewer_1	4	2	2	1	int.
 Author	Reviewer_2	2	56	4	1	The correction has been made now in the revised version of the manuscript.
 					0	→ Comment 1: The English language was improved, but there are still errors.
 					0	Response 1:
@@ -276,7 +276,7 @@ Author	Reviewer_1	4	2	2	1	We agree with some of the comments that you made.
 Author	Reviewer_1	4	2	2	1	However, we would like to remind you that the main purpose of this manuscript is not the complete elucidation of the EPS chemical structure but also the optimization of the EPS production, and characterization of the EPS functional properties.
 Author	Reviewer_1	4	2	2	1	At the same time, we provided different chemical properties like: sugar identification and its molar ratio, molecular weight, functional group analysis and thermal stability of the EPS, and this journal has recently published other papers with similar or less chemical information on the EPS, for instance: Kuo, H.-C.; Liu, Y.-W.; Lum, C.-C.; Hsu, K.-D.; Lin, S.-P.; Hsieh, C.-W.; Lin, H.-W.; Lu, T.-Y.
 Author	Reviewer_1	4	2	2	1	; Cheng, K.- C. Ganoderma formosanum Exopolysaccharides Inhibit Tumor Growth via Immunomodulation. Int.
-Author	Reviewer_1	4	2	2	2	J. Mol. Sci. 2021, 22, 11251. https://doi.org/10.3390/ijms222011251 Fetsiukh, A.; Conrad, J.; Bergquist, J.; Timmusk, S. Silica Particles Trigger the Exopolysaccharide Production of Harsh Environment Isolates of Growth-Promoting Rhizobacteria and Increase Their Ability to Enhance Wheat Biomass in Drought-Stressed Soils. Int. J. Mol. Sci. 2021, 22, 6201. https://doi.org/10.3390/ijms22126201.
+Author	Reviewer_1	4	2	2	1	J. Mol. Sci. 2021, 22, 11251. https://doi.org/10.3390/ijms222011251 Fetsiukh, A.; Conrad, J.; Bergquist, J.; Timmusk, S. Silica Particles Trigger the Exopolysaccharide Production of Harsh Environment Isolates of Growth-Promoting Rhizobacteria and Increase Their Ability to Enhance Wheat Biomass in Drought-Stressed Soils. Int. J. Mol. Sci. 2021, 22, 6201. https://doi.org/10.3390/ijms22126201.
 					0	•
 Author	Reviewer_1	4	3	2	1	On the other side, we performed the 1D and 2D - NMR analysis as complementary information to the other techniques in the present work.
 Author	Reviewer_1	4	3	2	1	Such analysis was performed to try to replace the traditional acid hydrolysis, methylation/acetylation and GC-MS used in glycoside analysis.

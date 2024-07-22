@@ -74,7 +74,7 @@ Reviewer_1	Author	1	6	0	2	Another reason for major revision is the style that th
 Reviewer_1	Author	1	6	0	2	I am not a native speaker, but given that I had to read sentences several times, I suspect the manuscript can benefit from an English language check.
 					0	Response:
 Author	Reviewer_1	2	6	6	1	We have
-Author	Reviewer_2	4	3	2	17	done
+Author	Reviewer_2	4	3	2	1	done
 					0	 a major revision of the manuscript.
 Author	Reviewer_1	2	6	6	1	A new “Material and Method” section has been added.
 Author	Reviewer_1	2	6	6	1	Such issues as statistical resampling tests (bootstrap and jackknife), calibration of branch length, the meaning and choice of the peptide length K, etc. , were discussed in the new section.

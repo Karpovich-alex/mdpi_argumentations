@@ -9,19 +9,19 @@ side	opponent	round	number	attacks	ann	text
 					0	The authors used both WAXS and SAXS to examine CL-20 particles as they were heated from room temperature to around 200C.
 					0	The analysis included determination of the number of voids and specific surface area during the heating process.
 					0	I had several questions regarding this work:
-Reviewer_3	Author	1	1	0	4	1.
+Reviewer_3	Author	1	1	0	2	1.
 Reviewer_1	Author	1	1	0	2	How do the WAXS and SAXS differ?
 Reviewer_1	Author	1	1	0	2	How do these experiments differentiate between increasing the number of defects and the size of the defects?
-Reviewer_3	Author	1	2	0	4	2.
+Reviewer_3	Author	1	2	0	2	2.
 Reviewer_1	Author	1	2	0	2	The authors mention cracks as well as voids.
 Reviewer_1	Author	1	2	0	2	How are the cracks differentiated from the voids?
 Reviewer_1	Author	1	2	0	2	Were voids observed?
 Reviewer_1	Author	1	2	0	2	Could computed microtomography be used to confirm some of the experimental results?
-Reviewer_3	Author	1	3	0	4	3.
+Reviewer_3	Author	1	3	0	2	3.
 Reviewer_1	Author	1	3	0	2	Are your pores assumed to be spherical?
 Reviewer_1	Author	1	3	0	2	Are cracks cylindrical.
 Reviewer_1	Author	1	3	0	2	Are they statistical in nature?
-Reviewer_3	Author	1	4	0	4	4.
+Reviewer_3	Author	1	4	0	2	4.
 Reviewer_1	Author	1	4	0	2	I would be interesting to have additional support for the process by using thermal experiments such as differential scanning calorimetry (DSC).
 Reviewer_1	Author	1	4	0	2	How do you results compare to phase transformation measured using DSC?
 Reviewer_1	Author	1	4	0	2	Are the onsets and finishing of the phase transformations consistent with the DSC measurements?
@@ -155,9 +155,9 @@ Author	Reviewer_1	2	10	10	1	On line 173, we gave a conclusion “the number of p
 					0	What do you mean by “are calculated” on line 199?
 					0	What are the basic equations and assumptions for this calculation?
 					0	Response:
-Author	Reviewer_3	2	17	3	2	In our previous work (Molecules 2020, 25, 443.
-Author	Reviewer_3	2	17	3	2	), we described in detail how to calculate the specific surface area and volume fraction.
-Author	Reviewer_3	2	17	3	2	In this paper, the same method was used to calculate the specific surface area and volume fraction, so we did not repeat how to calculator, just added the reference in the manuscript.
+Author	Reviewer_3	2	17	3	1	In our previous work (Molecules 2020, 25, 443.
+Author	Reviewer_3	2	17	3	1	), we described in detail how to calculate the specific surface area and volume fraction.
+Author	Reviewer_3	2	17	3	1	In this paper, the same method was used to calculate the specific surface area and volume fraction, so we did not repeat how to calculator, just added the reference in the manuscript.
 					0	Question 12.
 					0	Again, what is happening?
 					0	Are the number of pores increasing or is the existing pores increasing in volume?

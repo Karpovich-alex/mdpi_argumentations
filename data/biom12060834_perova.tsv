@@ -30,7 +30,7 @@ Reviewer_1	Author	3	2	0	2	The following comments were not addressed correctly:
 Reviewer_1	Author	3	3	0	2	Why was linkage analysis not performed?
 					0	(I was referring to the chemical method by methylation.)
 Reviewer_1	Author	3	3	0	2	Bacterial EPSs are normally composed of repeating units.
-Reviewer_1	Author	3	3	0	4	Based on the 1H NMR spectrum, the purity and/or heterogeneity of the EPS is questioned.
+Reviewer_1	Author	3	3	0	2	Based on the 1H NMR spectrum, the purity and/or heterogeneity of the EPS is questioned.
 Reviewer_1	Author	3	3	0	2	(I was referring to peak intensities that are not uniform.
 Reviewer_1	Author	3	4	0	2	The new spectra emphasize this even more: for example, I count at least 10 H1/H2 cross peaks of different intensities on the COSY.)
 Reviewer_1	Author	3	4	0	2	The authors added a COSY spectrum but did not analyze it.
@@ -54,7 +54,7 @@ Reviewer_1	Author	1	5	0	2	Articles (mostly definite, but also indefinite) are of
 Reviewer_1	Author	1	6	0	2	EPS vs. EPSs in plural form should be consistent throughout.
 Reviewer_1	Author	1	7	0	2	Use a consistent abbreviation (l or L) for liter (including milliliter and microliter) throughout.
 					0	Specific comments and corrections:
-Reviewer_1	Author	1	38	0	14	ll.
+Reviewer_1	Author	1	38	0	2	ll.
 Reviewer_1	Author	1	8	0	2	50-51 improvement of rheological
 Reviewer_1	Author	1	9	0	2	l. 57 stabilizing
 Reviewer_1	Author	1	10	0	2	l. 133 in nutrient
@@ -111,10 +111,10 @@ Reviewer_1	Author	1	46	0	2	l. 725 possibility of future
 					0	In this manuscript, the exopolysaccharide from Bacillus haynesii CamB6 was exhaustively characterized.
 					0	Comment 1: Unfortunately, its structure was not fully determined.
 					0	Answer 1:
-Author	Reviewer_2	2	50	1	2	To better understand EPS chemical structure, further 2D NMR experiments were performed and results are presented inside the manuscript.
-Author	Reviewer_2	2	50	1	2	In short, they allow to clearly identify the D-mannose α-(1→2) and α-(1→4) linkages in EPS.
-Author	Reviewer_2	2	50	1	2	These results suggest they are the prevailing units of the EPS backbone making it a branched one.
-Author	Reviewer_2	2	50	1	2	Also, β-glucopyranose and β-galactopyranose structures were identified and the acetylation was confirmed.
+Author	Reviewer_2	2	50	1	1	To better understand EPS chemical structure, further 2D NMR experiments were performed and results are presented inside the manuscript.
+Author	Reviewer_2	2	50	1	1	In short, they allow to clearly identify the D-mannose α-(1→2) and α-(1→4) linkages in EPS.
+Author	Reviewer_2	2	50	1	1	These results suggest they are the prevailing units of the EPS backbone making it a branched one.
+Author	Reviewer_2	2	50	1	1	Also, β-glucopyranose and β-galactopyranose structures were identified and the acetylation was confirmed.
 					0	Comment 2: The manuscript is very long: it contains a lot of information and many references not always pertinent to EPS characterization.
 					0	Answer 2:
 Author	Reviewer_1	2	2	2	1	As suggested by the reviewer, the non-pertinent references has been checked throughout the manuscript and unnecessary references are removed too.
@@ -138,7 +138,7 @@ Author	Reviewer_1	2	6	6	1	As suggested by the reviewer, the consistent of the wo
 Author	Reviewer_1	2	7	7	1	Constant abbreviation had been checked throughout in the revised version of the manuscript.
 					0	Comment 8: ll.
 					0	50-51: “improvement of rheological” Answer 8:
-Author	Reviewer_1	2	49	46	15	Suggestion has been included in the revised version of the manuscript
+Author	Reviewer_1	2	49	46	1	Suggestion has been included in the revised version of the manuscript
 					0	Comment 9: l. 57: “stabilizing” Answer 9: Suggestion has been included in the revised version of the manuscript Comment 10: l. 133: “in nutrient” Answer 10: Suggestion has been included in the revised version of the manuscript Comment 11: l. 143: “min” instead of “mins” Answer 11: Suggestion has been included in the revised version of the manuscript Comment 12: l. 145: “volume of chilled acetone was added” Answer 12: Suggestion has been included in the revised version of the manuscript Comment 13: l. 160: There is no coded value in Table 1.
 					0	(RSM) Answer 13:
 Author	Reviewer_1	2	13	13	1	Accoding to the suggestion of the reviewer, Table 1 is revised and both coded – noncoded values are now included.
@@ -161,7 +161,7 @@ Author	Reviewer_1	2	19	19	1	The volume is now added in the revised version of th
 					0	255, 286, and 441: “et al.” Answer 20:
 Author	Reviewer_1	2	20	20	1	Suggestion has been included in the revised version of the manuscript throughout.
 					0	Comment 21: l. 284: No section 2.6.3 Answer 21:
-Author	Reviewer_1	2	31	31	2	As per the suggestion given by the reviewer, section numbering has been checked thoroughly in the revised version of the manuscript
+Author	Reviewer_1	2	31	31	1	As per the suggestion given by the reviewer, section numbering has been checked thoroughly in the revised version of the manuscript
 					0	Comment 22: Figure 1: What is the significance of the tick mark labels on the maps?
 					0	Are these maps really necessary?
 					0	Answer 22:
@@ -175,7 +175,7 @@ Author	Reviewer_1	2	24	24	1	Figure 2 has been modified as suggested by the revie
 Author	Reviewer_1	2	26	26	1	As suggested by the reviewer, Figure 3 is now modified with specified units of the axes and also in the figure legend.
 					0	Comment 27: l. 414, Delete “(“before “C. pH”. ll. 416 and 432 , Add “C.” before “pH=” . ll. 417 and 432 , “30.0” instead of “3.0” ?
 					0	Answer 27:
-Author	Reviewer_1	2	29	29	3	All the Suggestion has been included in the figure legend of revised version of the manuscript
+Author	Reviewer_1	2	29	29	1	All the Suggestion has been included in the figure legend of revised version of the manuscript
 					0	Comment 28: Figure 4; This figure is redundant as it gives the same information as Figure 3.
 					0	Tick label values for glucose and yeast extract are different.
 					0	Units are not specified on the axes labels or in the legend.
@@ -271,44 +271,44 @@ Reviewer_1	Author	3	5	0	2	They deleted erroneous information about mannose resid
 					0	The evidences for the partial structure given are not convincing.
 					0	If the authors do not add methylation analysis and perform full NMR spectral analysis, the claims about structure determination should be removed from the manuscript.
 					0	Response 2:
-Author	Reviewer_1	4	5	5	4	Dear reviewer, thanks for your valuable comments for improving the quality of this paper.
-Author	Reviewer_1	4	5	5	4	We will answer in the following paragraphs because all comments were related to the same topic.
+Author	Reviewer_1	4	5	5	1	Dear reviewer, thanks for your valuable comments for improving the quality of this paper.
+Author	Reviewer_1	4	5	5	1	We will answer in the following paragraphs because all comments were related to the same topic.
 					0	•
-Author	Reviewer_1	4	9	5	4	We agree with some of the comments that you made.
-Author	Reviewer_1	4	9	5	4	However, we would like to remind you that the main purpose of this manuscript is not the complete elucidation of the EPS chemical structure but also the optimization of the EPS production, and characterization of the EPS functional properties.
-Author	Reviewer_1	4	9	5	4	At the same time, we provided different chemical properties like: sugar identification and its molar ratio, molecular weight, functional group analysis and thermal stability of the EPS, and this journal has recently published other papers with similar or less chemical information on the EPS, for instance: Kuo, H.-C.; Liu, Y.-W.; Lum, C.-C.; Hsu, K.-D.; Lin, S.-P.; Hsieh, C.-W.; Lin, H.-W.; Lu, T.-Y.; Cheng, K.- C. Ganoderma formosanum Exopolysaccharides Inhibit Tumor Growth via Immunomodulation.
-Author	Reviewer_1	4	9	5	4	Int. J. Mol. Sci. 2021, 22, 11251. https://doi.org/10.3390/ijms222011251 Fetsiukh, A.; Conrad, J.; Bergquist, J.; Timmusk, S. Silica Particles Trigger the Exopolysaccharide Production of Harsh Environment Isolates of Growth-Promoting Rhizobacteria and Increase Their Ability to Enhance Wheat Biomass in Drought-Stressed Soils. Int. J. Mol. Sci. 2021, 22, 6201. https://doi.org/10.3390/ijms22126201.
+Author	Reviewer_1	4	9	5	1	We agree with some of the comments that you made.
+Author	Reviewer_1	4	9	5	1	However, we would like to remind you that the main purpose of this manuscript is not the complete elucidation of the EPS chemical structure but also the optimization of the EPS production, and characterization of the EPS functional properties.
+Author	Reviewer_1	4	9	5	1	At the same time, we provided different chemical properties like: sugar identification and its molar ratio, molecular weight, functional group analysis and thermal stability of the EPS, and this journal has recently published other papers with similar or less chemical information on the EPS, for instance: Kuo, H.-C.; Liu, Y.-W.; Lum, C.-C.; Hsu, K.-D.; Lin, S.-P.; Hsieh, C.-W.; Lin, H.-W.; Lu, T.-Y.; Cheng, K.- C. Ganoderma formosanum Exopolysaccharides Inhibit Tumor Growth via Immunomodulation.
+Author	Reviewer_1	4	9	5	1	Int. J. Mol. Sci. 2021, 22, 11251. https://doi.org/10.3390/ijms222011251 Fetsiukh, A.; Conrad, J.; Bergquist, J.; Timmusk, S. Silica Particles Trigger the Exopolysaccharide Production of Harsh Environment Isolates of Growth-Promoting Rhizobacteria and Increase Their Ability to Enhance Wheat Biomass in Drought-Stressed Soils. Int. J. Mol. Sci. 2021, 22, 6201. https://doi.org/10.3390/ijms22126201.
 					0	•
-Author	Reviewer_1	4	13	5	4	On the other side, we performed the 1D and 2D - NMR analysis as complementary information to the other techniques in the present work.
-Author	Reviewer_1	4	13	5	4	Such analysis was performed to try to replace the traditional acid hydrolysis, methylation/acetylation and GC-MS used in glycoside analysis.
-Author	Reviewer_1	4	13	5	4	On the opposite to NMR, we do not have access to this analysis, and we could not find it as a service.
+Author	Reviewer_1	4	13	5	1	On the other side, we performed the 1D and 2D - NMR analysis as complementary information to the other techniques in the present work.
+Author	Reviewer_1	4	13	5	1	Such analysis was performed to try to replace the traditional acid hydrolysis, methylation/acetylation and GC-MS used in glycoside analysis.
+Author	Reviewer_1	4	13	5	1	On the opposite to NMR, we do not have access to this analysis, and we could not find it as a service.
 					0	•
-Author	Reviewer_1	4	17	5	4	The HPLC and NMR results from the present work confirmed the heterogeneity of the EPS (3 different sugar moieties with different molar ratios), which agrees with the other reported mannan polysaccharides.
-Author	Reviewer_1	4	17	5	4	The 1H and 13C NMR chemical shifts are comparable with literature reports of other similar EPS or oligosaccharides, where complex structures are identified by NMR too (Casillo et al., 2021; Chatterjee et al; 2018).
-Author	Reviewer_1	4	17	5	4	Besides, our 2D-NMR analysis supported EPS heterogeneity, identifying different types of monomer linkages.
-Author	Reviewer_1	4	17	5	4	Casillo, A., Fabozzi, A., Russo Krauss, I., Parrilli, E., Biggs, C. I., Gibson, M. I., … Corsaro, M. M. (2021).
-Author	Reviewer_1	4	17	5	4	Physicochemical Approach to Understanding the Structure, Conformation, and Activity of Mannan Polysaccharides.
-Author	Reviewer_1	4	17	5	4	Biomacromolecules, 22(4), 1445–1457.
-Author	Reviewer_1	4	17	5	4	doi:10.1021/acs.biomac.0c01659.
-Author	Reviewer_1	4	17	5	4	Chatterjee, S., Mukhopadhyay, S. K., Gauri, S. S., & Dey, S. (2018).
-Author	Reviewer_1	4	17	5	4	Sphingobactan, a new α-mannan exopolysaccharide from Arctic Sphingobacterium sp.
-Author	Reviewer_1	4	17	5	4	IITKGP-BTPF3 capable of biological response modification.
-Author	Reviewer_1	4	17	5	4	International Immunopharmacology, 60, 84–95.
-Author	Reviewer_1	4	17	5	4	doi:10.1016/j.intimp.2018.04.039 •
-Author	Reviewer_1	4	21	5	4	Your mention of the non-uniform peak intensity confirming the three different sugar units found.
-Author	Reviewer_1	4	21	5	4	This is because the signal intensity of NMR peaks is related to an -H abundance.
-Author	Reviewer_1	4	21	5	4	Different monomer ratios are responsible for this variation and support our findings.
-Author	Reviewer_1	4	21	5	4	Also, the 10 H1/H2 cross peaks observed in the COSY spectra supported our findings of EPS heterogeneity, given the following facts: 1) We found 3 different types of sugars by HPLC.
-Author	Reviewer_1	4	21	5	4	2) We identified by NMR at least 2 types of linkages α 1-2 Man-Man and alfa 1-4 Man-Man monosaccharides.
-Author	Reviewer_1	4	21	5	4	3) There are other 2 sugars for which the β- type of linkage was identified but not the exact sugar position.
-Author	Reviewer_1	4	21	5	4	4) Anomeric protons shifts from units at the reducing end of polysaccharide differs from the one in another position.
-Author	Reviewer_1	4	21	5	4	In conclusion, there are different linkage possibilities (plus already identified) to different monosaccharides in different ring positions.
-Author	Reviewer_1	4	21	5	4	This gives rise to a multiplicity of signals (not fully identified in this work), which could produce different H1/H2 correlations.
+Author	Reviewer_1	4	17	5	1	The HPLC and NMR results from the present work confirmed the heterogeneity of the EPS (3 different sugar moieties with different molar ratios), which agrees with the other reported mannan polysaccharides.
+Author	Reviewer_1	4	17	5	1	The 1H and 13C NMR chemical shifts are comparable with literature reports of other similar EPS or oligosaccharides, where complex structures are identified by NMR too (Casillo et al., 2021; Chatterjee et al; 2018).
+Author	Reviewer_1	4	17	5	1	Besides, our 2D-NMR analysis supported EPS heterogeneity, identifying different types of monomer linkages.
+Author	Reviewer_1	4	17	5	1	Casillo, A., Fabozzi, A., Russo Krauss, I., Parrilli, E., Biggs, C. I., Gibson, M. I., … Corsaro, M. M. (2021).
+Author	Reviewer_1	4	17	5	1	Physicochemical Approach to Understanding the Structure, Conformation, and Activity of Mannan Polysaccharides.
+Author	Reviewer_1	4	17	5	1	Biomacromolecules, 22(4), 1445–1457.
+Author	Reviewer_1	4	17	5	1	doi:10.1021/acs.biomac.0c01659.
+Author	Reviewer_1	4	17	5	1	Chatterjee, S., Mukhopadhyay, S. K., Gauri, S. S., & Dey, S. (2018).
+Author	Reviewer_1	4	17	5	1	Sphingobactan, a new α-mannan exopolysaccharide from Arctic Sphingobacterium sp.
+Author	Reviewer_1	4	17	5	1	IITKGP-BTPF3 capable of biological response modification.
+Author	Reviewer_1	4	17	5	1	International Immunopharmacology, 60, 84–95.
+Author	Reviewer_1	4	17	5	1	doi:10.1016/j.intimp.2018.04.039 •
+Author	Reviewer_1	4	21	5	1	Your mention of the non-uniform peak intensity confirming the three different sugar units found.
+Author	Reviewer_1	4	21	5	1	This is because the signal intensity of NMR peaks is related to an -H abundance.
+Author	Reviewer_1	4	21	5	1	Different monomer ratios are responsible for this variation and support our findings.
+Author	Reviewer_1	4	21	5	1	Also, the 10 H1/H2 cross peaks observed in the COSY spectra supported our findings of EPS heterogeneity, given the following facts: 1) We found 3 different types of sugars by HPLC.
+Author	Reviewer_1	4	21	5	1	2) We identified by NMR at least 2 types of linkages α 1-2 Man-Man and alfa 1-4 Man-Man monosaccharides.
+Author	Reviewer_1	4	21	5	1	3) There are other 2 sugars for which the β- type of linkage was identified but not the exact sugar position.
+Author	Reviewer_1	4	21	5	1	4) Anomeric protons shifts from units at the reducing end of polysaccharide differs from the one in another position.
+Author	Reviewer_1	4	21	5	1	In conclusion, there are different linkage possibilities (plus already identified) to different monosaccharides in different ring positions.
+Author	Reviewer_1	4	21	5	1	This gives rise to a multiplicity of signals (not fully identified in this work), which could produce different H1/H2 correlations.
 					0	•
-Author	Reviewer_1	4	25	5	4	About the COSY spectrum discussion, only a minor and partial discussion is presented that can be found below the Scheme in manuscript: “In the COSY spectrum, it was found its α-configuration by low-field H-1 signal at δ 5.34 and correlated with H-2 (δ 4.0), H-6 (δ 3.98 and 3.85), and H-5 (δ 4.12) (Speciale et al., 2022).”
+Author	Reviewer_1	4	25	5	1	About the COSY spectrum discussion, only a minor and partial discussion is presented that can be found below the Scheme in manuscript: “In the COSY spectrum, it was found its α-configuration by low-field H-1 signal at δ 5.34 and correlated with H-2 (δ 4.0), H-6 (δ 3.98 and 3.85), and H-5 (δ 4.12) (Speciale et al., 2022).”
 					0	•
-Author	Reviewer_1	4	29	5	4	Regarding the TOCSY and HMBC mentioned in the methods, they are now deleted from the manuscript, as suggested.
+Author	Reviewer_1	4	29	5	1	Regarding the TOCSY and HMBC mentioned in the methods, they are now deleted from the manuscript, as suggested.
 					0	•
-Author	Reviewer_1	4	33	5	4	Finally, we kindly request the reviewer to consider that this is the first approach to studying a Chilean hot spring EPS isolation and its functional characterization.
-Author	Reviewer_1	4	33	5	4	We also mention that further work to fully reveal this EPS structure will be necessary using higher resolution NMR spectra combined with chemical techniques.
-Author	Reviewer_1	4	33	5	4	This work has given partial structural elucidation, which can be considered a previous background for other research on this topic.
+Author	Reviewer_1	4	33	5	1	Finally, we kindly request the reviewer to consider that this is the first approach to studying a Chilean hot spring EPS isolation and its functional characterization.
+Author	Reviewer_1	4	33	5	1	We also mention that further work to fully reveal this EPS structure will be necessary using higher resolution NMR spectra combined with chemical techniques.
+Author	Reviewer_1	4	33	5	1	This work has given partial structural elucidation, which can be considered a previous background for other research on this topic.

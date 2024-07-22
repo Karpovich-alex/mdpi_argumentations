@@ -95,7 +95,7 @@ Reviewer_2	Author	1	7	0	2	In line 145, full stop marked an error.
 Reviewer_2	Author	1	8	0	2	In line 28, please define rTMS.
 					0	Done
 Reviewer_2	Author	1	9	0	2	How do you test the aMT and rMT?
-Reviewer_2	Author	1	10	0	1	Please give the detailed process.
+Reviewer_2	Author	1	10	0	2	Please give the detailed process.
 Author	Reviewer_2	2	21	9	1	We have provided more explanations in the text as to how we used the MTAS software to estimate MT.
 Reviewer_2	Author	1	10	0	2	How do you get the hotspot?
 					0	Please give the detailed process.

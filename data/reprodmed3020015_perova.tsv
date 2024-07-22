@@ -91,7 +91,7 @@ Author	Reviewer_1	2	12	12	1	In our previously submitted manuscript, we had descr
 Reviewer_1	Author	1	13	0	2	13) Line 150.
 Reviewer_1	Author	1	13	0	2	The legend to fig.
 Reviewer_1	Author	1	13	0	2	1. inappropriately ends with “2.2.
-Reviewer_1	Author	1	13	0	4	Downregulation of PGRMC1 During ESC in vitro Decidualization.” This seems to be the next section heading, in which case it should follow a line break, and say: “3.2.
+Reviewer_1	Author	1	13	0	2	Downregulation of PGRMC1 During ESC in vitro Decidualization.” This seems to be the next section heading, in which case it should follow a line break, and say: “3.2.
 					0	Downregulation of PGRMC1 During ESC in vitro Decidualization.” All subsequent section header numbers in results should be modified to accommodate the new section.
 					0	>>
 Author	Reviewer_1	2	13	13	1	Thank you for pointing this out.
@@ -182,7 +182,7 @@ Author	Reviewer_1	2	25	25	1	The error has been corrected.
 Reviewer_1	Author	1	26	0	2	26) Lines 261-262.
 Reviewer_1	Author	1	26	0	2	“In the present study, we showed that microRNA-mediated PGRMC1 regulation during the process of decidualization.” This is confusingly worded.
 Reviewer_1	Author	1	26	0	2	Suggest change to “In the present study, we showed that microRNA-mediated the regulation of PGRMC1 abundance during the process of decidualization.” (if this is what is meant) >>
-Author	Reviewer_3	2	33	2	2	Thank you for correcting the sentence.
+Author	Reviewer_3	2	33	2	1	Thank you for correcting the sentence.
 Author	Reviewer_1	2	26	26	1	Your correction is what we meant to mention.
 Author	Reviewer_1	2	26	26	1	We have replaced this sentence in the revised manuscript.
 Author	Reviewer_1	2	26	26	1	(page9, line 284-286)
