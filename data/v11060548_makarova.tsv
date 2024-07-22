@@ -11,13 +11,13 @@ Reviewer_1	Author	1	2	0	2	Additional minor comments on the figures include: a.
 Reviewer_1	Author	1	2	0	2	Supplemental figures should be included in the main text.
 					0	The supplemental figures only include experiments that reproduce previously published work or are not absolutely necessary to support the major and most novel findings of the paper.
 					0	We therefore suggest to keep these data in the supplement.
-Author	Reviewer_2	2	10	5	2	If this is not acceptable we will make the changes in final revision.
+Author	Reviewer_2	2	10	5	1	If this is not acceptable we will make the changes in final revision.
 Reviewer_1	Author	1	3	0	2	b.
 Reviewer_1	Author	1	3	0	2	The NP stain in HSAEpCs is only shown to be cytoplasmic, inclusion of an uninfected control would demonstrate specificity of the staining.
 Reviewer_1	Author	1	3	0	2	At later timepoints is the NP stain nuclear as expected, is this simply a delay in replication?
-Author	Reviewer_1	2	3	3	2	We show indirect immunofluorescence analysis with anti-IFITM3 and anti-NP antibodies of HSAEpCs in Figure S6.
-Author	Reviewer_1	2	3	3	2	No unspecific signal is detected in the cytosol of HSAEpCs, indicating that the observed cytoplasmic NP stain is specific.
-Author	Reviewer_1	2	3	3	2	Nuclear NP stain is detected at 10 h p.i., and this may indeed indicate delayed replication compared to A549 cells as suggested by the reviewer, but no direct side-by-side comparison of replication kinetics in different cells was performed.
+Author	Reviewer_1	2	3	3	1	We show indirect immunofluorescence analysis with anti-IFITM3 and anti-NP antibodies of HSAEpCs in Figure S6.
+Author	Reviewer_1	2	3	3	1	No unspecific signal is detected in the cytosol of HSAEpCs, indicating that the observed cytoplasmic NP stain is specific.
+Author	Reviewer_1	2	3	3	1	Nuclear NP stain is detected at 10 h p.i., and this may indeed indicate delayed replication compared to A549 cells as suggested by the reviewer, but no direct side-by-side comparison of replication kinetics in different cells was performed.
 Reviewer_1	Author	1	4	0	2	c. Labels or zoomed out images from those presented in Figure 3 and 7 are needed to orient the reader to where within a cell the colocalization is observed.
 Author	Reviewer_1	2	4	4	1	The IFITM3 images were acquired in the cytosol distant from the nucleus and absent from the plasma membrane.
 Author	Reviewer_1	2	4	4	1	We included this information in the respective figure legend of Figure 3 and 7.
@@ -40,11 +40,10 @@ Reviewer_2	Author	1	4	0	2	Figure 3A: Why is there so much IFITM3 present in the 
 Reviewer_2	Author	1	4	0	2	This does not appear to increase post infection as was shown previously.
 					0	Figure 2B shows that the amount of IFITM3 is not significantly altered up to 6 h p.i.
 					0	IFITM3 protein increased significantly after longer infection times such as 24 h p.i.
-					0	(Fig.
-					0	S2B), as was previously described by others.
+					0	(Fig. S2B), as was previously described by others.
 Reviewer_2	Author	1	5	0	2	Figure 4: Uninfected control should be shown in the main text.
-Author	Reviewer_2	2	10	5	2	We have not made this change as we show that the anti-NP antibody is highly specific and shows negligible signal in the uninfected controls in Figure 1A.
-Author	Reviewer_2	2	10	5	2	A representative example of non-infected HSAEpC is shown in the supplement.
+Author	Reviewer_2	2	10	5	1	We have not made this change as we show that the anti-NP antibody is highly specific and shows negligible signal in the uninfected controls in Figure 1A.
+Author	Reviewer_2	2	10	5	1	A representative example of non-infected HSAEpC is shown in the supplement.
 					0	If this is not acceptable we will make the changes in final revision.
 Reviewer_2	Author	1	6	0	2	Figure 4: Label the figure so that it can be interpreted independent of the legend.
 Author	Reviewer_2	2	11	6	1	We have made the requested changes.

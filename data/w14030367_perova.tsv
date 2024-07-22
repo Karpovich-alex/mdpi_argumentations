@@ -17,36 +17,28 @@ Author	Reviewer_3	2	25	17	2	Hope the revised manuscript would be more satisfacto
 					0	Author Response File: Author Response.docx
 					0	The paper is interesting.I recommend publication only if the following issues can be addressed.
 					0	-
-Reviewer_1	Author	1	1	0	2	The innovation of this research needs to be better explored
-					0	.
+Reviewer_1	Author	1	1	0	2	The innovation of this research needs to be better explored.
 					0	- Lines 33-38: You should mention that discharge of PPCPs degrades water quality and thus it cannot be directly used for potable water (via desalination) and industrial applications.
 Reviewer_1	Author	1	2	0	2	Cite the following references:
 Reviewer_1	Author	1	2	0	4	Panagopoulos, A.
 Reviewer_1	Author	1	2	0	6	(2021).
 Reviewer_1	Author	1	2	0	2	Energetic, economic and environmental assessment of zero liquid discharge (ZLD) brackish water and seawater desalination systems.
-Reviewer_1	Author	1	2	0	2	Energy Conversion and Management, 23
-Author	Reviewer_4	4	3	3	1	5.
-					0	Panagopoulos, A.
-					0	(2021).
+Reviewer_1	Author	1	2	0	2	Energy Conversion and Management, 235.
+					0	Panagopoulos, A. (2021).
 Reviewer_1	Author	1	2	0	2	Techno-economic assessment of Minimal Liquid Discharge (MLD) treatment systems for saline wastewater (brine) management and treatment.
 Reviewer_1	Author	1	2	0	2	Process Safety and Environmental Protection, 146, pp.
 Reviewer_1	Author	1	2	0	2	656-669.
-					0	Panagopoulos, A.
-					0	(2021).
+					0	Panagopoulos, A. (2021).
 Reviewer_1	Author	1	2	0	2	Study and evaluation of the characteristics of saline wastewater (brine) produced by desalination and industrial plants.
-Reviewer_1	Author	1	2	0	2	Environmental Science and Pollution Research, 1-1
-Author	Reviewer_4	4	3	3	1	4.
+Reviewer_1	Author	1	2	0	2	Environmental Science and Pollution Research, 1-14.
 					0	-
 Reviewer_1	Author	1	3	0	2	How many replications you performed for your experiments?
 					0	-
-Reviewer_1	Author	1	4	0	2	Conclusion: Discuss the applicability of your findings/results and future study in this field
-					0	.
+Reviewer_1	Author	1	4	0	2	Conclusion: Discuss the applicability of your findings/results and future study in this field.
 					0	-
-Reviewer_1	Author	1	5	0	2	Conclusion: Make it as one or two paragraphs
-					0	.
+Reviewer_1	Author	1	5	0	2	Conclusion: Make it as one or two paragraphs.
 					0	-
-Reviewer_1	Author	1	6	0	2	Language editing is recommended
-					0	.
+Reviewer_1	Author	1	6	0	2	Language editing is recommended.
 					0	-
 Reviewer_1	Author	1	7	0	2	Table 1: What is the salinity (in mg/L) of the samples ?
 					0	In this study, the authors investigated the removal efficiency of Biological activated carbon (BAC) and biofilter coupling ultrafiltration (UF) system process for the treatment of surface water contaminated by pharmaceutical and personal care products (PPCPs).
@@ -119,8 +111,7 @@ Reviewer_3	Author	1	18	0	2	All must be consistent in one formate.
 					0	The reviewer suggests at least a t-test analysis.
 					0	Therefore, it needs a Major revision.
 					0	##Comments on the title, Abstract, and References
-Reviewer_4	Author	1	1	0	2	Authors should avoid abbreviations in the title and the abstract
-					0	.
+Reviewer_4	Author	1	1	0	2	Authors should avoid abbreviations in the title and the abstract.
 Reviewer_4	Author	1	2	0	2	Authors may revise the title to include river water instead of surface water.
 Reviewer_4	Author	1	3	0	2	References should be according to the journal format.
 					0	##Comments on Introduction section
@@ -169,9 +160,7 @@ Reviewer_4	Author	3	6	0	2	I strongly suggest that the authors explain how they p
 Reviewer_4	Author	3	6	0	2	Please include the sample size (n) or degree of freedom (df).
 Reviewer_4	Author	3	7	0	2	Please show the t-value and p-value in a scientific view (e.g., 2.79E-4 would be P <.001).
 Reviewer_4	Author	3	8	0	2	Line 161-176: Please delete the name of medicinal compounds not used for this study.
-Reviewer_4	Author	3	9	0	2	Point 6: Why the same trend of increase or decrease in graphs (Fig.
-					0	1) was observed in Fig.
-					0	1(c).
+Reviewer_4	Author	3	9	0	2	Point 6: Why the same trend of increase or decrease in graphs (Fig. 1) was observed in Fig. 1(c).
 					0	Why is the DO concentration of BAC-effluent sometimes higher than the Raw water.
 					0	Please explain it in the manuscript.
 					0	The reviewer suggests statistical analysis using a t-test (Raw water- BAC-Effluent and Raw water – BAC/UF-effluent).
@@ -195,17 +184,11 @@ Author	Reviewer_3	2	13	5	2	Therefore, in this study, a BAC-UF system was carried
 Author	Reviewer_1	2	1	1	1	The innovation of this research has been clarified in the abstract, the introduction, and the conclusion.
 					0	Point 2:
 Reviewer_1	Author	1	2	0	2	Lines 33-38: You should mention that discharge of PPCPs degrades water quality and thus it cannot be directly used for potable water and industrial applications.
-					0	Cite the following references: Panagopoulos, A.
-					0	(2021).
+					0	Cite the following references: Panagopoulos, A. (2021).
 					0	Energetic, economic and environmental assessment of zero liquid discharge (ZLD) brackish water and seawater desalination systems.
-					0	Energy Conversion and Management, 235.
-					0	Panagopoulos, A.
-					0	(2021).
+					0	Energy Conversion and Management, 235. Panagopoulos, A. (2021).
 					0	Techno-economic assessment of Minimal Liquid Discharge (MLD) treatment systems for saline wastewater (brine) management and treatment.
-					0	Process Safety and Environmental Protection, 146, pp.
-					0	656-669.
-					0	Panagopoulos, A.
-					0	(2021).
+					0	Process Safety and Environmental Protection, 146, pp. 656-669. Panagopoulos, A. (2021).
 					0	Study and evaluation of the characteristics of saline wastewater (brine) produced by desalination and industrial plants.
 					0	Environmental Science and Pollution Research, 1-14.
 					0	Response 2:
@@ -241,9 +224,7 @@ Author	Reviewer_3	2	25	17	2	We have used an English Language Editing service to 
 Author	Reviewer_1	2	7	7	1	The salinity concentrations in the samples have been added to Table 1 in the revised manuscript.
 					0	2 1
 					0	Water 2021, 13, x. https://doi.org/10.3390/xxxxx www.mdpi.com/journal/water Article 1 Pilot-scale biological activated carbon filtration-ultrafiltration 2 (BAC-UF) system for removing pharmaceutical and personal 3 care products (PPCPs) from surface water 4 Qian Wanga, Xiaobin Tanga, Weichen Zenga, Feng Wangb, Weijia Gongb, Jingyuan Chena, Jinlong Wanga*, Guibai 5 Lia and Heng Lianga 6 aState Key Laboratory of Urban Water Resource and Environment (SKLUWRE), Harbin Institute of Technol- 7 ogy, 73 Huanghe Road, Nangang District, Harbin, 150090, P.R.
-					0	China 8 bSchool of Engineering, Northeast Agricultural University, 600 Changjiang Street, Xiangfang District, Harbin 9 150030, PR China 10 E-mail address： fswaterhit@16
-Author	Reviewer_4	4	3	3	1	3.
-					0	com (Q. Wang); tang5462@163.com (X. Tang); zeng_weichen@163.com (W. 11 Zeng); 15534946613@163.com (F. Wang); gongweijia@126.com (W. Gong); chenjingyuan2022@163.com (J. Chen); 12 chnwangjinlong@163.com (J. Wang); liguibai@vip.163.com (G. Li); hitliangheng@163.com (H. Liang) 13 * Correspondence: Author： Tel.
+					0	China 8 bSchool of Engineering, Northeast Agricultural University, 600 Changjiang Street, Xiangfang District, Harbin 9 150030, PR China 10 E-mail address： fswaterhit@163.com (Q. Wang); tang5462@163.com (X. Tang); zeng_weichen@163.com (W. 11 Zeng); 15534946613@163.com (F. Wang); gongweijia@126.com (W. Gong); chenjingyuan2022@163.com (J. Chen); 12 chnwangjinlong@163.com (J. Wang); liguibai@vip.163.com (G. Li); hitliangheng@163.com (H. Liang) 13 * Correspondence: Author： Tel.
 					0	: +86 15765532017; E-mail: chnwangjinlong@163.com (J. Wang) 14 Abstract： Biological activated carbon (BAC) biofilter coupling ultrafiltration (UF) is a promising 15 process for the treatment of surface water contaminated by pharmaceutical and personal care prod- 16 ucts (PPCPs).
 					0	However, the long-term pilot-scale study is urge to be investigated.
 					0	In this study, a 17 BAC-UF system with treatment capacity of 0.16 m3/h was operated.

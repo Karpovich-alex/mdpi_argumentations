@@ -54,7 +54,7 @@ Reviewer_3	Author	1	2	0	2	The authors said in the statistic section that “stat
 Reviewer_3	Author	1	2	0	2	However, later they wrote “The descriptively higher proportion of females with long COVID bordered statistical significance (p=0.05)” page 5, line 230) and “However, the different proportions of men and women with long COVID (22% and 33%, respectively) bordered towards statistical significance […]” (page 10, line 318).
 Reviewer_3	Author	1	2	0	2	As a statistician, I felt very mad about this, because the results speak a different language, this is non-significant result.
 					0	Authors’ response:
-Author	Reviewer_3	2	6	3	2	Thank you for pointing this out.
+Author	Reviewer_3	2	6	3	1	Thank you for pointing this out.
 Author	Reviewer_3	2	5	2	1	The first mentioned statement has been removed altogether in the revised manuscript.
 Author	Reviewer_3	2	5	2	1	The second statement has been modified in accordance with the reviewer’s view (see revised section 4.3).
 					0	R3:
@@ -78,7 +78,7 @@ Reviewer_3	Author	1	5	0	2	“[…] men’s perception of poorer health when havi
 					0	Authors’ response:
 Author	Reviewer_3	2	8	5	1	We have revised the sentence; see section 4.4.
 					0	R3: “[…] and the negative effects of long COVID on the health outcomes were larger for men than for women” (page 11, line 392) Authors’ response:
-Author	Reviewer_3	2	10	7	2	We have revised the sentence; see section 5.
+Author	Reviewer_3	2	10	7	1	We have revised the sentence; see section 5.
 					0	R3:
 Reviewer_3	Author	1	7	0	2	and finally “Third, long COVID appears to have a stronger effect on men than on women” (page 11, line 401).
 Reviewer_3	Author	1	7	0	2	Again, the authors are overselling their results.
@@ -91,7 +91,7 @@ Reviewer_3	Author	1	8	0	2	Hence, I have some comments/suggestions that I hope wi
 Author	Reviewer_3	2	11	8	1	Thank you for pointing out these mistakes, and we trust the editorial office will assist us further with any remaining details in the final stage of the process.
 					0	R3:
 Reviewer_3	Author	1	9	0	2	Chapter 2 Materials and Methods: Something strange happened to the alignment of heading “2.2 Sample” (page 3, line 128).
-Reviewer_3	Author	1	10	0	4	Please fix this.
+Reviewer_3	Author	1	10	0	1	Please fix this.
 					0	Authors’ response:
 Author	Reviewer_3	2	12	9	1	Alignment has been fixed.
 					0	R3:
@@ -108,7 +108,7 @@ Reviewer_3	Author	1	10	0	2	Otherwise, this is misleading the readership.
 Author	Reviewer_3	2	13	10	1	Table 1 has been revised accordingly.
 					0	R3:
 Reviewer_3	Author	1	11	0	2	Chapter 2.3 Measures: Sometimes the verbal scales are set in italic (e.g., “0=better than ususal”, page 4, line 173) and sometimes not (e.g., “4=very often”, page 5, line 187).
-Reviewer_3	Author	1	13	0	4	Please use a consistent writing style throughout the whole manuscript.
+Reviewer_3	Author	1	13	0	1	Please use a consistent writing style throughout the whole manuscript.
 					0	Authors’ response:
 Author	Reviewer_3	2	14	11	1	Italics have been removed, see revised section 2.3.
 					0	R3:
@@ -136,7 +136,7 @@ Reviewer_3	Author	3	1	0	2	Psychological distress is the latent construct which i
 Reviewer_3	Author	3	1	0	2	Unfortunately, the authors missed to replace GHQ by psychological distress in Table 4 (page 7, line 280) and Table 5 (page 7, line 297; see column headings: not “GHQ”, “Fatigue”, and “Perceived stress” but rather “Psychological distress”, “Fatigue”, and “Perceived stress”).
 Reviewer_3	Author	3	1	0	2	Please correct the two tables.
 					0	Authors’ response:
-Author	Reviewer_3	4	2	2	2	Thank you for noticing.
+Author	Reviewer_3	4	2	2	1	Thank you for noticing.
 Author	Reviewer_3	4	1	1	1	We have corrected the two tables according to this guidance.
 					0	R3:
 Reviewer_3	Author	3	2	0	2	"Wrong use of abbreviations: The authors introduced the abbreviation “GHQ-12” for the 12-item General Health Questionnaire (see page 4, line 161), but wrote in the text only ""GHQ"" (e.g., page 5, line 207; page 6, line 256; page 7, line 274)."

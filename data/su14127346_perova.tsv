@@ -5,7 +5,6 @@ side	opponent	round	number	attacks	ann	text
 					0	We take this review as a valuable opportunity to foster the quality of the paper.
 					0	1-
 Reviewer_1	Author	1	1	0	2	Need to update the literature review with recent studies
-					0	
 Author	Reviewer_1	2	1	1	1	We added more coherent theoretical arguments to the discussion based on the most recently published relevant academic papers on the topic (lines 125-133, 153-158, 442-452).
 Author	Reviewer_1	2	1	1	1	The incorporated studies include Yarram and Adapa (2021), Boukattaya and Omri (2021), Shakil (2021), Wang, Wilson & Li, (2021), Cordeiro et al 2020, Birindelli, et al.
 Author	Reviewer_1	2	1	1	1	(2019), and Nuber & Velte (2021).
@@ -28,7 +27,6 @@ Author	Reviewer_1	2	1	1	1	There are only a few of these studies available, inclu
 Author	Reviewer_1	2	1	1	1	This again explains the relatively restricted number of references we are considering.
 					0	2-
 Reviewer_1	Author	1	2	0	2	Please add a theoretical background section
-					0	
 Author	Reviewer_1	2	2	2	1	Initially, we opted for integrating the theoretical background disseminated throughout the text to connect to the findings of related papers and to avoid redundancy and repetition.
 Author	Reviewer_1	2	2	2	1	Changes that we incorporated in response to this comment improve the overall theoretical framework of the paper, including concepts, definitions and links to relevant literature.
 Author	Reviewer_1	2	2	2	1	We also articulated theoretical assumptions and added a comprehensive discussion of the observed phenomena.
@@ -37,10 +35,9 @@ Author	Reviewer_1	2	2	2	1	We added interpretation of corresponding results in th
 Author	Reviewer_1	2	2	2	1	These changes in addition to the existing discussions of theories and concepts significantly improve the theoretical background of the paper.
 					0	3-
 Reviewer_1	Author	1	3	0	2	What are the policy implications of your study
-					0	
-Author	Reviewer_2	2	6	2	2	We answered this comment along different dimensions.
-Author	Reviewer_2	2	6	2	2	We revise and elaborate on the explanation and interpretation of the results.
-Author	Reviewer_2	2	6	2	2	We provide further explanations on the ways political and economic uncertainty shapes the relationship between corporate board gender diversity and firms’ environmental performance.
+Author	Reviewer_2	2	6	2	1	We answered this comment along different dimensions.
+Author	Reviewer_2	2	6	2	1	We revise and elaborate on the explanation and interpretation of the results.
+Author	Reviewer_2	2	6	2	1	We provide further explanations on the ways political and economic uncertainty shapes the relationship between corporate board gender diversity and firms’ environmental performance.
 Author	Reviewer_1	2	3	3	1	We also emphasize the policy implications of these findings (lines 453-462, 497-503).
 Author	Reviewer_1	2	3	3	1	To better reflect the policy implications of the study, we incorporate changes that are diffuse through the text.
 Author	Reviewer_1	2	3	3	1	In particular, we argue that promoting gender diversity cannot deliver its full potential, and may even lead to adverse results unless it is accompanied by measures that mitigate political and economic uncertainty.
@@ -58,9 +55,9 @@ Author	Reviewer_1	2	4	4	1	(Lines 379-389).
 Author	Reviewer_1	2	4	4	1	Furthermore, we added supporting arguments disseminated across the text (particularly in lines 348-361, lines 379-389, etc).
 Author	Reviewer_1	2	4	4	1	These relate our finding to theory.
 Author	Reviewer_1	2	4	4	1	We focus here on the attitude towards risk and uncertainties.
-Author	Reviewer_2	2	7	3	2	The related theory posits that females’ attitude when facing uncertainty is different from males.
+Author	Reviewer_2	2	7	3	1	The related theory posits that females’ attitude when facing uncertainty is different from males.
 Author	Reviewer_1	2	4	4	1	Women on corporate boards tend to be more risk-averse and lean more toward conservatism in uncertain environments.
-Author	Reviewer_2	2	7	3	2	They tend to exhibit a strong inclination to wait until the uncertainty is resolved before making major business decisions.
+Author	Reviewer_2	2	7	3	1	They tend to exhibit a strong inclination to wait until the uncertainty is resolved before making major business decisions.
 Author	Reviewer_1	2	4	4	1	Therefore, the more females there are on corporate boards, the higher their weight in the board decisions would be, and by the same token, the higher the effect of uncertainty on firms’ decisions.
 Author	Reviewer_1	2	4	4	1	Moreover, we also relate our findings to the critical mass theory, suggesting that the impact of gender diversity on the environmental performances of firms materializes only when a critical mass weight of females is realized in corporate boards (Konrad et al.
 Author	Reviewer_1	2	4	4	1	2008, Torchia et al.
@@ -72,8 +69,9 @@ Author	Reviewer_1	2	4	4	1	2011, Schwartz-Ziv, 2017- page 12, lines 445-451).
 					0	The only remark on the content refers to “Are the arguments and discussion of finding coherent, balanced and compelling?
 					0	Can be improved”.
 					0	The reviewer kindly gives details of the elements that can be improved in the field ‘’Comments and Suggestion for Authors’’.
-					0	"We address each of them as follows: ""To the best of our knowledge, this is the only study that addresses the role of economic and political uncertainty as a moderator in a model that accounts for the dynamic patterns of firm environmental performance"" (line 128)."
-					0	"--> I believe the authors intended ""moderating role."""
+					0	"We address each of them as follows:
+Reviewer_2	Author	1	1	0	2	""To the best of our knowledge, this is the only study that addresses the role of economic and political uncertainty as a moderator in a model that accounts for the dynamic patterns of firm environmental performance"" (line 128)."
+Reviewer_2	Author	1	1	0	2	"--> I believe the authors intended ""moderating role."""
 Author	Reviewer_2	2	5	1	1	Absolutely.
 Author	Reviewer_2	2	5	1	1	Changed accordingly (line 160).
 					0	“
@@ -160,8 +158,7 @@ Author	Reviewer_3	2	9	2	1	The second, deals with the intensity and shape of this
 Author	Reviewer_3	2	9	2	1	We believe, this adds a deal of clarity to the text and purpose of the paper.
 					0	"3- Please reconsider the use of adjectives such as ""complicated"" (line 79), interestingly (line 88) and so on."
 					0	Response:
-Author	Reviewer_3	2	10	3	1	We reviewed all the text and changed wording in different parts of the text
-					0	.
+Author	Reviewer_3	2	10	3	1	We reviewed all the text and changed wording in different parts of the text.
 					0	"2 4- What do you mean by ""in the crowd"" (line 141)."
 					0	Please revise carefully English for clarity.
 					0	Response:
@@ -218,41 +215,41 @@ Author	Reviewer_3	2	15	8	1	More precisely, a 1 percentage point increase in GenD
 Author	Reviewer_3	2	15	8	1	This suggests that the previous finding on the positive relationship between more gender-diverse boards and a firms’ environmental performances tends to be conditional on reduced policy and economic uncertainty.
 Author	Reviewer_3	2	15	8	1	More gender-diverse corporate boards would not lead to better environmental performances of firms in countries with higher uncertainty (higher WUI score).
 Author	Reviewer_3	2	15	8	1	The rational for this result stems from the idea that uncertainty adversely affects the enabling environment of an economy.
-					0	This may induce financial outcomes for firms that are so negative and diffuse that they could hardly be balanced by the benefits brought with more gender- diverse boards (Bloom 2014, Atsu and Adams 2021).
-					0	Indeed, uncertainty hampers household confidence and makes it difficult for businesses to plan for the future.
-					0	The lack of visibility for future economic and political prospects undermines agents’ confidence and further raises their aversion to risk.
-					0	In terms of policy, our finding suggests that promoting gender diversity on corporate boards should be accompanied by measures that reduce political and economic uncertainty.
-					0	This is particularly relevant for countries vulnerable to shocks whether internal or external (Covid-19, war, conflicts, trade tensions, etc.).
-					0	These can further exacerbate agents’ risk-aversion and deteriorate the market ability to create a sound economic and political environment in which agents interact effectively.
-					0	In order to assess which level of the country’s uncertainty induces the negative effect of gender diversity, we introduce interaction terms with WUI quartile dummies (again, with two specifications, allowing slope and then the both slope and intercept to change).
-					0	The findings are summarized in Table 4 (columns 3 and 4).
-					0	They suggest that the interaction term with only the last quartile is statistically significant (at the 10% level), indicating that the impact of GenDiv on environmental performance is mostly driven by highly uncertain countries (those in the last quartile of the distribution).
-					0	Countries below the 75th percentile of the WUI do not exhibit statistically significant differences among each other.
-					0	We investigate this finding further by examining, for different gender diversity levels, (a) the intensity of the relationship across high and low uncertainty levels and (b) the marginal impact of a country’s uncertainty status on the firm’s environmental performance (Figure 3).
-					0	We find that in countries with a high (above median) uncertainty level, the environmental performances of firms are significantly lower than in countries with low uncertainty, and this impact is magnified as gender diversity in corporate boards increases.
-					0	The finding is robust for both specifications, with fixed and without fixed intercepts.
-					0	Higher gender diversity in countries with lower uncertainty increases a firm’s environmental performance, whereas, in countries with high uncertainty, an increase in female board members has a negligible positive impact (Figure 3a) or even a negative impact (Figure 3c).
-					0	The gap in environmental performance between countries with high versus low uncertainty increases as gender diversity in corporate boards increases.
-					0	A potential explanation of this finding refers to the exacerbating effects of political and economic uncertainties on entrepreneurs’ risk-aversion.
-					0	This, in turn, discourages in-vestments in costly abatements technologies and environmental-friendly processes.
-					0	More generally, increased risk aversion reduces investments and activities whose returns accrue more in a long-run.
-					0	These include research and development efforts, and particularly 6 environmental-led activities, which are seen as secondary in firms’ scale of priorities.
-					0	Ultimately, this would put pressure on firms’ behavior and worsen their environmental performances (Bloom, 20149; Atsu and Adams, 202137).
-					0	The arguments above provides a rationale for the worsened environmental performances of firms in response to higher uncertainties, and explains the gap in effects for firms across countries of different uncertainty levels.
-					0	However, this does not address the potential reasons behind the widening of this gap for higher gender diversity levels.
-					0	One potential explanation of this result relates to the particular attitude of women toward risk.
-					0	Females on boards tend to exhibit more risk aversion compared to their male peers.
-					0	They tend to show more patience and are typically more willing to look for professional guidance when facing uncertainty (Liu, 201838).
-					0	Females on boards tend to be more inclined to wait until uncertainty is resolved before making major business decisions.
-					0	Therefore, the more females on corporate boards, the greater the weight of their decisions (i.e., the higher would be the effect of uncertainty in firms’ decisions).
-					0	This finding begs the question of whether the differential between countries with high versus low uncertainly levels is statistically significant for increasing gender diversity levels.
-					0	Figure 3 (b and d) trace the magnitude of the gap between the low and high uncertainty scores.
-					0	It states that this gap is increasing, in absolute value, and is statistically significant at the 95% level for all values of gender diversity (for gender diversity levels larger than 10%, for both specification Figures 3b and 3d).
-					0	This threshold value points to a standard and very important result in the literature.
-					0	This refers to the critical mass theory, by which the impact of gender diversity on the environmental performance of firms materializes only when a critical mass weight of females is realized in corporate boards (Konrad et al., 200839; Torchia et al., 201140; Schwartz-Ziv, 201741; among others).
-					0	This suggests that an effective way to improve environmental quality and mitigate the adverse effects of economic activities is to encourage gender diversity in corporate boards in countries with low uncertainty where we find a higher impact on the firms’ environmental performances.
-					0	In terms of policy, our findings suggest that promoting gender diversity cannot reach full potential, and may even lead to adverse results unless accompanied by measures that mitigate political and economic uncertainty.
-					0	These measures would create an enabling environment both for households and entrepreneurs.
-					0	These reduce their aversion to risk, which increases their confidence and willingness to invest.
-					0	To unlock this potential, a country should implement accompanying measures that promote and strengthen stable institutions – as a defense against uncertainty.
-					0	They contribute to anchoring economic agents’ expectations, and stabilize the economy.
+Author	Reviewer_3	2	15	8	1	This may induce financial outcomes for firms that are so negative and diffuse that they could hardly be balanced by the benefits brought with more gender- diverse boards (Bloom 2014, Atsu and Adams 2021).
+Author	Reviewer_3	2	15	8	1	Indeed, uncertainty hampers household confidence and makes it difficult for businesses to plan for the future.
+Author	Reviewer_3	2	15	8	1	The lack of visibility for future economic and political prospects undermines agents’ confidence and further raises their aversion to risk.
+Author	Reviewer_3	2	15	8	1	In terms of policy, our finding suggests that promoting gender diversity on corporate boards should be accompanied by measures that reduce political and economic uncertainty.
+Author	Reviewer_3	2	15	8	1	This is particularly relevant for countries vulnerable to shocks whether internal or external (Covid-19, war, conflicts, trade tensions, etc.).
+Author	Reviewer_3	2	15	8	1	These can further exacerbate agents’ risk-aversion and deteriorate the market ability to create a sound economic and political environment in which agents interact effectively.
+Author	Reviewer_3	2	15	8	1	In order to assess which level of the country’s uncertainty induces the negative effect of gender diversity, we introduce interaction terms with WUI quartile dummies (again, with two specifications, allowing slope and then the both slope and intercept to change).
+Author	Reviewer_3	2	15	8	1	The findings are summarized in Table 4 (columns 3 and 4).
+Author	Reviewer_3	2	15	8	1	They suggest that the interaction term with only the last quartile is statistically significant (at the 10% level), indicating that the impact of GenDiv on environmental performance is mostly driven by highly uncertain countries (those in the last quartile of the distribution).
+Author	Reviewer_3	2	15	8	1	Countries below the 75th percentile of the WUI do not exhibit statistically significant differences among each other.
+Author	Reviewer_3	2	15	8	1	We investigate this finding further by examining, for different gender diversity levels, (a) the intensity of the relationship across high and low uncertainty levels and (b) the marginal impact of a country’s uncertainty status on the firm’s environmental performance (Figure 3).
+Author	Reviewer_3	2	15	8	1	We find that in countries with a high (above median) uncertainty level, the environmental performances of firms are significantly lower than in countries with low uncertainty, and this impact is magnified as gender diversity in corporate boards increases.
+Author	Reviewer_3	2	15	8	1	The finding is robust for both specifications, with fixed and without fixed intercepts.
+Author	Reviewer_3	2	15	8	1	Higher gender diversity in countries with lower uncertainty increases a firm’s environmental performance, whereas, in countries with high uncertainty, an increase in female board members has a negligible positive impact (Figure 3a) or even a negative impact (Figure 3c).
+Author	Reviewer_3	2	15	8	1	The gap in environmental performance between countries with high versus low uncertainty increases as gender diversity in corporate boards increases.
+Author	Reviewer_3	2	15	8	1	A potential explanation of this finding refers to the exacerbating effects of political and economic uncertainties on entrepreneurs’ risk-aversion.
+Author	Reviewer_3	2	15	8	1	This, in turn, discourages in-vestments in costly abatements technologies and environmental-friendly processes.
+Author	Reviewer_3	2	15	8	1	More generally, increased risk aversion reduces investments and activities whose returns accrue more in a long-run.
+Author	Reviewer_3	2	15	8	1	These include research and development efforts, and particularly 6 environmental-led activities, which are seen as secondary in firms’ scale of priorities.
+Author	Reviewer_3	2	15	8	1	Ultimately, this would put pressure on firms’ behavior and worsen their environmental performances (Bloom, 20149; Atsu and Adams, 202137).
+Author	Reviewer_3	2	15	8	1	The arguments above provides a rationale for the worsened environmental performances of firms in response to higher uncertainties, and explains the gap in effects for firms across countries of different uncertainty levels.
+Author	Reviewer_3	2	15	8	1	However, this does not address the potential reasons behind the widening of this gap for higher gender diversity levels.
+Author	Reviewer_3	2	15	8	1	One potential explanation of this result relates to the particular attitude of women toward risk.
+Author	Reviewer_3	2	15	8	1	Females on boards tend to exhibit more risk aversion compared to their male peers.
+Author	Reviewer_3	2	15	8	1	They tend to show more patience and are typically more willing to look for professional guidance when facing uncertainty (Liu, 201838).
+Author	Reviewer_3	2	15	8	1	Females on boards tend to be more inclined to wait until uncertainty is resolved before making major business decisions.
+Author	Reviewer_3	2	15	8	1	Therefore, the more females on corporate boards, the greater the weight of their decisions (i.e., the higher would be the effect of uncertainty in firms’ decisions).
+Author	Reviewer_3	2	15	8	1	This finding begs the question of whether the differential between countries with high versus low uncertainly levels is statistically significant for increasing gender diversity levels.
+Author	Reviewer_3	2	15	8	1	Figure 3 (b and d) trace the magnitude of the gap between the low and high uncertainty scores.
+Author	Reviewer_3	2	15	8	1	It states that this gap is increasing, in absolute value, and is statistically significant at the 95% level for all values of gender diversity (for gender diversity levels larger than 10%, for both specification Figures 3b and 3d).
+Author	Reviewer_3	2	15	8	1	This threshold value points to a standard and very important result in the literature.
+Author	Reviewer_3	2	15	8	1	This refers to the critical mass theory, by which the impact of gender diversity on the environmental performance of firms materializes only when a critical mass weight of females is realized in corporate boards (Konrad et al., 200839; Torchia et al., 201140; Schwartz-Ziv, 201741; among others).
+Author	Reviewer_3	2	15	8	1	This suggests that an effective way to improve environmental quality and mitigate the adverse effects of economic activities is to encourage gender diversity in corporate boards in countries with low uncertainty where we find a higher impact on the firms’ environmental performances.
+Author	Reviewer_3	2	15	8	1	In terms of policy, our findings suggest that promoting gender diversity cannot reach full potential, and may even lead to adverse results unless accompanied by measures that mitigate political and economic uncertainty.
+Author	Reviewer_3	2	15	8	1	These measures would create an enabling environment both for households and entrepreneurs.
+Author	Reviewer_3	2	15	8	1	These reduce their aversion to risk, which increases their confidence and willingness to invest.
+Author	Reviewer_3	2	15	8	1	To unlock this potential, a country should implement accompanying measures that promote and strengthen stable institutions – as a defense against uncertainty.
+Author	Reviewer_3	2	15	8	1	They contribute to anchoring economic agents’ expectations, and stabilize the economy.

@@ -18,9 +18,7 @@ Reviewer_1	Author	1	2	0	2	Line 142: “proportion of PPSD” should be “propor
 					0	3.
 Reviewer_1	Author	1	3	0	2	Line 143: “PPSD-premature spike death” should be “PPSD-proportion of premature spike death”.
 					0	4.
-					0	Lines 168 - 169: Should it be that DON content of most lines without Fhb1 exceeded 1000 µg/kg under UBFI?
-					0	Where is 4224.38 µg/kg in Table 1?
-					0	Do you mean in Table S1?
+Reviewer_1	Author	1	4	0	2	Lines 168 - 169: Should it be that DON content of most lines without Fhb1 exceeded 1000 µg/kg under UBFI? Where is 4224.38 µg/kg in Table 1? Do you mean in Table S1?
 					0	5.
 Reviewer_1	Author	1	5	0	2	Lines 411 & 413: “PPSB” should be “PPSD”.
 					0	6.
@@ -39,7 +37,7 @@ Reviewer_2	Author	1	3	0	2	Identity of the strain used for infection should be co
 Reviewer_2	Author	1	4	0	2	Mycotoxin data analysis should be provided (I guess is policy of mdpi to make raw data available together with the publication)
 					0	1 Response to Reviewer 1 Comments Point 1: I would like to suggest authors label inoculation points in Figure 1, which could give readers a clear view of three different inoculation methods.
 					0	Response 1:
-Author	Reviewer_2	2	11	4	5	Thanks!
+Author	Reviewer_2	2	11	4	1	Thanks!
 Author	Reviewer_1	2	1	1	1	the inoculation points were labeled with the red arrows in Figure 1 as suggested.
 					0	Point 2: Line 142: “proportion of PPSD” should be “proportion of PSD or PPSD”.
 					0	Response 2:
@@ -47,7 +45,7 @@ Author	Reviewer_1	2	2	2	1	Sorry for carelessness.
 Author	Reviewer_1	2	2	2	1	We corrected it as suggested.
 Author	Reviewer_1	2	2	2	1	(Pag.4 Line 157) Point 3: Line 143: “PPSD-premature spike death” should be “PPSD-proportion of premature spike death”.
 					0	Response 3:
-Author	Reviewer_1	2	7	7	5	Thanks.
+Author	Reviewer_1	2	7	7	1	Thanks.
 Author	Reviewer_1	2	3	3	1	We revised the expression in the footnote of Table 1.
 Author	Reviewer_1	2	3	3	1	(Pag.4 Line 158) Point 4: Lines 168 - 169: Should it be that DON content of most lines without Fhb1 exceeded 1000 µg/kg under UBFI?
 					0	Where is 4224.38 µg/kg in Table 1?
@@ -69,8 +67,7 @@ Reviewer_2	Author	1	1	0	2	Given that 2.4 chapter discusses data of supplementary
 					0	Response 1: Thanks!
 Author	Reviewer_2	2	8	1	1	We agree with the reviewer’s comments and make Figure S4 as Figure 4 in this revised version.
 					0	Point 2:
-Reviewer_2	Author	1	2	0	2	To further clarify the infection methods a supplementary figure detailing graphically the modes of inoculation with figures would make the paper extremely useful for the community
-					0	.
+Reviewer_2	Author	1	2	0	2	To further clarify the infection methods a supplementary figure detailing graphically the modes of inoculation with figures would make the paper extremely useful for the community.
 					0	Response 2: Thanks!
 Author	Reviewer_2	2	9	2	1	We marked the inoculation sites with red arrows in Figure 1.
 					0	Point 3: Identity of the strain used for infection should be confirmed: a multilocus species characterisation is needed to confirm the species of the strain or a reference to a publication where the strain was described and appropriately characterised.

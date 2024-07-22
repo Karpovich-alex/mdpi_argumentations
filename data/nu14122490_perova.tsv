@@ -6,9 +6,9 @@ side	opponent	round	number	attacks	ann	text
 Reviewer_1	Author	1	1	0	2	What was the definition of visual field loss that defined glaucoma?
 Reviewer_1	Author	1	2	0	2	Was glaucoma also defined by an objective finding, such as the optic disc finding or imaging of the optic disc?
 Reviewer_1	Author	1	3	0	2	Were the incident cases of glaucoma or controls being treated in any case prior to their diagnoses?
-					0	""""
+					0	"""
 Reviewer_1	Author	1	4	0	2	As we did not observe an association between dietary nitrate intake and IOP, nitrate may protect against glaucoma via other, IOP-independent, mechanisms.
-					0	""""
+					0	"""
 Reviewer_1	Author	1	4	0	2	"The authors should avoid making statements such as ""nitrate is protective"" since what they have found is a statistical association."
 Reviewer_1	Author	1	5	0	2	There is very little association between ischemia--reperfusion and glaucoma pathogenesis hence the statements on page nine are irrelevant.
 Reviewer_1	Author	1	6	0	2	If I am calculating correctly it has been over 20 years since the incident cases average followup occurred, that is 10-20 years after the start of a study in 1991.
@@ -240,20 +240,18 @@ Author	Reviewer_2	2	10	1	1	Diastolic blood pressure, BMI, and the dietary nitrat
 Author	Reviewer_2	2	10	1	1	We have created two supplementary tables (Table S4 and Table S5), to show that the associations found between dietary nitrate intake and iOAG or IOP, were largely similar in the analyses where we matched on BMI additionally, as compared to including BMI as covariate into model 1.
 Author	Reviewer_2	2	10	1	1	Only the association between dietary nitrate intake from non-vegetable food sources and iOAG is no longer significant, but the change in effect estimates was minimal and they remained far below 1 (Table S4).
 Author	Reviewer_2	2	10	1	1	For the analyses of IOP, the association between dietary nitrate intake from non-vegetable food sources goes from borderline significant to significant (Table S5).
-Author	Reviewer_2	2	10	1	1	Table S4.
-					0	Multivariable adjusted odds ratio (95% confidence interval) of open-angle glaucoma by nitrate intake ORa per 1 unit increase in nitrate intakec P-value Total dietary nitrate intake (per 10 mg/day) Model 1a 0.95 (0.91-0.98) .002 Model 1b 0.96 (0.92-0.99) .03 Vegetable dietary nitrate intake (per 10 mg/day) Model 1a 0.95 (0.91-0.98) .004 Model 1b 0.96 (0.92-0.99) .03 Nitrate intake from non-vegetable food sources (per 10 mg/day) Model 1a 0.63 (0.41-0.96) .03 Model 1b 0.76 (0.49-1.17) .22 a Model 1: adjusted for body mass index, total energy intake, diet quality, physical activity, and follow-up time.
-					0	Analysis performed in participants matched on age and sex.
-					0	b Model 1: adjusted for total energy intake, diet quality, physical activity, and follow-up time.
-					0	Analysis performed in participants matched on age, sex and BMI.
-					0	c Odds Ratios (95%CI) for open-angle glaucoma by total dietary nitrate intake, nitrate intake from vegetables, and nitrate intake from non-vegetable food sources (as continuous variables) analyzed using conditional logistic regression.
-					0	Table S5.
-					0	Multivariable adjusted beta (95% confidence interval) of intraocular pressure by nitrate intake Betaa per 1 unit increase in nitrate intakec P-value Total dietary nitrate intake (per 10 mg/day) Model 1a 0.02 (-0.02-0.06) .35 Model 1b 0.00 (-0.06-0.05) .89 Vegetable dietary nitrate intake (per 10 mg/day) Model 1a 0.02 (-0.02-0.06) .29 Model 1b 0.00 (-0.05-0.05) .97 Nitrate intake from non-vegetable food sources (per 10 mg/day) Model 1a -0.45 (-0.96-0.06) .09 Model 1b -0.67 (-1.30- -0.05) .04 a Model 1: adjusted for body mass index, total energy intake, diet quality, physical activity, and follow-up time.
-					0	Analysis performed in participants matched on age and sex.
-					0	b Model 1: adjusted for total energy intake, diet quality, physical activity, and follow-up time, Analysis performed in participants matched on age, sex and BMI.
-					0	c Betas (95%CI) for intraocular pressure by total dietary nitrate intake, nitrate intake from vegetables, and nitrate intake from non-vegetable food sources (as continuous variables) analyzed using linear regression.
-					0	By displaying these results, we hope to have shown that the associations described in the original manuscript are most likely true associations and explained by dietary nitrate intake rather than age, sex, or BMI.
-					0	Although an association between glaucoma and cardiovascular disease has been described in the literature [7-9], we believe this is more linked to their shared pathology, impaired auto regulatory capacity of glaucomatous eyes and arterial stiffness of CVD [7], or even genetics [10], than mediated by BMI.
-					0	Apart from the two additional supplementary figures, we have added some information regarding this comment in lines 301-304 of the manuscript.
+Author	Reviewer_2	2	10	1	1	Table S4. Multivariable adjusted odds ratio (95% confidence interval) of open-angle glaucoma by nitrate intake ORa per 1 unit increase in nitrate intakec P-value Total dietary nitrate intake (per 10 mg/day) Model 1a 0.95 (0.91-0.98) .002 Model 1b 0.96 (0.92-0.99) .03 Vegetable dietary nitrate intake (per 10 mg/day) Model 1a 0.95 (0.91-0.98) .004 Model 1b 0.96 (0.92-0.99) .03 Nitrate intake from non-vegetable food sources (per 10 mg/day) Model 1a 0.63 (0.41-0.96) .03 Model 1b 0.76 (0.49-1.17) .22 a Model 1: adjusted for body mass index, total energy intake, diet quality, physical activity, and follow-up time.
+Author	Reviewer_2	2	10	1	1	Analysis performed in participants matched on age and sex.
+Author	Reviewer_2	2	10	1	1	b Model 1: adjusted for total energy intake, diet quality, physical activity, and follow-up time.
+Author	Reviewer_2	2	10	1	1	Analysis performed in participants matched on age, sex and BMI.
+Author	Reviewer_2	2	10	1	1	c Odds Ratios (95%CI) for open-angle glaucoma by total dietary nitrate intake, nitrate intake from vegetables, and nitrate intake from non-vegetable food sources (as continuous variables) analyzed using conditional logistic regression.
+Author	Reviewer_2	2	10	1	1	Table S5. Multivariable adjusted beta (95% confidence interval) of intraocular pressure by nitrate intake Betaa per 1 unit increase in nitrate intakec P-value Total dietary nitrate intake (per 10 mg/day) Model 1a 0.02 (-0.02-0.06) .35 Model 1b 0.00 (-0.06-0.05) .89 Vegetable dietary nitrate intake (per 10 mg/day) Model 1a 0.02 (-0.02-0.06) .29 Model 1b 0.00 (-0.05-0.05) .97 Nitrate intake from non-vegetable food sources (per 10 mg/day) Model 1a -0.45 (-0.96-0.06) .09 Model 1b -0.67 (-1.30- -0.05) .04 a Model 1: adjusted for body mass index, total energy intake, diet quality, physical activity, and follow-up time.
+Author	Reviewer_2	2	10	1	1	Analysis performed in participants matched on age and sex.
+Author	Reviewer_2	2	10	1	1	b Model 1: adjusted for total energy intake, diet quality, physical activity, and follow-up time, Analysis performed in participants matched on age, sex and BMI.
+Author	Reviewer_2	2	10	1	1	c Betas (95%CI) for intraocular pressure by total dietary nitrate intake, nitrate intake from vegetables, and nitrate intake from non-vegetable food sources (as continuous variables) analyzed using linear regression.
+Author	Reviewer_2	2	10	1	1	By displaying these results, we hope to have shown that the associations described in the original manuscript are most likely true associations and explained by dietary nitrate intake rather than age, sex, or BMI.
+Author	Reviewer_2	2	10	1	1	Although an association between glaucoma and cardiovascular disease has been described in the literature [7-9], we believe this is more linked to their shared pathology, impaired auto regulatory capacity of glaucomatous eyes and arterial stiffness of CVD [7], or even genetics [10], than mediated by BMI.
+Author	Reviewer_2	2	10	1	1	Apart from the two additional supplementary figures, we have added some information regarding this comment in lines 301-304 of the manuscript.
 					0	1.
 					0	Lin, S.C.; Pasquale, L.R.
 					0	; Singh, K.; Lin, S.C.

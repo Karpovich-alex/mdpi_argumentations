@@ -13,7 +13,7 @@ Author	Reviewer_1	2	1	1	1	As the accepted manuscript already includes the phrase
 Reviewer_1	Author	1	2	0	2	Regarding “The clinical context in which BC is evaluated usually defines the ideal model to be used”: This is somewhat confusing.
 Reviewer_1	Author	1	2	0	2	Perhaps a simpler definition or specification could be used here, as clinical ‘context’ more often dictates the availability of methods, not necessarily models.
 Reviewer_1	Author	1	2	0	2	Cost, manpower, location, all play a role in driving the selection of BC techniques.
-Author	Reviewer_1	2	17	17	2	Changed, line 19 INTRODUCTION 3.
+Author	Reviewer_1	2	17	17	1	Changed, line 19 INTRODUCTION 3.
 Reviewer_1	Author	1	3	0	2	P2 L61: FFM is obtained via the 4C model – it is not a surrogate.
 Reviewer_1	Author	1	3	0	2	Also, the difference(s) between FFM and LM definitions are nuanced and complex and should either be defined, or alternate text should be used here.
 Reviewer_1	Author	1	3	0	2	It seems that the authors are simply trying to point out that use of the 4C model is not common and that other methods are normally used.
@@ -44,7 +44,7 @@ Author	Reviewer_1	2	7	7	1	This was a typo, we corrected it.
 Author	Reviewer_1	2	7	7	1	Line 260.
 					0	8.
 Reviewer_1	Author	1	8	0	2	P5 L191: TBW should be in liters, not kg.
-Author	Reviewer_2	2	22	4	3	Corrected.
+Author	Reviewer_2	2	22	4	1	Corrected.
 					0	9.
 Reviewer_1	Author	1	9	0	2	P5 L207: The means of FM would be compared using t-test, not calculated.
 Author	Reviewer_1	2	9	9	1	We corrected (lines 287-288).

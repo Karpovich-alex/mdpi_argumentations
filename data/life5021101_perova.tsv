@@ -16,10 +16,10 @@ Author	Reviewer_1	2	3	3	1	As it was explained in the text our experimental metho
 Author	Reviewer_1	2	3	3	1	Vesicles with diameters between 20 and 40 micrometers were considered, whose deviations from spherical shape (fluctuation of the radius) were small in comparison with the mean sphere radius.
 Author	Reviewer_1	2	3	3	1	We added the information concerning the shape and the size of the studied objects and added pictures of the equatorial cross section of a fluctuating vesicle (new Figure 3), as seen under the phase contrast microscope.
 					0	R2
-Reviewer_1	Author	3	1	0	4	It is also not clear about the “thermally induced shape fluctuations”, such as the temperatures and incubation length and etc., especially this is a hyperthermophilic archaeal membrane vesicle, which would be expected to be more thermostable than those eukaryotic ones.
+Reviewer_1	Author	3	1	0	1	It is also not clear about the “thermally induced shape fluctuations”, such as the temperatures and incubation length and etc., especially this is a hyperthermophilic archaeal membrane vesicle, which would be expected to be more thermostable than those eukaryotic ones.
 					0	Response:
-Reviewer_1	Author	3	1	0	3	The observed fluctuations of the membrane do not destabilize it.
-Reviewer_1	Author	3	1	0	3	However, the comment of the reviewer is notable and we state in the conclusion of the manuscript (Lines 229–232) that at room temperature the thermophilicity is not necessarily related to the bending elasticity.
+Reviewer_1	Author	3	1	0	1	The observed fluctuations of the membrane do not destabilize it.
+Reviewer_1	Author	3	1	0	1	However, the comment of the reviewer is notable and we state in the conclusion of the manuscript (Lines 229–232) that at room temperature the thermophilicity is not necessarily related to the bending elasticity.
 Author	Reviewer_1	2	5	5	1	It would also be helpful to clarify/expand the description about the drug delivery system using the archaeal vesicle.
 Author	Reviewer_1	2	5	5	1	The first sentence in the introduction section should be corrected as cell should not be considered to be “the building block of life”.
 Author	Reviewer_1	2	5	5	1	It’s better to re-write the “basic motivation” for the study.
@@ -60,8 +60,7 @@ Author	Reviewer_2	2	9	3	1	SOPC was chosen as both lipid types have transition te
 Author	Reviewer_2	2	9	3	1	In the revised version, we measured the bending modulus for another lipid type (POPC), measured and analysed by the same method for the same experimental conditions.
 Reviewer_2	Author	1	4	0	2	In page 4, between line 108 and 109, this equation should be numbered as (6).
 					0	Response:
-Author	Reviewer_2	2	10	4	1	We have corrected the wrong number
-					0	.
+Author	Reviewer_2	2	10	4	1	We have corrected the wrong number.
 Reviewer_2	Author	1	5	0	2	Describe the temperature condition for measurement of fluctuation of GVs.
 Reviewer_2	Author	1	5	0	2	Are there any effects of temperature on the fluctuation of GVs?
 					0	Response:
@@ -79,8 +78,7 @@ Author	Reviewer_2	2	12	6	1	As the referee suggested we added such information wi
 					0	However, the comment of the reviewer is notable and we state in the conclusion of the manuscript (Lines 229–232) that at room temperature the thermophilicity is not necessarily related to the bending elasticity.
 					0	Response:
 Author	Reviewer_1	4	1	1	1	We thank the reviewer for further comments and hope that we can clarify the issues as given below.
-Author	Reviewer_1	4	1	1	1	We have made changes in the manuscript (marked red) and added one new reference (ref.
-Author	Reviewer_1	4	4	4	2	[35]).
+Author	Reviewer_1	4	1	1	1	We have made changes in the manuscript (marked red) and added one new reference (ref. [35]).
 Reviewer_1	Author	3	2	0	2	If only measured at one temperature, how would it be possible to draw a conclusion with “thermally induced shape fluctuations”?
 					0	R4 Response:
 Author	Reviewer_1	4	2	2	1	In principal in order to obtain elastic constants you need to apply force and measure the deformation that this force causes.
@@ -104,8 +102,7 @@ Author	Reviewer_1	4	4	4	1	We have added this text to the Discussion (Lines 234�
 					0	[35]).
 Reviewer_1	Author	3	5	0	2	The photo added merely shows the shape, but is it possible to show a few time related changes of the shape at different temperatures?
 					0	Response:
-Author	Reviewer_1	4	5	5	1	It is not a problem for us to make pictures of a fluctuating vesicle at different temperatures, but these photos would not be related to the manuscript
-					0	.
+Author	Reviewer_1	4	5	5	1	It is not a problem for us to make pictures of a fluctuating vesicle at different temperatures, but these photos would not be related to the manuscript.
 Reviewer_1	Author	3	6	0	2	The numbering from Lines 306–307 may not be correct as there are two 2.2.
 					0	Response:
 Author	Reviewer_1	4	6	6	1	We thank the referee for pointing to negligent mistakes in numbering.
@@ -114,5 +111,4 @@ Author	Reviewer_1	4	6	6	1	We have corrected wrong numbering of subsections.
 Reviewer_2	Author	3	1	0	2	The manuscript was thoroughly revised according to reviewer’s suggestions and comments.
 Reviewer_2	Author	3	1	0	2	Now this revised manuscript can be acceptable for publication.
 					0	Response:
-Author	Reviewer_2	4	7	1	1	As I understand the referee had no further comments
-					0	.
+Author	Reviewer_2	4	7	1	1	As I understand the referee had no further comments.

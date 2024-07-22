@@ -21,16 +21,12 @@ Reviewer_1	Author	1	3	0	2	This result calls into question the university's curri
 Reviewer_1	Author	1	3	0	2	This is the opposite of health promotion one expects from all healthcare providers - especially physicians.
 Reviewer_2	Author	1	1	0	2	"The study aim should be more precise ""The aim of this study was...."""
 Reviewer_2	Author	1	2	0	2	Study sample - please provide more precise data on population (faculties at the university and its share in the total sample of recruited subjects)
-					0	
 Reviewer_2	Author	1	3	0	2	Please attach an English version of the questionnaire as supplementary material or precisely describe questions that were used to assess the smoking status
-					0	
 Reviewer_2	Author	1	4	0	2	The results section is too extensive - please avoid describing all the results in the text.
 Reviewer_2	Author	1	4	0	2	Please provide the most important results in the text, and the rest of them are present in Tables.
 Reviewer_2	Author	1	5	0	2	In table 5 please provide thr number of subjects (n=.....)
 Reviewer_2	Author	1	6	0	2	Tables 6 and 7 are unclear and should be more precise (Especially confidence intervals)
-					0	
 Reviewer_2	Author	1	7	0	2	Please provide practical implications of this study
-					0	
 Reviewer_2	Author	1	8	0	2	Please provide a conclusion based on obtained findings and please avoid overwhelming conclusions
 Reviewer_1	Author	3	1	0	2	Thank you for addressing all the comments.
 Reviewer_1	Author	3	1	0	2	The manuscript was professionaly revised.
@@ -58,9 +54,9 @@ Author	Reviewer_1	2	2	2	1	It is also obvious that non-smokers avoid being in clo
 					0	The link between smoking and reduced life expectancy has been shown to be causal.
 					0	This result calls into question the university's curriculum addressing the very many diseases associated with tobacco smoking - most of which reduce life expectancy.
 					0	This is the opposite of health promotion one expects from all healthcare providers - especially physicians.
-					0	Your comment is very logical.
-					0	Cigarette smoking, sedentary life-style and obesity are the major public health concerns, particularly in the Balkan region.
-					0	This was a reason that we have provided some additional comments and recommendations for further actions at the very end of the Discussion section.
+Author	Reviewer_1	2	3	3	1	Your comment is very logical.
+Author	Reviewer_1	2	3	3	1	Cigarette smoking, sedentary life-style and obesity are the major public health concerns, particularly in the Balkan region.
+Author	Reviewer_1	2	3	3	1	This was a reason that we have provided some additional comments and recommendations for further actions at the very end of the Discussion section.
 					0	Response to Reviewer 2 I would like to thank Reviewer 2 for very detailed and useful comments which will definitely improve our manuscript.
 					0	Comment 1.
 					0	"The study aim should be more precise ""The aim of this study was...."" Response 1."
@@ -72,9 +68,9 @@ Author	Reviewer_2	2	5	2	1	In the subsection “Sample size” of the section “
 Author	Reviewer_2	2	5	2	1	In section “Results” we have added a new sentence that “Majority of study participants were medical students (41.4%) and the rest were students from other faculties (58.6%).” Comment 3.
 					0	Please attach an English version of the questionnaire as supplementary material or precisely describe questions that were used to assess the smoking status.
 					0	Response 3.
-					0	This has been already presented in Table 2. and explained by asterisks (**) below the table: * Students who smoked at least one day in 30 days prior to the survey.
-					0	** Students who smoke every day and desired to smoke always or sometimes upon waking up, and where smoking time after waking up was within one day.
-					0	If necessary the English version of the Questionnaire could be provided as Supplementary material.
+Author	Reviewer_2	2	6	3	1	This has been already presented in Table 2. and explained by asterisks (**) below the table: * Students who smoked at least one day in 30 days prior to the survey.
+Author	Reviewer_2	2	6	3	1	** Students who smoke every day and desired to smoke always or sometimes upon waking up, and where smoking time after waking up was within one day.
+Author	Reviewer_2	2	6	3	1	If necessary the English version of the Questionnaire could be provided as Supplementary material.
 					0	Comment 4.
 					0	The results section is too extensive - please avoid describing all the results in the text.
 					0	Please provide the most important results in the text, and the rest of them are present in Tables.

@@ -87,7 +87,7 @@ Reviewer_2	Author	1	5	0	2	It should be revised and rewritten in a way showing th
 Reviewer_2	Author	1	6	0	2	The “Introduction section ” should be reworked, highlighting the relevance of this topic worldwide.
 Reviewer_2	Author	1	6	0	2	It would be wise to give more international flavor in the sections of Introduction and Discussion.
 Reviewer_2	Author	1	7	0	2	In addition, it needs support with more and more up-to-date recent articles.
-					0	I suggest the following: Soil parameters affecting the levels of potentially harmful metals in Thessaly area, Greece: a robust quadratic regression approach of soil pollution prediction, Environmental Science and Pollution Research,https://doi.org/10.1007/s11356-021-14673-0
+Reviewer_2	Author	1	7	0	2	I suggest the following: Soil parameters affecting the levels of potentially harmful metals in Thessaly area, Greece: a robust quadratic regression approach of soil pollution prediction, Environmental Science and Pollution Research,https://doi.org/10.1007/s11356-021-14673-0
 					0	Many thanks for your response.
 					0	The manuscript has been largely improved.
 					0	Modified content should be marked in the revised manuscript for easy review by reviewers.
@@ -115,16 +115,14 @@ Reviewer_1	Author	3	9	0	2	The conclusion is too long and does not highlight the 
 					0	is not in-depth, and the analysis of model accuracy is rarely involved in the discussion.
 Author	Reviewer_1	2	1	1	1	Response:
 Author	Reviewer_2	2	35	1	1	We would like to thank you for your valuable comments and directions.
-Author	Reviewer_2	2	35	1	2	We have carefully considered all issues and have revised the manuscript completely (e.g.
-Author	Reviewer_1	2	1	1	1	separation of sections and subheadings, revising all the text, adding paragraphs & references, adding/changing Tables & Figures): 1) Abstract was
-Author	Reviewer_1	2	33	33	1	revised.
-Author	Reviewer_2	2	35	1	2	2) Introduction was revised, and 2 new paragraphs were added.
-Author	Reviewer_2	2	35	1	2	Such modification leaded to the clear description of the objectives.
-Author	Reviewer_2	2	35	1	2	3) Material and Method section was revised.
-Author	Reviewer_2	2	35	1	2	Revised version contains 5 subheading.
-Author	Reviewer_2	2	35	1	2	4) The results and discussion sections were separated, and their subheadings were reorganized.
-Author	Reviewer_2	2	35	1	2	In the revised manuscript the Results contain 5 subheading and Discussion contain 3subheading.
-Author	Reviewer_2	2	35	1	2	5) Presentation of the results are improved with consideration of reviewers’ comments.
+Author	Reviewer_2	2	35	1	1	We have carefully considered all issues and have revised the manuscript completely (e.g. separation of sections and subheadings, revising all the text, adding paragraphs & references, adding/changing Tables & Figures): 1) Abstract was revised.
+Author	Reviewer_2	2	35	1	1	2) Introduction was revised, and 2 new paragraphs were added.
+Author	Reviewer_2	2	35	1	1	Such modification leaded to the clear description of the objectives.
+Author	Reviewer_2	2	35	1	1	3) Material and Method section was revised.
+Author	Reviewer_2	2	35	1	1	Revised version contains 5 subheading.
+Author	Reviewer_2	2	35	1	1	4) The results and discussion sections were separated, and their subheadings were reorganized.
+Author	Reviewer_2	2	35	1	1	In the revised manuscript the Results contain 5 subheading and Discussion contain 3subheading.
+Author	Reviewer_2	2	35	1	1	5) Presentation of the results are improved with consideration of reviewers’ comments.
 Author	Reviewer_2	2	35	1	1	Original Manuscript contained 3 Tables and 3 Figures.
 Author	Reviewer_2	2	35	1	1	Revised manuscript contains 4 Tables and 5 Figures and 1 supplementary table and 1 supplementary figure.
 Author	Reviewer_2	2	35	1	1	New subheading (3.2.
@@ -149,7 +147,7 @@ Author	Reviewer_1	2	34	34	1	edited
 					0	Specific comments: When the samples are grouped, it is generally carried out according to 7:3 or 3:1 or a certain ratio.
 					0	There are 114 soil samples in this study, what is the basis for grouping by 88/26 (77.2%/22.8%)?
 					0	Response:
-Author	Reviewer_1	4	9	9	48	Thanks.
+Author	Reviewer_1	4	9	9	1	Thanks.
 Author	Reviewer_1	2	2	2	1	Sorry for the technical error.
 Author	Reviewer_1	2	2	2	1	The sample set was divided into two subsets (75% and 25%) for calibration (86 samples) and validation (28 samples).
 					0	Should the writing of the results and discussion sections be separated?
@@ -167,12 +165,11 @@ Author	Reviewer_1	2	4	4	1	Such approach helped to analyze the underlying mechani
 					0	Line 104, 195, 223, 544: Is it “modelling” or “modeling”?
 					0	The whole text should be unified.
 					0	Response: Thanks.
-Author	Reviewer_1	2	5	5	1	It was
-Author	Reviewer_1	2	13	13	2	corrected
+Author	Reviewer_1	2	5	5	1	It was corrected
 					0	 to “modeling”.
 					0	Lines 145-146: “, soil reaction (pH) in 1:1 soil to KCl solution” is not clearly expressed.
 					0	Response: Thanks.
-Author	Reviewer_1	4	8	8	3	It was corrected.
+Author	Reviewer_1	4	8	8	1	It was corrected.
 Author	Reviewer_1	2	6	6	1	pH was measured in water solution.
 					0	(Line: 206-207) Lines 163-164: “…were conducted under a controlled laboratory environment.” Can you explain this sentence?
 					0	Generally, soil spectral measurement is carried out in a dark room to avoid interference from external light sources.
@@ -190,7 +187,7 @@ Author	Reviewer_1	2	8	8	1	It is one of the commonly used method and several refe
 					0	Line;252-259 Line 176: “…resulted 50 spectra…”.
 					0	It is also not clear how 50 spectra were obtained.
 					0	Response: Thanks.
-Author	Reviewer_1	2	30	30	7	It was revised.
+Author	Reviewer_1	2	30	30	1	It was revised.
 Author	Reviewer_1	2	9	9	1	See previous comment.
 					0	Line 190: “…moving window sizes (mainly 7, 9 and 11)”.
 					0	Need to use 3 different moving window sizes?
@@ -220,7 +217,7 @@ Author	Reviewer_1	2	14	14	1	It was revised as “change in pH, temperature, prec
 Author	Reviewer_1	2	14	14	1	Line:334-337.
 					0	Line 264: “…CaCO3 and Fe),” Where is the left parenthesis?
 					0	Response: Thanks.
-Author	Reviewer_1	2	32	32	5	It was edited.
+Author	Reviewer_1	2	32	32	1	It was edited.
 					0	Line 264: “…, and hence parent material.” It’s not clear here.
 					0	Response: Thanks.
 Author	Reviewer_1	2	16	16	1	Corrected to “soil type”.
@@ -291,40 +288,26 @@ Author	Reviewer_1	2	33	33	1	Line: 786-791 Lines 541-543: Is this sentence approp
 					0	Edited.
 					0	Response to Reviewer 1 comment Comments and Suggestions for Authors The manuscript entitled “Determination of Mehlich 3 extractable elements with visible 2 and near-infrared spectroscopy in a mountainous agricultural 3 land, the Caucasus Mountains” is scientifically interesting and original.
 					0	However, there are some important issues that need to be addressed: The novelty of the study should be clearly stated in the Introduction section after the objectives are formulated.
-					0	Response: We would like to thank you for your valuable comments and directions.
-					0	We have carefully considered all issues and have revised the manuscript completely (e.g.
-Author	Reviewer_2	2	35	1	1	separation of section and subheadings, revising all the text, adding paragraphs and references, adding or changing Tables and Figures): 1) Abstract was revised.
-					0	2) Introduction was revised, and 2 new paragraphs were added.
-					0	Such modification leaded to the clear description of the objectives.
-					0	3) Material and Method section was revised.
-					0	Revised version contains 5 subheading.
-					0	4) The results and discussion sections were separated, and their subheadings were reorganized.
-					0	In the revised manuscript the Results contain 5 subheading and Discussion contain 3subheading.
-					0	5) Presentation of the results are improved with consideration of reviewers’ comments.
-Author	Reviewer_2	2	35	1	1	a).
-					0	Original Manuscript contained 3 Tables and 3 Figures.
-					0	Revised manuscript contains 4 Tables and 5 Figures and 1 supplementary table and 1 supplementary figure.
-Author	Reviewer_2	2	35	1	1	b).
-					0	New subheading (3.2.
-					0	Land use effect on soil properties) was added.
-Author	Reviewer_2	2	35	1	1	It contains new Table 2, Supplementary Table 1 and Supplementary Figure 1. c).
-					0	New Table 4 and Figure 4 were added.
-Author	Reviewer_2	2	35	1	1	Table 4 is related to partial correlation analysis with consideration of soil properties, and Figure 4 is related to the principal component analysis (biplot).
-Author	Reviewer_2	2	35	1	1	d).
-					0	Clarification: Table 1 and Table 3 were not changed.
-					0	Old Table 2 is new Figure 2.
-					0	Old Figure 2 is new Figure 3.
-					0	Old Figure 3 is new Figure 5.
-Author	Reviewer_2	2	35	1	1	6) Discussion with new 3 subheading was significantly expanded and linked to the references and the novelty was highlighted.
-Author	Reviewer_2	2	35	1	1	7)
-Author	Reviewer_2	2	39	5	1	Conclusions of the study was modified to show its practical outcomes for the local and international readers
-					0	.
-					0	8) New 12 references were added to update the manuscript to address reviewers’ comments.
-Author	Reviewer_2	2	35	1	1	Due to the separating the Results and Discussion section, overlapping of some comments made by the reviewers and associated changes modified all the text of the manuscript was modified.
-					0	Thus, to avoid possible confusion we provided the location (subheading or line) for any change introduced.
-					0	Our point-to-point response to the comments of the reviewers is detailed below.
-					0	Subheading or line numbers refer to the line numbers in the revised manuscript.
-Author	Reviewer_2	2	35	1	1	Two version of the manuscript was uploaded: edited main manuscript (with track change), and edited main manuscript (clear).
+					0	Response:
+Author	Reviewer_1	2	1	1	1	We would like to thank you for your valuable comments and directions.
+Author	Reviewer_1	2	1	1	1	We have carefully considered all issues and have revised the manuscript completely (e.g.
+Author	Reviewer_1	2	1	1	1	separation of section and subheadings, revising all the text, adding paragraphs and references, adding or changing Tables and Figures): 1) Abstract was revised.
+Author	Reviewer_1	2	1	1	1	2) Introduction was revised, and 2 new paragraphs were added. Such modification leaded to the clear description of the objectives.
+Author	Reviewer_1	2	1	1	1	3) Material and Method section was revised. Revised version contains 5 subheading.
+Author	Reviewer_1	2	1	1	1	4) The results and discussion sections were separated, and their subheadings were reorganized. In the revised manuscript the Results contain 5 subheading and Discussion contain 3subheading.
+Author	Reviewer_1	2	1	1	1	5) Presentation of the results are improved with consideration of reviewers’ comments.
+Author	Reviewer_1	2	1	1	1	a) Original Manuscript contained 3 Tables and 3 Figures. Revised manuscript contains 4 Tables and 5 Figures and 1 supplementary table and 1 supplementary figure.
+Author	Reviewer_1	2	1	1	1	b) New subheading (3.2. Land use effect on soil properties) was added. It contains new Table 2, Supplementary Table 1 and Supplementary Figure 1. c). New Table 4 and Figure 4 were added.
+Author	Reviewer_1	2	1	1	1	Table 4 is related to partial correlation analysis with consideration of soil properties, and Figure 4 is related to the principal component analysis (biplot).
+Author	Reviewer_1	2	1	1	1	d) Clarification: Table 1 and Table 3 were not changed. Old Table 2 is new Figure 2. Old Figure 2 is new Figure 3. Old Figure 3 is new Figure 5.
+Author	Reviewer_1	2	1	1	1	6) Discussion with new 3 subheading was significantly expanded and linked to the references and the novelty was highlighted.
+Author	Reviewer_1	2	1	1	1	7) Conclusions of the study was modified to show its practical outcomes for the local and international readers.
+Author	Reviewer_1	2	1	1	1	8) New 12 references were added to update the manuscript to address reviewers’ comments.
+Author	Reviewer_1	2	1	1	1	Due to the separating the Results and Discussion section, overlapping of some comments made by the reviewers and associated changes modified all the text of the manuscript was modified.
+Author	Reviewer_1	2	1	1	1	Thus, to avoid possible confusion we provided the location (subheading or line) for any change introduced.
+Author	Reviewer_1	2	1	1	1	Our point-to-point response to the comments of the reviewers is detailed below.
+Author	Reviewer_1	2	1	1	1	Subheading or line numbers refer to the line numbers in the revised manuscript.
+Author	Reviewer_1	2	1	1	1	Two version of the manuscript was uploaded: edited main manuscript (with track change), and edited main manuscript (clear).
 					0	"“Materials & Method"" section: a) There is not adequate information regarding quality control of the chemical analyses."
 					0	Authors should report the detection limits and the recovery of the analytic methods used, along with and the standard solutions for the calibration of the instruments.
 					0	Response: Thanks.

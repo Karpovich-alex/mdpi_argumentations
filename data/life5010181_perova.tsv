@@ -29,7 +29,7 @@ Author	Reviewer_2	2	2	1	1	o Use of the word innovation We kept the 2 occurrences
 Author	Reviewer_2	2	2	1	1	An innovation is defined as a “new method, idea or product” in the dictionary.
 Author	Reviewer_2	2	2	1	1	We use the word to refer to new emergent chemical behaviour that the whole vesicle system exhibits (e.g., expanded steady states), which did not exist before.
 Author	Reviewer_2	2	2	1	1	We think the use of this word is acceptable.
-					0	R3 •
+					0	•
 Reviewer_2	Author	1	2	0	2	Note 4 presents a very important issue: why the inner chemical environment is different from the external one, if the running chemical reactions are the same?
 Reviewer_2	Author	1	2	0	2	The presence of particular features of the vesicle interior or of entrapped catalysts seem a too easy and ad hoc hypothesis.
 Reviewer_2	Author	1	2	0	2	A useful reference proposing an explanation of this symmetry breaking (without requiring different conditions in internal and external environments) could be “R.
@@ -63,4 +63,4 @@ Reviewer_2	Author	1	6	0	2	Chem.
 Reviewer_2	Author	1	6	0	2	2013, 5, 495–501.
 Reviewer_2	Author	1	6	0	2	→ “ompetition” should be: “Competition”.
 					0	Response:
-Author	Reviewer_2	2	7	6	2	The minor issues were fixed.
+Author	Reviewer_2	2	7	6	1	The minor issues were fixed.

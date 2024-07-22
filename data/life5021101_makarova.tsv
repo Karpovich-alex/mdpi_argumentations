@@ -48,9 +48,9 @@ Reviewer_2	Author	1	2	0	2	However, the authors have already reported the measure
 Reviewer_2	Author	1	2	0	2	Adv.
 Reviewer_2	Author	1	2	0	2	Mat., 2005).
 Reviewer_2	Author	1	2	0	2	Describe how the experimental set-up was improved in this paper more precisely.
-					0	Response: A number of improvements of the experimental procedure for the thermally induced shape fluctuation method were used in this study: the stroboscopic illumination was improved on several steps to achieve a better experimental conditions; a thermostatic stage was used to set and control a constant temperature, the analysing procedure was improved by adding strict objective criteria for qualification of the vesicle as a whole as well as for acceptance or rejection of a given contour of the sequence of recorded images and the white noise contribution to the amplitudes of thermal shape fluctuations was R3 evaluated and taken into account.
-					0	We have given short description of the improvements made and for each of them cited the corresponding articles for detailed explanation.
-					0	(Lines 181–184; 187–193).
+					0	Response:
+Author	Reviewer_2	2	8	2	1	A number of improvements of the experimental procedure for the thermally induced shape fluctuation method were used in this study: the stroboscopic illumination was improved on several steps to achieve a better experimental conditions; a thermostatic stage was used to set and control a constant temperature, the analysing procedure was improved by adding strict objective criteria for qualification of the vesicle as a whole as well as for acceptance or rejection of a given contour of the sequence of recorded images and the white noise contribution to the amplitudes of thermal shape fluctuations was R3 evaluated and taken into account.
+Author	Reviewer_2	2	8	2	1	We have given short description of the improvements made and for each of them cited the corresponding articles for detailed explanation. (Lines 181–184; 187–193).
 Reviewer_2	Author	1	3	0	2	As a comparison of archaeal lipids, SOPC was used in this study.
 Reviewer_2	Author	1	3	0	2	SOPC contains an unsaturated bond in its alkyl chains and its transition temperature seems to be quite low compared with archaeal lipids.
 Reviewer_2	Author	1	3	0	2	What is the reason why the authors selected the SOPC for the representative of eukaryotic lipids?
@@ -76,9 +76,8 @@ Author	Reviewer_2	2	12	6	1	As the referee suggested we added such information wi
 					0	The observed fluctuations of the membrane do not destabilize it.
 					0	However, the comment of the reviewer is notable and we state in the conclusion of the manuscript (Lines 229–232) that at room temperature the thermophilicity is not necessarily related to the bending elasticity.
 					0	Response:
-Author	Reviewer_1	4	2	2	2	We thank the reviewer for further comments and hope that we can clarify the issues as given below.
-Author	Reviewer_1	4	2	2	2	We have made changes in the manuscript (marked red) and added one new reference (ref.
-Author	Reviewer_1	4	5	5	3	[35]).
+Author	Reviewer_1	4	2	2	1	We thank the reviewer for further comments and hope that we can clarify the issues as given below.
+Author	Reviewer_1	4	2	2	1	We have made changes in the manuscript (marked red) and added one new reference (ref. [35]).
 Reviewer_1	Author	3	3	0	2	If only measured at one temperature, how would it be possible to draw a conclusion with “thermally induced shape fluctuations”?
 					0	R4 Response:
 Author	Reviewer_1	4	3	3	1	In principal in order to obtain elastic constants you need to apply force and measure the deformation that this force causes.

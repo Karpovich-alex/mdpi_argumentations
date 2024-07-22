@@ -18,22 +18,22 @@ Author	Reviewer_1	2	1	1	1	This has been demonstrated by Munakata et al.
 Author	Reviewer_1	2	1	1	1	for B. subtilis spores (Munakata et al., Photochemistry and Photobiology, Blackwell Publishing Ltd, 1991, 54, 761-768).
 Author	Reviewer_1	2	1	1	1	To the authors’ knowledge, there is no publication measuring the wavelength depending inactivation efficiency of B. radiodurans in the VUV.
 Author	Reviewer_1	2	1	1	1	Second, the samples are mixed with Mars Analog Soil and most of the samples are covered with it.
-					0	This leads to a very inhomogeneous exposure of the samples which can only be estimated arbitrarily.
-					0	To address the reviewer’s comments, subsection 2.3 has been modified as follows: An argon-nitrogen mixture (100:5 sccm) was used with continuous power of 500 W, as it emits significantly higher amounts of radiation in the bactericidal wavelength region from 100 nm to 400 nm compared to an argon-oxygen mixture (100:5 sccm) [5].
-					0	The absolute values presented in [5] are not applicable to the results shown here, due to modification of the plasma system concerning the power coupling.
-					0	Nevertheless, the significantly higher emission of the argon-nitrogen mixture is shown.
-					0	Absolute values of the radiation dose in the range from 100 nm to 400 nm of the system configuration used in this study were measured and submitted [6].
-					0	A possible radical that can interact with the samples is atomic nitrogen.
-					0	As atomic nitrogen is not known for etching of organic materials, we assume that inactivation in the argon-nitrogen mixture is based on radiation effects.
-					0	[6] Raguse, M.; Fiebrandt, M.; Denis, B.; Stapelmann, K.; Eichenberger, P.; Driks, A.; Eaton, P.; Awakowicz, P.; Moeller, R. Understanding of the importance of the spore coat structure and pigmentation in the Bacillus subtilis spore resistance to low pressure plasma sterilization.
-					0	Submitted to Journal of Physics D: Applied Physics.
+Author	Reviewer_1	2	1	1	1	This leads to a very inhomogeneous exposure of the samples which can only be estimated arbitrarily.
+Author	Reviewer_1	2	1	1	1	To address the reviewer’s comments, subsection 2.3 has been modified as follows: An argon-nitrogen mixture (100:5 sccm) was used with continuous power of 500 W, as it emits significantly higher amounts of radiation in the bactericidal wavelength region from 100 nm to 400 nm compared to an argon-oxygen mixture (100:5 sccm) [5].
+Author	Reviewer_1	2	1	1	1	The absolute values presented in [5] are not applicable to the results shown here, due to modification of the plasma system concerning the power coupling.
+Author	Reviewer_1	2	1	1	1	Nevertheless, the significantly higher emission of the argon-nitrogen mixture is shown.
+Author	Reviewer_1	2	1	1	1	Absolute values of the radiation dose in the range from 100 nm to 400 nm of the system configuration used in this study were measured and submitted [6].
+Author	Reviewer_1	2	1	1	1	A possible radical that can interact with the samples is atomic nitrogen.
+Author	Reviewer_1	2	1	1	1	As atomic nitrogen is not known for etching of organic materials, we assume that inactivation in the argon-nitrogen mixture is based on radiation effects.
+Author	Reviewer_1	2	1	1	1	[6] Raguse, M.; Fiebrandt, M.; Denis, B.; Stapelmann, K.; Eichenberger, P.; Driks, A.; Eaton, P.; Awakowicz, P.; Moeller, R. Understanding of the importance of the spore coat structure and pigmentation in the Bacillus subtilis spore resistance to low pressure plasma sterilization.
+Author	Reviewer_1	2	1	1	1	Submitted to Journal of Physics D: Applied Physics.
 Reviewer_1	Author	1	2	0	2	The other potentially inactivating components of the plasma are not specified in the manuscript.
 Reviewer_1	Author	1	2	0	2	For the argon-oxygen gas mixture it is stated that ‘high amounts of reactive oxygen species are formed in the plasma’ again without any qualitative and quantitative description.
 Reviewer_1	Author	1	2	0	2	Estimations of the average free length of path for the inactivating plasma components might have been helpful for experiment planning.
 					0	Reply:
 Author	Reviewer_1	2	2	2	1	The authors thank the referee for this comment that demonstrates that the authors need to clarify.
 Author	Reviewer_1	2	2	2	1	However, to the authors it is not clear which potentially inactivating components of the plasma are not specified, as radicals and radiation are mentioned and the temperature is kept below 80°C to prevent inactivation effects due to heating.
-Author	Reviewer_1	2	2	2	2	As the samples are placed in an ICP discharge, ions towards the samples are only accelerated by several tenth of eV.
+Author	Reviewer_1	2	2	2	1	As the samples are placed in an ICP discharge, ions towards the samples are only accelerated by several tenth of eV.
 Author	Reviewer_1	2	2	2	1	Thus, sputtering of the sample due to ion bombardment can be neglected.
 Author	Reviewer_1	2	2	2	1	Low-pressure plasmas dissociate molecular gases up to several percent.
 Author	Reviewer_1	2	2	2	1	Thus, the authors wanted to emphasize, that the atomic oxygen density and therewith the atomic oxygen flux to the samples is in the order of a few percent of the overall gas flux.

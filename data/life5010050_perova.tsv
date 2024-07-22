@@ -12,7 +12,8 @@ Reviewer_1	Author	1	1	0	2	However, the connection, coincidences and relations to
 Author	Reviewer_1	2	1	1	1	The concern the reviewer mentions here was also one of our main conclusions for the article.
 Author	Reviewer_1	2	1	1	1	Apparently we did not formulate it well enough.
 Author	Reviewer_1	2	1	1	1	It has thus been reformulated to: “However an accurate taxonomy can never be achieved by the use of a barcoding method only, since it is based on nucleotide substitutions of a single gene.
-					0	Accurate classification always requires an integrative taxonomy effort R2 including characteristics from ecology, morphology and physiology, as already previously suggested for prokaryotes [9,28,29,45], and as it is becoming common also for animal taxonomy (e.g., [53,54]).” Moreover, it is necessary to mention the following aspects of this manuscript: (1)
+Author	Reviewer_1	2	1	1	1	Accurate classification always requires an integrative taxonomy effort R2 including characteristics from ecology, morphology and physiology, as already previously suggested for prokaryotes [9,28,29,45], and as it is becoming common also for animal taxonomy (e.g., [53,54]).”
+					0	Moreover, it is necessary to mention the following aspects of this manuscript: (1)
 Reviewer_1	Author	1	2	0	2	If we accept also strains and populations from literature or from databases to the evaluation, there is always questionable the taxonomic determination (scientific names) of various species and strains, which are based on the old nomenclature and morphology.
 Reviewer_1	Author	1	2	0	2	The critical revision of identification of these strains and cited materials is necessary.
 					0	(2)
@@ -35,7 +36,8 @@ Reviewer_1	Author	1	4	0	2	Numerous cited taxa (on the generic level) were alread
 Reviewer_1	Author	1	4	0	2	It is true, that majority of the cited genera were already revised (Microcystis, Planktothrix, Aphanizomenon), but just these taxa are important as examples and should be preferred.
 Reviewer_1	Author	1	4	0	2	From the presented results follows only the confirmation of the present methodological principles and a modern system.
 Reviewer_1	Author	1	4	0	2	This fact should be emphasized.
-					0	Response: We agree with the reviewer that we have to avoid misunderstandings of this kind and added a very clear statement to the discussion: “Moreover it has to be emphasised that a close analysis of the actual properties of the cyanobacterial groups tested is limited by the fact that we used the provided R3 names for the sequences and groups.
+					0	Response:
+Author	Reviewer_1	2	4	4	1	We agree with the reviewer that we have to avoid misunderstandings of this kind and added a very clear statement to the discussion: “Moreover it has to be emphasised that a close analysis of the actual properties of the cyanobacterial groups tested is limited by the fact that we used the provided R3 names for the sequences and groups.
 					0	Thus this study intends only to verify the existence of a barcoding gaps within the 16S rRNA sequences of certain cyanobacterial groups, and by no means revise or confirm the complex cyanobacterial taxonomy.”
 Reviewer_1	Author	1	5	0	2	It is necessary to stress the fact that the numerical criteria (e.g., exactly limited percentage similarity) never are valid uniformly for large groups of organisms and cannot be applied as one main criterion in large groups.
 					0	Response:
@@ -46,11 +48,11 @@ Reviewer_1	Author	1	6	0	2	As concerns the delimitation of taxa on the level of c
 Reviewer_1	Author	1	6	0	2	The characterization and separation of species was not satisfactory solved, but it is particularly important (criteria are not unique for all genera) and need better discussion.
 					0	Response:
 Author	Reviewer_1	2	6	6	1	our aim was not to start from known and named sequences and test whether species from DNA taxonomy matched them or not; our aim was to test whether a barcoding gap existed at all.
-Author	Reviewer_2	2	14	4	2	To do so, we did not download named sequences from GenBank, but used a carefully annotated and checked database with a built-in phylogeny that would allow us to obtain monophyletic clades, regardless of their names.
-Author	Reviewer_2	2	14	4	2	We thus only briefly discuss names and taxonomy in our analysis.
-Author	Reviewer_2	2	14	4	2	Given that both reviewers commented on this issue, we tried to clarify our aims and included a sentence at the end of the introduction, in order to clarify the point.
-Author	Reviewer_2	2	14	4	2	We hope that now both reviewers, and all other potential readers, will not be misled by our approach.
-Author	Reviewer_2	2	14	4	2	We do not deal with taxonomy at all, only with testing the presence of a barcoding gap.
+Author	Reviewer_2	2	14	4	1	To do so, we did not download named sequences from GenBank, but used a carefully annotated and checked database with a built-in phylogeny that would allow us to obtain monophyletic clades, regardless of their names.
+Author	Reviewer_2	2	14	4	1	We thus only briefly discuss names and taxonomy in our analysis.
+Author	Reviewer_2	2	14	4	1	Given that both reviewers commented on this issue, we tried to clarify our aims and included a sentence at the end of the introduction, in order to clarify the point.
+Author	Reviewer_2	2	14	4	1	We hope that now both reviewers, and all other potential readers, will not be misled by our approach.
+Author	Reviewer_2	2	14	4	1	We do not deal with taxonomy at all, only with testing the presence of a barcoding gap.
 Reviewer_1	Author	1	7	0	2	In Line 40 is cited only DeQueiroz (2007) to the problematic of species concept.
 Reviewer_1	Author	1	7	0	2	It would be useful to evaluate and mention many other authors, who discussed this question more complexly.
 Reviewer_1	Author	1	7	0	2	It concerns also several other problems, e.g., problematics of horizontal gene transfers (Line 43), “bounderies between taxon units” (Line 45), species concept (Line 48), etc.
@@ -96,8 +98,7 @@ Reviewer_2	Author	1	1	0	2	Moreover, although the sequences might have same name 
 					0	R5 Response:
 Author	Reviewer_2	2	11	1	1	We agree that this might be confusing to the reader.
 Author	Reviewer_2	2	11	1	1	We have therefore clarified this choice and added this part to the first M&M section and the literature suggested has been cited: “Sequences termed Synechococcus on the other hand were analysed together with sequences of Prochlorococcus, since Synechococcus is known to be a polyphyletic group and if all sequences (including a minimum of five lineages [36–38]) are taken together, Prochlorococcus has to be included too.”
-Reviewer_2	Author	1	2	0	2	They might also appear to be monophyletic, because there are missing taxa between them
-					0	.
+Reviewer_2	Author	1	2	0	2	They might also appear to be monophyletic, because there are missing taxa between them.
 					0	Response:
 Author	Reviewer_2	2	12	2	1	The sequences we used were clustering monophyletically a-priori in the tree provided in the database used, and we chose them independently of the name.
 Author	Reviewer_2	2	12	2	1	We now clarified this in the first section of M&M: “Thereby a group was considered monophyletic if it was monophyletic in the tree provided with the database, regardless of the taxonomy and the nomenclature of the organisms included in the clade (Supplemetary Figure 1), and only secondarily if there was a correspondence with known taxa.”
@@ -124,7 +125,7 @@ Author	Reviewer_2	2	14	4	1	Nearly all sequences within the database are termed C
 Author	Reviewer_2	2	14	4	1	However the clade does not contain the type-strain (which was not in the database).
 Author	Reviewer_2	2	14	4	1	So we would rather not speculate too much on the taxonomic naming of these and other barcoded groups.
 Author	Reviewer_2	2	14	4	1	However, we can clearly say that what is deposited in database SILVA 111 as Cylindrospermopsis contains two species with a barcoding gap.
-					0	For Planktothrix we added a sentence: “Considering the naming of Planktothrix sequences in the database, some OTUs and ABGD units seem to correspond not only to monophyletic groups but also to named species such as P. mougeotii or similarly in the case of Fischerella muscicola (Figure 3).” R6 However we wish to remain careful on these kinds of statements since we are not sure if the underlying naming of the species used is correct or not.
+Author	Reviewer_2	2	14	4	1	For Planktothrix we added a sentence: “Considering the naming of Planktothrix sequences in the database, some OTUs and ABGD units seem to correspond not only to monophyletic groups but also to named species such as P. mougeotii or similarly in the case of Fischerella muscicola (Figure 3).” R6 However we wish to remain careful on these kinds of statements since we are not sure if the underlying naming of the species used is correct or not.
 Reviewer_2	Author	1	5	0	2	Why did you use Phormidium as an outgroup (Line 139)?
 Reviewer_2	Author	1	5	0	2	Would not be more beneficial to use Gloeobacter or some other bacterium?
 					0	Response:
@@ -150,8 +151,7 @@ Reviewer_2	Author	1	7	0	2	Leptolyngbya, Aphanizomenon, Arthrospira.
 Reviewer_2	Author	1	7	0	2	You might check: http://www.cyanodb.cz/.
 Reviewer_2	Author	1	7	0	2	It is an updated database of names of cyanobacteria.
 					0	Response:
-Author	Reviewer_2	2	17	7	1	We apologize for our carelessness in double checking the naming of the organisms and hope that we now eliminated all errors
-					0	.
+Author	Reviewer_2	2	17	7	1	We apologize for our carelessness in double checking the naming of the organisms and hope that we now eliminated all errors.
 					0	Second Round of Evaluation Round 2: I have had the more critical remarks to the manuscript; however, I think that the presented data are useful and should be published.
 					0	My critics should inform authors about more complicated problematics of this whole group, and several principles should be respected and accepted for future cyanobacterial research.
 					0	I believe that the article with proposed changes will be useful for future research.

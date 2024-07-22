@@ -45,18 +45,13 @@ Reviewer_1	Author	1	11	0	2	(pg14) “such services should be flexibly used only 
 Reviewer_1	Author	1	11	0	2	Are there concrete examples of such systems being built and operated, then just turned off?
 Reviewer_1	Author	1	11	0	2	Who would oppose turning them off?
 Reviewer_1	Author	1	11	0	2	(I’d imagine many stakeholders) 3)
-Reviewer_1	Author	1	12	0	2	Key missing components/literatures: Smart City and COVID Webb, W., & Toh, C. K.
-Reviewer_1	Author	1	12	0	2	(2020).
+Reviewer_1	Author	1	12	0	2	Key missing components/literatures: Smart City and COVID Webb, W., & Toh, C. K. (2020).
 Reviewer_1	Author	1	12	0	2	The smart city and COVID‐19.
-Reviewer_1	Author	1	12	0	2	IET Smart cities, 2(2), 56-57.
-Reviewer_1	Author	1	12	0	2	Inn, T. L. (2020).
-Reviewer_1	Author	1	12	0	2	Smart city technologies take on COVID-19.
-Reviewer_1	Author	1	12	0	2	World Health, 841.
+Reviewer_1	Author	1	12	0	2	IET Smart cities, 2(2), 56-57. Inn, T. L. (2020).
+Reviewer_1	Author	1	12	0	2	Smart city technologies take on COVID-19. World Health, 841.
 Reviewer_1	Author	1	12	0	2	Sharifi, A., Khavarian-Garmsir, A. R., & Kummitha, R. K. R. (2021).
 Reviewer_1	Author	1	12	0	2	Contributions of smart city solutions and technologies to resilience against the COVID-19 pandemic: a literature review.
-Reviewer_1	Author	1	12	0	2	Sustainability, 13(14), 8018.
-Reviewer_1	Author	1	12	0	2	Gusikhin, O.
-					0	(2020).
+Reviewer_1	Author	1	12	0	2	Sustainability, 13(14), 8018. Gusikhin, O. (2020).
 Reviewer_1	Author	1	12	0	2	The Impact of COVID-19 Experience on Smart City and Future Mobility.
 Reviewer_1	Author	1	12	0	2	In Smart Cities, Green Technologies, and Intelligent Transport Systems (pp.
 Reviewer_1	Author	1	12	0	2	308-321).
@@ -140,16 +135,13 @@ Reviewer_2	Author	1	13	0	2	In summary, my suggestions are to focus the paper on 
 					0	The manuscript is quite interesting and widely fine.
 					0	However, please include following melioration advices:
 Reviewer_3	Author	1	1	0	2	Please always write out the full terms and than in brackets the abbreviation (lines 79-80)
-					0	
 Reviewer_3	Author	1	2	0	2	"The whole manuscript is full of ""Error!"
 Reviewer_3	Author	1	2	0	2	"reference source..."" (e.g."
 Reviewer_3	Author	1	2	0	2	line 85)
 Reviewer_3	Author	1	3	0	2	Line 142: lack of flexibility
-					0	
 Reviewer_3	Author	1	4	0	2	Please always explain abbreviations before use - e.g.
 Reviewer_3	Author	1	4	0	2	line 149
 Reviewer_3	Author	1	5	0	2	Line 320: according to the introduction the COVID-19 pandemic started in 2019 and here you state 2020
-					0	
 Reviewer_3	Author	1	6	0	2	Lines 352-354: here we have two times Figure 2.
 Reviewer_3	Author	1	6	0	2	Moreover, please bring the text together.
 Reviewer_3	Author	1	7	0	2	In this source you can find a whole list of smart city technologies http://www.sinfonia-smartcities.eu/en/resources/d21--swot-analysis-report-of-the-refined-conceptbaseline Might be of interest for your work
@@ -226,8 +218,8 @@ Author	Reviewer_1	2	3	3	1	Therefore, various factors should be dealt with, but i
 Author	Reviewer_1	2	3	3	1	The added part is as follows.
 					0	4.
 Author	Reviewer_1	2	3	3	1	Conclusion: “… Also, epidemics in cities are not spread simply by one factor.
-					0	It is important to operate the monitoring system for sewage and wastewater for population level assessment of infection, which is considered to be the most important source of infection.
-					0	2 Therefore, they should be considered in future research.
+Author	Reviewer_1	2	3	3	1	It is important to operate the monitoring system for sewage and wastewater for population level assessment of infection, which is considered to be the most important source of infection.
+Author	Reviewer_1	2	3	3	1	2 Therefore, they should be considered in future research.
 					0	“ 1) Confusing or awkward wording in the abstract: The text has been modified as follows: #1.
 					0	“Additionally, smart city services couldn`t respond in-time series” (is this time series in the statistical sense?
 					0	Just meaning sequential?)
@@ -247,10 +239,10 @@ Author	Reviewer_1	2	6	6	1	Therefore, smart city services for responding to COVID
 					0	(i.e.
 					0	would it be constrained by laws and norms elsewhere?)
 					0	And what are the implications of this.
-Author	Reviewer_2	2	24	11	2	In the case of Korea, rather than finding the infected person in advance, the focus was on identifying and blocking the spread of the infected person.
-Author	Reviewer_2	2	24	11	2	Therefore, Smart City Service checked the movement of the infected people by time, found close contacts in the vicinity, and took measures to self-quarantine immediately.
-Author	Reviewer_2	2	24	11	2	As a result, the critical point of being identified before an infectious disease spreads was missed.
-Author	Reviewer_2	2	24	11	2	However, Korea has prevented a rapid collapse of the medical system by slowing the rate of propagation around it, and the role of smart city services has been significant in this regard.
+Author	Reviewer_2	2	24	11	1	In the case of Korea, rather than finding the infected person in advance, the focus was on identifying and blocking the spread of the infected person.
+Author	Reviewer_2	2	24	11	1	Therefore, Smart City Service checked the movement of the infected people by time, found close contacts in the vicinity, and took measures to self-quarantine immediately.
+Author	Reviewer_2	2	24	11	1	As a result, the critical point of being identified before an infectious disease spreads was missed.
+Author	Reviewer_2	2	24	11	1	However, Korea has prevented a rapid collapse of the medical system by slowing the rate of propagation around it, and the role of smart city services has been significant in this regard.
 					0	#2.
 					0	(pg3) Tables 1 is interesting, but it’s not clear the source of the data.
 					0	Is this from the literature?
@@ -264,9 +256,9 @@ Author	Reviewer_1	2	8	8	1	- (Smart city trends: A focus on 5 countries and 15 co
 					0	Not spelled out.
 Author	Reviewer_1	2	9	9	1	We have checked and corrected the Author's initials that you pointed out.
 Author	Reviewer_1	2	9	9	1	We also Cognized that the expression 'EA' is a unit used only in certain countries.
-Author	Reviewer_2	2	18	5	2	The 'EA' refers to the quantity, but all have been deleted.
-Author	Reviewer_2	2	18	5	2	We sincerely apologize for the basic mistake.
-Author	Reviewer_2	2	18	5	2	We will check in more detail later.
+Author	Reviewer_2	2	18	5	1	The 'EA' refers to the quantity, but all have been deleted.
+Author	Reviewer_2	2	18	5	1	We sincerely apologize for the basic mistake.
+Author	Reviewer_2	2	18	5	1	We will check in more detail later.
 					0	#4.
 					0	(pg5) Table 4 is very useful.
 Author	Reviewer_1	2	10	10	1	Thanks for your kind comments.
@@ -278,13 +270,13 @@ Author	Reviewer_1	2	10	10	1	Thanks for your kind comments.
 Author	Reviewer_1	2	11	11	1	We also agree with reviewers that it's an ideal situation to use built-in services only when needed and turn them off when not needed.
 Author	Reviewer_1	2	11	11	1	Therefore, in Korea, it is legally required to be used only when necessary.
 Author	Reviewer_1	2	11	11	1	Ministry of Land, Infrastructure and Transport(Korea): “…… But the scope of data collected will be kept to minimum and a due procedure should be followed in acquiring the data.
-Author	Reviewer_2	2	25	12	2	First, an epidemiological surveyor should decide whether additional collection of personal information is needed.
-Author	Reviewer_2	2	25	12	2	If the answer is yes, the official should seek approval from relevant authorities to get access to the data.
-Author	Reviewer_2	2	25	12	2	For example, as for the location information, separate permission from the National Police Agency is required.” Source: http://www.molit.go.kr/english/USR/BORD0201/m_28286/DTL.jsp?id=eng_mltm_new&mode=view&idx=2931 3) Key missing components/literatures:
-Author	Reviewer_1	2	13	13	2	We rechecked the paper related to “Key missing components/literatures”.
-Author	Reviewer_1	2	13	13	2	We sincerely apologize for repeating basic mistakes.
-Author	Reviewer_1	2	13	13	2	They all have been revised and reflected.
-Author	Reviewer_2	4	7	5	3	Thank you.
+Author	Reviewer_2	2	25	12	1	First, an epidemiological surveyor should decide whether additional collection of personal information is needed.
+Author	Reviewer_2	2	25	12	1	If the answer is yes, the official should seek approval from relevant authorities to get access to the data.
+Author	Reviewer_2	2	25	12	1	For example, as for the location information, separate permission from the National Police Agency is required.” Source: http://www.molit.go.kr/english/USR/BORD0201/m_28286/DTL.jsp?id=eng_mltm_new&mode=view&idx=2931 3) Key missing components/literatures:
+Author	Reviewer_1	2	13	13	1	We rechecked the paper related to “Key missing components/literatures”.
+Author	Reviewer_1	2	13	13	1	We sincerely apologize for repeating basic mistakes.
+Author	Reviewer_1	2	13	13	1	They all have been revised and reflected.
+Author	Reviewer_2	4	7	5	1	Thank you.
 					0	#1.
 					0	Smart City and COVID Webb, W., & Toh, C. K. (2020).
 					0	The smart city and COVID‐19.
@@ -333,9 +325,9 @@ Author	Reviewer_2	2	14	1	1	We sincerely apologize for the rudimentary mistakes r
 					0	There are also many in-text reference errors with tables, which makes it hard to follow given the high number of tables (13!).
 					0	Also, references to figures seem to include the full caption and cause line breaks instead of the figure number only.
 					0	Please check especially the conclusion, this is hardly readable.
-Author	Reviewer_3	2	28	2	2	The reference confirmed that the error occurred when the formatting was moved.
-Author	Reviewer_3	2	28	2	2	In addition, errors in the sentences have been reviewed and corrected.
-Author	Reviewer_3	2	28	2	2	We apologize again for the rudimentary mistake.
+Author	Reviewer_3	2	28	2	1	The reference confirmed that the error occurred when the formatting was moved.
+Author	Reviewer_3	2	28	2	1	In addition, errors in the sentences have been reviewed and corrected.
+Author	Reviewer_3	2	28	2	1	We apologize again for the rudimentary mistake.
 					0	#3.
 					0	There are referencing issues with sections as well (e.g.
 					0	line 213: “As mentioned in 0”) Finally, and most importantly, the format of the bibliography is highly problematic.
@@ -377,7 +369,7 @@ Reviewer_2	Author	1	6	0	2	The authors than write that hese services have a limit
 					0	It the threats concern COVID only, it does not really make sense, as many of the mentioned services simply do not have this goal (e.g.
 					0	smart grid).
 					0	If it goes beyond COVID, this is a claim that needs to be backed with a sound and transparent evaluation by the authors or literature.
-Author	Reviewer_2	4	5	3	2	We agree with the reviewer's comments.
+Author	Reviewer_2	4	5	3	1	We agree with the reviewer's comments.
 Author	Reviewer_2	2	19	6	1	Smart city projects are underway all over the world.
 Author	Reviewer_2	2	19	6	1	Also, although smart city services differ by country, the smart city structure has a similar framework to a certain level.
 Author	Reviewer_2	2	19	6	1	Therefore, if we can transform the structure of the smart city, we decided that it would be a great tool to cope with situations such as COVID, even a little.
@@ -440,16 +432,16 @@ Author	Reviewer_2	2	25	12	1	Ministry of Land, Infrastructure and Transport (Kore
 					0	If the answer is yes, the official should seek approval from relevant authorities to get access to the data.
 					0	For example, as for the location information, separate permission from the National Police Agency is required.” Source: http://www.molit.go.kr/english/USR/BORD0201/m_28286/DTL.jsp?id=eng_mltm_new&mode=view&idx=2931 #13.
 					0	In summary, my suggestions are to focus the paper on the Korean context, in an in-depth case study approach where authors detail more their contribution, clearly illustrate what the problem is and how their contribution helps solving it.
-Author	Reviewer_2	4	10	8	2	Many revisions have been made to this paper according to the reviewer's comments.
-Author	Reviewer_2	4	10	8	2	Although there are still many things incomplete, we did our best to reflect the opinions of the reviewers.
+Author	Reviewer_2	4	10	8	1	Many revisions have been made to this paper according to the reviewer's comments.
+Author	Reviewer_2	4	10	8	1	Although there are still many things incomplete, we did our best to reflect the opinions of the reviewers.
 Author	Reviewer_2	2	26	13	1	Also, we really appreciate the accurate comments from the reviewers.
-Author	Reviewer_2	4	10	8	2	In addition, we will use a more advanced paper by reflecting it in the ongoing research.
+Author	Reviewer_2	4	10	8	1	In addition, we will use a more advanced paper by reflecting it in the ongoing research.
 					0	Thank you again for your supportive review to improve the manuscript.
 					0	Yours sincerely, The Authors
 					0	1 Dear Reviewer #3, I am grateful for your suggestions regarding my paper, and my answers to your comments are provided below.
 					0	#1.
 					0	Please always write out the full terms and than in brackets the abbreviation (lines 79-80).
-Author	Reviewer_3	2	30	4	2	The full terms of the abbreviation are reflected.
+Author	Reviewer_3	2	30	4	1	The full terms of the abbreviation are reflected.
 					0	#2.
 					0	"The whole manuscript is full of ""Error!"
 					0	"reference source..."" (e.g."
@@ -488,8 +480,8 @@ Author	Reviewer_1	4	1	1	1	Thanks again.
 					0	#2.
 					0	I think mentioning the scenario approach in the abstract might be worthwhile, but I don't think it's a huge problem if it isn't mentioned.
 					0	Either way, I think the paper is in much better shape.
-Author	Reviewer_2	4	5	3	2	As advised by the reviewer, the content of the scenario was additionally reflected in the abstract.
-Author	Reviewer_2	4	5	3	2	The contents are as follows.
+Author	Reviewer_2	4	5	3	1	As advised by the reviewer, the content of the scenario was additionally reflected in the abstract.
+Author	Reviewer_2	4	5	3	1	The contents are as follows.
 Author	Reviewer_1	4	2	2	1	- This study proposes a method for timely and sequential responses, through a flexible combination of the healthcare system and smart city services by envisioning a scenario that sequentially grafts the current status of COVID-19 in Korea.
 					0	Thank you once again for your pertinent suggestions and feedback.
 					0	Yours sincerely, The Authors

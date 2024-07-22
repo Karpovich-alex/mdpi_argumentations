@@ -4,9 +4,9 @@ side	opponent	round	number	attacks	ann	text
 					0	Author Response Response 1:
 Author	Reviewer_2	2	6	2	2	I described the paper's aim.
 					0	Response 2: I redraw Figures1-2 and described them as an adaptation of the original publication.
-					0	Response 3:I described baseline load of the participants.
-					0	Response 4:I revised Fig3.
-					0	Response 5:I deleted Fig5,8,11.
+					0	Response 3: I described baseline load of the participants.
+					0	Response 4: I revised Fig3.
+					0	Response 5: I deleted Fig5,8,11.
 					0	Author Response File: Author Response.pdf
 					0	Very interesting and well-written study.
 					0	I have some comments:
@@ -14,7 +14,6 @@ Reviewer_1	Author	1	1	0	2	Please add a table with patients' baseline characteris
 Reviewer_1	Author	1	2	0	2	Did authors estimate sample size?
 Reviewer_1	Author	1	2	0	2	Please add in data analysis section
 Reviewer_1	Author	1	3	0	2	Please add ethics protocol approval number
-					0	
 Reviewer_1	Author	1	4	0	2	I found some minor English errors throughout the paper.
 Reviewer_1	Author	1	4	0	2	Please have a re-check.
 					0	"Dear Authors: I appreciate the possibility to review the paper entitled ""Exploration of an inflection point of ventilation parameters with anaerobic threshold using strucchange"" by the authors Aida et al."
@@ -22,8 +21,7 @@ Reviewer_1	Author	1	4	0	2	Please have a re-check.
 					0	In this respect, I find the work interesting, well-structured, and with promising results.
 					0	However, I would like to make a few comments.
 					0	-
-Reviewer_2	Author	1	1	0	2	The paper's aim should be the same in the abstract and the introduction
-					0	.
+Reviewer_2	Author	1	1	0	2	The paper's aim should be the same in the abstract and the introduction.
 					0	-
 Reviewer_2	Author	1	2	0	2	I suggest presenting the paper's aim as the last idea in the introduction to make the manuscript easier to read.
 					0	-

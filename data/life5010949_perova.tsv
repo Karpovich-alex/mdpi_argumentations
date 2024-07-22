@@ -36,10 +36,10 @@ Author	Reviewer_1	2	2	2	1	It is by far not a proof of objective correctness of t
 Author	Reviewer_1	2	2	2	1	Direct comparison of all branchings in a tree with an independent taxonomy at all ranks would provide such a proof, The 16S rRNA phylogeny cannot be verified by the Bergey's taxonomy, as the latter follows the former.
 Author	Reviewer_1	2	2	2	1	However, agreement of branchings in CVTree with the Bergey's taxonomy would provide much stronger support to the tree as compared to statistical tests.
 Author	Reviewer_1	2	2	2	1	This is the strategy we adopt for the CVTree approach.”
-Author	Reviewer_2	2	9	3	1	“There are two aspects of a phylogenetic tree: the branching order (topology) and the branch lengths.
-Author	Reviewer_2	2	9	3	2	Branching order is related to classification and branch length to evolution time.
-					0	Calibration of branch lengths is always associated with the assumption that mutation rate R3 remains more or less a constant across all species represented in a tree, an assumption that cannot hold true in a large-scale phylogenetic study like the present one.
-Author	Reviewer_2	2	9	3	2	Therefore, branching order in trees is of primary concern, whereas calibration of branch lengths makes less sense.
+Author	Reviewer_1	2	2	2	1	“There are two aspects of a phylogenetic tree: the branching order (topology) and the branch lengths.
+Author	Reviewer_1	2	2	2	1	Branching order is related to classification and branch length to evolution time.
+Author	Reviewer_1	2	2	2	1	Calibration of branch lengths is always associated with the assumption that mutation rate R3 remains more or less a constant across all species represented in a tree, an assumption that cannot hold true in a large-scale phylogenetic study like the present one.
+Author	Reviewer_1	2	2	2	1	Therefore, branching order in trees is of primary concern, whereas calibration of branch lengths makes less sense.
 Author	Reviewer_1	2	2	2	1	Accordingly, all figures in this paper only show the branching scheme without indication of branch lengths and bootstrap values”.
 Reviewer_1	Author	1	3	0	2	The fact that Thermofilum is placed outside Crenarchaeota in Figures 3 and 4 is a little disturbing.
 Reviewer_1	Author	1	3	0	2	I haven’t come across such a placement in other phylogenetic analyses of Archaea, for example in Brochier-Armanet et al 2008 Nat Rev Microb, or Rinke et al.
@@ -57,9 +57,9 @@ Reviewer_1	Author	1	4	0	2	Though the authors also rightfully point out that the 
 Author	Reviewer_1	2	4	4	1	Highly degenerated genomes of many symbiont organisms tend to move around, in particular, to the baseline of a tree and thus distorts the overall structure of the tree.
 Author	Reviewer_1	2	4	4	1	Therefore, it is better not to mix them with free-living organisms in a study.
 Author	Reviewer_1	2	4	4	1	We rephrased the corresponding paragraph in the manuscript: “The nanosized archaean symbiont Nanoarchaeum equitans has a highly reduced genome (490,885 bp).
-Author	Reviewer_2	2	32	26	2	It is the only described representative of a newly proposed phylum Nanoarchaeota and it cuts into the otherwise monophyletic phylum Euryarchaeota.
+Author	Reviewer_1	2	4	4	1	It is the only described representative of a newly proposed phylum Nanoarchaeota and it cuts into the otherwise monophyletic phylum Euryarchaeota.
 Author	Reviewer_1	2	4	4	1	We note that the monophyly of Euryarchaeota was also violated by Nanoarchaeum in some 16S rRNA trees, see, e.g., Figure 4 in a 2009 microbial survey as well as (c) and (d) in our Figure 3.
-Author	Reviewer_2	2	32	26	2	It has been known that tiny genomes of endosymbiont microbes often tend to move towards baseline of a tree and distort the overall picture.
+Author	Reviewer_1	2	4	4	1	It has been known that tiny genomes of endosymbiont microbes often tend to move towards baseline of a tree and distort the overall picture.
 Author	Reviewer_1	2	4	4	1	In fact, we have suggested skipping such tiny genomes when studying bacterial phylogeny, see, e.g., (citing our 2010 paper) and a note in the home page of the CVTree Web Server.
 Author	Reviewer_1	2	4	4	1	In the present case we may at most say that Nanoarchaeota probably makes a separate phylum, but its cutting into Euryarchaeota might be a side effect due to the tiny size of the highly reduced genome”.
 Reviewer_1	Author	1	5	0	2	The placement of Halobacteria (due to interfering Nanoarchaeota, I presume) is also a little disturbing.
@@ -77,12 +77,10 @@ Author	Reviewer_1	2	6	6	1	We have
 Author	Reviewer_2	4	3	2	17	done
 					0	 a major revision of the manuscript.
 Author	Reviewer_1	2	6	6	1	A new “Material and Method” section has been added.
-					0	Such issues as statistical resampling tests (bootstrap and jackknife), calibration of branch length, the meaning and choice of the peptide length K,
-Reviewer_2	Author	1	20	0	2	etc.
-					0	, were discussed in the new section.
-					0	Figures 1 and 2 were combined to a new Figure 1; Figures 3 and 4 were combined to become a new Figure 2.
-					0	Figure captions were made more detailed.
-					0	The whole text was checked for language flaws and many places were rephrased.
+Author	Reviewer_1	2	6	6	1	Such issues as statistical resampling tests (bootstrap and jackknife), calibration of branch length, the meaning and choice of the peptide length K, etc. , were discussed in the new section.
+Author	Reviewer_1	2	6	6	1	Figures 1 and 2 were combined to a new Figure 1; Figures 3 and 4 were combined to become a new Figure 2.
+Author	Reviewer_1	2	6	6	1	Figure captions were made more detailed.
+Author	Reviewer_1	2	6	6	1	The whole text was checked for language flaws and many places were rephrased.
 					0	Round 1: and Author Response Summary Zuo et al.
 					0	present a comparative analysis of the taxonomic classification of the Archaea domain.
 					0	About 180 archaeal genomes were used to calculate a new tree topology using CVTree.
@@ -117,18 +115,18 @@ Reviewer_2	Author	1	3	0	2	Therefore, although authors have strong tools and data
 Author	Reviewer_2	2	9	3	1	A robust phylogenetic tree comes with a fixed branching order of leaves.
 Author	Reviewer_2	2	9	3	1	One looks at the leaf names and their taxonomic lineage and tries to map the latter to the branches.
 Author	Reviewer_2	2	9	3	1	To this end we added the following paragraphs in the “Material and Method” section.
-					0	“There are two aspects of a phylogenetic tree: the branching order (topology) and the branch lengths.
-					0	Branching order is related to classification and branch length to evolution time.
-Author	Reviewer_2	2	9	3	2	Calibration of branch lengths is always associated with the assumption that mutation rate remains more or less a constant across all species represented in a tree, an assumption that cannot hold true in a large-scale phylogenetic study like the present one.
+Author	Reviewer_2	2	9	3	1	“There are two aspects of a phylogenetic tree: the branching order (topology) and the branch lengths.
+Author	Reviewer_2	2	9	3	1	Branching order is related to classification and branch length to evolution time.
+Author	Reviewer_2	2	9	3	1	Calibration of branch lengths is always associated with the assumption that mutation rate remains more or less a constant across all species represented in a tree, an assumption that cannot hold true in a large-scale phylogenetic study like the present one.
 					0	Therefore, branching order in trees is of primary concern, whereas calibration of branch lengths makes less sense.
 Author	Reviewer_2	2	9	3	1	Accordingly, all figures in this paper only show the branching scheme without indication of branch lengths and bootstrap values.” “Branching order in a tree by itself does not bring about taxonomic ranks, e,g, class or order.
-Author	Reviewer_2	2	30	24	2	The latter can be assigned only after comparison with a reference taxonomy which is not a rigid framework but a modifiable system.
-Author	Reviewer_2	2	30	24	2	Though a dissimilarity measure figures in the CVTree algorithm, it is not realistic to delineate taxa by using this measure at least for the time being.
-Author	Reviewer_2	2	30	24	2	Even if defined in the future, it must be lineage-dependent.
-Author	Reviewer_2	2	30	24	2	For example, it cannot be expected that the same degree of dissimilarity may be used to delineate classes in all phyla.
-Author	Reviewer_2	2	30	24	2	In addition, monophyly is a guiding principle in comparing branching order with taxonomy.
-Author	Reviewer_2	2	30	24	2	Here monophyly must be understood in a pragmatic way restricted to the given set of input data and the reference taxonomy.
-Author	Reviewer_2	2	30	24	2	If all genomes from a taxon appear exclusively in a tree branch, the branch is said to be monophyletic.” R6
+Author	Reviewer_2	2	30	24	1	The latter can be assigned only after comparison with a reference taxonomy which is not a rigid framework but a modifiable system.
+Author	Reviewer_2	2	30	24	1	Though a dissimilarity measure figures in the CVTree algorithm, it is not realistic to delineate taxa by using this measure at least for the time being.
+Author	Reviewer_2	2	30	24	1	Even if defined in the future, it must be lineage-dependent.
+Author	Reviewer_2	2	30	24	1	For example, it cannot be expected that the same degree of dissimilarity may be used to delineate classes in all phyla.
+Author	Reviewer_2	2	30	24	1	In addition, monophyly is a guiding principle in comparing branching order with taxonomy.
+Author	Reviewer_2	2	30	24	1	Here monophyly must be understood in a pragmatic way restricted to the given set of input data and the reference taxonomy.
+Author	Reviewer_2	2	30	24	1	If all genomes from a taxon appear exclusively in a tree branch, the branch is said to be monophyletic.” R6
 Reviewer_2	Author	1	4	0	2	I have noted some lack of scientific rigor according to: many wrong taxonomic names and typos, scarce figure legends, few comments about the missing branch lengths or bootstraps (!
 Reviewer_2	Author	1	4	0	2	), redundancy in text and figures and fragments which are really difficult to understand.
 Reviewer_2	Author	1	4	0	2	Authors should pay attention to language, explanations and text organization.
@@ -148,15 +146,15 @@ Reviewer_2	Author	1	6	0	2	Please rephrase.
 Reviewer_2	Author	1	7	0	2	L40 “Since at present (…) are not covered (...)” is a weak reason for choosing high ranks.
 Reviewer_2	Author	1	7	0	2	I recommend to shortly summarize why high ranks are so important, and why do you choose order as the lowest considered rank.
 					0	Response:
-Author	Reviewer_2	2	13	7	2	We tried to rephrase the paragraph by changing, deleting, or adding a few words as follows: “In this paper we study Archaea phylogeny across many phyla.
-Author	Reviewer_2	2	13	7	2	This is in contrast with phylogeny of species in a narrow range of taxa, e.g., that of vertebrates (a subphylum) or human versus close relatives (a few genera).
-Author	Reviewer_2	2	13	7	2	Accordingly, the phylogeny should be compared with taxonomy at large, or, as Cavalier-Smith (citing cavalier-smith 2002) put it, with “megaclassificaton” of prokaryotes.
-Author	Reviewer_2	2	13	7	2	Although in taxonomy the description of a newly discovered organism necessarily starts from the lower ranks, higher rank assignments are often incomplete or lacking.
-Author	Reviewer_2	2	13	7	2	At present the ranks above class are not covered by the Bacteriological Code.
-Author	Reviewer_2	2	13	7	2	The number of plausible microbial phyla may reach hundreds and archaeal ones are among the less studied.
-Author	Reviewer_2	2	13	7	2	According to the 16S rRNA analysis, the major archaeal classes and their subordinate orders have been more or less delineated.
-Author	Reviewer_2	2	13	7	2	Therefore, in order to carry out the aforementioned cross verification we make emphasis on higher ranks such as phyla, classes, and orders.
-Author	Reviewer_2	2	13	7	2	A study using 179 Archaea genomes should provide a framework for further study of lower ranks.” Part 3.1
+Author	Reviewer_2	2	13	7	1	We tried to rephrase the paragraph by changing, deleting, or adding a few words as follows: “In this paper we study Archaea phylogeny across many phyla.
+Author	Reviewer_2	2	13	7	1	This is in contrast with phylogeny of species in a narrow range of taxa, e.g., that of vertebrates (a subphylum) or human versus close relatives (a few genera).
+Author	Reviewer_2	2	13	7	1	Accordingly, the phylogeny should be compared with taxonomy at large, or, as Cavalier-Smith (citing cavalier-smith 2002) put it, with “megaclassificaton” of prokaryotes.
+Author	Reviewer_2	2	13	7	1	Although in taxonomy the description of a newly discovered organism necessarily starts from the lower ranks, higher rank assignments are often incomplete or lacking.
+Author	Reviewer_2	2	13	7	1	At present the ranks above class are not covered by the Bacteriological Code.
+Author	Reviewer_2	2	13	7	1	The number of plausible microbial phyla may reach hundreds and archaeal ones are among the less studied.
+Author	Reviewer_2	2	13	7	1	According to the 16S rRNA analysis, the major archaeal classes and their subordinate orders have been more or less delineated.
+Author	Reviewer_2	2	13	7	1	Therefore, in order to carry out the aforementioned cross verification we make emphasis on higher ranks such as phyla, classes, and orders.
+Author	Reviewer_2	2	13	7	1	A study using 179 Archaea genomes should provide a framework for further study of lower ranks.” Part 3.1
 Reviewer_2	Author	1	8	0	2	The figure legends require more rigorous explanation.
 Reviewer_2	Author	1	8	0	2	Would be interesting to remember that the branch lengths are not taken into account, or were omitted.
 					0	Response:
@@ -196,8 +194,8 @@ Reviewer_2	Author	1	15	0	2	Add more explanations in legend of Figure3.
 Author	Reviewer_2	2	21	15	1	Done in the caption of Figure 2.
 Reviewer_2	Author	1	16	0	2	L143: Sounds clearer if you avoid mixing class and phylum, for example: “The placement of phylum Korarchaeota, as a closest neighbor of family Thermofilaceae, violates the monophyly of phylum Crenarchaeota.” Response:
 Author	Reviewer_2	2	22	16	1	We have rewritten the paragraph as: “The new phylum Korarchaeota violates the monophyly of the phylum Crenarchaeota by drawing to itself the family Thermofilaceae.
-					0	However, in an on-going study of ours (not published yet) using a much larger data set, this violation no longer shows up; both R8 Korarchaeota and Crenarchaeota restore their phylum status.
-					0	Taking into account the fact that both Korarchaeota and Thermofilaceae are represented by single species for the time being, their placement certainly requires further study with broader sampling of genomes.”
+Author	Reviewer_2	2	22	16	1	However, in an on-going study of ours (not published yet) using a much larger data set, this violation no longer shows up; both R8 Korarchaeota and Crenarchaeota restore their phylum status.
+Author	Reviewer_2	2	22	16	1	Taking into account the fact that both Korarchaeota and Thermofilaceae are represented by single species for the time being, their placement certainly requires further study with broader sampling of genomes.”
 Reviewer_2	Author	1	17	0	2	L146: No need to explain the 6+2 if it is properly explained in the figure legend.
 Reviewer_2	Author	1	17	0	2	Figure 3 is redundant.
 Reviewer_2	Author	1	17	0	2	I would recommend to avoid presenting different versions of the same tree; just the final tree is OK (use final/valid labels) and all important explanations in the text or legend.
@@ -361,8 +359,7 @@ Author	Reviewer_2	2	48	42	1	Even “herenow” does not seem to be an correct En
 					0	-
 Reviewer_2	Author	1	43	0	2	L212: was → were
 					0	— Done -
-Reviewer_2	Author	1	44	0	2	L225: aligned 5993 amino acids → 5993 aligned amino acids
-					0	.
+Reviewer_2	Author	1	44	0	2	L225: aligned 5993 amino acids → 5993 aligned amino acids.
 					0	— Done -
 Reviewer_2	Author	1	45	0	2	L254: 15S → 16S
 					0	— Done Second Round of Evaluation Round 2: and Author Response
@@ -381,8 +378,7 @@ Author	Reviewer_2	4	2	1	1	Now the sentences read: “This is distinct from phylo
 Author	Reviewer_2	4	2	1	1	Accordingly, the phylogeny should be compared with taxonomy at large, or, as Cavalier-Smith \cite{cavalier-smith2002} put it,with “megaclassificaton” of prokaryotes, focusing on taxonomy of higher ranks.” -
 Reviewer_2	Author	3	2	0	2	L45: should provide → provides
 					0	— Done -
-Reviewer_2	Author	3	3	0	2	L47–49: move to conclusions
-					0	?
+Reviewer_2	Author	3	3	0	2	L47–49: move to conclusions?
 					0	—
 Author	Reviewer_2	4	4	3	1	Moved to the conclusion section and the first word “Though” replaced by “In addition, since”
 Reviewer_2	Author	3	4	0	2	L81–85: I think this paragraph is interrupting a bit the text flow.

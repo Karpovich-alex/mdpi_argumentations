@@ -7,10 +7,10 @@ side	opponent	round	number	attacks	ann	text
 					0	I must note that a careful evaluation of all facets requires expertise in a multitude of disciplines (from prebiotic chemistry and structural biology to evolutionary bioinformatics and biochemistry) and considerable time, none of which I possess.
 					0	Therefore, my comments will be slanted by my own expertise and will only serve the author as a partial devil’s advocate effort General commentary Section 1.
 Reviewer_1	Author	1	1	0	2	The place of RNA in LUCA (page 2): In search of features that are more conserved (carrying deep phylogenetic memory) than the sequence of genes, Wächtershäuser focuses on a paper of his in Systematic and Applied Microbiology (1998) that uses gene content and order of microbial genomes to make inferences about the last universal common ancestor (LUCA) of cellular life.
-					0	He then R2 mines the significance of some of the conserved chromosomal segments in light of some other evidence.
-					0	The exercise is at places compelling, but forgets some recent, very global and exhaustive analyses that also use highly conserved biological features to reconstruct the makeup of LUCA (e.g., gene order, 3D molecular structure, molecular functions).
-					0	See for example PubMed references PMID: 17370266, PMID: 21612591, and PMID: 17908824, which are in line with some conclusions derived from the alignment of Figure 1.
-					0	The fact that these other analyses make use of hundreds of genomes to infer the ancient biochemistry of LUCA complements and strengthens the preliminary and fragmentary analysis of only 19 of them by the author, which also excludes eukaryotic genomes from the set (understandably, few sequenced genomes were available in 1998, and eukaryotes are in general “master rearrangers”).
+Reviewer_1	Author	1	1	0	2	He then mines the significance of some of the conserved chromosomal segments in light of some other evidence.
+Reviewer_1	Author	1	1	0	2	The exercise is at places compelling, but forgets some recent, very global and exhaustive analyses that also use highly conserved biological features to reconstruct the makeup of LUCA (e.g., gene order, 3D molecular structure, molecular functions).
+Reviewer_1	Author	1	1	0	2	See for example PubMed references PMID: 17370266, PMID: 21612591, and PMID: 17908824, which are in line with some conclusions derived from the alignment of Figure 1.
+Reviewer_1	Author	1	1	0	2	The fact that these other analyses make use of hundreds of genomes to infer the ancient biochemistry of LUCA complements and strengthens the preliminary and fragmentary analysis of only 19 of them by the author, which also excludes eukaryotic genomes from the set (understandably, few sequenced genomes were available in 1998, and eukaryotes are in general “master rearrangers”).
 					0	Response:
 Author	Reviewer_1	2	1	1	1	The three references have been noticed with gratitude and included in the MS.
 Reviewer_1	Author	1	2	0	2	Given my interest in the bioinformatics of gene content and order, I took the liberty of studying the brief Systematic & Applied Microbiology paper to check the validity of the “reconstruction” methods of Figure 1.
@@ -36,7 +36,6 @@ Author	Reviewer_1	2	2	2	1	Koonin “Gene order is not conserved in bacterial evo
 Author	Reviewer_1	2	2	2	1	TIG 1996, 12, 289–290.
 Author	Reviewer_1	2	2	2	1	The gene cluster table of 1998 was mainly retrieved from the annotations in published genomes and constructed manually with paper and pencil.
 Author	Reviewer_1	2	2	2	1	The state of information technology at that time is reflcted by the fact that the table was folded an individually pasted by hand into each issue by the publisher.
-					0	R3
 Reviewer_1	Author	1	3	0	2	The list of common genes in the alignment of Table 1 is enriched in small and large subunit ribosomal proteins that are the most ancient of the ribosomal set, according to the Caetano-Anolles theorem that is mentioned later in the manuscript.
 Reviewer_1	Author	1	3	0	2	Interestingly, the most ancient of them are clustered toward the 5’ end of the genomic sequences that were aligned (S12, S17, S5, S4 and L2, L3 and L24).
 Reviewer_1	Author	1	3	0	2	Could this imply a possible ancient segmental duplication?
@@ -66,10 +65,10 @@ Author	Reviewer_1	2	4	4	1	The effect should not be confused with the length-depe
 Author	Reviewer_1	2	4	4	1	Incidentally, some anaerobic ribonucleotide reductases are ancient, while others (aerobic ones) are later inventions.
 Reviewer_1	Author	1	5	0	2	In Line 114, the role of chromosomal rearrangement in evolution is not well described.
 Reviewer_1	Author	1	5	0	2	What are the effects of genome rearrangements?
-					0	Several scenarios are possible, including: (1) Genes remain linked R4 probably because it is more efficient to transcribe genes that produce interacting proteins (part of complexes) than those that are not; (2) Genes remain linked if they are of relatively recent origin (rearrangement has not had the change to split them apart); (3) Genes remain linked if they are part of functional groups historically united by genomic regions (encoding metabolic functions or rRNA?
-					0	); this includes genes sharing an operon structure for economy purposes in highly reduced organisms such as bacteria; (4) Genes remain linked because they originated when genomic rearrangements were not biochemically motivated and their sequence makeup was later refractory to rearrangement hotspots.
-					0	There is a rich literature about rearrangement, hotspots and many processes related to these (including domain organization in proteins).
-					0	Some discussion in this front could be clarifying.
+Reviewer_1	Author	1	5	0	2	Several scenarios are possible, including: (1) Genes remain linked R4 probably because it is more efficient to transcribe genes that produce interacting proteins (part of complexes) than those that are not; (2) Genes remain linked if they are of relatively recent origin (rearrangement has not had the change to split them apart); (3) Genes remain linked if they are part of functional groups historically united by genomic regions (encoding metabolic functions or rRNA?
+Reviewer_1	Author	1	5	0	2	); this includes genes sharing an operon structure for economy purposes in highly reduced organisms such as bacteria; (4) Genes remain linked because they originated when genomic rearrangements were not biochemically motivated and their sequence makeup was later refractory to rearrangement hotspots.
+Reviewer_1	Author	1	5	0	2	There is a rich literature about rearrangement, hotspots and many processes related to these (including domain organization in proteins).
+Reviewer_1	Author	1	5	0	2	Some discussion in this front could be clarifying.
 					0	Response:
 Author	Reviewer_1	2	5	5	1	Genome rearrangements are certainly important during later evolution of the phyla.
 Author	Reviewer_1	2	5	5	1	At the level of LUCA, i.e., prior to the splitting of the domains, it is not clear, if and to what extent rearrangements of the modern style occurred.
@@ -98,11 +97,11 @@ Reviewer_1	Author	1	7	0	2	What is thermally upward or downward adaptation?
 Reviewer_1	Author	1	7	0	2	Is it conquering niches on Earth or a process involving molecular makeup?
 Reviewer_1	Author	1	7	0	2	Vocabulary and definitions are murky, especially related to the links of environmental thermal fluctuations, energy of folding and stability of polymers.
 Reviewer_1	Author	1	7	0	2	Subsection (1) must be rewritten to help the reader understand the ideas.
-					0	Should all adaptations comply with maximizing energy R5 dissipation?
-					0	How can this be reconciled with upward and downward trends?
-					0	No references are provided despite the rich literature underscoring the controversial link between physics, information theory and biology.
-					0	If the focus is conquering planetary niches, then perhaps reference the contrasting views and some of their proponents (deep sea versus surface; thermophilic versus mesophilic, etc.).
-					0	Further elaboration of the Wolfenden theorem appears relevant and its connections to what is known about the origin and evolution of metabolism also of importance.
+Reviewer_1	Author	1	7	0	2	Should all adaptations comply with maximizing energy R5 dissipation?
+Reviewer_1	Author	1	7	0	2	How can this be reconciled with upward and downward trends?
+Reviewer_1	Author	1	7	0	2	No references are provided despite the rich literature underscoring the controversial link between physics, information theory and biology.
+Reviewer_1	Author	1	7	0	2	If the focus is conquering planetary niches, then perhaps reference the contrasting views and some of their proponents (deep sea versus surface; thermophilic versus mesophilic, etc.).
+Reviewer_1	Author	1	7	0	2	Further elaboration of the Wolfenden theorem appears relevant and its connections to what is known about the origin and evolution of metabolism also of importance.
 					0	Response:
 Author	Reviewer_1	2	7	7	1	Based on the valuable criticism Section 2 has been extensively revised.
 Author	Reviewer_1	2	7	7	1	Terminology has been clarified.
@@ -166,8 +165,7 @@ Author	Reviewer_1	2	12	12	1	The term “interpolate” has been clarified.
 					0	
 Author	Reviewer_1	2	13	13	1	The problem of mutational saturation is now included in the discussion of Figure 1.
 					0	
-Author	Reviewer_1	2	14	14	1	The term “multiply impaired” has been replaced by a clearer wording
-					0	.
+Author	Reviewer_1	2	14	14	1	The term “multiply impaired” has been replaced by a clearer wording.
 					0	
 Author	Reviewer_1	2	15	15	1	LUCA is discussed only in Section 1.
 					0	
@@ -181,8 +179,8 @@ Reviewer_2	Author	1	1	0	2	Is a theorem Kandler’s theory or proposal?
 					0	Response:
 Author	Reviewer_2	2	17	1	1	There are many relevant literature references.
 Author	Reviewer_2	2	17	1	1	Among these there are specific proposals concerning a circumscribed problem that are included to fill a logical gap, as a theoretical module so to speak.
-					0	These have been designated by the term “theorem” with the added name(s) of the main R7 author(s).
-					0	This makes it clear that the account given is comprehensive in the sense that major independent contributions by other scientists integrate readily with the overall account given.
+Author	Reviewer_2	2	17	1	1	These have been designated by the term “theorem” with the added name(s) of the main R7 author(s).
+Author	Reviewer_2	2	17	1	1	This makes it clear that the account given is comprehensive in the sense that major independent contributions by other scientists integrate readily with the overall account given.
 Reviewer_2	Author	1	2	0	2	Line 716: The biosyntheses of His and Trp are not so closely related.
 Reviewer_2	Author	1	2	0	2	They only have in common that they use phosphoribosediphosphate as substrate and therefore share two related enzymes.
 					0	Response:

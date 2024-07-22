@@ -44,8 +44,8 @@ Reviewer_1	Author	1	10	0	2	"Could you be more specific on the ""spherical model"
 Reviewer_1	Author	1	10	0	2	Co you assume the pore volume remains unchanged, but the number increases?
 Reviewer_1	Author	1	10	0	2	or visa verse?
 					0	11.
-					0	What do you mean by “are calculated” on line 199?
-					0	What are the basic equations and assumptions for this calculation?
+Reviewer_1	Author	1	11	0	2	What do you mean by “are calculated” on line 199?
+Reviewer_1	Author	1	11	0	2	What are the basic equations and assumptions for this calculation?
 					0	12.
 Reviewer_1	Author	1	12	0	2	Again, what is happening?
 Reviewer_1	Author	1	12	0	2	Are the number of pores increasing or is the existing pores increasing in volume?

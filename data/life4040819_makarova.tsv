@@ -90,9 +90,7 @@ Author	Reviewer_1	2	9	9	1	Line 415—This was corrected.
 					0	R4 Because the EM figures are difficult to view within the Word document, we provide a high-quality figure as a supplement.
 					0	Within the text, corrected words are highlighted.
 					0	Major points: (1)
-Reviewer_2	Author	1	1	0	2	About 20 years ago it was shown that in order to preserve crucial ultrastructural features of cyanobacterial cell walls, the cells have to be processed using cryo-procedures (Envelope structure of four gliding filamentous cyanobacteria.
-Reviewer_2	Author	1	3	0	8	J. Bacteriol.
-Reviewer_2	Author	1	1	0	2	1995, 177, 2387–2395).
+Reviewer_2	Author	1	1	0	2	About 20 years ago it was shown that in order to preserve crucial ultrastructural features of cyanobacterial cell walls, the cells have to be processed using cryo-procedures (Envelope structure of four gliding filamentous cyanobacteria. J. Bacteriol. 1995, 177, 2387–2395).
 Reviewer_2	Author	1	1	0	2	The authors use an outdated and very artifact-laden method to process their samples.
 Reviewer_2	Author	1	1	0	2	This choice is responsible for a number of shortcomings that need to be addressed: The lack of certain features such as the S-layer and the oscillin fibrils in the reported pictures are attributable to the choice of preparation, as they are clearly present in two species of the same genus described in the above cited paper.
 Reviewer_2	Author	1	1	0	2	Moreover, these structures would explain the rotation of the cells that now is somewhat “mysteriously” explained by a helical slime ejection that is not supported by the observed arrangement of the nozzles.
@@ -105,21 +103,15 @@ Author	Reviewer_2	2	10	1	1	We agree that the method of fixation was not good for
 Reviewer_2	Author	1	2	0	2	(a) Clearly spell out in the text why there are no oscillin fibrils and surface structures visible and compare their results with the published results of the cell wall structure of the species of the same genus prepared using cryo-procedures.
 					0	Response:
 Author	Reviewer_2	2	11	2	1	This point was added in Section 3.7, in which oscillin is discussed.
-					0	In general, pore- inclination and oscillin fibrils are not exclusive.
+Author	Reviewer_2	2	11	2	1	In general, pore-inclination and oscillin fibrils are not exclusive.
 					0	We describe both as mechanisms.
-Reviewer_2	Author	1	3	0	2	(b) There is no clear distinction in the text between the “sheath” and the secreted “slime” of the cells, which are two completely different structures both physically and chemically (Structural and biochemical analysis of the sheath of Phormidium uncinatum.
-					0	J. Bacteriol.
-Reviewer_2	Author	1	3	0	4	1998, 180, 3923– 3932).
+Reviewer_2	Author	1	3	0	2	(b) There is no clear distinction in the text between the “sheath” and the secreted “slime” of the cells, which are two completely different structures both physically and chemically (Structural and biochemical analysis of the sheath of Phormidium uncinatum. J. Bacteriol. 1998, 180, 3923– 3932).
 Reviewer_2	Author	1	3	0	2	Figure 1A shows a filament that lacks the “sheath”, while in other pictures the structure is visible.
 Reviewer_2	Author	1	3	0	2	The reason for this is the following: cyanobacteria of the genus Phormidium build over time a carbohydrate layer on their surface that is physically attached to their cell surface, usually called the sheath.
 Reviewer_2	Author	1	3	0	2	Filaments that are ensheathed are non-motile!
-Reviewer_2	Author	1	3	0	2	In contrast, the slime that is secreted by gliding filaments of the same species is not visible in TEM preparations, even when cryo-preservation methods are used (see Figure 1A of the ms and Envelope structure of four gliding filamentous cyanobacteria.
-					0	J. Bacteriol.
-Reviewer_2	Author	1	3	0	2	1995, 177, 2387–2395 and Structural and biochemical analysis of the sheath of Phormidium uncinatum.
-					0	J. Bacteriol.
-					0	1998, 180, 3923– 3932).
+Reviewer_2	Author	1	3	0	2	In contrast, the slime that is secreted by gliding filaments of the same species is not visible in TEM preparations, even when cryo-preservation methods are used (see Figure 1A of the ms and Envelope structure of four gliding filamentous cyanobacteria. J. Bacteriol. 1995, 177, 2387–2395 and Structural and biochemical analysis of the sheath of Phormidium uncinatum. J. Bacteriol. 1998, 180, 3923– 3932).
 Reviewer_2	Author	1	3	0	2	Therefore, the authors should go through their ms and make a careful distinction between these two structures.
-					0	For example, in the discussion it sounds as if the “sheath” is preventing the R5 cells from sliding, however this is the slime tube that is secreted that is not physically attached to the cell surface at all.
+Reviewer_2	Author	1	3	0	2	For example, in the discussion it sounds as if the “sheath” is preventing the R5 cells from sliding, however this is the slime tube that is secreted that is not physically attached to the cell surface at all.
 					0	Response:
 Author	Reviewer_2	2	12	3	1	The quality of Figure 1A was rather bad.
 Author	Reviewer_2	2	12	3	1	The contrast was corrected and a new figure was inserted.

@@ -68,7 +68,8 @@ Author	Reviewer_1	2	1	2	1	Despite this, the trichomes in our simulations are sti
 Author	Reviewer_1	2	1	2	1	Even if the virtual trichomes are somewhat too stiff, we do not feel that this would have a major impact on the results.
 					0	(2)
 Author	Reviewer_1	2	2	3	1	We added the following statement to the end of Section 3.3: “The simulation results of the previous section for β > 0.5 are unlikely to be affected by the domain size, however, since the features in those simulations are on a much smaller scale than the domain size and are also more chaotic, as seen in the correlation length and the global alignment (Figure 5a,d).”
-					0	(3) We added the following clarification to the end of the non-dimensionalization section: “In the subsequent sections, simulations for β = 0 use a modified interaction force such that there is no cohesion, but the hard core repulsion is maintained, i.e., 0 0 c F = for 0 h ≥ , otherwise 0 c c F F = with β = 0.125.” (4)
+					0	(3)
+Author	Reviewer_1	2	3	4	1	We added the following clarification to the end of the non-dimensionalization section: “In the subsequent sections, simulations for β = 0 use a modified interaction force such that there is no cohesion, but the hard core repulsion is maintained, i.e., 0 0 c F = for 0 h ≥ , otherwise 0 c c F F = with β = 0.125.” (4)
 Author	Reviewer_1	2	4	5	1	We added two references to justify using the Lennard–Jones potential.
 					0	(5)
 Author	Reviewer_1	2	5	6	1	We added the following clarification: “This is simulated by generating a pseudo-random number x following a uniform distribution X ~ U(0,1), and reversing the gliding direction if x < ω⋅∆t.
@@ -90,15 +91,15 @@ Author	Reviewer_1	2	11	12	1	References to the movies were added to the results s
 					0	Qualitative comparisons are made to the fossil record and modern experiments.
 					0	I have a few comments, suggestions, and questions.
 					0	I do not feel that any of these points demand major changes to the manuscript, which is generally fine in the present form.
-					0	(1) Notation: • L is used both for the length of the trichome Nl and in the non-dimensionalization as 0 αν ζ .
-					0	• I have never seen , ⋅⋅used to define an edge.
+Reviewer_2	Author	1	1	0	2	(1) Notation: • L is used both for the length of the trichome Nl and in the non-dimensionalization as 0 αν ζ .
+Reviewer_2	Author	1	2	0	2	• I have never seen , ⋅⋅used to define an edge.
 					0	It looks like an inner product.
 					0	Is this standard?
 Reviewer_2	Author	1	3	0	2	• In Equations (5)–(8), is there any difference between subscripts and superscripts?
-					0	• It is confusing that b κ is a vector that is not simply related to b. I initially thought that κ was a new parameter.
+Reviewer_2	Author	1	4	0	2	• It is confusing that b κ is a vector that is not simply related to b. I initially thought that κ was a new parameter.
 					0	Similarly, it is odd that e is a vector and [e] is a matrix.
 					0	Why not use the Levi–Civita tensor?
-					0	• ˆ h looks like a unit vector parallel to h. Is there a reason that h only has a ˆ ⋅ in Equation (12)?
+Reviewer_2	Author	1	5	0	2	• ˆ h looks like a unit vector parallel to h. Is there a reason that h only has a ˆ ⋅ in Equation (12)?
 					0	(2)
 Reviewer_2	Author	1	6	0	2	Walter (ref 7) describes the formation of “clumps” which are very similar to the structures describes by Shepard.
 Reviewer_2	Author	1	6	0	2	Shepard and Sumner provide better images (Walter only shows sketches), but it might be worth mentioning that the phenomenon is more general.
@@ -122,9 +123,10 @@ Reviewer_2	Author	1	9	0	2	In the estimation of the Young’s modulus it is assum
 Reviewer_2	Author	1	9	0	2	I suspect that this is a very poor approximation, accounting for the two order of magnitude difference between the estimated and benchmark values of Y.
 Reviewer_2	Author	1	9	0	2	It would seem that the resistance is controlled or at least influenced by additional factors such as protein expression (notably MreB) and osmotic pressure.
 Reviewer_2	Author	1	9	0	2	If my intuition is wrong (I am not an expert on cell morphology), I would appreciate knowing why.
-					0	(6) If I understand correctly, there are six important length scales in the problem, the size of the domain DH , the spacing between trichomes 13 ρ − , 0 , , L l αν ζ = Θ, and the trichome length L = Nl (also denoted L in the manuscript), giving five dimensionless numbers.
-					0	However, in the non-dimensionalization, the authors state that there are only two parameters: ρ and Nl γ θ = .
-					0	Unless I am mistaken, there are additional parameters like l/L, Nl/D, and N that the authors hold fixed but may influence the details of the numerics.
+					0	(6)
+Reviewer_2	Author	1	10	0	2	If I understand correctly, there are six important length scales in the problem, the size of the domain DH , the spacing between trichomes 13 ρ − , 0 , , L l αν ζ = Θ, and the trichome length L = Nl (also denoted L in the manuscript), giving five dimensionless numbers.
+Reviewer_2	Author	1	10	0	2	However, in the non-dimensionalization, the authors state that there are only two parameters: ρ and Nl γ θ = .
+Reviewer_2	Author	1	10	0	2	Unless I am mistaken, there are additional parameters like l/L, Nl/D, and N that the authors hold fixed but may influence the details of the numerics.
 					0	(7)
 Reviewer_2	Author	1	11	0	2	It seems a little odd to posit an attractive force in the derivation (Equation (12)) and then ignore/dismiss it in the numerics (“… in reality the attractive force does not really exist, trichomes only cohere after they have come into contact” page 12).
 Reviewer_2	Author	1	11	0	2	Clearly, this is done to (quite reasonably) avoid modeling steric interactions with hard bodies.
@@ -141,8 +143,8 @@ Reviewer_2	Author	1	13	0	2	Just something to think about.
 					0	(9)
 Reviewer_2	Author	1	14	0	2	In this model, the density of cells is assumed to be constant.
 Reviewer_2	Author	1	14	0	2	However, the timescale of the simulations is comparable to the doubling time of many bacteria.
-					0	Because cell density is found to R6 be important in determining the morphology of communities, I suspect that reproduction is important in understanding the patterns.
-					0	This point might be worth addressing in the text.
+Reviewer_2	Author	1	14	0	2	Because cell density is found to R6 be important in determining the morphology of communities, I suspect that reproduction is important in understanding the patterns.
+Reviewer_2	Author	1	14	0	2	This point might be worth addressing in the text.
 Reviewer_2	Author	1	15	0	2	Notably, the introduction of reproduction does not introduce another parameter.
 Reviewer_2	Author	1	15	0	2	As I recall, these cyanobacteria reproduce (with doubling time τ ) by adding cells to the filament and that filaments periodically break (rate k+).
 Reviewer_2	Author	1	15	0	2	Thus, the length of a filament is not a model parameter.
@@ -162,11 +164,11 @@ Reviewer_2	Author	1	17	0	2	A quick google search produced this video of mat of t
 Reviewer_2	Author	1	17	0	2	http://vimeo.com/57205513 (note: I have no idea of the details of these observations so any similarity may be spurious).
 					0	Round 1: Author Response to Reviewer 2 We would like to thank the reviewer for his/her thorough review of our manuscript and thoughtful comments.
 					0	In response to the reviewers’ comments: (1)
-Author	Reviewer_2	2	16	5	5	The symbol used to denote trichome length was changed to an uppercase lambda.
-					0	The , ⋅⋅ is often used to denote a tuple in computer science, in this case a pair.
-					0	The superscripts should have been subscripts.
-					0	The notation used in Equations (5)–(8) was adopted from Bergou et al’s paper.
-					0	h-hat is in fact a unit vector parallel to h, and we’ve clarified the text to this point.
+Author	Reviewer_2	2	16	5	1	The symbol used to denote trichome length was changed to an uppercase lambda.
+Author	Reviewer_2	2	16	5	1	The , ⋅⋅ is often used to denote a tuple in computer science, in this case a pair.
+Author	Reviewer_2	2	16	5	1	The superscripts should have been subscripts.
+Author	Reviewer_2	2	16	5	1	The notation used in Equations (5)–(8) was adopted from Bergou et al’s paper.
+Author	Reviewer_2	2	16	5	1	h-hat is in fact a unit vector parallel to h, and we’ve clarified the text to this point.
 					0	(2)
 Author	Reviewer_2	2	17	6	1	We added a few sentences to the introduction that expand a bit on similar structures in the Petroff and Walter references.
 					0	(3)
@@ -179,15 +181,15 @@ Author	Reviewer_2	2	20	9	1	Our estimate is simplistic, however we were unable to
 					0	(6)
 Author	Reviewer_2	2	21	10	1	There are indeed additional parameters.
 Author	Reviewer_2	2	21	10	1	We have added a complete list to Section 2.8.
-					0	Many are explored to some extent in the results (beta, reversal frequency, domain dimensions, trichome R7 density), whereas most of the physical characteristics of the trichomes are known from published sources (diameter, length, gliding speed, bending modulus), and finally N was simply chosen so that trichomes had a “smooth” appearance.
+Author	Reviewer_2	2	21	10	1	Many are explored to some extent in the results (beta, reversal frequency, domain dimensions, trichome R7 density), whereas most of the physical characteristics of the trichomes are known from published sources (diameter, length, gliding speed, bending modulus), and finally N was simply chosen so that trichomes had a “smooth” appearance.
 					0	(7)
 Author	Reviewer_2	2	22	11	1	To avoid confusion on this point we have replaced this statement with the following: “We find that these errors are infrequent and acceptable as a trade-off for increased computational performance.” We have also added a comment to Section 2.5 regarding the Lennard–Jones interaction: “The attractive force has a short range, and is practically zero at h = 2θ.”
 					0	(8)
-Author	Reviewer_2	2	24	13	2	It would be interesting to explore the approach the reviewer suggested; we have not yet explored more coarse grained models.
+Author	Reviewer_2	2	24	13	1	It would be interesting to explore the approach the reviewer suggested; we have not yet explored more coarse grained models.
 					0	(9)
-Author	Reviewer_2	2	26	15	2	Shepard et al.
-Author	Reviewer_2	2	26	15	2	claim that the formation of the reticulate pattern occurs on a faster scale than cell growth and division, and so we did not consider this in our model.
-Author	Reviewer_2	2	26	15	2	Including this might make the results more robust, however, and we added a comment to the discussion.
+Author	Reviewer_2	2	26	15	1	Shepard et al.
+Author	Reviewer_2	2	26	15	1	claim that the formation of the reticulate pattern occurs on a faster scale than cell growth and division, and so we did not consider this in our model.
+Author	Reviewer_2	2	26	15	1	Including this might make the results more robust, however, and we added a comment to the discussion.
 					0	(10)
 Author	Reviewer_2	2	27	16	1	We had plans to include a quantitative comparison, however we were not able obtain a good dataset for doing so.
 Author	Reviewer_2	2	27	16	1	It would be interesting to replicate Shepard’s experiments taking care to collect enough good quality images/movies for a quantitative analysis on the patterns.
@@ -209,7 +211,7 @@ Reviewer_1	Author	3	1	0	2	At the end of the discussion of the bending modulus (i
 Reviewer_1	Author	3	2	0	2	In Section 4, the discussion section of the paper, the topic of the bending modulus is returned to for a paragraph.
 Reviewer_1	Author	3	2	0	2	This paragraph needs to explicitly address why the measurements of Boal and Ng were not used, i.e., why Boal and Ng misinterpreted their data.
 Reviewer_1	Author	3	2	0	2	In particular the authors should suggest how the measurements are significant measurements to not use.
-					0	In particular this paragraph needs to R8 suggest how the measurement should be done to properly test their suggested values for the bending modulus, and so resolve the disagreement with Boal and Ng.
+Reviewer_1	Author	3	2	0	2	In particular this paragraph needs to R8 suggest how the measurement should be done to properly test their suggested values for the bending modulus, and so resolve the disagreement with Boal and Ng.
 					0	Round 2: Author Response to Reviewer 1 We have addressed the reviwer’s requests: (1)
 Author	Reviewer_1	4	1	1	1	We added the following sentence to the end of Section 2.8: “This value corresponds to a persistence length of 0.49 m, which implies that the trichomes would be practically unaffected by thermal fluctuations.”
 					0	(2)

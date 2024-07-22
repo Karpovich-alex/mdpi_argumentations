@@ -3,7 +3,7 @@ side	opponent	round	number	attacks	ann	text
 					0	The article may be of interest, but for researchers in the field of plasma physics and gas discharges.
 					0	Of course, the article discusses the effect of particles, including possibly nanoparticles, on the discharge glow, but the article is not suitable for the journal's topics.
 					0	Reply:
-Author	Reviewer_3	2	13	3	2	The manuscript has been revised.
+Author	Reviewer_3	2	13	3	1	The manuscript has been revised.
 Author	Reviewer_3	2	11	1	1	Several references was added.
 					0	We hope that the results presented in the article will also be of interest to researchers who deal with micro and nanoparticles in traditional areas of nanomaterial physics [1-8].
 					0	Edits in the text are highlighted in either yellow or red font.
@@ -28,17 +28,17 @@ Reviewer_1	Author	1	2	0	2	The article is more descriptive in nature, there is no
 Reviewer_1	Author	1	3	0	2	"Lines 168, 169 ""An increase in the track brightness is apparently determined by an increase in the particle charge and size due to the evaporation of metal from the surface."""
 Reviewer_1	Author	1	3	0	2	One can agree with the influence of the particle size on the track size, but how can an increase in the particle charge affect the track glow?
 					0	Reply:
-Author	Reviewer_3	2	13	3	3	This judgment was removed from the text of the manuscript.
+Author	Reviewer_3	2	13	3	1	This judgment was removed from the text of the manuscript.
 Reviewer_1	Author	1	4	0	2	Lines 173-175 «Based on the brightness of the track glow, the plasma concentration at the particle surface increases with distance from the cathode.» Again, it is not clear how the plasma density on the particle surface can affect the brightness of the track glow.
 					0	Reply:
-Author	Reviewer_1	2	5	4	2	Plasma concentration discussions have been removed from the text because no such measurements have been made.
-Author	Reviewer_1	2	5	4	2	The nature of the glow of the particles in Figure 3 corresponds to the glow of a micrometeorite that burns down in the Earth's atmosphere [13] and [http://galaxy.astron.kharkov.ua/statti/meteor.htm].
-Author	Reviewer_1	2	5	4	2	The brightness of the micrometeorite (the particle) glow increases towards the track’s end.
-Author	Reviewer_1	2	5	4	2	This cannot be explained by an increase in the particle velocity, since the particle stops.
-Author	Reviewer_1	2	5	4	2	This occurs after the voltage pulse action.
-Author	Reviewer_1	2	5	4	2	We believe that an increase in the radiation intensity of the particle is due to its heating during deceleration on gas particles.
-Author	Reviewer_1	2	5	4	2	The text of the article has been revised.
-Author	Reviewer_1	2	5	4	2	Such inaccuracies are found throughout the text.
+Author	Reviewer_1	2	5	4	1	Plasma concentration discussions have been removed from the text because no such measurements have been made.
+Author	Reviewer_1	2	5	4	1	The nature of the glow of the particles in Figure 3 corresponds to the glow of a micrometeorite that burns down in the Earth's atmosphere [13] and [http://galaxy.astron.kharkov.ua/statti/meteor.htm].
+Author	Reviewer_1	2	5	4	1	The brightness of the micrometeorite (the particle) glow increases towards the track’s end.
+Author	Reviewer_1	2	5	4	1	This cannot be explained by an increase in the particle velocity, since the particle stops.
+Author	Reviewer_1	2	5	4	1	This occurs after the voltage pulse action.
+Author	Reviewer_1	2	5	4	1	We believe that an increase in the radiation intensity of the particle is due to its heating during deceleration on gas particles.
+Author	Reviewer_1	2	5	4	1	The text of the article has been revised.
+Author	Reviewer_1	2	5	4	1	Such inaccuracies are found throughout the text.
 Reviewer_1	Author	1	5	0	2	In this regard, I would recommend that the authors revise the article (taking into account their colossal authority in the scientific community and the possibility of conducting more thorough experimental research) and send the article to a more specialized journal.
 					0	Reply:
 Author	Reviewer_1	2	6	5	1	The text of the article was finalized and the English was improved.

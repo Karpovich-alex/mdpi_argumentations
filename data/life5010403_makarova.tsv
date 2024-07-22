@@ -14,8 +14,8 @@ Author	Reviewer_1	2	1	1	1	To allow readers to get a better understanding of the 
 					0	(2)
 Reviewer_1	Author	1	2	0	2	PSII activity is derived from fluorescence measurement, as ETR.
 Reviewer_1	Author	1	2	0	2	I am missing calibration with real measurements of PSII activity such as O2 evolution.
-					0	You have got to show it for each organism you R2 are examining otherwise it is worthless.
-					0	There are many reports in the literature showing dramatic decline in fluorescence but hardly any change in O2 evolution.
+Reviewer_1	Author	1	2	0	2	You have got to show it for each organism you are examining otherwise it is worthless.
+Reviewer_1	Author	1	2	0	2	There are many reports in the literature showing dramatic decline in fluorescence but hardly any change in O2 evolution.
 					0	Response:
 Author	Reviewer_1	2	2	2	1	Since submitting the manuscript, we have accumulated a set of 84 parallel measurements of steady state oxygen evolution and the functional content of PSII measured using flash yields (with a solid state optode) and simultaneous FRR chlorophyll fluorescence induction curves, from which we can extract e- PSII-1 s-1, for both Synechococcus and Prochlorococcus cultures.
 Author	Reviewer_1	2	2	2	1	Consistent with the long literature history of such measurements (ex.
@@ -43,9 +43,8 @@ Reviewer_2	Author	1	2	0	2	Line 46 – (and throughout) be clear if you mean nume
 Author	Reviewer_2	2	5	2	1	We mean that they numerically dominate and we have clarified this in the introduction.
 					0	(3)
 Reviewer_2	Author	1	3	0	2	Introduction paragraph 2 – I am unsure we know that physbobilisomes require more resource than pcb proteins – this depends on the ratio of antenna to reaction centre?
-					0	Please include references if R3 this has been shown.
-					0	Also, not all Pcb proteins are constitutively expressed (e.g., see Bibby et al.
-					0	Nature 2003).
+Reviewer_2	Author	1	3	0	2	Please include references if R3 this has been shown.
+Reviewer_2	Author	1	3	0	2	Also, not all Pcb proteins are constitutively expressed (e.g., see Bibby et al. Nature 2003).
 					0	Response:
 Author	Reviewer_2	2	6	3	1	We have clarified this statement in the text.
 Author	Reviewer_2	2	6	3	1	We refer to the nitrogen cost in the form of allocation to protein per pigment bound.

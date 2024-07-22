@@ -41,35 +41,35 @@ Reviewer_1	Author	1	5	0	2	If a few sets of amino acids were considered to define
 					0	4.
 Reviewer_1	Author	1	6	0	2	The authors did not report any Tyrosinase enzyme inhibition assay, they are requested to justify Tyrosinase inhibition as the probable mechanism of action for these sets of ligands by providing suitable literature references.
 					0	Response:
-Author	Reviewer_1	2	6	6	4	We appreciate the comments of the reviewer and the following are the answers in response to the question for the kind consideration of the reviewer- Tyrosinase is a key enzyme in melanogenesis, which is essential for pigmentation.
-Author	Reviewer_1	2	6	6	4	Dysfunction of tyrosinase may cause skin cancer.
-Author	Reviewer_1	2	6	6	4	It is well-known that tyrosinase of Bacillus Megaterium bacteria is an attractive target for the development of antimicrobials or antibiotic adjuvants for the treatment of hyperpigmentation because of its similarity (33.5%) to the human enzyme [97-103].
-Author	Reviewer_1	2	6	6	4	That’s why, to investigate and compare the antimicrobial activity of the synthesized compounds with in vitro data, docking analysis of L1 and L2 against tyrosinase from Bacillus Megaterium was performed.
-Author	Reviewer_1	2	6	6	4	Also, molecular docking with other proteins of B. Megaterium was conducted, but 46ju provided better binding affinity with the synthesized compounds.
-Author	Reviewer_1	2	6	6	4	For this reason, we aim to study the structure of tyrosinase from the bacteria.
-Author	Reviewer_1	2	6	6	4	Preliminary antimicrobial studies were carried out to validate the docking protocol.
-Author	Reviewer_1	2	6	6	4	At present, we are doing the fluorescence activities of these ligands and L2 showed excellent fluorescent emission at λmax 520 nm.
-Author	Reviewer_1	2	6	6	4	So, we hope that we will carry out ALA scan (Alanine scanning) based MD experiments and 100ns Molecular dynamics (MD) simulation guided protein-ligand stability in the future for our next study since within this shortest time, we are unable to do these experiments.
-Author	Reviewer_1	2	6	6	4	The active binding site of tyrosinase was predicted by CASTp.
-Author	Reviewer_3	2	19	12	6	The binding site residues predicted by CASTp for tyrosinase were used for grid generation.
-Author	Reviewer_1	2	6	6	4	We have included this in the manuscript as follows:
+Author	Reviewer_1	2	6	6	1	We appreciate the comments of the reviewer and the following are the answers in response to the question for the kind consideration of the reviewer- Tyrosinase is a key enzyme in melanogenesis, which is essential for pigmentation.
+Author	Reviewer_1	2	6	6	1	Dysfunction of tyrosinase may cause skin cancer.
+Author	Reviewer_1	2	6	6	1	It is well-known that tyrosinase of Bacillus Megaterium bacteria is an attractive target for the development of antimicrobials or antibiotic adjuvants for the treatment of hyperpigmentation because of its similarity (33.5%) to the human enzyme [97-103].
+Author	Reviewer_1	2	6	6	1	That’s why, to investigate and compare the antimicrobial activity of the synthesized compounds with in vitro data, docking analysis of L1 and L2 against tyrosinase from Bacillus Megaterium was performed.
+Author	Reviewer_1	2	6	6	1	Also, molecular docking with other proteins of B. Megaterium was conducted, but 46ju provided better binding affinity with the synthesized compounds.
+Author	Reviewer_1	2	6	6	1	For this reason, we aim to study the structure of tyrosinase from the bacteria.
+Author	Reviewer_1	2	6	6	1	Preliminary antimicrobial studies were carried out to validate the docking protocol.
+Author	Reviewer_1	2	6	6	1	At present, we are doing the fluorescence activities of these ligands and L2 showed excellent fluorescent emission at λmax 520 nm.
+Author	Reviewer_1	2	6	6	1	So, we hope that we will carry out ALA scan (Alanine scanning) based MD experiments and 100ns Molecular dynamics (MD) simulation guided protein-ligand stability in the future for our next study since within this shortest time, we are unable to do these experiments.
+Author	Reviewer_1	2	6	6	1	The active binding site of tyrosinase was predicted by CASTp.
+Author	Reviewer_3	2	19	12	1	The binding site residues predicted by CASTp for tyrosinase were used for grid generation.
+Author	Reviewer_1	2	6	6	1	We have included this in the manuscript as follows:
 Author	Reviewer_3	2	18	11	1	4.9.
-Author	Reviewer_3	2	21	14	6	Molecular Docking Study Molecular docking is a powerful tool to investigate and provide a proper understanding for ligand receptor interactions in order to facilitate the design of potential drugs [93-96].
-Author	Reviewer_3	2	21	14	6	To investigate and compare the antimicrobial activity of the synthesized compounds, docking analysis of L1 and L2 against tyrosinase from Bacillus Megaterium were performed.
-Author	Reviewer_3	2	21	14	6	It is well-known that tyrosinase of Bacillus Megaterium bacteria is an attractive target for the development of antimicrobials or antibiotic adjuvants for the treatment of hyperpigmentation because of its similarity (33.5%) to the human enzyme [97-100].
-Author	Reviewer_3	4	2	1	5	4.9.1.
-Author	Reviewer_1	2	6	6	4	Binding affinity of L1 and L2 The highest anti-bacterial activity (zone of inhibition 12 mm) of compound L2 was detected with tyrosinase from Bacillus Megaterium (PDB ID: 4j6u) bacteria compared to L1.
-Author	Reviewer_1	2	6	6	4	The binding energies for L1 and L2 with Bacillus Megaterium were −7.7 and −8.8 kcal mol−1, respectively, which were calculated by AutoDock Vina.
-Author	Reviewer_1	2	6	6	4	The interactions of the 4j6u with compounds L1 and L2 are shown in the Fig.
-Author	Reviewer_3	4	2	1	5	6.
-Author	Reviewer_3	4	2	1	5	In L1-4j6u, one conventional hydrogen bond (3.04 Å) of O-H----O-C observed between O-H of Tyr267A and O-C group of compounds L1.
-Author	Reviewer_3	4	2	1	5	Pi-cation, pi-sulfur and amide-pi bonds were also noticed with LYS47A, PHE48A, ILE39A, ALA40A, GLY43B and ALA44B, respectively.
-Author	Reviewer_3	4	2	1	5	Moreover, ALA44A, LYS47A, ALA44B, LYS47B, PRO52A, ALA40B and ILE139B were actively involved in the non-covalent interaction (hydrophobic pi-alkyl).
-Author	Reviewer_3	4	2	1	5	L2-4j6u complex was stabilized by four NH….O hydrogen bonds and they were LYS47A (2.25 Å), GLY143B (3.04 Å), Tyr267A (3.07 Å) and PRO219B (2.91 Å) (Fig.
-Author	Reviewer_3	4	2	1	5	6).
-Author	Reviewer_3	4	2	1	5	Like L1, L2 formed pi-cation and amide-pi bonds with LYS47A, ILE39A, GLY43B, where the distances were 3.73, 4.34, 3.54 Å. L2 also formed seven pi-alkyl bonds with ALA44A (5.19 Å), LYS47A (4.35 Å), ALA44B (3.95 Å), LYS47B (4.98 Å), PRO52A (5.04 Å), ALA40B (4.67 Å) and ILE139B (4.24 Å), respectively.
-Author	Reviewer_1	2	6	6	4	Results of docking studies revealed that L1 and L2 formed bonds to the active site of tyrosinase and showed strong interactions with Tyr267A, Ala44A, and ALA44B of tyrosinase enzyme (PDB ID: 4j6u), which also supports the literature [101-103].
-Author	Reviewer_1	2	6	6	4	Thus, computational results are in good agreement with in vitro antibacterial behaviour of our compounds for novel antibacterial drug design.
+Author	Reviewer_3	2	21	14	1	Molecular Docking Study Molecular docking is a powerful tool to investigate and provide a proper understanding for ligand receptor interactions in order to facilitate the design of potential drugs [93-96].
+Author	Reviewer_3	2	21	14	1	To investigate and compare the antimicrobial activity of the synthesized compounds, docking analysis of L1 and L2 against tyrosinase from Bacillus Megaterium were performed.
+Author	Reviewer_3	2	21	14	1	It is well-known that tyrosinase of Bacillus Megaterium bacteria is an attractive target for the development of antimicrobials or antibiotic adjuvants for the treatment of hyperpigmentation because of its similarity (33.5%) to the human enzyme [97-100].
+Author	Reviewer_3	4	2	1	1	4.9.1.
+Author	Reviewer_1	2	6	6	1	Binding affinity of L1 and L2 The highest anti-bacterial activity (zone of inhibition 12 mm) of compound L2 was detected with tyrosinase from Bacillus Megaterium (PDB ID: 4j6u) bacteria compared to L1.
+Author	Reviewer_1	2	6	6	1	The binding energies for L1 and L2 with Bacillus Megaterium were −7.7 and −8.8 kcal mol−1, respectively, which were calculated by AutoDock Vina.
+Author	Reviewer_1	2	6	6	1	The interactions of the 4j6u with compounds L1 and L2 are shown in the Fig.
+Author	Reviewer_3	4	2	1	1	6.
+Author	Reviewer_3	4	2	1	1	In L1-4j6u, one conventional hydrogen bond (3.04 Å) of O-H----O-C observed between O-H of Tyr267A and O-C group of compounds L1.
+Author	Reviewer_3	4	2	1	1	Pi-cation, pi-sulfur and amide-pi bonds were also noticed with LYS47A, PHE48A, ILE39A, ALA40A, GLY43B and ALA44B, respectively.
+Author	Reviewer_3	4	2	1	1	Moreover, ALA44A, LYS47A, ALA44B, LYS47B, PRO52A, ALA40B and ILE139B were actively involved in the non-covalent interaction (hydrophobic pi-alkyl).
+Author	Reviewer_3	4	2	1	1	L2-4j6u complex was stabilized by four NH….O hydrogen bonds and they were LYS47A (2.25 Å), GLY143B (3.04 Å), Tyr267A (3.07 Å) and PRO219B (2.91 Å) (Fig.
+Author	Reviewer_3	4	2	1	1	6).
+Author	Reviewer_3	4	2	1	1	Like L1, L2 formed pi-cation and amide-pi bonds with LYS47A, ILE39A, GLY43B, where the distances were 3.73, 4.34, 3.54 Å. L2 also formed seven pi-alkyl bonds with ALA44A (5.19 Å), LYS47A (4.35 Å), ALA44B (3.95 Å), LYS47B (4.98 Å), PRO52A (5.04 Å), ALA40B (4.67 Å) and ILE139B (4.24 Å), respectively.
+Author	Reviewer_1	2	6	6	1	Results of docking studies revealed that L1 and L2 formed bonds to the active site of tyrosinase and showed strong interactions with Tyr267A, Ala44A, and ALA44B of tyrosinase enzyme (PDB ID: 4j6u), which also supports the literature [101-103].
+Author	Reviewer_1	2	6	6	1	Thus, computational results are in good agreement with in vitro antibacterial behaviour of our compounds for novel antibacterial drug design.
 					0	We also revise the whole manuscript to make the language and grammar better as suggested by the reviewer.
 					0	Author Response File: Author Response.pdf
 					0	Author Response Comment: Abedin et al.
@@ -98,17 +98,17 @@ Reviewer_3	Author	1	5	0	2	Just put your key results in brief.
 					0	-
 Reviewer_3	Author	1	6	0	2	The conclusion is missing.
 					0	Response:
-Author	Reviewer_3	2	13	6	6	We appreciate the recommendation and rewrite the abstract as follows, Polytopic organic ligands with hydrazone moiety are in the forefront of new drug research among many others due to their unique and versatile functionality and ease of strategic ligand design.
-Author	Reviewer_3	2	13	6	6	Quantum chemical calculations of these polyfunctional ligands can be carried out in silico to determine the thermodynamic parameters.
-Author	Reviewer_3	2	13	6	6	In this report two new tritopic dihydrazide ligands, N'2, N'6-bis[(1E)-1-(thiophen-2-yl) ethylidene] pyridine-2, 6-dicarbohydrazide (L1) and N'2, N'6-bis[(1E)-1-(1H-pyrrol-2-yl) ethylidene] pyridine-2, 6-dicarbohydrazide (L2) were successfully prepared by the condensation reaction of pyridine-2, 6-dicarboxylic hydrazide with 2-acetylthiophene and 2-acetylpyrrole.
-Author	Reviewer_3	2	13	6	6	The FT-IR, 1H and 13C NMR as well as mass spectra of both L1 and L2 were recorded and analyzed.
-Author	Reviewer_3	2	13	6	6	Quantum chemical calculations were performed at DFT/B3LYP/cc-pvdz/6-311+ G (d, p) level of theory to study the molecular geometry, vibrational frequencies, and thermodynamic properties including changes of ∆H, ∆S, and ∆G for both the ligands.
-Author	Reviewer_3	2	13	6	6	The optimized vibrational frequency and (1H and 13C) NMR obtained by B3LYP/cc-pvdz/6-311 + G (d, p) showed good agreement with experimental FT-IR and NMR data.
-Author	Reviewer_3	2	13	6	6	Frontier molecular orbital (FMO) calculations were also conducted to find the HOMO, LUMO, and HOMO–LUMO gaps of the two synthesized compounds.
-Author	Reviewer_3	2	13	6	6	To investigate the biological activities of the ligands, L1 and L2 were tested in vitro bioassays against some Gram-negative and Gram-positive bacteria and the fungus strain.
-Author	Reviewer_3	2	13	6	6	In addition, Molecular ‪docking was used to study the molecular behavior of L1 and L2 against tyrosinase from Bacillus megaterium.
-Author	Reviewer_3	2	13	6	6	The outcomes revealed that both L1 and L2 can suppress microbial growth of bacteria and fungi with variable potency.
-Author	Reviewer_3	2	13	6	6	The antibacterial activity results demonstrated the compound L2 to be potentially effective against Bacillus Megaterium with inhibition zones of 12 mm while molecular docking study showed the binding energies for L1 and L2 to be −7.7 and −8.8 kcal mol−1 respectively with tyrosinase from Bacillus megaterium.‪ -
+Author	Reviewer_3	2	13	6	1	We appreciate the recommendation and rewrite the abstract as follows, Polytopic organic ligands with hydrazone moiety are in the forefront of new drug research among many others due to their unique and versatile functionality and ease of strategic ligand design.
+Author	Reviewer_3	2	13	6	1	Quantum chemical calculations of these polyfunctional ligands can be carried out in silico to determine the thermodynamic parameters.
+Author	Reviewer_3	2	13	6	1	In this report two new tritopic dihydrazide ligands, N'2, N'6-bis[(1E)-1-(thiophen-2-yl) ethylidene] pyridine-2, 6-dicarbohydrazide (L1) and N'2, N'6-bis[(1E)-1-(1H-pyrrol-2-yl) ethylidene] pyridine-2, 6-dicarbohydrazide (L2) were successfully prepared by the condensation reaction of pyridine-2, 6-dicarboxylic hydrazide with 2-acetylthiophene and 2-acetylpyrrole.
+Author	Reviewer_3	2	13	6	1	The FT-IR, 1H and 13C NMR as well as mass spectra of both L1 and L2 were recorded and analyzed.
+Author	Reviewer_3	2	13	6	1	Quantum chemical calculations were performed at DFT/B3LYP/cc-pvdz/6-311+ G (d, p) level of theory to study the molecular geometry, vibrational frequencies, and thermodynamic properties including changes of ∆H, ∆S, and ∆G for both the ligands.
+Author	Reviewer_3	2	13	6	1	The optimized vibrational frequency and (1H and 13C) NMR obtained by B3LYP/cc-pvdz/6-311 + G (d, p) showed good agreement with experimental FT-IR and NMR data.
+Author	Reviewer_3	2	13	6	1	Frontier molecular orbital (FMO) calculations were also conducted to find the HOMO, LUMO, and HOMO–LUMO gaps of the two synthesized compounds.
+Author	Reviewer_3	2	13	6	1	To investigate the biological activities of the ligands, L1 and L2 were tested in vitro bioassays against some Gram-negative and Gram-positive bacteria and the fungus strain.
+Author	Reviewer_3	2	13	6	1	In addition, Molecular ‪docking was used to study the molecular behavior of L1 and L2 against tyrosinase from Bacillus megaterium.
+Author	Reviewer_3	2	13	6	1	The outcomes revealed that both L1 and L2 can suppress microbial growth of bacteria and fungi with variable potency.
+Author	Reviewer_3	2	13	6	1	The antibacterial activity results demonstrated the compound L2 to be potentially effective against Bacillus Megaterium with inhibition zones of 12 mm while molecular docking study showed the binding energies for L1 and L2 to be −7.7 and −8.8 kcal mol−1 respectively with tyrosinase from Bacillus megaterium.‪ -
 Reviewer_3	Author	1	7	0	2	Font of the reference is different from the text
 					0	Response:
 Author	Reviewer_3	2	14	7	1	We appreciate the recommendation and corrected the font of the references.
@@ -137,34 +137,34 @@ Author	Reviewer_3	2	17	10	1	We also updated the standard ciprofloxacin and micon
 Author	Reviewer_3	2	17	10	1	We are showing our sincere apology for such mistakes.
 Author	Reviewer_3	2	17	10	1	The changes are added as follows,
 Author	Reviewer_3	2	20	13	1	2.1.3.
-Author	Reviewer_3	2	20	13	2	Antimicrobial activity assay In vitro antimicrobial activity of synthesized ligands was evaluated by agar disc diffusion method [40].
-Author	Reviewer_3	2	20	13	2	Mueller Hinton Agar (MHA) media (HIMEDIA, India) was used as a control medium for testing against bacteria and Potato Dextrose Agar (PDA) media (HIMEDIA, India) was used for fungal strain.
-Author	Reviewer_3	2	20	13	2	After preparation, the MHA and PDA medias were incubated for 24 h and contaminations were checked.
-Author	Reviewer_3	2	20	13	2	After incubation, the test organism was inoculated using sterile cotton bar on media.
-Author	Reviewer_3	2	20	13	2	The sample discs were put gently on pre-inoculated agar plates and aerobically incubated for 24 h at 37 °C for antibacterial and for 48 h at 26 °C for antifungal assay.
-Author	Reviewer_3	2	20	13	2	Dimethyl sulfoxide (DMSO) was used as control.
-Author	Reviewer_3	2	20	13	2	Each disc was loaded with 25 µL of sample solution in DMSO containing 300 µg of synthesized compounds.
-Author	Reviewer_3	2	20	13	2	10 µL of ceftriaxone and amphotericin-B solutions containing 50 µg each in DMSO were loaded per disc for antibacterial and antifungal assays as positive control, respectively.
-Author	Reviewer_3	2	20	13	2	The diameter of the inhibition zones in mm circling the disc were measured.
-Author	Reviewer_3	2	20	13	2	Two gram-positive Staphylococcus aureus (cars-2) and Bacillus Megaterium (BTCC-18), two gram-negative Escherichia coli (carsgn-2) and Salmonella Typhi (K-323130) bacteria, and two fungal strains Trichoderma harzianum (carsm-2) and Aspergillus niger (carsm-3) were used in this study.
-Reviewer_3	Author	1	12	0	4	Section 3.2. and 4.9.
+Author	Reviewer_3	2	20	13	1	Antimicrobial activity assay In vitro antimicrobial activity of synthesized ligands was evaluated by agar disc diffusion method [40].
+Author	Reviewer_3	2	20	13	1	Mueller Hinton Agar (MHA) media (HIMEDIA, India) was used as a control medium for testing against bacteria and Potato Dextrose Agar (PDA) media (HIMEDIA, India) was used for fungal strain.
+Author	Reviewer_3	2	20	13	1	After preparation, the MHA and PDA medias were incubated for 24 h and contaminations were checked.
+Author	Reviewer_3	2	20	13	1	After incubation, the test organism was inoculated using sterile cotton bar on media.
+Author	Reviewer_3	2	20	13	1	The sample discs were put gently on pre-inoculated agar plates and aerobically incubated for 24 h at 37 °C for antibacterial and for 48 h at 26 °C for antifungal assay.
+Author	Reviewer_3	2	20	13	1	Dimethyl sulfoxide (DMSO) was used as control.
+Author	Reviewer_3	2	20	13	1	Each disc was loaded with 25 µL of sample solution in DMSO containing 300 µg of synthesized compounds.
+Author	Reviewer_3	2	20	13	1	10 µL of ceftriaxone and amphotericin-B solutions containing 50 µg each in DMSO were loaded per disc for antibacterial and antifungal assays as positive control, respectively.
+Author	Reviewer_3	2	20	13	1	The diameter of the inhibition zones in mm circling the disc were measured.
+Author	Reviewer_3	2	20	13	1	Two gram-positive Staphylococcus aureus (cars-2) and Bacillus Megaterium (BTCC-18), two gram-negative Escherichia coli (carsgn-2) and Salmonella Typhi (K-323130) bacteria, and two fungal strains Trichoderma harzianum (carsm-2) and Aspergillus niger (carsm-3) were used in this study.
+Reviewer_3	Author	1	12	0	1	Section 3.2. and 4.9.
 					0	PDB ID 4j6u is for tyrosinase from Bacillus megaterium, not the bacillus megatherium crystal structure.
 Reviewer_3	Author	1	11	0	2	Please change the info accordingly.
 					0	Response:
 Author	Reviewer_3	2	18	11	1	We appreciate the recommendation, and corrected this information as shown below: 3.2.
-Author	Reviewer_3	2	19	12	2	Protein-ligand Docking 3.2.1.
-Author	Reviewer_3	2	19	12	2	Ligand and Protein preparation: The structures of L1 and L2 have been fully optimized by using Gaussian 09 software at B3LYP/6-311G+ (d, p) level.
-Author	Reviewer_3	2	19	12	2	The 3D crystal structure of tyrosinase from Bacillus Megaterium (PDB ID: 4j6u; resolution: 2.5Å, Chain A, B) was obtained in pdb format from online RCSB protein data bank (PDB) database.
-Author	Reviewer_3	2	19	12	2	The structure was verified, and an energy minimization was performed with the Swiss-Pdb Viewer software packages (version 4.1.0) [44], since the crystal structure contains a variety of issues related to improper bond order, side chains geometry, and missing hydrogen atoms.
-Author	Reviewer_3	2	19	12	2	Prior to docking, all the heteroatoms and water molecules were removed from the crystal structure using PyMol (version 1.3) software packages [45].
-Author	Reviewer_3	2	19	12	2	The active binding pocket of tyrosinase was predicted by CASTp—having the highest pocket area and volume are 95.432 Å2 and 137.877 Å3, respectively [46].
+Author	Reviewer_3	2	19	12	1	Protein-ligand Docking 3.2.1.
+Author	Reviewer_3	2	19	12	1	Ligand and Protein preparation: The structures of L1 and L2 have been fully optimized by using Gaussian 09 software at B3LYP/6-311G+ (d, p) level.
+Author	Reviewer_3	2	19	12	1	The 3D crystal structure of tyrosinase from Bacillus Megaterium (PDB ID: 4j6u; resolution: 2.5Å, Chain A, B) was obtained in pdb format from online RCSB protein data bank (PDB) database.
+Author	Reviewer_3	2	19	12	1	The structure was verified, and an energy minimization was performed with the Swiss-Pdb Viewer software packages (version 4.1.0) [44], since the crystal structure contains a variety of issues related to improper bond order, side chains geometry, and missing hydrogen atoms.
+Author	Reviewer_3	2	19	12	1	Prior to docking, all the heteroatoms and water molecules were removed from the crystal structure using PyMol (version 1.3) software packages [45].
+Author	Reviewer_3	2	19	12	1	The active binding pocket of tyrosinase was predicted by CASTp—having the highest pocket area and volume are 95.432 Å2 and 137.877 Å3, respectively [46].
 					0	The binding site residues predicted by CASTp for tyrosinase were used for grid generation.
-Author	Reviewer_3	2	19	12	2	Both the structures of the proteins and ligands were saved in .pdbqt format by AutoDock Vina (version 1.1.2, May 11, 2011) for docking analysis [47].
-Author	Reviewer_3	2	19	12	2	3.2.2.
-Author	Reviewer_3	2	19	12	2	Molecular docking Analysis: The docking calculations were performed using default parameters and 8 docked conformations were generated for both compounds.
-Author	Reviewer_3	2	19	12	2	The energy calculations were done by genetic algorithms.
-Author	Reviewer_3	2	19	12	2	Nonpolar hydrogen atoms, Gasteiger partial charges, rotatable bonds, and grid box with dimensions 66.57 × 58.25 × 84.98 Å3 created on the tyrosinase with the aid of Auto Dock Tools 1.1.2 and spacing of 0.3750 Å.
-Author	Reviewer_3	2	19	12	2	The docked conformation of the respective protein conformer with lowest binding free energy and root mean-square deviation value (RMSD) 0.0 Å was analyzed using PyMOL Molecular Graphics System (version 1.7.4) and Accelrys Discovery Studio 4.1 [49].
+Author	Reviewer_3	2	19	12	1	Both the structures of the proteins and ligands were saved in .pdbqt format by AutoDock Vina (version 1.1.2, May 11, 2011) for docking analysis [47].
+Author	Reviewer_3	2	19	12	1	3.2.2.
+Author	Reviewer_3	2	19	12	1	Molecular docking Analysis: The docking calculations were performed using default parameters and 8 docked conformations were generated for both compounds.
+Author	Reviewer_3	2	19	12	1	The energy calculations were done by genetic algorithms.
+Author	Reviewer_3	2	19	12	1	Nonpolar hydrogen atoms, Gasteiger partial charges, rotatable bonds, and grid box with dimensions 66.57 × 58.25 × 84.98 Å3 created on the tyrosinase with the aid of Auto Dock Tools 1.1.2 and spacing of 0.3750 Å.
+Author	Reviewer_3	2	19	12	1	The docked conformation of the respective protein conformer with lowest binding free energy and root mean-square deviation value (RMSD) 0.0 Å was analyzed using PyMOL Molecular Graphics System (version 1.7.4) and Accelrys Discovery Studio 4.1 [49].
 					0	4.9.
 					0	Molecular Docking Study Molecular docking is a powerful tool to investigate and provide a proper understanding for ligand receptor interactions in order to facilitate the design of potential drugs [93-96].
 					0	To investigate and compare the antimicrobial activity of the synthesized compounds, docking analysis of L1 and L2 against tyrosinase from Bacillus Megaterium were performed.
@@ -189,10 +189,10 @@ Author	Reviewer_3	2	19	12	1	Also, more information was added about the software 
 					0	The energy calculations were done by genetic algorithms.
 					0	Nonpolar hydrogen atoms, Gasteiger partial charges, rotatable bonds, and grid box with dimensions 66.57 × 58.25 × 84.98 Å3 created on the tyrosinase with the aid of Auto Dock Tools 1.1.2 and spacing of 0.3750 Å.
 					0	The docked conformation of the respective protein conformer with lowest binding free energy and root mean-square deviation value (RMSD) 0.0 Å was analyzed using PyMOL Molecular Graphics System (version 1.7.4) and Accelrys Discovery Studio 4.1 [49].
-Reviewer_3	Author	1	13	0	2	Section
-Author	Reviewer_3	2	20	13	1	4.8.
+Reviewer_3	Author	1	13	0	2	Section 4.8.
 Reviewer_3	Author	1	13	0	2	There is no proper description of the results and no discussion in this part.
-					0	Please revise - This sentence should be moved to the materials and methods or deleted from the section “‪Two gram-positive Staphylococcus aureus (cars-2) and Bacillus Megaterium (BTCC-18), two gram-negative Escherichia coli (carsgn-2) and Salmonella Typhi (JCM-1652) bacteria, and two fungal strains Trichoderma harzianum (carsm-2) and Aspergillus niger (carsm-3) ‪were used in this study.” Response:
+Reviewer_3	Author	1	13	0	2	Please revise - This sentence should be moved to the materials and methods or deleted from the section “‪Two gram-positive Staphylococcus aureus (cars-2) and Bacillus Megaterium (BTCC-18), two gram-negative Escherichia coli (carsgn-2) and Salmonella Typhi (JCM-1652) bacteria, and two fungal strains Trichoderma harzianum (carsm-2) and Aspergillus niger (carsm-3) ‪were used in this study.”
+					0	Response:
 Author	Reviewer_3	2	20	13	1	We appreciate the recommendation, and this section is updated by changing the standard ciprofloxacin and miconazole with Ceftriaxone and Amphotericin-B.
 Author	Reviewer_3	2	20	13	1	Also, the sentences of second part (4.8) are deleted and added to 2.3.1 as suggested by the reviewer.
 					0	2.1.3.

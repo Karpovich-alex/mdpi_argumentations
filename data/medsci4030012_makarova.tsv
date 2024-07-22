@@ -2,10 +2,10 @@ side	opponent	round	number	attacks	ann	text
 					0	Author Response 1-
 Reviewer_1	Author	1	1	0	2	My main issue is with the way the results are presented.
 Reviewer_1	Author	1	1	0	2	The authors claim that they observed statistical differences between case and reference groups yet they do not preform a statistical test, nor give any p-value.
-					0	Even if they performed a test, important questions remain on the selection of the reference.
-					0	The ancestry of HapMap is not latino so therefore any test between cases and references will be confounded by ancestry.
-					0	The PCA they show is probably capturing those differences instead of real differences given by disease status and, by the way, I question the usefulness of this PCA.
-					0	My suggestion is to offer a better background for these results by trying to answer two main questions:
+Reviewer_1	Author	1	1	0	2	Even if they performed a test, important questions remain on the selection of the reference.
+Reviewer_1	Author	1	1	0	2	The ancestry of HapMap is not latino so therefore any test between cases and references will be confounded by ancestry.
+Reviewer_1	Author	1	1	0	2	The PCA they show is probably capturing those differences instead of real differences given by disease status and, by the way, I question the usefulness of this PCA.
+Reviewer_1	Author	1	1	0	2	My suggestion is to offer a better background for these results by trying to answer two main questions:
 Reviewer_1	Author	1	2	0	2	1) is the deletion burden observed really exceptional in a population sample of similar ancestry?
 Reviewer_1	Author	1	2	0	2	To answer this question, I would refer to the 1000 genomes data where there are Mexicans, Colombians, Puerto Ricans and Peruvians.
 Reviewer_1	Author	1	2	0	2	There must be available CNV estimations for these ancestries.

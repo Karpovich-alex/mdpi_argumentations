@@ -33,7 +33,7 @@ Reviewer_1	Author	1	2	0	2	Estimations of the average free length of path for the
 					0	Reply:
 Author	Reviewer_1	2	2	2	1	The authors thank the referee for this comment that demonstrates that the authors need to clarify.
 Author	Reviewer_1	2	2	2	1	However, to the authors it is not clear which potentially inactivating components of the plasma are not specified, as radicals and radiation are mentioned and the temperature is kept below 80°C to prevent inactivation effects due to heating.
-Author	Reviewer_1	2	2	2	2	As the samples are placed in an ICP discharge, ions towards the samples are only accelerated by several tenth of eV.
+Author	Reviewer_1	2	2	2	1	As the samples are placed in an ICP discharge, ions towards the samples are only accelerated by several tenth of eV.
 Author	Reviewer_1	2	2	2	1	Thus, sputtering of the sample due to ion bombardment can be neglected.
 Author	Reviewer_1	2	2	2	1	Low-pressure plasmas dissociate molecular gases up to several percent.
 Author	Reviewer_1	2	2	2	1	Thus, the authors wanted to emphasize, that the atomic oxygen density and therewith the atomic oxygen flux to the samples is in the order of a few percent of the overall gas flux.
@@ -91,8 +91,7 @@ Reviewer_2	Author	1	4	0	2	Lines 31-32: Bacillus subtilis and B.pumilus should be
 Reviewer_2	Author	1	5	0	2	Line 38: Deinococcus radiodurans should be written in italic.
 Reviewer_2	Author	1	5	0	2	While writing D. radiodurans R1 has always necessary to note that this is type strain R1T.
 					0	Reply:
-Author	Reviewer_2	2	8	5	2	Done, thank you
-					0	.
+Author	Reviewer_2	2	8	5	1	Done, thank you.
 Reviewer_2	Author	1	6	0	2	Line 41: Medium instead of media.
 Reviewer_2	Author	1	6	0	2	If I understood correctly, you used only one medium.
 					0	Reply:

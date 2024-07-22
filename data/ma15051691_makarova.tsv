@@ -10,7 +10,7 @@ side	opponent	round	number	attacks	ann	text
 					0	Point 1:
 Reviewer_1	Author	1	1	0	2	It is not indicated in the introduction whether any alternative to thin films of yttrium iron garnet is currently being considered for use as magneto-optical resonators.
 					0	Response 1:
-Author	Reviewer_2	2	7	4	4	Thanks for the commerts.
+Author	Reviewer_2	2	7	4	1	Thanks for the commerts.
 Author	Reviewer_1	2	1	1	1	To the best of our knowledge, rare earth doped yttrium iron garnet is still the main material used for magneto-optical devices.
 Author	Reviewer_1	2	1	1	1	They include bismuth doped YIG, bismuth, terbium doped YIG and cerium doped YIG.
 Author	Reviewer_1	2	1	1	1	Other materials such as Wely semimatels are still under theoretical study[1].
@@ -23,13 +23,11 @@ Author	Reviewer_1	2	2	2	1	Absoultly there is also temperature dependence of the 
 Author	Reviewer_1	2	2	2	1	However, the transparency window of this material is in the 1550 nm wavelength range.
 Author	Reviewer_1	2	2	2	1	When moving to shorter wavelengths, the absorption of this material increases sharply, making them less practical for photonic device applications.
 					0	Point 3:
-Reviewer_1	Author	1	3	0	2	How can one explain the increase in the value of the Faraday rotation angle in the range of 30-40 degrees for Dy:CeYIG (Fig.
-Reviewer_1	Author	1	3	0	2	3f), which is absent for Ce:YIG (Fig.
-Reviewer_1	Author	1	3	0	2	3f)?
+Reviewer_1	Author	1	3	0	2	How can one explain the increase in the value of the Faraday rotation angle in the range of 30-40 degrees for Dy:CeYIG (Fig. 3f), which is absent for Ce:YIG (Fig. 3f)?
 					0	Response 3: Thanks for the commerts.
-Author	Reviewer_2	2	7	4	2	The saturation magnetization of rare-earth doped YIG affects the Faraday rotation angle.
-Author	Reviewer_2	2	7	4	2	Sayetat et al.
-Author	Reviewer_2	2	7	4	2	and Ostorero et al.
+Author	Reviewer_2	2	7	4	1	The saturation magnetization of rare-earth doped YIG affects the Faraday rotation angle.
+Author	Reviewer_2	2	7	4	1	Sayetat et al.
+Author	Reviewer_2	2	7	4	1	and Ostorero et al.
 Author	Reviewer_1	2	3	3	1	previously reported that the compensation temperature of DyIG is Tcomp = 225 K [2,3], which could decrease the Faraday rotation angle of Dy:CeIG in this work at the temperature below 300 K. Therefore, a higher Faraday rotation may be related to the increase of the saturation magnetization of this material in this temperature range.
 Author	Reviewer_1	2	3	3	1	Revisions:Page 5, line 170-173, added “The increase of the Faraday rotation below 40 ℃ is possibly due to the increase of the magnetization of this material at this temperature range, considering a compensation temperature of 225 K in Dy3Fe5O12 [19,20].”.
 Author	Reviewer_1	2	3	3	1	References: Okamura, Y.; Minami, S.; Kato, Y.; Fujishiro, Y.; Kaneko, Y.; Ikeda, J.; Muramoto, J.; Kaneko, R.; Ueda, K.; Kocsis, V.; et al.
@@ -37,8 +35,8 @@ Author	Reviewer_1	2	3	3	1	Giant magneto-optical responses in magnetic Weyl semim
 Author	Reviewer_1	2	3	3	1	Nat Commun 2020, 11, 4619, doi:10.1038/s41467-020-18470-0.
 Author	Reviewer_1	2	3	3	1	Sayetat, F. Huge magnetostriction in Tb3Fe5O12, Dy3Fe5O12, Ho3Fe5O12, Er3Fe5O12 garnets.
 Author	Reviewer_1	2	3	3	1	Journal of magnetism and magnetic materials 1986, 58, 334-346.
-Author	Reviewer_2	2	8	5	2	Ostorero, J.; Escorne, M.; Pecheron‐Guegan, A.; Soulette, F.; Le Gall, H. Dy3Fe5O12 garnet thin films grown from sputtering of metallic targets.
-Author	Reviewer_2	2	8	5	2	Journal of Applied Physics 1994, 75, 6103-6105.
+Author	Reviewer_2	2	8	5	1	Ostorero, J.; Escorne, M.; Pecheron‐Guegan, A.; Soulette, F.; Le Gall, H. Dy3Fe5O12 garnet thin films grown from sputtering of metallic targets.
+Author	Reviewer_2	2	8	5	1	Journal of Applied Physics 1994, 75, 6103-6105.
 					0	Author Response Reviewer #2 (Comments to the Author): This manuscript relates to the effect of dysprosium substitution in Ce:YIG thin films and in particular to the temperature dependance of their Faraday rotation.
 					0	It is in general well written and the work deserves publication.
 					0	Response: Thanks for your recognition of our work.
@@ -48,7 +46,7 @@ Reviewer_2	Author	1	1	0	2	"For several references, the text ""Error!"
 Reviewer_2	Author	1	1	0	2	"Reference source not found"" appears."
 Reviewer_2	Author	1	1	0	2	Please check with the editor if this can be fixed.
 					0	Response 1:
-Author	Reviewer_2	2	6	3	3	Thanks for correcting this.
+Author	Reviewer_2	2	6	3	1	Thanks for correcting this.
 Author	Reviewer_2	2	4	1	1	We have updated the references and revised this in the context.
 Author	Reviewer_2	2	4	1	1	Revisions: Page 1, line 21, revised to “for silicon integrated photonic circuits (PICs) [1-3].”.
 Author	Reviewer_2	2	4	1	1	Page 1, line 24, revised to “including optical isolators [4-6]”.
@@ -71,9 +69,7 @@ Reviewer_2	Author	1	4	0	2	Figures 2 (c) and (d).
 Reviewer_2	Author	1	4	0	2	While the Faraday rotation angle appears to decrease more or less linearly with temperature in the Ce:YIG film (as far as can be inferred from the non-linear horizontal scale), the decrease is not taking place at the same rate in the Dy:Ce:YIG film.
 Reviewer_2	Author	1	4	0	2	What causes this different behavior?
 					0	Response 4: Thanks for the commerts.
-					0	The saturation magnetization of rare-earth doped YIG affects the Faraday rotation angle.
-					0	Sayetat et al.
-					0	and Ostorero et al.
+					0	The saturation magnetization of rare-earth doped YIG affects the Faraday rotation angle. Sayetat et al. and Ostorero et al.
 Author	Reviewer_2	2	7	4	1	previously reported that the compensation temperature of DyIG is Tcomp = 225 K [1,2], which could decrease the Faraday rotation angle of Dy:CeIG in this work at the temperature below 300 K. Therefore, a higher Faraday rotation may be related to the increase of the saturation magnetization of this material in this temperature range.
 Author	Reviewer_2	2	7	4	1	Revisions: Page 5, line 170-173, added “The increase of the Faraday rotation below 40 ℃ is possibly due to the increase of the magnetization of this material at this temperature range, considering a compensation temperature of 225 K in Dy3Fe5O12 [19,20].”.
 					0	Point 5:
@@ -92,10 +88,8 @@ Author	Reviewer_2	2	8	5	1	References: Sayetat, F. Huge magnetostriction in Tb3Fe
 					0	The article contains many original results of undeniable practical significance.
 					0	It will be of interest to a wide range of researchers involved in magneto-optical resonators.
 					0	There are several questions about the content of the article.
-					0	1) It is not indicated in the introduction whether any alternative to thin films of yttrium iron garnet is currently being considered for use as magneto-optical resonators.2) How will the temperature dependence of the Faraday rotation hysteresis loops of Dy:CeYIG thin films change when moving to another wavelength range?
-					0	Is there any dependence on the wavelength?3) How can one explain the increase in the value of the Faraday rotation angle in the range of 30-40 degrees for Dy:CeYIG (Fig.
-					0	3f), which is absent for Ce:YIG (Fig.
-					0	3f)?
+					0	1) It is not indicated in the introduction whether any alternative to thin films of yttrium iron garnet is currently being considered for use as magneto-optical resonators. 2) How will the temperature dependence of the Faraday rotation hysteresis loops of Dy:CeYIG thin films change when moving to another wavelength range?
+					0	Is there any dependence on the wavelength? 3) How can one explain the increase in the value of the Faraday rotation angle in the range of 30-40 degrees for Dy:CeYIG (Fig. 3f), which is absent for Ce:YIG (Fig. 3f)?
 					0	This manuscript relates to the effect of dysprosium substitution in Ce:YIG thin films and in particular to the temperature dependance of their Faraday rotation.
 					0	It is in general well written and the work deserves publication.
 					0	"There are just a few issues that the authors should take into account for further improving their paper prior to acceptance: 1) For several references, the text ""Error!"

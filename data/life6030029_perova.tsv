@@ -188,9 +188,9 @@ Author	Reviewer_2	2	13	1	1	So, I shorten this part.
 					0	"The English is a problem too: ""soft molecules"" is not a typical way of describing organic molecules, and ""formation and deformation"" of molecules would be better expressed as formation and degradation."
 					0	"Statements such as in line 232: ""the first step is to limit the characteristics of life-like systems into life on Earth"" leave one scratching ones head."
 					0	Answer:
-Author	Reviewer_2	2	15	3	2	I remove the reference 11 from this part, and moved to line 108.
-Author	Reviewer_2	2	15	3	2	I changed “soft molecules” to “organic molecules”, and changed to “formation and degradation”.
-Author	Reviewer_2	2	15	3	2	The statement was changed to a sentence “… to focus …” shown in line 227.
+Author	Reviewer_2	2	15	3	1	I remove the reference 11 from this part, and moved to line 108.
+Author	Reviewer_2	2	15	3	1	I changed “soft molecules” to “organic molecules”, and changed to “formation and degradation”.
+Author	Reviewer_2	2	15	3	1	The statement was changed to a sentence “… to focus …” shown in line 227.
 					0	More fundamentally perhaps, the distinction that is made between CCSI and CMIO is, as the author himself notes, remarkably similar to that between genotype and phenotype, and information and function, and even replication and metabolism.
 					0	The finding that two RNA molecules would have been sufficient to start life, seems a little like the idea that has been proposed of an RNA template and its complementary copy originally functioning as an informational/functional(= ribozymic) pair (see for example: Shay JA, Huynh C, Higgs PG (2015) J Theor Biol.
 					0	364:249-59).

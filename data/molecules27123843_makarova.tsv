@@ -7,25 +7,16 @@ side	opponent	round	number	attacks	ann	text
 					0	It is also impressive that all 11 metal ions were successfully identified by LDA with 100% classification rate.
 					0	The manuscript is well written.
 					0	So, I suggest to accept this paper to Molecule with only minor revision: 1.
-Reviewer_1	Author	1	1	0	2	In page 2, you write the heading “2.
-Reviewer_1	Author	1	1	0	2	Results”, but the content of that paragraph belong to the introduction part.
-Reviewer_1	Author	1	1	0	2	So, please remove the heading “2.
-Reviewer_1	Author	1	1	0	2	Results”.
+Reviewer_1	Author	1	1	0	2	In page 2, you write the heading “2. Results”, but the content of that paragraph belong to the introduction part.
+Reviewer_1	Author	1	1	0	2	So, please remove the heading “2. Results”.
 					0	The manuscript is an interesting research about developing a chemosensor array for metals ions detection simultaneously.
 					0	It is very well written and presented.
 					0	A detailed supllementary material is very helfup and useful for readers.Here are some comments:
-Reviewer_2	Author	1	1	0	2	line.
-Reviewer_2	Author	1	1	0	2	57-58.
-Reviewer_2	Author	1	1	0	2	It seems that Figure 1 should be placed in other section, namely Section 3.1. , where it is mentioned for the first time (line 176).
-Reviewer_2	Author	1	2	0	2	Line 59.
-Reviewer_2	Author	1	2	0	2	"Remove ""2."
-Reviewer_2	Author	1	2	0	2	"Results"""
-Reviewer_2	Author	1	3	0	2	line 148.
-Reviewer_2	Author	1	3	0	2	What does NAA mean?
-Reviewer_2	Author	1	4	0	2	line 251.
-Reviewer_2	Author	1	4	0	2	"Write ""On TEM images "" instead of ""Transmission electrone microscopy can be observed..."""
-Reviewer_2	Author	1	5	0	2	line 284.
-Reviewer_2	Author	1	5	0	2	"Remove the word ""that"""
+Reviewer_2	Author	1	1	0	2	line. 57-58. It seems that Figure 1 should be placed in other section, namely Section 3.1. , where it is mentioned for the first time (line 176).
+Reviewer_2	Author	1	2	0	2	Line 59. "Remove ""2." "Results"""
+Reviewer_2	Author	1	3	0	2	line 148. What does NAA mean?
+Reviewer_2	Author	1	4	0	2	line 251. "Write ""On TEM images "" instead of ""Transmission electrone microscopy can be observed..."""
+Reviewer_2	Author	1	5	0	2	line 284. "Remove the word ""that"""
 					0	Responses to Reviewers’ comments and the description of revisions in the revised manuscript We would sincerely thank the Review for the time and effort in carefully reading the manuscript and in preparing the review reports.
 					0	We truly appreciate your positive comments on our work, as well as for raising interesting points, which lead to the improvement of the manuscript.
 					0	We have revised the manuscript accordingly.
@@ -42,9 +33,9 @@ Reviewer_2	Author	1	5	0	2	"Remove the word ""that"""
 					0	So, please remove the heading “2.
 					0	Results”.
 					0	Reply:
-Author	Reviewer_2	2	6	5	5	Thanks for the valuable comment.
-Author	Reviewer_2	2	3	2	2	We have removed the heading “2.
-Author	Reviewer_2	2	3	2	2	Results” in the revised manuscript.
+Author	Reviewer_2	2	6	5	1	Thanks for the valuable comment.
+Author	Reviewer_2	2	3	2	1	We have removed the heading “2.
+Author	Reviewer_2	2	3	2	1	Results” in the revised manuscript.
 					0	Responses to Reviwers’ comments and the description of revisions in the revised manuscript We would sincerely thank the Review for the time and effort in carefully reading the manuscript and in preparing the review reports.
 					0	We truly appreciate your positive comments on our work, as well as for raising interesting points, which lead to the improvement of the manuscript.
 					0	We have revised our manuscript accordingly.

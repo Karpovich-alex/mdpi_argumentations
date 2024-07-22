@@ -12,12 +12,12 @@ Reviewer_2	Author	1	2	0	2	Results 86 cases are excluded from 187 cases, which is
 Reviewer_2	Author	1	2	0	2	What is the reason?
 					0	When comparing different oxygen delivery methods, isn't it more appropriate to compare FiO2 rather than oxygen flow rate?
 					0	The median oxygen flow rate is shown to be 14 L/min, but FiO2 may vary depending on the method of oxygen delivery (nasal canulae, HNF, MV).
-					0	The oxygen flow rate of 13 L/min measured by ROC as a cutoff value for TOC administration should be presented by FiO2.
+Reviewer_2	Author	1	5	0	2	The oxygen flow rate of 13 L/min measured by ROC as a cutoff value for TOC administration should be presented by FiO2.
 					0	3.2.
 Reviewer_2	Author	1	6	0	2	Comparative radiologic changes before and after TOC administration In Table 2, about the change in CT findings in fatal and non-fatal patients before and after TOC administration, isn't it the same as the difference in imaging findings between patients who survive after severe illness and those who do not, regardless of TOC?
 					0	3.3.
 Reviewer_2	Author	1	7	0	2	Timing of TOC administration according to the oxygen flow rates As mentioned above, the cutoff value is O2 13L/min, but the oxygen volume is difficult to interpret because FiO2 varies depending on the method of oxygen delivery.
-					0	Thank you for improving this paper, especially regarding the timing of TOC administration.Still,
+					0	Thank you for improving this paper, especially regarding the timing of TOC administration. Still,
 Reviewer_1	Author	3	1	0	2	"I disagree with the title of the paper, ""The impact of tocilizumab on radiological changes...""."
 Reviewer_1	Author	3	1	0	2	Without the control group, this paper does not provide evidence that the radiological changes are indeed the result of TOC.
 Reviewer_1	Author	3	1	0	2	Therefore I would suggest the authors to change the title of their paper.
@@ -26,11 +26,11 @@ Reviewer_2	Author	3	1	0	2	The authors adequately addressed my concerns.
 					0	1 Response to Reviewer 1 Comments Point 1: This study has a design flaw.
 					0	The impact of Tocilizumab on radiological changes can not be adequately analyzed without a control group not receiving the drug.
 					0	Response 1:
-Author	Reviewer_1	2	2	2	2	Thank you for this suggestion.
-Author	Reviewer_1	2	2	2	2	While it would have been interesting to explore this further, our study focuses on retrospectively assessing and comparing disease progression within subgroups of patients receiving TOC.
-Author	Reviewer_1	2	2	2	2	Patients not receiving TOC would have likely had a different presentation, progression and their follow-up would be slightly out of the scope of our observational retrospective study.
-Author	Reviewer_1	2	2	2	2	When we compared patients who received TOC with the 86 severe patients who did not receive TOC (excluded from this analysis), the TOC group was far more severe, so there is no control group that could be matched.
-Author	Reviewer_1	2	2	2	2	In addition, these patients did not have control CT scans.
+Author	Reviewer_1	2	2	2	1	Thank you for this suggestion.
+Author	Reviewer_1	2	2	2	1	While it would have been interesting to explore this further, our study focuses on retrospectively assessing and comparing disease progression within subgroups of patients receiving TOC.
+Author	Reviewer_1	2	2	2	1	Patients not receiving TOC would have likely had a different presentation, progression and their follow-up would be slightly out of the scope of our observational retrospective study.
+Author	Reviewer_1	2	2	2	1	When we compared patients who received TOC with the 86 severe patients who did not receive TOC (excluded from this analysis), the TOC group was far more severe, so there is no control group that could be matched.
+Author	Reviewer_1	2	2	2	1	In addition, these patients did not have control CT scans.
 					0	Point 2: The proposed timing of Tocilizumab administration based on oxygen flow rate is interesting but undoubtedly requires a more detailed statistical analysis to convince the readers.
 					0	Response 2:
 Author	Reviewer_1	2	3	3	1	Following this suggestion, we have included in the analysis a calculation according to the FiO2.
@@ -54,7 +54,7 @@ Reviewer_2	Author	1	3	0	2	Results When comparing different oxygen delivery metho
 Author	Reviewer_2	2	6	3	1	We added the data using FiO2 ROC curve.
 Author	Reviewer_2	2	6	3	1	The area under the curve for FiO2 ROC curve was smaller than the area under the curve for oxygen flow.
 Author	Reviewer_2	2	6	3	1	In addition, the cut-off value for FiO2 corresponded to the cut-off for the oxygen flow rate, so the two groups in Table 3 would be similar.
-Author	Reviewer_2	2	7	4	2	We added this information also in Table 3.
+Author	Reviewer_2	2	7	4	1	We added this information also in Table 3.
 					0	Point 4: 3.
 Reviewer_2	Author	1	4	0	2	Results The median oxygen flow rate is shown to be 14 L/min, but FiO2 may vary depending on the method of oxygen delivery (nasal canulae, HNF, MV).
 					0	Response 4:

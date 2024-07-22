@@ -2,17 +2,17 @@ side	opponent	round	number	attacks	ann	text
 					0	Author Response Please see the attachment Author Response File: Author Response.docx
 					0	Author Response
 Author	Reviewer_4	4	9	7	17	Thank you very much for your kind reminder.
-Author	Reviewer_2	2	10	3	3	We agree with the suggestion and comments of the reviewer.
-Author	Reviewer_2	2	10	3	3	All comments have been revised one by one, and the modifications are highlighted in yellow in the marked revised manuscript.
-Author	Reviewer_3	2	27	17	5	Two native English-speaking colleagues help us verify the manuscript.
-Author	Reviewer_3	2	27	17	5	Hope the revised manuscript would be more satisfactory.
-Author	Reviewer_2	2	10	3	3	Thanks again for your patient review.
+Author	Reviewer_2	2	10	3	1	We agree with the suggestion and comments of the reviewer.
+Author	Reviewer_2	2	10	3	1	All comments have been revised one by one, and the modifications are highlighted in yellow in the marked revised manuscript.
+Author	Reviewer_3	2	27	17	1	Two native English-speaking colleagues help us verify the manuscript.
+Author	Reviewer_3	2	27	17	1	Hope the revised manuscript would be more satisfactory.
+Author	Reviewer_2	2	10	3	1	Thanks again for your patient review.
 					0	Author Response Please see the attachment.
 					0	Author Response File: Author Response.docx
 					0	Author Response Please see the attachment.
 					0	Author Response File: Author Response.docx
 					0	Author Response
-Author	Reviewer_3	4	2	1	2	Thank you very much for your support and help.
+Author	Reviewer_3	4	2	1	1	Thank you very much for your support and help.
 					0	Author Response Thank you very much for your support and help.
 					0	Author Response Please see the attachment.
 					0	Author Response File: Author Response.docx
@@ -22,12 +22,9 @@ Reviewer_1	Author	1	1	0	2	The innovation of this research needs to be better exp
 					0	-
 Reviewer_1	Author	1	2	0	2	Lines 33-38: You should mention that discharge of PPCPs degrades water quality and thus it cannot be directly used for potable water (via desalination) and industrial applications.
 Reviewer_1	Author	1	2	0	2	Cite the following references:
-Reviewer_1	Author	1	2	0	4	Panagopoulos, A.
-Reviewer_1	Author	1	2	0	6	(2021).
+Reviewer_1	Author	1	2	0	2	Panagopoulos, A. (2021).
 Reviewer_1	Author	1	2	0	2	Energetic, economic and environmental assessment of zero liquid discharge (ZLD) brackish water and seawater desalination systems.
-Reviewer_1	Author	1	2	0	2	Energy Conversion and Management, 235.
-					0	Panagopoulos, A.
-					0	(2021).
+Reviewer_1	Author	1	2	0	2	Energy Conversion and Management, 235. Panagopoulos, A. (2021).
 Reviewer_1	Author	1	2	0	2	Techno-economic assessment of Minimal Liquid Discharge (MLD) treatment systems for saline wastewater (brine) management and treatment.
 Reviewer_1	Author	1	2	0	2	Process Safety and Environmental Protection, 146, pp.
 Reviewer_1	Author	1	2	0	2	656-669.
@@ -79,7 +76,7 @@ Reviewer_3	Author	1	7	0	2	Please consider these at end of this sentence……The
 Reviewer_3	Author	1	8	0	2	The main objective of the work must be written on the more clear and more concise way at the end of introduction section.
 Reviewer_3	Author	1	9	0	2	Please check the abbreviations of words throughout the article.
 Reviewer_3	Author	1	9	0	2	All should be consistent.
-Reviewer_3	Author	1	12	0	4	Please revise your paper accordingly since some issue occurs on several spots in the paper.
+Reviewer_3	Author	1	12	0	2	Please revise your paper accordingly since some issue occurs on several spots in the paper.
 Reviewer_3	Author	1	10	0	2	Please add chemical reagents section and stated all chemical with brand specifications.
 Reviewer_3	Author	1	11	0	2	Regarding the replications, authors confirmed that replications of experiment were carried out.
 Reviewer_3	Author	1	11	0	2	However, these results are not shown in the manuscript, how many replicated were carried out by experiment?
@@ -91,7 +88,7 @@ Reviewer_3	Author	1	12	0	2	Please use Fig.
 Reviewer_3	Author	1	12	0	2	or figure?
 Reviewer_3	Author	1	12	0	2	It very confusing.
 Reviewer_3	Author	1	12	0	2	Article should be in one pattern.
-Reviewer_3	Author	1	18	0	4	Please follow the journal guidelines.
+Reviewer_3	Author	1	18	0	2	Please follow the journal guidelines.
 					0	Please revise your paper accordingly since some issue occurs on several spots in the paper.
 Reviewer_3	Author	1	13	0	2	Please provide high quality image of figure 1.
 Reviewer_3	Author	1	14	0	2	Please use one style for units such as m3/h or m3h-1 Please revise your paper accordingly since some issue occurs on several spots in the paper.
@@ -123,12 +120,10 @@ Reviewer_4	Author	1	4	0	2	Please clarify, why ultrafiltration cannot remove the 
 					0	##Comments on Results and discussion
 Reviewer_4	Author	1	5	0	2	Please add t-test results in Table 1 for each parameter to understand the significant differences.
 Reviewer_4	Author	1	5	0	2	Authors may provide data in the supporting information file.
-Reviewer_4	Author	1	6	0	2	Why the same trend of increase or decrease in graphs (Fig.
-Reviewer_4	Author	3	9	0	4	1) was observed in Fig.
-Reviewer_4	Author	3	9	0	4	1(c).
-Reviewer_4	Author	3	9	0	4	Why is the DO concentration of BAC-effluent sometimes higher than the Raw water.
-Reviewer_4	Author	3	9	0	4	Please explain it in the manuscript.
-Reviewer_4	Author	3	9	0	4	The reviewer suggests statistical analysis using a t-test (Raw water- BAC-Effluent and Raw water – BAC/UF-effluent).
+Reviewer_4	Author	1	6	0	2	Why the same trend of increase or decrease in graphs (Fig. 1) was observed in Fig. 1(c).
+Reviewer_4	Author	3	9	0	2	Why is the DO concentration of BAC-effluent sometimes higher than the Raw water.
+Reviewer_4	Author	3	9	0	2	Please explain it in the manuscript.
+Reviewer_4	Author	3	9	0	2	The reviewer suggests statistical analysis using a t-test (Raw water- BAC-Effluent and Raw water – BAC/UF-effluent).
 Reviewer_4	Author	1	7	0	2	The reviewer suggests evaluating the statistical t-test for Figures 4.
 Reviewer_4	Author	1	8	0	2	t-test results should be included in Table 2.
 Reviewer_4	Author	1	8	0	2	Why is the standard deviation of Erythromycin showing a high value?
@@ -149,7 +144,7 @@ Reviewer_4	Author	3	1	0	2	Authors should avoid abbreviations in the title.
 Reviewer_4	Author	3	1	0	2	Authors should add a list of abbreviations before the references.
 Reviewer_4	Author	3	2	0	2	Please avoid repeating the full name and abbreviation throughout the manuscript if you used the first-time abbreviation.
 Reviewer_4	Author	3	3	0	2	Line 46-52: & line 84-85 “Ultrafiltration (UF) as an emerging alternative technology to conventional water treatment processes, has been widely used to remove pollutants such as particles, colloids, bacteria, and viruses, thus reducing the risk of water-borne diseases [10].
-Reviewer_4	Author	3	3	0	3	Size exclusion is considered the primary removal mechanism for the UF.
+Reviewer_4	Author	3	3	0	2	Size exclusion is considered the primary removal mechanism for the UF.
 Reviewer_4	Author	3	3	0	2	However, in the case of the PPCPs with a small molecular weight (typically < 600 Da), UF membranes also cannot effectively reject these PPCPs, but nanofiltration and reverse osmosis are able to remove these PPCPs based on the thin-film composite”.
 Reviewer_4	Author	3	3	0	2	Sorry, but I don't see why UF can reject viruses and bacteria but not PPCPs.
 Reviewer_4	Author	3	3	0	2	Is it true that the molecular weight of viruses and bacteria is more than that of PPCPs?
@@ -169,22 +164,22 @@ Reviewer_4	Author	3	9	0	2	Point 6: Why the same trend of increase or decrease in
 					0	Please explain it in the manuscript.
 					0	The reviewer suggests statistical analysis using a t-test (Raw water- BAC-Effluent and Raw water – BAC/UF-effluent).
 					0	Response 6:
-Author	Reviewer_4	4	12	10	13	Thanks very much for this comment.
-Reviewer_4	Author	3	9	0	3	The same trend (Figure 2) was mainly due to the stable removal ability of BAC and UF for organics, causing the removal restriction.
-Reviewer_4	Author	3	9	0	3	The periodic backwash (7days) of BAC caused sometimes the dissolved oxygen concentration of BAC-effluent higher than that of raw water.
-Reviewer_4	Author	3	9	0	3	After the gas scrubbing and the hydraulic backwashing, the dissolved oxygen detection of the effluent was carried out, resulting in the above results for dissolved oxygen.
-Reviewer_4	Author	3	9	0	3	Besides, the t-test was used and proved the significant difference between BAC-Effluent and BAC/UF-effluent.
+Author	Reviewer_4	4	12	10	1	Thanks very much for this comment.
+Reviewer_4	Author	3	9	0	2	The same trend (Figure 2) was mainly due to the stable removal ability of BAC and UF for organics, causing the removal restriction.
+Reviewer_4	Author	3	9	0	2	The periodic backwash (7days) of BAC caused sometimes the dissolved oxygen concentration of BAC-effluent higher than that of raw water.
+Reviewer_4	Author	3	9	0	2	After the gas scrubbing and the hydraulic backwashing, the dissolved oxygen detection of the effluent was carried out, resulting in the above results for dissolved oxygen.
+Reviewer_4	Author	3	9	0	2	Besides, the t-test was used and proved the significant difference between BAC-Effluent and BAC/UF-effluent.
 Reviewer_4	Author	3	9	0	2	Thanks for the response.
 Reviewer_4	Author	3	9	0	2	Please include it in the manuscript.
 Reviewer_4	Author	3	10	0	2	What is the utility or deterioration of PPCPs sludge after removing it from river water?
 Reviewer_4	Author	3	10	0	2	If possible, please add at least one paragraph.
 					0	Response to Reviewer 1 Comments Point 1: The innovation of this research needs to be better explored.
 					0	Response 1:
-Author	Reviewer_3	2	15	5	2	The BAC biofilter can remove the PPCPs, and then the following UF can reject micro-organisms and particles flowing out from the biofilter to ensure the quality of drinking water.
-Author	Reviewer_3	2	15	5	2	The above coupling process makes up for the defects concerning respective operations of the BAC biofilter and UF.
-Author	Reviewer_3	2	15	5	2	Although many pilot-scale setups were used to treat secondary wastewater effluent for water reclamation, this type of raw water quality was different from the river water, causing the different potential of biofilm growing.
-Author	Reviewer_3	2	15	5	2	As far as we investigated, the lack of enough attention to long-term pilot study exists.
-Author	Reviewer_3	2	15	5	2	Therefore, in this study, a BAC-UF system was carried out for several months with pilot scale to access the long-term removal performances and the respective contributions of BAC and UF.
+Author	Reviewer_3	2	15	5	1	The BAC biofilter can remove the PPCPs, and then the following UF can reject micro-organisms and particles flowing out from the biofilter to ensure the quality of drinking water.
+Author	Reviewer_3	2	15	5	1	The above coupling process makes up for the defects concerning respective operations of the BAC biofilter and UF.
+Author	Reviewer_3	2	15	5	1	Although many pilot-scale setups were used to treat secondary wastewater effluent for water reclamation, this type of raw water quality was different from the river water, causing the different potential of biofilm growing.
+Author	Reviewer_3	2	15	5	1	As far as we investigated, the lack of enough attention to long-term pilot study exists.
+Author	Reviewer_3	2	15	5	1	Therefore, in this study, a BAC-UF system was carried out for several months with pilot scale to access the long-term removal performances and the respective contributions of BAC and UF.
 Author	Reviewer_1	2	1	1	1	The innovation of this research has been clarified in the abstract, the introduction, and the conclusion.
 					0	Point 2: Lines 33-38: You should mention that discharge of PPCPs degrades water quality and thus it cannot be directly used for potable water and industrial applications.
 					0	Cite the following references: Panagopoulos, A.
@@ -213,7 +208,7 @@ Author	Reviewer_3	2	21	11	2	Samples of the feedwater and effluent from three sys
 					0	Response 4:
 Author	Reviewer_1	2	4	4	1	Thanks very much for the reviewer.
 Author	Reviewer_1	2	4	4	1	The conclusion has been revised according to the reviewer’s suggestion.
-					0	The added paragraph in the revised manuscript is as follow: To sum up, the results show that the proposed BAC-UF system can be effective in the treatment of river water polluted by PPCPs, conventional organic pollutants and ammonia nitrogen.
+Author	Reviewer_1	2	4	4	1	The added paragraph in the revised manuscript is as follow: To sum up, the results show that the proposed BAC-UF system can be effective in the treatment of river water polluted by PPCPs, conventional organic pollutants and ammonia nitrogen.
 Author	Reviewer_3	2	12	2	1	The two-stage biofilms located in the activated carbon column and on the UF membrane synergistically, can be conducive to the removal performances.
 					0	Besides, the results of this analysis can have significant implications for the conventional UF operation procedure and the ozone-activated carbon process, providing a simple decentralized approach to drinking water treatment for the areas where source water is contaminated with PPCPs.
 Author	Reviewer_3	2	12	2	1	However, the mechanisms of the two-stage biofilm, such as bacterial and metazoan communities, membrane fouling and dissolved oxygen transfer, should be further investigated to enhance the removal efficiency and stability of this system.
@@ -456,21 +451,13 @@ Author	Reviewer_4	4	5	3	1	Thanks to this reviewer for the comment.
 Author	Reviewer_4	4	5	3	1	Common waterborne viruses include Shigella, Vibrio cholerae, Poliovirus, adenovirus, and coxsackie virus, with sizes of 26 nm, 27 nm, 30 nm, 90 nm, and 30 nm, respectively [1-5].
 Author	Reviewer_4	4	5	3	1	The molecular weights of PPCPs are generally less than 1000 Da (about 1-2 nm), obviously smaller than the virus.
 Author	Reviewer_4	4	5	3	1	The molecular weight cut off of UF membranes was an average 100 000 Da in this work, which was similar to the virus but larger than the PPCPs molecules.
-					0	Karthik K, Dhanuskodi S, Gobinath C, et al.
-					0	Multifunctional properties of microwave assisted CdO–NiO–ZnO mixed metal oxide nanocomposite: enhanced photocatalytic and antibacterial activities [J].
-					0	Journal of Materials Science: Materials in Electronics, 2018, 29(7): 5459-71.
-					0	Song S, Liu Z, Zhou J, et al.
-					0	An adjuvant compound that enhances immunogenicity at fractional doses of the Sabin-inactivated poliovirus vaccine (sIPV) with a long duration of protection in a rat model [J].
-					0	Journal of Medical Virology, 2019, 91(1): 14-21.
-					0	Kim K, Choi J-W, Ma K, et al.
-					0	Nanoisland-Based Random Activation of Fluorescence for Visualizing Endocytotic Internalization of Adenovirus [J].
-					0	Small, 2010, 6(12): 1293-9.
-					0	Dourmashkin R R, Mccall S A, Dourmashkin N, et al.
-					0	Virus-like particles and enterovirus antigen found in the brainstem neurons of Parkinson's disease [J].
-					0	F1000Res, 2018, 7: 302-.
-					0	Tamano K, Aizawa S-I, Katayama E, et al.
-					0	Supramolecular structure of the Shigella type III secretion machinery: the needle part is changeable in length and essential for delivery of effectors [J].
-					0	The EMBO Journal, 2000, 19(15): 3876-87.
+Author	Reviewer_4	4	5	3	1	Karthik K, Dhanuskodi S, Gobinath C, et al.
+Author	Reviewer_4	4	5	3	1	Multifunctional properties of microwave assisted CdO–NiO–ZnO mixed metal oxide nanocomposite: enhanced photocatalytic and antibacterial activities [J].
+Author	Reviewer_4	4	5	3	1	Journal of Materials Science: Materials in Electronics, 2018, 29(7): 5459-71. Song S, Liu Z, Zhou J, et al.
+Author	Reviewer_4	4	5	3	1	An adjuvant compound that enhances immunogenicity at fractional doses of the Sabin-inactivated poliovirus vaccine (sIPV) with a long duration of protection in a rat model [J]. Journal of Medical Virology, 2019, 91(1): 14-21. Kim K, Choi J-W, Ma K, et al.
+Author	Reviewer_4	4	5	3	1	Nanoisland-Based Random Activation of Fluorescence for Visualizing Endocytotic Internalization of Adenovirus [J]. Small, 2010, 6(12): 1293-9. Dourmashkin R R, Mccall S A, Dourmashkin N, et al.
+Author	Reviewer_4	4	5	3	1	Virus-like particles and enterovirus antigen found in the brainstem neurons of Parkinson's disease [J]. F1000Res, 2018, 7: 302-. Tamano K, Aizawa S-I, Katayama E, et al.
+Author	Reviewer_4	4	5	3	1	Supramolecular structure of the Shigella type III secretion machinery: the needle part is changeable in length and essential for delivery of effectors [J]. The EMBO Journal, 2000, 19(15): 3876-87.
 					0	Point 4: The authors should include some information regarding the biological degradation of PPCPs by microorganisms in the introduction section.
 					0	Response 4: Thanks for the kind reminder.
 Author	Reviewer_4	4	6	4	1	The information regarding the biological degradation of PPCPs has been added in the introduction.

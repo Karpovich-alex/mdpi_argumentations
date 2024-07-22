@@ -27,10 +27,10 @@ def find_diffenrence(str1, str2):
 
 
 if __name__ == "__main__":
-    path_to_ann_1 = r"C:\Users\Karpo\PycharmProjects\diplom\mdpi_argumentations\data\ijerph19127332_makarova.tsv"
+    path_to_ann_1 = r"C:\Users\Karpo\PycharmProjects\diplom\mdpi_argumentations\data\w14081258_makarova.tsv"
     words_1, ann_arr_1 = get_annotation_by_words(path_to_ann_1)
 
-    path_to_ann_2 = r"C:\Users\Karpo\PycharmProjects\diplom\mdpi_argumentations\data\ijerph19127332_perova.tsv"
+    path_to_ann_2 = r"C:\Users\Karpo\PycharmProjects\diplom\mdpi_argumentations\data\w14081258_perova.tsv"
     words_2, ann_arr_2 = get_annotation_by_words(path_to_ann_2)
 
     assert len(words_1) == len(ann_arr_1) == len(words_2) == len(

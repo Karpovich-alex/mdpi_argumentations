@@ -18,7 +18,8 @@ Reviewer_2	Author	1	1	0	2	The links lead to a non-English website, and also they
 					0	Response:
 Author	Reviewer_2	2	2	1	1	p. 2, Lines 22–24; the data at the website cannot be posted as a supplementary figure because of copyright issues.
 Author	Reviewer_2	2	2	1	1	I will ask them to revise the figure using English.
-					0	 Line 60: Link to NO2− concentrations shows temperature profiles.
+					0	
+Reviewer_2	Author	1	2	0	2	Line 60: Link to NO2− concentrations shows temperature profiles.
 					0	Response:
 Author	Reviewer_2	2	3	2	1	p. 2, Line 24; I confirmed that the following website link to the data of nitrite concentration is correct.
 Author	Reviewer_2	2	3	2	1	“http://www.data.jma.go.jp/gmd/kaiyou/db/vessel_obs/hq/2006spr/137e/index_line.php?id=no2” 
