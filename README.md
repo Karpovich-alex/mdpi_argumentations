@@ -33,3 +33,7 @@ Example of result represented in [./assets/admsci5030125_boyarkin.html](./assets
 
 
 ![visualization_example.png](./assets/visualization_example.png)
+
+## Statistics
+
+Krippendorff's alpha for the dataset is _0.81±0.19_ [[link]](https://en.wikipedia.org/wiki/Krippendorff%27s_alpha) 
