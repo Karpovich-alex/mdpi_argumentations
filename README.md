@@ -6,7 +6,7 @@
 - Each review has been annotated two times by different annotators.
 - Total number of annotations: 164
 
-## Structure
+## Dataset Structure
 
 {article_review_name}.txt - file with collected text from all files from the review
 {article_review_name}_{reviewer}.tsv - file with annotation of the review
@@ -36,4 +36,17 @@ Example of result represented in [./assets/admsci5030125_boyarkin.html](./assets
 
 ## Statistics
 
-Krippendorff's alpha for the dataset is _0.81±0.19_ [[link]](https://en.wikipedia.org/wiki/Krippendorff%27s_alpha) 
+Krippendorff's alpha for the dataset is _0.81±0.19_ [[link]](https://en.wikipedia.org/wiki/Krippendorff%27s_alpha)
+
+## Models
+
+Available models:
+- [Simple NN](./src/models/simple_model.py) 
+- [RNN](./src/models/rnn_simple_model.py)
+- [LSTM](./src/models/lstm_model.py)
+- [BERT](./src/models/bert_model.py)
+
+
+You can train models using [./src/model_training.py](./src/model_training.py) script. To choose a model you need to uncomment line with a desired model.
+
+BEFORE train a model you need to prepare a dataset for training using a script [./src/dataset/prepare.py](./src/dataset/prepare.py)
