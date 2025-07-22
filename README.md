@@ -8,7 +8,7 @@
 
 ## Dataset Structure
 
-{article_review_name}.txt - file with collected text from all files from the review
+{article_review_name}.txt - file with collected text from all files from the review  
 {article_review_name}_{reviewer}.tsv - file with annotation of the review
 
 ### Annotation structure (*.tsv)
@@ -24,6 +24,11 @@ Stores all sentences from the review. If sentence is not a review, then all colu
 | attacks     | Number of attacking argument from the previous round       |
 | ann         | Type of argument (0-not an argument, 1-author, 2-reviewer) |
 | text        | Text of argument\sentence                                  |
+
+### Split dataset
+
+You can use the dataset already split into train\val\test subsets. ([./dataset/sentence/](./dataset/sentence/))  
+OR you can prepare a dataset by yourself using a script [./src/dataset/prepare.py](./src/dataset/prepare.py)
 
 ## Visualization
 
@@ -48,5 +53,3 @@ Available models:
 
 
 You can train models using [./src/model_training.py](./src/model_training.py) script. To choose a model you need to uncomment line with a desired model.
-
-BEFORE train a model you need to prepare a dataset for training using a script [./src/dataset/prepare.py](./src/dataset/prepare.py)

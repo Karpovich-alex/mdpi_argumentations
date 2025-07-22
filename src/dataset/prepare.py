@@ -4,20 +4,27 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from tqdm import tqdm
 
-from src.utils import get_annotation_arr
+from src.utils import get_annotation_arr, get_annotation_arr_tsv
 
 
-def make_dataset(path="./data"):
+def make_dataset(path="./data", annotation_file_type: str = '.tsv'):
+    if annotation_file_type == ".ann":
+        get_annotation_func = get_annotation_arr
+    elif annotation_file_type == ".tsv":
+        get_annotation_func = get_annotation_arr_tsv
+    else:
+        raise AttributeError('annotation_file_type must equal `.ann` or `.tsv`')
     articles = []
     annotator = []
     texts = []
     anns = []
     iterator = tqdm(os.listdir(path))
     for article in iterator:
-        if not article.endswith('.ann'):
-            continue
         iterator.set_postfix_str(article)
-        text, ann = get_annotation_arr(os.path.join(path, article))
+        if article.endswith(annotation_file_type):
+            text, ann = get_annotation_func(os.path.join(path, article))
+        else:
+            continue
         texts.append(text)
         anns.append(ann)
         article_name, annotator_name = article.split("_")
@@ -35,10 +42,10 @@ for t, a in zip(texts, anns):
     assert len(t) == len(a)
 
 # Number of annotations
-print(len(articles), len(annotator), len(texts), len(anns))
+print("Number of annotations:", len(articles), len(annotator), len(texts), len(anns))
 
 # Number of sentences
-print(sum(len(t) for t in texts))
+print("Number of sentences:", sum(len(t) for t in texts))
 
 # Convert dataset to pandas DataFrame
 df = pd.DataFrame({"text": texts, "ann": anns, "article": articles, "annotator": annotator})
@@ -58,8 +65,7 @@ df_train, df_val = train_test_split(df_train, test_size=val_size, random_state=r
                                     stratify=df_train["mask_ann"])
 
 # Save dataset
-if not os.path.exists("./dataset/sentence"):
-    os.mkdir("./dataset/sentence")
+os.makedirs("./dataset/sentence", exist_ok=False)
 
 df_train.to_csv("./dataset/sentence/train.csv", index=False)
 df_val.to_csv("./dataset/sentence/val.csv", index=False)
