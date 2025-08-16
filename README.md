@@ -8,10 +8,12 @@
 
 ## Dataset Structure
 
+### Sentence Dataset
+
 {article_review_name}.txt - file with collected text from all files from the review
 {article_review_name}_{reviewer}.tsv - file with annotation of the review
 
-### Annotation structure (*.tsv)
+#### Annotation structure (*.tsv)
 
 Stores all sentences from the review. If sentence is not a review, then all columns will be None except _ann_ and _text_
 
@@ -25,12 +27,24 @@ Stores all sentences from the review. If sentence is not a review, then all colu
 | ann         | Type of argument (0-not an argument, 1-author, 2-reviewer) |
 | text        | Text of argument\sentence                                  |
 
+### Relation dataset
+
+| Column name     | Description                                                |
+|-----------------|------------------------------------------------------------|
+| arg_1           | Text of argument\sentence #1                               |
+| round_1         | Number of round for argument #1                            |
+| ann_1           | Type of argument (0-not an argument, 1-author, 2-reviewer) |
+| arg_2           | Text of argument\sentence #2                               |
+| round_1         | Number of round for argument #2                            |
+| ann_1           | Type of argument (0-not an argument, 1-author, 2-reviewer) |
+| annotation_name | Annotation name of arguments pair                          |
+| is_attacks      | Type of relation (0-not related, 1-related)                |
+
 ## Visualization
 
 You can use save_annotated_text_html func from [./src/utils.py](./src/utils.py)
 
 Example of result represented in [./assets/admsci5030125_boyarkin.html](./assets/admsci5030125_boyarkin.html):
-
 
 ![visualization_example.png](./assets/visualization_example.png)
 
@@ -40,13 +54,24 @@ Krippendorff's alpha for the dataset is _0.81±0.19_ [[link]](https://en.wikiped
 
 ## Models
 
+### Sentence
+
 Available models:
-- [Simple NN](./src/models/simple_model.py) 
+
+- [Simple NN](./src/models/simple_model.py)
 - [RNN](./src/models/rnn_simple_model.py)
 - [LSTM](./src/models/lstm_model.py)
 - [BERT](./src/models/bert_model.py)
 
+You can train models using [./src/model_training.py](./src/model_training.py) script. To choose a model you need to
+uncomment line with a desired model.
 
-You can train models using [./src/model_training.py](./src/model_training.py) script. To choose a model you need to uncomment line with a desired model.
+BEFORE train a model you need to prepare a dataset for training using a
+script [./src/dataset/prepare.py](./src/dataset/prepare.py)
 
-BEFORE train a model you need to prepare a dataset for training using a script [./src/dataset/prepare.py](./src/dataset/prepare.py)
+### Relation
+
+- [LSTM](./src/relation/lstm_model.py)
+- [LSTM w/ trainable embeddings](./src/relation/lstm_model_trainable_emb.py)
+- [BERT](./src/relation/bert_model.py)
+- [LLM Gemini](./src/relation/gemini_model.py)

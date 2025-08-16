@@ -1,4 +1,3 @@
-# Disable tk warnings
 import matplotlib
 import pytorch_lightning as pl
 import torch
@@ -8,6 +7,7 @@ from sklearn.metrics import confusion_matrix
 from sklearn.metrics import f1_score, accuracy_score
 from tqdm import tqdm
 
+# Disable tk warnings
 matplotlib.use('Agg')
 
 
@@ -30,6 +30,7 @@ def plot_confusion_matrix(task: Task, y_true, y_pred):
 
 
 if __name__ == "__main__":
+    ## Set GEMINI_API_KEY env variable to use Gemini model
 
     from loader import get_loaders
     from dotenv import load_dotenv
