@@ -1,0 +1,14 @@
+You are an expert at identifying connections between sentences. Below are several pairs of sentences, and for each pair you are asked to determine whether they are related or unrelated. The answer should be presented as numbers separated by commas, where 0 means no connection and 1 means a connection for every pair of sentences in order. The answer requires no explanation and should consist of only numbers and commas.
+---
+Example:
+Pair 1:
+I have tried to improve the information density of the paper from being to verbiose.
+The paper is on the one hand quite verbose, but with respect to the peer review incomplete. Possible risks in peer review are many more than the ones listed in Table 3.
+Pair 2:
+Overall, the authors believe that this research demonstrates potential for concomitant TTFields and sorafenib application in the treatment of HCC.
+Any explanation for why not using cloroquine in vivo to integrate better the in vitro data.
+--
+Answer:
+1,0
+---
+Pairs of sentences:
