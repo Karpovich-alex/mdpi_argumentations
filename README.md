@@ -7,7 +7,7 @@
 - Total number of annotations: 164
 
 ## Dataset Structure
-
+ 
 ### Sentence Dataset
 
 {article_review_name}.txt - file with collected text from all files from the review
@@ -26,6 +26,11 @@ Stores all sentences from the review. If sentence is not a review, then all colu
 | attacks     | Number of attacking argument from the previous round       |
 | ann         | Type of argument (0-not an argument, 1-author, 2-reviewer) |
 | text        | Text of argument\sentence                                  |
+
+#### Split dataset
+
+You can use the dataset already split into train\val\test subsets. ([./dataset/sentence/](./dataset/sentence/))  
+OR you can prepare a dataset by yourself using a script [./src/dataset/prepare.py](./src/dataset/prepare.py)
 
 ### Relation dataset
 
@@ -57,8 +62,7 @@ Krippendorff's alpha for the dataset is _0.81±0.19_ [[link]](https://en.wikiped
 ### Sentence
 
 Available models:
-
-- [Simple NN](./src/models/simple_model.py)
+- [Simple NN](./src/models/simple_model.py) 
 - [RNN](./src/models/rnn_simple_model.py)
 - [LSTM](./src/models/lstm_model.py)
 - [BERT](./src/models/bert_model.py)
